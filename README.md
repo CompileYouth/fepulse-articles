@@ -176,3 +176,4 @@
 - 默认长文顺序是：`selected/raw/` -> `PROMPT_TEMPLATE.md` -> `selected/`
 - 默认简报顺序是：`briefs/raw/` -> `BRIEF_PROMPT_TEMPLATE.md` -> `briefs/`
 - 本仓库的 git 提交信息默认使用中文。
+- 在这个仓库里，如果你只说“提交”，默认执行“提交 + 推送到远程”。
