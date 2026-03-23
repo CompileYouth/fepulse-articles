@@ -10,22 +10,20 @@
 ## 目录结构
 
 - `PROMPT_TEMPLATE.md`
-  基础提示词模板。写作前先维护这里的稳定规则。
+  正式写作提示词。
+  对 `fepulse-reader-picks/` 中选中的 cleaned 字幕文件，默认使用这个提示词生成文章。
 
 - `ai-interview-archive-data/`
   由 `ai-interview-archive` 生成的采集结果目录。
   其中包括：
   - `link-batches/`：每次扫描的批次结果
-  - `transcripts/`：采集成功后的 cleaned 字幕或相关输出
+  - 根目录下的 cleaned `.txt`：采集成功后的字幕输出
 
 - `transcripts/`
   手动放入的字幕文件。适合你单独提供某条 YouTube / 音频内容时直接使用。
 
 - `articles/`
   最终文章输出目录。
-
-- `drafts/`
-  中间版本、改写稿、备选稿。
 
 - `fepulse-reader-picks/`
   面向 FEPulse 公众号读者的二次筛选目录。
@@ -59,8 +57,9 @@
 写作时优先读取：
 
 1. `PROMPT_TEMPLATE.md`
-2. `ai-interview-archive-data/` 下最新批次结果
-3. `transcripts/` 或 `ai-interview-archive-data/` 下已经落盘的字幕 / cleaned 文本
+2. `fepulse-reader-picks/` 中已筛选出的 cleaned 字幕文件
+3. `ai-interview-archive-data/` 下最新批次结果
+4. `transcripts/` 或 `ai-interview-archive-data/` 下已经落盘的字幕 / cleaned 文本
 
 最终文章输出到：
 
@@ -89,3 +88,4 @@
 
 - 这个仓库本身不负责抓取 YouTube 频道列表，抓取逻辑由 `ai-interview-archive` 提供。
 - 如果 YouTube 返回 `Sign in to confirm you’re not a bot`，通常需要给 `yt-dlp` 配置 cookies 后重试字幕下载。
+- 默认写作顺序是：`ai-interview-archive-data/` -> `fepulse-reader-picks/` -> `PROMPT_TEMPLATE.md` -> `articles/`

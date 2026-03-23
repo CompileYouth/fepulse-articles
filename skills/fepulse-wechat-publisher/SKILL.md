@@ -19,6 +19,7 @@ Use this skill when the user wants finished article output rather than raw sourc
 - preserve the source meaning while improving structure, readability, and public-account fit
 - keep the raw archive separate from the rewritten output
 - support single-article generation and batched article production from a backlog
+- default to selected files in `fepulse-reader-picks/` when the user does not specify another source
 
 ## Core Rules
 
@@ -35,14 +36,15 @@ Use this skill when the user wants finished article output rather than raw sourc
    - one transcript
    - one source bundle
    - several related source bundles for synthesis
-2. Read `PROMPT_TEMPLATE.md` before drafting.
-3. Extract the article's single driving question or judgment.
-4. Write the article directly into `articles/`.
+2. Prefer inputs from `fepulse-reader-picks/` when available.
+3. Read `PROMPT_TEMPLATE.md` before drafting.
+4. Extract the article's single driving question or judgment.
+5. Write the article directly into `articles/`.
    - default filename: `topic-name.md`
    - if a better slug is obvious from the source, use it
-5. If the user is still exploring, stay in outline mode first.
-6. If the user asks for the final article, produce the article instead of discussing the process.
-7. After writing, do a short review for:
+6. If the user is still exploring, stay in outline mode first.
+7. If the user asks for the final article, produce the article instead of discussing the process.
+8. After writing, do a short review for:
    - source fidelity
    - structure
    - public-account readability

@@ -7,6 +7,7 @@ Workspace root:
 Input files:
 
 - `PROMPT_TEMPLATE.md`
+- `fepulse-reader-picks/*.txt`
 - `sources/<platform>/YYYY-MM-DD-slug/metadata.md`
 - `sources/<platform>/YYYY-MM-DD-slug/raw.md`
 - `transcripts/*.txt`
