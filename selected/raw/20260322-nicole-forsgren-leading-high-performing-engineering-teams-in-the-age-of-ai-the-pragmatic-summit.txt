@@ -1,0 +1,943 @@
+原文： https://www.youtube.com/watch?v=DfrAaDgFgjc
+
+Nicole, it is so nice to have you here.
+Last time that you and me talked in in
+more long form in a way that a lot of
+you could enjoy was was on the podcast.
+And back then, Frictionless was not yet
+out. You were working somewhere else.
+Now, Frictionless is out.
+Congratulations. You're now doing a fun
+and exciting job at Google. Can you tell
+us a little bit of what you're what
+you're up to these days and what keeps
+you up at night?
+&gt;&gt; Oh my gosh, how much time do we have?
+Um, very similar work, right? Like how
+can we think about improving the way
+people build software? How can we think
+about I love that, you know, Laura
+mentioned this this morning. If if we
+can't call it developer experience, just
+call it agent experience and then it's
+all going to work. um thinking of ways
+that we can make agents smarter and
+better so that we can work with them
+better. Um how do we measure really hard
+things like productivity because you
+know Martin mentioned in the last
+session um the measurements were already
+like kind of bad and now they're like
+extra bad. So, so how can we find ways
+because like on the one hand we don't
+love a productivity metric because it
+can feel like an attack but if we have
+nothing right if this is just like vibes
+I'm sure we've all been in a meeting
+with a director or a VP or something
+where they like just have a gut feel
+this is just how we should go you know
+they don't seem to be super open to it
+if agents just go on gut feel so so
+having some kind of signal is helpful
+&gt;&gt; one thing that that struck me about your
+your book when the very either the very
+beginning or or or the back cover it
+says that AI is helping us create
+software faster than ever and yet
+delivery or like shipping is just still
+so slow. How do these things these two
+things go together? What what is
+happening in between? So I think there's
+a few things, right? One is that we all
+started focusing on Gen AI and the
+coding, you know, that interloop because
+we can see it and that's where like all
+of the dopamine hit comes. That's where
+it's all very exciting. And then as we
+go to ship, we've had systems that like
+we already knew they could probably be
+improved, but like it was fine, right?
+There were a handful of people probably
+managing a security review process or a
+launch process or a deployment process
+or, you know, sometimes reviews were a
+little slow and they got backed up.
+Well, now we just threw gas on the fire
+and so all of that is a problem. And so
+what we're doing I I liked how you know
+Tibo mentioned it this morning. Now
+we're kind of chasing those constraints.
+We're chasing the bottlenecks in a way
+that it's much more obvious than it was
+in the past. And so like in the
+immediate term, yeah, we were getting
+more out, but now our systems, whether
+technology systems or human systems or
+processes are really kind of getting
+overwhelmed.
+&gt;&gt; Do you have some some specific examples?
+We don't need to name specific companies
+but like a thing where like oh you know
+now they're using all these AI tools but
+these are things that are slowing them
+down.
+&gt;&gt; There are a handful of things. So uh and
+it you know it kind of changes depending
+on where they are in the process. Review
+ends up surfacing quite a bit right
+because we're just we're putting so much
+work on it. And not only that but like
+humans were already a bit of a
+bottleneck in the review process. Now it
+can be worse because things that we
+fairly straightforward changes that some
+companies had automation around
+reviewing they've removed that reviewing
+because if AI is involved and they're
+worried about the verifiability or the
+reliability of the code and so now that
+review burden has shifted. I'm also
+seeing quite a bit uh I still talk to,
+you know, a handful of companies. We're
+we're seeing quite a bit in that
+deployment and release process, right?
+That's
+kind of empty black box for a lot of
+folks who like don't know how the
+sausage is made. But so many times that
+process has been managed by humans
+because you're selecting the right
+candidate build and you're verifying it
+and you're thinking, you know, you're
+figuring out cherry picks and then you
+like rebundle and then you send it out
+and that doesn't scale. if you have one
+or two or a handful of people trying to
+make group decisions and do group
+sensemaking
+&gt;&gt; and in in in the book I I realize the
+book came out before Opus 4.5 but it
+described this scenario which seems like
+really alien but obviously it's based on
+a true story that there's a new hire
+joining a company uh using AI tools this
+person turns out her first contribution
+and then for I think two or 3 weeks it
+sits there because the the code review
+didn't flag it she didn't have access
+the database. Can you tell me a little
+bit about like some of these things?
+Like a lot of us, some people sitting
+here are actually working at startups
+where like it's just common thing to
+like go from like deployment to shipping
+pretty quickly. How
+common are are these things which are
+like just surprising people of like oh
+these things are being stuck. People are
+just fiddling in your thumb thumbs for a
+while and do you see this like being the
+same? Do you see because of AI pressure
+being on on removing these things and
+recognizing them? what what are trends
+that you're observing?
+&gt;&gt; I think one thing I'm saying that
+probably won't surprise a bunch of folks
+here is organizations are still going to
+organize, right? So like when you've got
+like some review process and we wait two
+weeks or like someone the one person has
+to sign off on it but that person's like
+oof or like all of the the things that
+we have structured process around to try
+to make things more uniform are often
+the things that slow us down. So again,
+while we're kind of speeding up that
+interloop, and now we're starting to see
+agents do more around uh you know,
+reviewing and and a handful of other
+tasks,
+a lot of companies haven't started until
+now thinking about how we could apply AI
+to the very human very business process
+part of it. And so that will keep
+slowing us down until we find a way to
+to address it, right? And a lot of that
+comes with when I first start, you know,
+I get database access and not having
+database access for 2 weeks has like
+historically usually been fine. Maybe
+not great, but like you not like 90% of
+the time it was fine. Well, now when you
+can be committing code on your first day
+in ways that the company wasn't
+necessarily structured for, right? Like
+Etsy famously, you know, you you would
+commit code on your first day, but they
+knew that was coming. All of these other
+companies don't know that's coming. I
+knew of one or two cases with an intern
+where because of policies and a couple
+like uh supply chain snafoos, they
+didn't get their laptop for like two
+weeks. So, they were on a loner. They
+had committed a lot of code before their
+laptop showed up and like no one in the
+system. There was like one particularly
+secure thing they were working on. They
+couldn't figure out how to make that
+work because it didn't match the source
+didn't match where they thought it
+would. And so I think we're really
+seeing kind of an emphasis and a
+spotlight on the things that were kind
+of fine before and it's that friction
+that really slows us down now.
+&gt;&gt; When one thing you've been like so good
+at and I paid so much attention to your
+work and I think it's influenced myself
+and a lot of other people in the
+industry is is measuring how we can
+measure these very hard to measure
+things. And one of the the latest you
+you went through a lot of iterations. We
+have Dora, we have space, we have the
+DevX framework and and more. And in the
+DevX framework, this was pre AAI. Can we
+talk a little bit about what the DevX
+framework is? And then like one part of
+it is cognitive load, how that feeds
+into AI.
+&gt;&gt; Yes. So there are many ways to think
+about uh developer experience, but one
+that I find kind of useful is there
+there are three pieces that kind of fit
+together. So there's flow state, there's
+cognitive load, and there's why am I
+forgetting the last one? Laura,
+&gt;&gt; feedback loop.
+&gt;&gt; Feedback loops.
+&gt;&gt; I'll look at Laura. Don't worry about
+Thanks, Laura. Um, and they all kind of
+support each other, right? Because when
+I'm in the flow, the feedback loops are
+really important. If I have to wait 20
+minutes, if I have to wait a week to get
+something an answer, uh, a question
+answered or a review back, then I break
+my flow. Um, that makes it harder for
+cognitive load as well. So, cognitive
+load is basically like the work that our
+brain needs to do. And there is some
+inherent level of cognitive load in
+something we do, right? So something
+that's difficult is going to take more
+brain power, but things that are easy
+easy should not take brain power. But
+like sometimes reampramping into a
+codebase when we haven't been into it
+for a while, that's higher cognitive
+load. And so if I'm already there, I can
+get a bunch of that work for free. Or
+anytime I have to deal with like a
+really arcane process and go through a
+hundred steps, it's easy because it's
+straightforward, but it takes a lot of
+work, right? And that's where you know I
+thinking about the human can be really
+helpful because you know it was called
+out in a couple talks earlier what's
+good for humans is good for systems. If
+I have well structured code if I have
+well structured documentation if I have
+uh APIs that are like cleanly defined
+and I I know what those interfaces look
+like it can be really helpful. And then
+I will say it's it's kind of revisiting
+this question of now of how do we want
+to think about cognitive load because I
+want to say Gloria Mark has done some
+really incredible work on focus and
+humans max out at about like 3 to four
+hours a day like really really hard deep
+work right um which always makes me
+laugh when exact like we need eight
+hours of intense work and I'm like not
+with humans that's our brains don't do
+that and so now when we have these three
+or four hours how can we use them best.
+And what does it mean when we're working
+with AI and with agents? Because for
+some of us, um, good deep work means I
+block my calendar and I can get really
+embedded and I can do one thing and I
+can think really hard. And now a lot of
+the models are very interruptive, right?
+I'm getting pinged all the time. And so,
+how can I change the way I work or how
+can I think about managing my own
+cognitive load? How can we think about
+it more broadly in organizations knowing
+that the nature of the work that we're
+doing in many times has really changed
+&gt;&gt; and one interesting thing I see with
+with agents and all of you will be
+seeing it is the feedback loop is faster
+right you tell it do this and it comes
+back especially some models like cloud
+code are very good at doing that and
+then you start to get really tired
+because in using your terminology like
+the cognitive load increases by faster
+feedback loops and it seems so
+counterintuitive Because until before
+AI, we're always we're all about
+iteration, fast feedback loops. We we we
+were never ever close to having these
+fast feedback loops. So what what what
+is happening? Is this a net good? Is
+this a net bad? Is it it's is it good
+that we're having faster feedback loops,
+but is it bad that we're having more
+cognitive load or how are like it it
+feels like such a contradiction.
+&gt;&gt; I think it's just different, right? So
+fast feedback loops were good before
+because if I for example, if I had a
+question about a library and someone
+could get back to me, then then I could
+continue on, right? like there was a bit
+of a a pause, but I kept going. Well,
+now I'm getting feedback so quickly that
+I'm having to sometimes rebuild my
+mental model dozens of times in like a
+30-minute period. And so it's not just
+it getting fast feedback is good, but if
+it's faster than I know how to keep up
+with or if it's interrupting because,
+you know, sometimes they just want to
+inject text when I am not ready for them
+to do that completion. And so, you know,
+I think some of that is, you know,
+sometimes I'll just turn it off because
+I just like need to write for a second
+and then I'll let it review. So, it's I
+will say right now like a lot of this is
+kind of an open question. PE people are
+starting to look at it, but also what
+the environments were like 6 months ago
+is very different than what they were
+like now. So, this is kind of evolving.
+It's interesting when you said like you
+turn it off because I was talking with
+Michel Hashimoto uh founder of of Hashi
+Corp about a week ago and he was telling
+me that his workflow is he has an agent
+always side by on the side that usually
+runs but he turned off all notifications
+because he only wants to go when he is
+ready and he kicks it off with something
+and he doesn't care when it finishes and
+I feel we might be like people might be
+starting to discover their working style
+on on what works and what doesn't. But
+speaking of flow state in in you know
+like being in the flow it it used to be
+amazing as an engineer I I used to be
+really efficient in the flow and now
+with with AI you can also kind of get
+into flow maybe a little bit easier. In
+your book you did mention something
+interesting and this is about the
+tooling but you said flow state does not
+only depend on tooling. You specifically
+said how things like psychological
+safety project ownership uh how
+technical decisions how how much
+autonomy you have all those depend. How
+do you see this changing with AI where
+like the tooling seems to be really good
+at getting in the flow? But could could
+we see that people are actually still
+struggling to get into the flow because
+they're lacking a lot of those things?
+&gt;&gt; Uh well, tech is easy, people are hard.
+And so, you know, sometimes getting the
+flow really is about understanding what
+I'm doing, having very clear direction
+and goals and and knowing what my what
+my work is doing so it's well scoped,
+but I also not just have a well scoped
+feature or something, but I I know what
+the purpose of it is so that I can make
+informed decisions. Some of it is having
+that psychological safety so that I know
+that I can take a risk on something or I
+can ask someone on my team. And you
+know, Kent mentioned when we he was
+calling AI the genies. When we're
+working with the genie, that's not the
+same thing. We might have a handful of
+genies, but that's different from having
+a handful of friends, right? In part
+because the energy is different. The
+conversations are different. Also, they
+just agree with us constantly.
+I'm always so smart and I'm like, I know
+that was dumb. I know that was very
+dumb. And so, and I will say I do my
+best work. Like, I I can't think of any
+paper as one example. paper or book I've
+written on my own because many times I
+get them started and I'll write most of
+it and then I'm like I really need
+someone to tell me like where a hole is,
+where am I dumb, what am I missing, what
+makes perfect sense in my head, but does
+that make sense to them when I say it?
+And like our our AI tools and agents
+just aren't there yet. Sometimes they
+guess really well and sometimes they
+guess in a completely orthogonal
+direction. But on on that one, do you
+want to tell a story about the
+frictionless the book when you started
+writing it and then you you went back
+and I think you deleted a good part of
+it, right?
+&gt;&gt; Listen, I was a software engineer for
+years and then I was a researcher and I
+was writing a bunch. Researchers write a
+very particular way. There's a lot of
+detail. There's a lot of background and
+on page like 105 you get to the point.
+And so I had started it. I was maybe
+working with someone like we kind of
+chatted about it but I get through this
+whole section of the book and I realize
+there's I've created several chapters of
+basically like how to do research when
+you're not a researcher like how to
+write good survey questions how to talk
+to people so you understand it was
+incredibly like detailed and easy to
+understand and 100 pages that no one
+needs to read ever no one is going to
+read this and so I just like tossed it
+and reached out to Abby and I was like
+do you want to write this book I think I
+have an idea of the direction I'm going.
+Also, tell me if I get in a rabbit hole
+cuz it made sense and it was right.
+Also, no one's going to no one wants to
+read that. And we ended up turning it
+into workbooks in the back, which were
+great because then it's like fill in the
+table, check the thing, make it really
+useful and actionable.
+So that I I'm not great at I'll that's
+my problem with flow state is I'll get
+in a flow and I'll write for the wrong
+audience or I'll write at the wrong
+altitude or I'll code at the wrong like
+level of specificity especially with
+agents right sometimes I'll just give it
+something broad I'm like that really
+should have been more detailed but by
+the time I find that out we're an hour
+in and
+but I I I wonder if if one takeaway
+might be that effort is not gone wasted
+right you spent a lot of time in flow
+state writing let's say the wrong and
+and learning and then the end result was
+something special something that would
+have not happened if you would have
+so-called oneshotted it we talk about so
+much of oneshotting things do you think
+like we might have to really relearn
+that effort and and wasted energy even
+as a human when agents can do infinite
+of these things it might be helpful for
+us
+&gt;&gt; oh I agree you know one is being able to
+clearly articulate the problem or the
+thesis or the idea without trying I
+don't get there right um and that's true
+of so many things I think It's both in
+terms of like learning things and kind
+of getting your hands around them. But
+one open question that I think is really
+interesting to me is back when I was
+doing more coding. I kind of had a feel
+for the system because I was coding it
+all the time. Did I know the system? No,
+it was huge, right? But I knew my kind
+of I could whiteboard it reasonably well
+and now we're coding and things are
+changing so rapidly. I think there's a
+really interesting open question around
+how can we help support and build these
+mental models not just in a way that
+reduce cognitive load or improve flow
+but help us understand our systems
+whether it's like for me I'm a visual
+person so I years ago when it was first
+coming out I was asking it for mermaid
+diagrams all the time right like I I
+needed to see what it kind of I needed
+my I needed it to whiteboard with me and
+I think that'll be different for for
+everyone else but without taking that
+time like we b our brains just work that
+way right our brains just work that that
+way better.
+&gt;&gt; So, we talk about taking the time and we
+want to understand it's a long large
+change, but this one's a question for
+everyone in engineering leadership
+position who is being hammered by their
+CEO and board and all of these things
+saying all right we're paying a bunch of
+money for this stuff and I already see
+that not not how do we measure it and
+they're going to ask you like you all
+been with this excellent conversation
+with Nicole and what did Nicole say what
+metrics should we measure and like can
+we actually talk about honestly of of
+like where we are what what can work and
+how you think about this and you must
+get this so much.
+&gt;&gt; That is my job. Um, it depends.
+It is always it depends. Uh, we can all
+go into consulting now and just make a
+ton of money like the check. Um, it it
+really does though. It depends on what
+question it is you're trying to ask,
+right? So, when someone says, "Am I
+being more productive?" Then I will say,
+"What do you mean by productive?" I know
+it when I see it. What what shape does
+it take? Right? like code smells have a
+thing, productivity smells have a thing,
+right? And sometimes it's lines of code
+or like PRs or something. And I'm like,
+okay, so what does that what do you
+learn from that,
+right? Does that help you
+get a feature out to a customer faster?
+And sometimes they're like, well, yeah.
+And I'm like, okay, is it the right
+feature? Do we know it's the right
+feature? And and what kind of part of
+that endto-end process are we
+amplifying? do you also want more ideas
+and more lines of code and more reviews
+and more more all everything and they're
+like well no I'm like I I'm just asking
+questions right and so I think that that
+can help now what are we using to
+measure productivity now I will say it's
+evolving right so uh space framework
+ends up being really helpful so space is
+satisfaction
+uh how satisfied you are with the thing
+uh performance right what's an outcome
+whether it's quality or something. Uh
+activity is account that's the anything
+you can count. Uh C is collaboration and
+communication which can be between
+people which we're seeing evolving. Um
+or between systems. Uh and then E is
+efficiency and flow. So that can be like
+if we're in a flow or it can be the time
+just the time it takes to get through
+the system, right? And I know I've heard
+a couple of people say here that, you
+know, everyone's talking about velocity
+and they want things to be faster and
+they care about velocity. And I'm like,
+I hear you. Yes, that can be good. What
+are the guardrails that you want to put
+in place? Right? How do we want to think
+about quality? How do we want to think
+about satisfaction? How do we want to
+think about whatever? Because
+if we just brute force it, something's
+going to break, right? and and there are
+ways where we can make informed
+decisions. So I've worked with teams who
+I will say there uh there was a question
+in one of the other sessions about
+sacrificing quality for speed.
+Some teams can and but when they do it
+they're doing it very very
+intentionally. They don't say they're
+sacrificing quality. They say they're
+making a riskbased decision. What this
+is fair though they're running a rapid
+experiment. They want signal really
+really quickly and if they can get an
+experiment out in an hour and they can
+run it against some very small
+percentage then they're willing to take
+the risk of lower latency or a crash or
+something for that very small percentage
+and then they back it out and then they
+get an answer. So like I think with the
+right metrics in place it really helps
+us make those risk based decisions
+versus all fast or all slow. And I do
+still see some teams that are like all
+slow because they they just want to pump
+the brakes. I you know some some folks
+in like security
+which is understandable but it's like
+now they're kind of on fire right their
+feet are on fire because there's just so
+much to do. Oh yeah, especially when the
+rest of the visits out. We we talked
+about yesterday we had a small event and
+we talked about how David Kramer from
+Sentry was talking about how a lot of
+non-developers are getting access to
+cloud code and they're loving it and
+they're so productive and oh this might
+have been actually someone from a larger
+publicly traded company which is I I
+won't name them but one of the business
+developers like created this like
+awesome tool to I think look at sales
+proxies and all that and then
+accidentally made it available to the
+whole world and they caught it in time
+but now now there's a lot of those folks
+so and and I think David Kramer from
+Centry was saying like, "Yeah, like we
+we have this like annual training where
+developers go and they go kind of a
+yawn, but we will need to make this a
+lot more interactive and engaging and
+everyone in the business will have to
+go." So like there's going to be this
+fun challenge. So now sounds like it's a
+good time to be in security.
+&gt;&gt; It really is. Well, and because now
+there's also kind of evolving I don't
+say evolving definitions of security,
+right? Like something's kind of secure
+kind of not, but what are the signals
+that we're looking for? What are the
+levels of security that are important?
+There are even some good questions
+around, you know, with some of the
+regulations in certain countries, you
+had to have at least two people review
+the code before it can deploy. What does
+that mean, right? Are there ways that we
+can revisit some of that now? And there
+were some improvements made over the
+last changes, improvements um over the
+last decade or two so that if you passed
+a set of automated checks and tests,
+then that would count as one person,
+right? Well, now it's two. Well, what if
+what happens when we have agents now,
+right? And so I think some of this will
+be important for us to kind of discover
+and think about really creative ways to
+solve the problem in ways that are
+meaningfully
+consistent and also educate the rest of
+not just the industry but regulatory
+fields right
+today if you're a VP engineering sitting
+in this this group and you are in the
+process of rolling out all these AI
+agent from cloud code it might be codeex
+it might be other vendors we we
+mentioned the importance of measuring
+measuring things. What would your
+suggestion be? Specific things that you
+can and probably it's not harmful. It's
+probably helpful to measure already at a
+tactical level. And how would you come
+ac
+you have the right data? You're you're
+not you're thinking about like not
+necessarily invading too much of
+developer privacy and not collecting
+junk data.
+&gt;&gt; It depends. Um a lot of it kind of so I
+I will say I tend to start with
+adoption. I am not a fan of an adoption
+metric. I don't like it. But also devs
+are like a gloriously cranky bunch. We
+are not going to use tools that are
+awful unless we absolutely like if it's
+the only option. There's almost no other
+option. I'm going to sound old when I
+say this, but like I one time had a
+company tell me, oh well they have to
+use that CI/CD system. I'm like 20
+bucks. They're just spinning up Jenkins.
+And they were right. And so I think
+adoption can give us some early signals
+in part to satisfaction
+because if a tool is awful then they
+won't use it. And if we aren't engaging
+with a tool so then we can look at
+engagement. If we're not engaging with
+it then we can't understand right like
+we don't know what the capabilities are.
+We don't know what like how to kick the
+sides. Um you know we might love it
+immediately and decide it's amazing and
+then later find out it's what its
+weaknesses are. We might hate it and
+never go back. But I think that can
+help. Engagement is another one which is
+how much are people using it and for
+what kind of tasks and so there's some
+tooling that uh and I know earlier
+studies found that you know for fairly
+straightforward work it gets used quite
+often right and so we can also watch how
+people are kind of using that now I'll
+come back to it depends right what is it
+that you're going for as a hypothetical
+VP of right do you want people using it
+do you want them to get faster because
+everyone talks about faster right and
+then what do you mean by faster is it
+the interloop coding part is it features
+end to end because then you have to take
+a much more holistic look at the whole
+system. Um especially if we're talking
+about some like magical agentic future
+where they're all self-driving. But
+that's that's another metrics rant. And
+outside of just measuring, one thing
+that I heard is an interesting approach
+is giving explicit permission. Uh
+Rajiv Rojan Atlashian CCO who will be
+our our speaker in the next one. He at
+last and he sends a message telling to
+everyone for 10% of your time you have
+my explicit permission to experiment
+with these systems and just see how they
+work. How do you see these kind of
+approaches which feels a little bit top
+down but it also I guess creates a bit
+more safe space. Do you see this being
+useful in general for new technology or
+especially right now?
+&gt;&gt; It's
+I think it's important in general right
+it's basically like comms and change
+management. It's like the really old
+school stuff. I think it's especially
+important now though because there's so
+much fear and risk and unknown around
+using AI tools. Will I be fired for
+using them? What if I make a mistake by
+using them? And so, um, I'm seeing
+across at least a handful of companies
+that explicit exec sponsorship makes a
+huge difference in not just using them,
+but trying new things and feeling safe
+to fail within, you know, kind of guard
+rails. And I know, you know, for years
+there have been places where like if you
+take down all abroad, you get some kind
+of prize.
+Without taking that to its extreme, that
+can also be helpful because they're
+helping pressure test the systems that
+we work in right now.
+&gt;&gt; In your book, which is about again
+removing friction, h having ways to like
+move better, faster, etc. in the in
+towards the end there's a whole chapter
+on
+um on self-support on the chapter is
+called support yourself through
+challenging work can you talk us tell us
+about why you wrote a whole section on
+it and just advice on how folks can
+support themselves how you see either
+your supporting yourself or how you see
+peers getting through this like pretty
+intense time.
+&gt;&gt; Yeah. So the context of that last
+section was uh supporting organizations
+through change, supporting your teams
+through change and supporting yourself.
+And it was interesting because when I
+had been I interviewed like a handful of
+many several handfuls of engineering
+leaders as we were talking about some of
+this and more than a few of them said it
+was really important for them to not
+just support their teams you know
+provide executive formal support for
+using new tools and systems but also
+themselves because anytime you're going
+through any kind of change whether
+you're you know kicking off a brand new
+DevX initiative or you're rolling out AI
+especially now when everything is so
+there's a lot that's unknown there.
+These are really hard problems, right?
+And so having a couple folks that you
+can talk to, your own uh I want to say
+Rose Whitley said uh you should have
+your own board of directors because then
+we can bounce ideas past people. We can
+safely say
+what is happening. I have to go I have
+to go to an exec review and I need to
+have an opinion and like I understand
+half of this like can you talk this this
+through with me and I think that also
+helps with burnout right because burnout
+we know you know Christine Maslac has
+done some some really great work where
+um burnout is a combination of things
+it's working too hard right but that
+actually isn't burnout that's just like
+getting tired another piece that's super
+critical to burnout is not having your
+values aligned
+And so sometimes I have found that
+talking through people and others who
+told me the same is kind of
+understanding where your values are, if
+your values align and then if they
+don't. And many times they found that
+they did align and it sort of like
+relieved some of that pressure that they
+were under.
+&gt;&gt; And finally looking ahead um in two to
+three years time how would you envision
+a more or less frictionless organization
+operating a company where like takes
+this really seriously? they are adopting
+AI tools. They're like, "All right,
+let's remove the friction points." How
+how would that look like? And if you're
+sitting in this room today and you're
+you want to walk away and you want to
+start doing something this week, where
+would you start on top of course getting
+the book and reading it?
+&gt;&gt; Uh workbooks are also free online. You
+can go find those. Um so a couple of
+things for the kind of frictionless
+future. I'm I'm a metrics person, so my
+answer is going to be about data. Um,
+but I think, you know, I've I've been
+having conversations with folks for a
+handful of months now around if we think
+there's this future world where agents
+can self-drive and self-improve and they
+can do all the things and our
+organizations run better. For that to be
+true, right? So, that's going to be
+true. Maybe, maybe not, but it's a
+stretch. For that to be true, agents
+need to be able to see and understand
+the system and agents need to be able to
+improve the things that need fixed. For
+that to be true, humans need to be able
+to see and understand the system and
+then take action to fix it. Uh and for
+that to be true, we got to see the
+system, right? Particularly when when
+we're moving really really quickly.
+Right now, humans are a stop gap, right?
+We'll talk to people, we understand the
+system. I I just know that when there's
+a problem over here, it's like usually
+about the build, right?
+Agents aren't going to be able to do
+that. Or if they are, like we probably
+don't want that. And so how can we think
+about ways to easily and cheaply surface
+some of the signals that can help us
+make decisions? And it doesn't have to
+be super heavyweight. Although like
+agents can also probably help us build
+some instrumentation that's pretty good,
+right? So how can we how can we think
+about ways to first of all identify what
+are the touch points that we care about?
+Where are the signals that we want to
+see? How can we make it cheap and easy
+to get a hold of those? And then how can
+we kind of sense make around them and
+and realize that's going to change,
+right? Like there's several phases in
+like writing software. There's like
+having the idea and coming up with the
+design and then coding it. And then
+right now that whole front end's been
+like kind of smooshed because many times
+we can just like prototype really really
+rapidly and kind of solidify some of
+what we're thinking in terms of like
+ideas and coding. So I fully expect that
+part of the outer loop is just going to
+be collapsed as well, right? Because
+we'll find more efficient ways to do
+that. But it's going to be helpful if in
+the interim we know where some of those
+touch points are, right? Like what are
+we looking for? What are the quality
+gates? What are the signals that show us
+something is working well or not? And
+then if we collapse then where do those
+signals shift to or do they get to
+disappear?
+&gt;&gt; Yeah. And it feels to me that with so
+much change coming, one thing that feels
+really important to me that again it was
+in the book and we just talked about is
+having this personal board of directors,
+finding peers who ideally work at
+different companies. You might meet some
+people here. You might already know
+them. Reach out to them. And it sounds
+like it's a time where everyone will be
+happy to get together to have coffee.
+Create a WhatsApp group or or just just
+a group messaging group with a few of
+you and you talk. I'm doing this. I'm
+seeing this. I'm doing this. I'm seeing
+this because it seems like the only
+certain thing is it will change and it
+will depend what works for you. So if
+you get like-minded people in similar
+industries, the it depends will probably
+more similar to a lot of you, right?
+&gt;&gt; Yeah. Um, and I found that to be some of
+the most helpful and the most beneficial
+for me is, you know, can I bounce an
+idea off someone? Is the way I'm
+explaining it making sense? Uh, are the
+things that I'm seeing similar to the
+things that you're saying? And if yes,
+what could that mean? And if no, is it
+actually different? Or are we just using
+different words? Right? And so that I
+think especially when we're in a time of
+change at all, but especially this
+rapid, it's super super helpful. And I
+also just keep I've got like the back
+channel, right? So sometimes it's
+talking to someone and sometimes it's
+just like popping a question at a back
+channel with a handful of folks that you
+know and respect and you feel safe with.
