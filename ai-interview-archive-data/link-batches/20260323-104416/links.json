@@ -1,0 +1,52 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-03-23T10:44:16.697789+08:00",
+  "since": "2026-03-21T10:44:16.697789+08:00",
+  "items": [
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "The art of influence: The single most important skill left that AI can’t replace | Jessica Fain",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260322-the-art-of-influence-the-single-most-important-skill-left-that-ai-can-t-replace-jessica-fain"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Nicole Forsgren: Leading high-performing engineering teams in the age of AI - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=DfrAaDgFgjc",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-nicole-forsgren-leading-high-performing-engineering-teams-in-the-age-of-ai-the-pragmatic-summit"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Product-minded engineers in an AI-native world",
+      "url": "https://www.youtube.com/watch?v=0Cv5763UX70",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-product-minded-engineers-in-an-ai-native-world"
+    }
+  ]
+}

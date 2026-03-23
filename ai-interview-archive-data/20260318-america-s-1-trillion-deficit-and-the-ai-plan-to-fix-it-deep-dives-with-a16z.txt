@@ -1,0 +1,963 @@
+原文： https://www.youtube.com/watch?v=OqS0w1h9lRs
+
+The technology world is really in the
+grips of a two-front geopolitical
+technology war. Our models need to be
+superior [music] than all the other
+models on Earth. We need to have the
+world's best AI innovation on a
+qualitative basis. So, we need to have
+the most market share. [music] If we
+have exquisite models that no one uses,
+we're kind of irrelevant. The AI
+revolution has really heightened the
+stakes of this whole technology race.
+It's really put on steroids the
+capabilities [music] that governments
+can have.
+Jacob, welcome to the podcast.
+&gt;&gt; Thanks for having me. It's good to be
+here.
+&gt;&gt; So, we're going to get into a lot of
+exciting conversation about the future
+of the economy, AI, manufacturing,
+supply chain, but I want to start at
+some of your intellectual origin. You
+wrote a book, The Wires of War. It came
+out in 2021. Why don't you briefly
+explain the high level thesis of the
+book and then I'm curious if you wrote
+an addendum today about how the you know
+the last five years have played out you
+know what you might have writing.
+&gt;&gt; Yeah. So first of all it's great to be
+here and it's great to see you. I'm
+excited for this conversation and then
+have the opportunity to lay out some of
+the things that the administration's
+been working on. In 2021, I came out
+with a book called The Wires of War that
+was basically uh proposing the a thesis
+that at the time was somewhat
+controversial but has become common
+wisdom since then, which is that the
+technology world is really in the grips
+of a two-front geopolitical um
+technology war. There's the the software
+end the hardware end. on the software
+side at the time we were seeing the
+emergence of things like foreign
+information operations and and on the
+hardware side which the whole premise of
+the book was really to actually say that
+the hardware end was the decisive
+battlefield. Um there was obviously the
+battle against Huawei uh and and really
+the infrastructure of the internet and
+the basic reason why the book uh argued
+that the hardware end was the most
+important one is because if if a country
+controls the internet at the hardware
+level they can compromise and control
+everything that runs on top of it. In
+our system, we have private companies
+that live very independently from the
+the US government and that operate in a
+private capacity as we know and uh and
+that system is not is not the case in
+other places including in China where
+the companies are obviously much more
+subordinate to the centralized
+government. And so, and so ultimately
+when you have a foreign government that
+can whip up its companies as instruments
+of political power, that's very
+concerning uh for what it means for
+national sovereignty.
+&gt;&gt; And it's it's funny funny because you
+were you started your career on the
+software side at Google, right? And then
+you realized that hardware was sort of
+the more and now now you're you know
+spending more time there in your new
+role. um why don't you flush out exactly
+what were the the sort of key risks you
+you identified on on the hardware side
+and how have they played out? How how
+have they stay uh changed or stayed the
+same or Yeah.
+&gt;&gt; Yeah. So, I mean, really what we're
+talking about is if you have a foreign
+government that controls uh that can
+instrumentalize its tech companies that
+operate the hardware of the internet, it
+fundamentally challenges our traditional
+con conception of sovereignty because it
+raises the question of what does it mean
+to be sovereign when you have a foreign
+power that knows all the deepest darkest
+secrets of all the judges, journalists,
+and uh jurists in your country and
+politicians in your country and the the
+the definition of sovereignty starts to
+look very very different in a world like
+that. And so the [clears throat] first
+Trump administration carried out and
+prosecuted a very comprehensive campaign
+um for that basically argued that Huawei
+and ZT are national security threats.
+That campaign has been sustained across
+administrations since then, including
+this one. And so today, [clears throat]
+obviously, you know, to your earlier
+question, we live in a world that's the
+the same in some ways, but that has
+evolved and and mutated in really
+interesting ways with the AI revolution
+that actually uh was arguably prompted
+by the release of Chad GBT a year after
+my book.
+&gt;&gt; Yeah. and and the AI revolution has
+really heightened the stakes of of this
+whole um of this whole technology race
+in in pretty fundamental ways because
+it's really put on steroids the
+capabilities that governments can have
+uh to actually carry out these types of
+operations.
+&gt;&gt; Yeah. And so um let's now get to your
+work in the administration. Why don't
+you talk about your main priorities and
+and goals and you know achievements to
+date?
+&gt;&gt; Yeah. So our um cognizant and
+recognizing the fact that the AI
+revolution is going to have is going to
+totally transform economic power and uh
+military power and I'd love to talk a
+little bit more about that. Um the
+administration has laid out a policy to
+win the AI race. The president
+proclaimed a very very historic speech
+uh last July at a summit that David Sax
+and I co-hosted called winning the AI
+race where he rolled out the AI action
+plan. And in that speech, he basically
+laid out that America that he
+acknowledged that America was in a race.
+And he proclaimed that America was going
+to win that race. And it was very
+aspirational. And uh David likes to
+reference that it was almost reminiscent
+of JFK's speech to the moon, which I
+actually happen to totally agree with
+him on that. I think it very much echoed
+that. Um and so and so then that raises
+the question for agencies like ours. How
+do we actually help him achieve that
+goal? From our vantage point, we see
+three conditions that need to be met to
+win the AI race. We need to have the
+world's best um technology and AI
+innovation on a qualitative basis. So,
+our models need to be superior than all
+the other models on Earth. That's number
+one. Number two, we need to have the
+most market share because if we have
+exquisite models that no one uses, as we
+know from the world of consumer
+technology, we're kind of irrelevant.
+So, we need to have the most users. We
+want to have the app store that has the
+most apps. We want to be the the
+platform for the rest of the world. And
+number three, we need secure supply
+chains because if we have technologies
+that are firing on all cylinders,
+technology companies that are firing on
+all cylinders, but if one tiny cog gets
+loose and trips up the whole machine, we
+are in a very brittle, precarious
+position. And so we need to make sure
+that our companies who rely on many
+different types of inputs and components
+that come from very different corners of
+the globe actually have supply chains
+that are reliable, that are cost
+effective and um that uh and that are
+secure. And so we're we're working very
+hard to do that. We launched an
+initiative called PAX Silica that aims
+at securing the supply chain and
+partnering with some of the world's most
+technologically advanced economies to
+develop partnerships uh to uh secure
+offtake agreements, joint ventures and
+the like. And uh and so we're very
+excited about having this, you know,
+three-front strategy to win the AI race.
+&gt;&gt; Yeah. Let's go through the three fronts
+that you just mentioned.
+you you've mentioned a little bit about
+what we've achieved um let's talk more
+about that but then also what needs to
+happen in order for those conditions to
+to be met.
+&gt;&gt; Yeah. So the having the best qual having
+the best AI innovation on a qualitative
+basis is really an effort first of all
+let me just say that we already have the
+best AI innovation on a qualitative
+basis. So the question is you know how
+do we maintain our our lead? One of the
+big thorny challenges that is still, you
+know, that's new and very apparent to
+everyone is the challenge of model
+distillation which is fundamentally
+um a undermines intellectual property
+and it fundamentally under undermines
+the unit economics of the industry
+because when companies invest hundreds
+of billions of dollars in capex
+investments and then to develop fancy
+model weights but then other companies
+can just take them that's a major
+problem. So um that is an issue that we
+obviously are tracking and uh our
+administration as a whole is engaged in
+conversations with companies to try to
+find solutions to this. Um but but the
+government the the the companies and the
+AI labs are the ones in the driver's
+seat when it comes to developing to
+ensuring our lead on a qualitative basis
+as they should be with respect to market
+share. Um we you know we believe in the
+power of uh that our our products are
+superior and therefore you know most
+more people like them. With that being
+said, we also recognize that they're
+competing on a playing field that's not
+always fair and leveled. And so we are
+actively engaged with um with
+governments to basically ensure that we
+have a preferential um uh preference for
+technologies that are secure. And this
+is really, you know, an extension of the
+the the work that we've done on Huawei.
+A lot of our focus has been on hardware
+infrastructure, but I think there's a
+lot of intellectual work being done for
+what does that mean in the AI age? What
+does that mean in a world where
+[clears throat] you have open model
+weights that are fundamentally harder to
+contain? So market share is very much a
+part of the thinking. Um that is the
+premise for the AI expert program. We
+want to grow our market share worldwide.
+Um David Saxs and Secretary Lutnik have
+done a lot of really great work and uh
+Katzios has done a lot of really great
+work to help launch the AI export
+program and the state department's very
+involved in helping evangelize that and
+actually onboard more users. We launched
+the chip concier service that provides
+white glove support um for the AI expert
+program for a subset of countries which
+are the pacilica countries. Um, so we're
+certainly trying to contribute in ways
+that are constructive and in ways that
+help be an accelerant to get more users.
+And then for securing our supply chains,
+that's where I think the government
+probably can play the most important
+role because we can catalyze
+partnerships, we can catalyze joint
+ventures. Our supply chains are very
+frail. Uh, what we have realized since
+co is obviously China has very
+vertically integrated supply chains
+because they have a lot of stateowned
+companies. Our supply chains are not
+vertically integrated at all. They are
+totally geographically dispersed.
+Thousands of different vendors, many of
+them are mom and pop shops and you know
+different parts of the globe, full of
+information asymmetries. A company in
+Santa CL or San Jose has no idea where
+some of these parts come from, who makes
+them because there's so many different
+layers of, you know, vendor
+partnerships. And so as a result, you
+end up with a system where companies
+have very low visibility. There's a lot
+of inefficiencies by virtue of the sheer
+number of people involved and the lack
+of coordination. And so one of the
+things that we're looking at doing is
+actually using tools that the the
+government can be a catalyst for to
+actually bring a little bit more
+efficiency uh and coordination to how
+the supply chains for our large you know
+arguably systemically important
+companies work. And so um and and those
+include offtake agreements, they include
+joint ventures. They include
+co-investment opportunities. Um and the
+last one is market incentives. So um
+this sort of gets at you know one of the
+concepts around you know creating some
+sort of preferential trade zone. We have
+you know obviously our administration
+has pursued an incentives-based agenda
+uh very heavily with respect to the
+imposition of tariffs to encourage
+investment in the US. But the government
+has tools to actually create to
+incentivize behavior and create the
+environment that will actually lead the
+private sector to dep to deploy capital
+in ways that are strategic.
+&gt;&gt; Yeah. And by the way, on that note, what
+is the right way of um making sense of
+um you know of tariffs of the effect of
+since liberation day? Is it that they
+were largely a negotiating tool that
+that was you know effective in achieving
+its goals? Is it that it's also an e
+economic policy that had c certain um
+goals? What's the right way of making
+sense of it while also realizing that
+it's still early?
+&gt;&gt; Yeah. So the the the fundamental um
+thesis and view is um um since you know
+over the last generation or so we've
+lost 66,000 manufacturing plants. Um
+we've lost over two million
+manufacturing jobs. Our industrial base
+has been completely hollowed out. and
+not by an act of divine um destin, you
+know, manifest destiny, but really by
+choices, policy choices that have been
+instituted over the last 25 years that
+have been terrible. And so the tariffs
+are actually a recalibration of based on
+the recognition that we need to have an
+economic policy that is tethered to our
+national security imperatives. um
+they're in pure and perfect markets.
+When you have a trade deficit,
+[clears throat] typically you have
+changes in the value of a currency that
+allows a trade deficit to go back to an
+equilibrium level of zero. But it is not
+a natural phenomenon to have consistent
+trade deficits for a 25-year period on a
+on a quarter-by quarter basis. Uh that
+is the result of of markets that are not
+functioning in, you know, that are not
+functioning correctly. And so the
+tariffs actually helped correct those
+deficit, those long-term secular trade
+deficits. And if I could just add, if I
+could digress and just really hammer
+this one point, when the president took
+office, we had um a trade deficit with
+our top 12 trading partners of over a
+trillion dollars a year. I mean, it was
+astronomical. And so we took, you know,
+the same view that that level of trade
+deficit on a year-by-year basis is
+completely unsustainable. After
+liberation day and when the president
+instituted tariffs, we've actually seen
+a complete change in the in the
+trajectory in a lot of these numbers,
+our trade deficit with China, which has
+long been our largest u trade deficit
+country has been plummeting, you know,
+in a way that's that's really um uh
+historic. our trade deficit overall has
+been receding and and and we have
+actually seen we've actually seen record
+investment in capex investment in the US
+which doesn't even show up in trade data
+yet because the capex investment hasn't
+you know these things are early
+indicators it hasn't yet converted into
+production capacity because a lot of
+these plants are being built as we speak
+but it's it's as someone in the tech
+industry you understand the difference
+between a lagging indicator and an early
+indicator and so it's really encouraging
+and actually quite exciting to see a lot
+of these investments being made and and
+so you know the basic thesis is uh we
+used to have a a policy worldview that
+said you know potato chips computer
+chips doesn't matter and you could have
+a a national security untethered from
+economic policy. We want to we believe
+that it's important to bring our
+economic policy in line with our
+national security and that includes
+having um having an economic policy that
+does not run trillion dollar trade
+deficits on a year-by-year basis
+&gt;&gt; and and say more about uh with the
+positive benefit of having a much
+reduced trade deficit. Is it that on the
+employment side that we'll now you know
+um you know employ more Americans
+because we're building more here? Is it
+that we'll also just take care of some
+of the industries that are most
+important for national security? Um is
+is it you know more more benefits?
+&gt;&gt; Well, first of all, the Treasury will
+have more resources to actually fund a
+lot of the things Americans care about.
+Um so, you know, it has really it it has
+a very big impact on the resources at
+our disposal to actually fund um you
+know, the government as well as you
+know, uh important programs. Second of
+all, it has a very big impact on you
+know fundamentally um one of the things
+that we realized during co is it is
+incredibly you can't defend a country
+with Facebook ads. You need to be able
+to make things and the national security
+strategy that we released actually has a
+line that's very apt which says the
+future will belong to builders and and
+that's our belief. What the tariffs do
+is they change the economics of
+building. they they provide American
+builders with a releveled playing field
+that makes it economical for them to
+compete if they build in America. And so
+and fundamentally that's why we've seen
+historic capex investments um because of
+the tariffs. The ingredients of you know
+the Trump industrial revolution are
+tariffs, deregulation,
+ener and energy abundance um and tax
+incentives which include you know capex
+investing through the one big beautiful
+bill. Those building blocks totally
+change the game when it when it comes to
+the unit economics of building things in
+America. And so and so it's it's
+actually in total contrast to what
+Europe is doing sadly where you have
+super high energy prices, insane
+regulation, insanely high taxes and you
+see the result which is a continued
+sustainment of de-industrialization of
+Europe which is very regrettable. And so
+we think these things are choices and
+you can actually re reverse them and
+we're seeing that play out in real time.
+Just on the note of Europe, there
+there's some people that point to, hey,
+there's maybe some countries that are
+increasing their their defense spending.
+Do you think that's that's for real? Um
+do you think that's good for us? Um
+[clears throat]
+how should we make sense of what's
+happening right now? So I think the
+political will is real but uh and you
+know one of the the things that I'm sure
+you and your viewers will appreciate you
+know for folks in in the technology
+industry is the political will can be
+there but that you know translating that
+political will into capabilities will
+require companies. It will require
+builders building
+technologies and weapon systems that are
+at least comparable or superior to what
+is already on the market. And in order
+to do that, you need founders who are
+exceptional because building companies
+are very hard, especially hardware
+companies that are very advanced and and
+capital intensive. Um, and you need an
+environment that actually makes it
+somewhat conducive to actually build a
+company. And it's really hard for Europe
+to put those pieces together because
+they, you know, the culture in Europe
+has been really not favorable to
+encouraging risk-taking which is a
+necessary which is the lifeblood of
+starting a business. You need to have a
+risk-taking culture and and then
+[clears throat] they have the unit
+economics problem where it's just really
+expensive to build stuff in Europe
+because your energy bills are really
+high. you have to spend a ton of money
+on legal fees before you even start. And
+so it's, you know, those parts are very
+challenging. So it's not that starting
+things in Europe will be impossible, but
+they have major headwinds. They will
+start on day one with significant
+disadvantages compared to American
+companies where fortunately because we
+have a federal system, the states are
+the laboratories of democracy. And so if
+[snorts] some companies uh many of whom
+we know, you know, have a hard time
+building things in one state, they can
+always move to a different state that
+has a favorable uh tax environment and
+and regulatory environment. And so we
+actually have a system that, you know,
+it still m makes it quite easy to build
+things. And so we we our policy is we
+want a strong Europe. And so we have
+really invested a lot of efforts into
+having a truthful candid conversations
+with our friends in Europe to actually
+share our concerns. And you know the
+media some elements of the legacy media
+has inaccurately portrayed our our
+stance as being antagonistic towards
+Europe. But it'll be no surprise that
+that's a total misrepresentation.
+The truth is is that when you actually
+care about someone, you can actually be
+candid with them.
+&gt;&gt; Yeah.
+&gt;&gt; Clear is kind. And so, you know, it is
+because you care. If you have a relative
+who's unwell, is the empathetic view to
+pretend like they're perfectly fine and
+tell them everything's going to be okay
+when you know that they have cancer or
+is the empathetic view to actually let
+them know that there's a problem that
+they need to take care of? I think the
+latter is clearly uh the more empathetic
+position. We care about Europe. We want
+them to be strong and so we are you know
+trying to draw their attention uh
+towards policy issues that we think are
+serious headwinds for them.
+&gt;&gt; Yeah. Similarly, you know, some people
+critique and say, hey, it's better to
+have these countries dependent on us. Um
+whereas similar to your example, if you
+really care about someone, you want them
+to be sovereign. You want them to be
+independent. You want them to be to be
+strong. And that doesn't mean that
+we're, you know, drifting apart and no
+longer going to support each other. It
+means that perhaps we can support each
+other better because you bring more to
+the table.
+&gt;&gt; Exactly.
+&gt;&gt; Um and and Oh, go for it.
+&gt;&gt; I was just going to say and Americans
+are positive some thinkers. I mean
+unlike and this is fundamentally you
+know something that doesn't always uh
+that people underappreciate overseas is
+it's not like there is a central a
+centrally planned maniacal plan in
+Washington to get the the rest of the
+world dependent on America because we
+are positive some thinkers and and what
+that means in practice is Americans also
+do a lot of joint ventures you know
+because we don't see the world as a
+finite pie that needs to be subdivided
+into smaller slices. We see a world
+where the pie expands and where there's
+an opportunity and a lot of American
+companies are very comfortable doing
+co-investments and joint ventures and so
+it's a just a very different lens.
+&gt;&gt; Yeah. How should we make sense of the
+sovereign AI investments that are
+happening in the in the Middle East? Is
+is that also strategic for us or say
+more about that? Yeah. So, fundamentally
+um the Middle East has a lot of capital.
+They're going to invest it in artificial
+intelligence one way or the other. They
+are um you know some of the investors in
+the region are incredibly sophisticated
+and a lot of them have rightly
+recognized that um they they want an
+economy that is diversified away from
+hydrocarbons and AI is fundamentally a
+path that allows them to shift from a
+paradigm where they export hydrocarbons
+to a world where they export
+intelligence and tokens.
+They are a a a as as as as you know a
+fundamental building block of having of
+of large of training large computing
+capacity is cheap access to cheap
+energy. um um a an integral function of
+the cost of of compute is the cost of
+energy and in the millions you have a
+lot of very cheap energy and so that is
+a comparative advantage that they have
+identified uh accurately and that they
+want to capitalize on. So our view is
+let's work together to have a mutually
+beneficial approach. We want to enable
+you know because we have a positive a
+positive sum view of the world. We we
+believe in a world where we help them
+achieve their aspirations that they've
+set for themselves in a way that
+actually grows the pie and offers our
+companies opportunities to collaborate
+on something greater. And so we we see
+our approach to the Middle East as an
+opportunity to allow our companies to
+expand their lead because it's it's
+actually a market that uh gives our
+companies access to a lot of cheap
+energy. the UAE, the the Qataris, the
+Saudis, you know, the Israelis, all of
+them are interested in AI. Um, if they
+want to make available large compute
+capacity to our companies, we think
+that's a great thing. And so, we've been
+having a lot of conversations with them.
+The UAE and Saudi Arabia, we signed an
+AI an AI deal. We signed two large AI
+deals with them. Um, I was in the I was
+in Israel where we signed a bilateral
+joint statement on technology
+cooperation which we're very excited
+about which included artificial
+intelligence. And so, you know, we're
+we're very supportive. It's it's an
+fascinating region because I think for a
+long time the stereotype was that the
+Middle East was an unstable place and
+East Asia was an engine of growth. And
+part of what we've seen over the last 20
+or so years is really that region emerge
+economically in a way that has caught a
+lot of people by surprise. So it's
+exciting to see a lot of the
+developments.
+&gt;&gt; Yeah, absolutely. And and to that end,
+you've talked about how if the 20th
+century ran on oil and steel, the 21st
+will run on compute and um minerals that
+feed it. Um why is uh the right analogy,
+you know, compute and and oil? Well,
+because um oil and energy were
+fundamentally um uh functions of
+economic growth and economic activity.
+And when you had the industrial
+revolution, um the integration of
+industrialized energy, industrial scale
+energy production really led to a step
+change and a secular e acceleration of
+economic growth. And part of what you
+know we are likely to see with
+artificial intelligence and I actually
+co-authored a paper at the White House
+econom at the White House economic
+council um on the great divergence is
+you the the super intelligence
+revolution I think is likely to lead to
+uh a secular acceleration in in economic
+growth similar to what we saw during the
+first industrial revolution where you
+see start to see the growth band of GDP
+growth start to shift to the right
+basically. So, you know, when we had
+societies that were primarily agrarian,
+growth was between zero and 1%
+yearbyear. If you're between 0 and 1%,
+that means you don't have compounding
+growth because, you know, you're under
+1%. After the industrial revolution, we
+had between, you know, 2 and 3% 1 and 3%
+roughly on a year-by-year basis. All of
+a sudden, that unlocked compounding
+growth. That's when you start to see
+economic growth grow up exponentially
+like a hockey stick. And part of what
+we're uh likely to see with um the AI
+revolution is actually a shift upwards
+in in economic growth where you start to
+see growth pick up between three and you
+know five or maybe even 6% on a
+year-by-year basis which is really a
+dramatic acceleration of growth.
+Evidence that what evidence do we have
+to point to that? while we've already
+had growth break 5% u in the US and
+that's huge because the US is the
+world's largest economy. So when we're
+growing at 5% that's like adding a GDP
+the size of Saudi Arabia to our economy.
+I mean it's massive
+&gt;&gt; and it's a massive movement and creation
+of wealth
+&gt;&gt; and um and so that's number one. Number
+two, the other big indicator is we're
+seeing productivity break 5% growth in
+productivity. So if you believe that
+productivity is, you know, obviously
+going to accelerate growth expansion,
+you're seeing that data. The other early
+indicators that we're seeing is we're
+seeing record demand. Demand pick up for
+everything from energy, minerals, uh,
+components, you know, compute capacity.
+All of that demand is massively going
+up. and and and so we're actually seeing
+an economy that's almost supply
+constrained where demand is just so
+intense it's outpacing you know the rate
+of supply and and so to me that shows an
+economy that's actually really running
+on all cylinders. Uh and so it's quite
+exciting to see you know this um e
+economic acceleration
+&gt;&gt; and it's funny because it really came at
+the perfect time where for a while the
+total factor productivity statistics you
+know weren't super strong you know we're
+reducing whereas the debt was also um
+you know increasing um you know local to
+San Francisco you know people were were
+moving during co and people were saying
+oh you know is San Francisco you know
+what's happening there and and then of
+course AI boom happens SF but
+&gt;&gt; who said that [laughter]
+Yeah, exactly. Some [clears throat] good
+friends and but also uh you know just
+for the US in general it seems like this
+is our godsend uh in terms of you know
+because people were saying you know
+during Doge etc like you know we really
+got to take care of the debt um and
+there just seems to be you know you can
+limit it to some extent but there just
+seems to be this spending monsters and
+maybe it's just easier to grow our way
+out of it. Yeah, I mean it is true how
+and it's such a quintessentially
+American story where you know we somehow
+figure things out at the 11th hour. Um
+co hits. I mean it is true that San
+Francisco did not seem like it was a
+great
+&gt;&gt; I mean we spent some time in Miami for a
+little bit.
+&gt;&gt; Yeah, [laughter] totally good times.
+[snorts and clears throat] And um and so
+you know a lot of people were very very
+concerned about the explosion in the
+deficit and and all the rest. And you
+know obviously Ray Dalio spent a lot of
+time talking about how we're in a death
+you know debt spiral etc. Um and you
+know what we've seen is the AI
+revolution catches the economy by storm.
+San Francisco makes this you know
+shocking comeback. [clears throat]
+Um and um and you know hopefully it lit
+last less um and um and you know
+productivity picks up growth starts to
+accelerate
+&gt;&gt; and and it's it's actually really
+amazing because growth solves a lot of
+problems. I mean it solves the debt
+problem it solves you know a lot of
+problems and this is actually something
+that the president really understands so
+well. I mean, one of the things that is
+um one of the things that I really took
+away from my time in tech is, you know,
+when you really great founders
+understand the importance and the power
+of prioritizing and isolating signal
+from noise. They understand how, you
+know, they're able to identify what are
+the one or two things that if I don't
+get right are decisive. And you know, we
+are actually really lucky in a way to
+have a president that really has that
+kind of thinking and you know, a lot of
+those attributes because he really
+understands that you know if the economy
+grows really fast, a lot of the other
+problems go away.
+&gt;&gt; Yeah.
+&gt;&gt; Just completely on their own.
+&gt;&gt; And and so it's actually really amazing
+how um how you know this has actually
+you know come together so quickly in in
+a year. Totally. I mean it's been one
+year it's really amazing.
+&gt;&gt; Yeah. I want to you gear towards closing
+by going back to this idea of economic
+security that you talk about you know um
+I believe China you processes like 90%
+of of of of mineral stuff we were we
+were discussing and I'm curious is there
+a way of actually diversifying or what
+do you identify as the critical
+bottlenecks or risks that we have to
+solve?
+&gt;&gt; So I'm actually incredibly bullish that
+we're going to solve this. Um so the the
+big picture is obviously as we mentioned
+earlier is we need to secure our supply
+chains which requires putting a lot of
+pieces of the puzzle together. It's very
+complicated. With that being said we
+have the world's most talented founders
+unlike some places we actually empower
+those founders. Um you know we don't
+send them hiding to [laughter] Japan.
+&gt;&gt; Um and we're very creative and you know
+look we are a country from our earliest
+days. is we're a country of underdogs.
+You know, we uh were our country was
+started as an army of racktag, you know,
+uh rebels that overtook um that rebelled
+against an empire at the time and and
+that's just part of our DNA. So, we tend
+to perform really well at the 11th hour
+and and I'm totally confident that we're
+actually going to solve this. The
+question is time is how fast can we
+actually yeah
+&gt;&gt; turn you know reverse 25 years uh
+essentially
+&gt;&gt; and you know we'll see but I will say
+President Trump's only been in power a
+year
+&gt;&gt; and just look at how different the world
+is. I mean,
+&gt;&gt; yeah,
+&gt;&gt; I think it's fair to say that it's looks
+really different. and the the running
+expression. I mean, it's it's really one
+of the fascinating things about about
+doing the the role that I uh that I that
+I'm currently doing at the State
+Department is I really get a front row
+seat into uh having conversations with
+foreign leaders and you know getting an
+uplose feel for you know our country,
+our administration
+and the amount of admiration that they
+have for President Trump really can't
+yeah
+&gt;&gt; you know be overstated.
+um they know that he's a sample of one
+and they really kind of have the same
+kind of admiration that you would
+actually that you know that people would
+typically be accustomed to feeling in
+the tech industry when they admire
+founders because they kind of know that
+he's just
+&gt;&gt; such a you know
+&gt;&gt; a leader and also just so unique you
+know unlike anyone else. I mean, it's
+just like when people in the tech
+industry talked about Steve Jobs, you
+know, he's kind of like this unique
+&gt;&gt; person that had a unique set sets of
+attributes and um and so that has
+actually been really really striking.
+But uh but people also want to work with
+America. I mean people fundamentally
+like our country.
+&gt;&gt; Yeah. And and I think it's because
+subconsciously I think I I really do
+think it's because people know that we
+are positive some thinkers and so they
+inherently knows that that is a less
+threatening you know worldview that
+working with America does not mean that
+it is you know um uh zero sum and and so
+I think that's you know really plays to
+our advantage.
+&gt;&gt; I'll make that my my last question. You
+some people predicted that this sort of
+era, this administration would be a you
+in all forms kind of a retreat from
+globalization and a weakening of our
+alliances, but that you know PAS silica
+you know represents you know great
+global partnership and and and
+strengthening of alliances. When one you
+and one of the things you talked about
+is how you different countries bring
+their own you know specialization and
+and superpower to the table and we're
+stronger together. Why don't you just
+share some examples of of what that
+looks like?
+&gt;&gt; Yeah. So, um, I would characterize, you
+know, um, you're right. Some people said
+it's the end of globalization, etc. I
+would obviously counter that. It's not
+the end of globalization, per se.
+Globalization was a banner that was
+really used to describe a period of time
+where we engaged in unilateral trade
+concessions that were completely
+one-sided with the rest of the world.
+And when people say globalization, what
+does that mean? means a ma a uh a world
+where we were running massive trade
+deficits where we basically exported
+almost nothing while importing
+everything from the rest of the world.
+That was globalization. And so what
+we're doing is actually re-engineering
+um our trade architecture to have a
+world where we continue trading but our
+trading architecture is on fundamentally
+more favorable terms that are fairer and
+more reciprocal for you know American
+workers than American builders. Um that
+doesn't mean that we're against
+partnering people. We started Pacilica.
+The president started the board of
+peace. We actually you know welcome
+partnering uh with a lot of other
+countries who share our interests and
+and our and our world view. Um so you
+know the the idea that somehow
+revisiting a lot of the globalization
+era arrangements is a retreat from the
+world I think is obviously completely
+false and you know very partisan. uh
+we're engaged in almost every place on
+earth and we just do it in a way that is
+fundamentally more favorable to our
+national security interests.
+&gt;&gt; Yeah, that's a great place to wrap.
+Jacob, thanks so much for coming on the
+podcast.
+&gt;&gt; Thanks for having me.

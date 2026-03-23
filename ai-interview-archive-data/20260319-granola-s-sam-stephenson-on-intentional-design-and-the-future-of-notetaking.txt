@@ -1,0 +1,1315 @@
+原文： https://www.youtube.com/watch?v=jkKfZMgJZ28
+
+[music]
+I'm really really proud and happy to
+have Sam Stevenson here, the co-founder
+of Granola. Um, how many of you use
+Granola today? Raise your hand. All
+right, so many of you are familiar with
+it. Um, it's an AI powered note-taking
+application that's evolving to much
+more. And Granola is actually based out
+in London. Most people don't know that
+that's where the company's built. Um, I
+was really lucky to meet Sam in London
+when I was living there a few years ago
+and have been an early supporter and fan
+for several years. Um, and Sam, thank
+you for coming and joining us.
+&gt;&gt; Thank you, SA. Thank you for for having
+me and thank you for pulling this
+together and thank you all for coming on
+such short notice. I'm like impressed
+that anyone showed up given how how the
+timing is. So, thank you. I actually
+thought for a minute that it was some
+sort of elaborate prank because Sam was
+running it a little bit behind and I was
+like, "Oh man, they really got me with
+this one [laughter]
+because we had kind of agreed to do this
+yesterday." Uh, so thank you all for
+coming out. Um, Sam, why don't we start
+with high level? What is Granola today
+and where is this going? What is
+Granola? Yeah. So today, um, Granola is,
+uh, it's essentially a way to get great
+notes for for meetings, um, for Zoom
+meetings, for inerson meetings. Uh, it's
+designed to look very familiar. So, it
+looks a lot like an Apple Notes or any
+notes app you're familiar with. Um, but
+in the background, it'll be listening to
+the conversation you're having. And
+then, uh, the the pattern we have is
+basically you you take notes on the
+stuff that you care about during the
+meeting. We don't ask you to to
+outsource everything to AI. Um, but
+we'll take whatever you thought was
+important from the conversation and
+flesh that out into uh hopefully a
+really useful set of notes afterwards.
+Um, the notes thing though was always
+kind of like uh we kind of think of it
+like a way to get our foot in the door
+into your life to to earn the right to
+be a part of your workday. And I think
+really the bigger picture is like um uh
+we want to be we want to be a tool that
+you have open on your screen uh for like
+80% of your day, you know, and and it's
+helping you get the stuff you need to
+get done done. Um and kind of meeting
+notes is a way for for the AI to be
+present during your meeting and
+therefore be understanding what's
+happening. Um, and I mean I think right
+now we're at an interesting point where
+I think the note-taking thing is is
+working well and and it's like time for
+chapter two where we figure out how to
+actually kind of be helpful given the
+the context we have of what's happening
+in your meetings.
+&gt;&gt; And over the time period in which you've
+been working on Granola, um, not only
+has the product evolved meaningfully,
+the broader landscape has evolved pretty
+meaningfully. how how we're building,
+how we're working together, how we're
+working with agents and AI. Um,
+high level summary, what is it like
+being a designer co-founder in an
+environment where you're simultaneously
+trying to build upon product market fit,
+but also adapt to an entirely new
+toolkit that seems to be updating itself
+every month. It's
+&gt;&gt; it's like equally exhausting, like
+anxietyinducing and and also really fun.
+I don't know like uh I feel I feel lucky
+to get to be I guess a designer at this
+point in time. Like it's um uh we're
+just so much more powerful than we were
+a couple years ago. Um I was I guess
+I've been a always like a technicalish
+designer. Like I could I could code a
+bit and I would be able to do some front
+end stuff, but like now I can build
+whole features, you know, and like uh
+and the quickest way to try most things
+is to just try it out in the in a real
+product and live with it. And um that's
+kind of crazy to I wouldn't have
+imagined that was possible like a year
+ago or even. So um yeah, it's really
+it's a really exciting time.
+&gt;&gt; And with the evolution of the product,
+there's also been an evolution of the
+brand. Now many of us who've been using
+Granola for a while, you know, we we
+sort of became familiar with this like
+toothpaste green version of the letter
+G. Um and you guys recently did a
+complete overhaul of it. Um, and it had
+sort of like a lukewarm response
+[laughter]
+in the tech community.
+&gt;&gt; It's basically puke, right?
+&gt;&gt; Keep green.
+&gt;&gt; Everybody's got to eat their
+&gt;&gt; politically correct thing to say. Yeah.
+[laughter]
+&gt;&gt; But I I'm really curious to hear like,
+you know, one clock back. What kind of
+instigated that rebrand? What was sort
+of the the thinking behind it? And then
+what was that creative process like for
+you as the de facto designer co-founder,
+designer chief? Yeah. I mean, so the
+original Granola brand was um uh always
+done like in a hurry when we needed
+something else, you know. We never kind
+of we're like, "Okay, [clears throat]
+we're going to sit down and think about
+our brand." It was like um we needed to
+hire our first engineer and so that we
+looked like a legit company. We needed
+some kind of web page, you know, and um
+and that meant that we needed to decide
+what the web page looked like, which
+mean we needed a color and we needed a
+tie face and stuff. And so, um, uh, the
+original brand was kind of like a few
+moments like that where we we just
+added, you know, okay, now we're gonna
+have this gradient thing, I guess, to to
+cuz we need the intense green that we
+had at the beginning was a bit too much.
+And but there was never like a thought
+through um, process for it. And um, and
+so that always kind of like irked me
+that we never got to really have a shot
+at coming up with a good, you know,
+fully thought out identity. Um, but
+always, you know, as a startup, there's
+a million things to do and and having an
+okay but not great identity wasn't going
+to kill us, you know. Um, but I think
+that and also like, you know, it's as a
+startup, you're always changing
+direction and it's hard to know what
+you're going to be when you grow up and
+you don't want to like overly kind of
+like design an identity that says one
+thing and then pivot massively to
+another direction. Um, so I think we
+kind of uh we we kept punting it down
+the road until we felt like no, I think
+we we know enough about what we might
+want to do over the next couple years to
+to to kind of put a stake in the ground
+and be like this is who we are. Um, and
+so I think we kind of finally arrived at
+that moment like uh beginning of the
+fall last year. And um, what happened at
+that moment? cuz I I'm in my head I'm
+picturing you and Chris sitting down and
+one of you instigates it sort of pushes
+the boulder down the hill.
+&gt;&gt; I don't I don't think it was one of us
+actually. Like I think um uh Jack, our
+product marketing person um I think uh I
+credit him with like finally making it
+happen. And um I think I mean
+I guess I I haven't I' I've like
+bothered me that you know that um the
+granola looks like fine but not great
+for a long time. But also I guess as a
+founder I'm in the luxurious position
+that whatever I say kind of people will
+go along with and so like I can I can
+kind of just decide on a whim every
+design that we do and it's okay. Um but
+I think like you know we had we had um
+Jack our first marketer and we had two
+other product designers by this point
+and I think you know at that point we're
+kind of a mini design team and we've all
+got to collectively agree on what
+granola is going to look like and and
+that was just getting tough you know
+like everyone no one had anything to go
+with so everyone was like uh just making
+up different stuff like all the time and
+a lot of it was good but there wasn't
+really any like unifying idea behind it
+and um so I yeah I think finally
+enough's enough. We're going to kick off
+a process and come up with something
+good.
+&gt;&gt; And what happened in that process?
+Because I feel like as as consumers of
+granola, we see the end result. We sort
+of see this new conceptual universe that
+you've introduced, this new mark that is
+contention sol. It sort of feels like,
+okay, this is not the granola I
+remember. Um,
+&gt;&gt; but between now and when you kicked off
+this project, there's probably a lot of
+stuff on the editing floor. So, what was
+what was the conceptual space that you
+worked through, navigated through? what
+were the questions you were asking
+yourselves and how did you first start
+to arrive at this particular concept?
+&gt;&gt; Yeah, I think um so I guess there were a
+few
+a few moves or like a few things
+directing us to where we wanted to go.
+Um I think
+one we were very aware that um I think
+Granola had a great brand if you think
+of brand in the holistic sense you know
+of just like what does a person think of
+when they think of granola I think they
+think of good things more or less. Um,
+and we really didn't want to [ __ ] that
+up like that. Uh, it's so precious to
+have that. Um, and I think I think the
+primary way we could have messed that up
+was um, uh, rebranding to something that
+felt like we'd lost our soul, you know,
+like we'd gone overly like corporate,
+now we're now selling to companies and
+we're we're a thing that procurement
+teams decide that you should use. And um
+and so the real risk I think was just
+that we we kind of that that we
+announced the brand and everyone's like,
+"Oh man, okay, this granola's granola's
+gone. Like it's I don't feel good about
+like like um you know, having it be a
+companion to my day anymore." Um and so
+we kind of aggressively wanted to push
+for
+granola like feeling like a tool built
+for you, the individual, not for not
+something that a company would buy. like
+if it kind of puts a procurement person
+on edge a little bit and they're like
+are you sure this is like a good thing
+we should do then that's actually
+probably a good thing I think um uh and
+so that that that was a big one and then
+um I think that the second piece is like
+granola is known for not today but I
+think ultimately we have this bigger uh
+trajectory towards helping you get a lot
+of [ __ ] done and um uh this this wasn't
+really like dictated from the start but
+I think through going through a lot of
+ideas and leaving stuff on the cutting
+room floor. Like um the the routes that
+felt most us um were routes that
+actually felt kind of a bit frenetic and
+chaotic and um and like like depictions
+of real work life like um I think
+Granola in Granola there's this
+interesting tension where like the
+product is designed to be super simple,
+right? and to make you feel kind of calm
+and and
+I like the metaphor of like it's it's
+the calm space in front of you while
+while work is kind of is like asking a
+million things of you and moving very
+fast around you. Um and uh and so like
+at the beginning we tried a lot of
+really calm zen brand directions and um
+they all felt just kind of lifeless and
+like not just not like a depiction of
+your of the real world. Um, and so like
+I think where we ended up was actually
+way more energetic feeling and way more
+um a bit messier and there's quite a lot
+of elements and a lot of things you can
+use in it. But um I think it's just it
+one it'll be way more fun to work with I
+think than a lot of the previous
+directions we had and two um I think
+it's just it feels way closer to real
+work life. Yeah. Yeah.
+&gt;&gt; And do you feel like in some ways it
+kind of captures the ethos of the team?
+Because I often feel like sometimes
+brands are more of an expression of the
+culture of the company than than we
+realize. And when you sort of presented
+it to your teammates, what was the
+response internally?
+&gt;&gt; Yeah, it's true. I think I think um that
+was probably like this doesn't feel like
+a thing. the phrase like this doesn't
+feel like a thing that that uh granola
+people would would stand behind was
+probably like
+maybe one of the ones that came up and
+that that cut a lot of the ideas
+honestly like um I think we're as a as a
+team you know we I think we don't like
+to take ourselves too seriously. I think
+there were there were a bunch of
+directions that felt just too high for
+not not like something we could kind of
+stand behind. Um,
+and I think
+we we like really uh I think we we feel
+this in the way we design the product,
+but I think the team really like
+believes in this too. We we really try
+and um
+build for like real life and build for
+like um making a product that actually
+is useful to you that isn't just a like
+a pretty demo or that isn't um trying to
+pander to like the the kind of uh hype
+cycle of of the the the you know Twitter
+and stuff. So um
+&gt;&gt; that really resonates because of all the
+startups that I work with, I think
+Renault is the only one used by my wife.
+It's literally the only one and and and
+she she's a dieh hard user, but I think
+it is because it provides a certain
+amount of like stability to the frenetic
+like I have to remember all these
+details and if they slip through the civ
+then that's I'll have to
+&gt;&gt; suffer the consequences and so it sort
+of provides a safety net. Um, what I
+find curious though is this this idea
+that like you wanted the brand to
+encapsulate not the solution but rather
+&gt;&gt; the wildness of the environment, the
+swirl around us.
+&gt;&gt; Um, say more about that because I'm kind
+of I think for me there's like the mark
+that sits in your in your app icon,
+right? But then there's sort of like
+this like
+&gt;&gt; this universe that you're trying to
+surround the mark with.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; We've all seen V1.
+&gt;&gt; What what does V2 start to look like?
+How does it start to take different
+forms that you guys are exploring right
+now?
+&gt;&gt; Yeah. Yeah, I think I mean um
+I think in the in the like wider
+universe of it, I think uh
+as a company building software, a lot of
+like the practicality is like a lot of
+your brand shows up in like the um
+you're always going to have screenshots
+of your product UI or whatever you on
+the website. And so and and you don't
+change that. You just show the product.
+And so like a lot of the brand is like
+what happens around the edges of it and
+what's the like world you build around
+the product UI you have. And and so
+there like it would it's it's kind of
+like I was saying like uh if granola is
+this simple clean UI that's that's you
+know designed to make you just kind of
+feel calm and in control then then the
+stuff around it has got to depict real
+life and uh and yeah that that was a lot
+of it. Um, I also I kind of mentioned
+this earlier, but I I feel like um we
+have really good designers on the team
+and I kind of
+like I feel like through this process I
+was half thinking about like does this
+solve the job of like what the Granola
+brand needs to do and also just like is
+this going to be really fun to work with
+and are we going to be able to come up
+with some really cool stuff with it? And
+so the fact that it's a little there are
+a lot of elements there and there's
+quite a lot to play with and um it's
+maybe not as cohesive and like unified
+as a lot of brands would be, but I also
+think um good designers will really
+enjoy working with it.
+&gt;&gt; Yeah, it has this quality of like a
+season one of a show where you're like,
+I don't know if all these characters are
+going to stick around, but you know, we
+got enough that it's kind of interesting
+and some of them died and so be it.
+Nobody's going to remember them anyway.
+&gt;&gt; Yeah. [laughter]
+&gt;&gt; Um gosh, I have so many questions. So,
+we're we're at South Park Commons and I
+feel like I I I I have to ask the
+question about like the minus one
+journey. And I think the day that I met
+you was the day that I felt like I saw
+the first version of Granola that we
+know today. Um, prior to that, I had
+been spending time with Chris. Um,
+&gt;&gt; he's hiding in the back, by the way.
+He's not even backstage, but he's
+[laughter]
+&gt;&gt; um I was, you know, spending time with
+Chris on this like voice dictation tool
+that he was building and I was sending
+him all kinds of weird voice memos. Um
+and and and it was the first time that I
+saw a different use case of the same
+technology and you were in the room kind
+of walking through it and it had almost
+like a photocopier effect that kind of
+it was sort of the swipe through the the
+viewport. It kind of like generated the
+the notes.
+&gt;&gt; Yeah. And uh I like to call these
+Jurassic Park moments. I don't know if
+you guys remember the scene in Jurassic
+Park when they stop the tour of Jurassic
+Park to go watch the baby raptors hatch.
+And it's like John Hammond says, he's
+like, I built this whole damn park just
+to be here when they're born. And I feel
+like that's like my career in a
+nutshell. It's to be there when you see
+the first version of something new and
+you're like, there it is. That's the
+feature. It's squishy and it's ugly and
+you have to feed it for a while, but
+it's going to grow up to eat things.
+It's going to be something big and it's
+something new. The world is different.
+Um, but a lot of work goes into what
+happens to hatch that egg.
+&gt;&gt; Yeah.
+&gt;&gt; So, tell us a little bit about your
+startup journey.
+&gt;&gt; Yeah.
+&gt;&gt; How you decided to become a founder and
+what led up to that moment when you and
+I met.
+&gt;&gt; Yeah. Um,
+I mean, uh, I think I've I think I've
+always wanted to do
+I've always been inclined to just like,
+um, work on stuff myself. I'm I'm I'm
+like a kind of independent person to a
+fault. I guess I don't like
+&gt;&gt; You're not enjoying. Yeah. Never good at
+team sports. [laughter]
+Um, so like uh I guess pre- granola, I
+was at a time where I'd been freelancing
+for a while for different startups. um
+uh freelancing because I didn't I didn't
+kind of getting a job felt like a scary
+idea and I didn't could never quite
+commit to it. Um and uh I've been doing
+that for a few years. I'd like saved up
+enough that I could afford to just quit
+and not do anything for a bit. Um and
+I I think if I if I'm like alone in a
+room, I'll naturally want to tinker with
+things and just try out making stuff. Um
+I basically had like six months of doing
+that. Like I every morning I would wake
+up and I'd be like, "Okay, should
+probably like apply to some jobs today."
+And I would like, you know, start making
+lists of jobs to apply to and things.
+And then um and within half an hour be
+distracted and like hacking on a on a
+thing instead. Um
+and I was uh I guess previous to
+Granola, I was working on another
+and I, you know, I quit that, but I
+still, I really enjoyed working on that
+kind of product. Like, um, super general
+purpose,
+uh, tools, like productivity tools. I
+think they're, if you do them really
+well, then they they're like a really
+integral part of someone's life, you
+know, like people pour a lot of
+themselves into it, and it's a very
+satisfying kind of thing to work on, I
+think. Um, so I basically quit working
+on a note-taking app, but then ended up
+trying to build my own noting app in my
+own time. Um, and a few months into
+that, I met Chris. Um, and and Chris was
+uh at a doing a similar thing, I guess,
+like he'd also quit was also trying to
+do a startup. Chris had more
+intentionality, I think, about about how
+he was spending his time, like actively
+looking to to do a startup. Um, and so
+we found each other. Um, Chris, I think,
+was was spending his time playing a lot
+with GPT3 at the time. um and and I
+think had successfully like and
+correctly convinced himself that it was
+going to change the world. Um honestly I
+was not so convinced. I was like
+I remember I remember um yeah no I
+really I was like it's cool but whatever
+you know like
+&gt;&gt; everyone everyone complains about slop
+today but like the slop was really bad
+in GPT3 days.
+&gt;&gt; Yeah. Yeah. Yeah. Um and uh so I yeah we
+we we had a while of just like
+independently Chris was building
+prototypes with GPT3. I was continuing
+to hack on this note-taking app. Um I
+think eventually we kind of we decided
+we like working together and we we
+wanted to and and also like I think
+spending time together our ideas kind of
+started looking more and more alike. Um
+and there came a point I think a few
+months into that where we were like okay
+cool that's this is fun like let's let's
+try and do something. Um, and uh, we
+both I think uh, Chris is like a like a
+the best like product thinker I think
+I've ever worked with. And um, uh, I
+think we both were super keen like we
+were like if we're going to work on
+something then we really really need to
+find like a concrete um, use case to
+work on and and and build towards. Like
+I think
+I I definitely learned from working on
+of building general purpose tools is you
+can you can build something that's like
+nice but also nobody really cares about.
+And um and I think the antidote to that
+is like really really focusing on a
+particular moment in someone's life that
+is painful and trying to solve it. Um
+and so we're both kind of paranoid about
+that. And um and so
+because of that like um we kind of
+deliberately down tools on the things we
+were working on and we're like okay
+we're going to just go hunting for a
+problem for a little while um and
+open-endedly just started talking to
+friends and and people we knew about
+their work life um and this went on for
+like a month or so. And I think uh
+during that you know we was we just
+started off by just talking to people um
+and then you know you you talk to five
+people and you can't help but have ideas
+about what would help them. And so we
+started building prototypes of of things
+that would help them. Um, and then by
+the end of that month, we I think we had
+I think not the version that you were
+describing, but like a a really really
+janky version of it. Um, where you could
+like uh transcribe something someone was
+saying and then type a word and have
+Granola like autocomplete a sentence off
+the back of it. Um, it was just like one
+interaction. like it literally it was
+like a a text input button and then a
+and then a little field to the right and
+you would like type a keyword hit the
+button and the note would generate on
+the right. It was not at all like a
+usable product.
+&gt;&gt; Um but the one interaction just felt
+interesting enough like there could be
+something there that um I think we were
+kind of intrigued enough to keep pulling
+on that thread.
+&gt;&gt; And uh I think the thing we showed you
+was basically like what if we took that
+interaction put it in a familiar feeling
+UI like a notepad. um and let you do do
+that many times over during the course
+of the meeting. Um
+&gt;&gt; yeah, and that's kind of how we got to
+the first prototype.
+&gt;&gt; And I appreciated that it happened after
+the meeting. I felt like that was the
+key insight that it wasn't sort of
+interrupting.
+&gt;&gt; Well, no, at the beginning it didn't.
+&gt;&gt; At the beginning it didn't. It was um it
+was all real time like we uh we were
+trying to um uh it was kind of like a
+GitHub copilot for for notes. Like it
+would um you just type keywords, hit
+tab, it would autocomplete the thing.
+And um though like doing it after a
+meeting took us a while. It was like a
+uh I think we got stuck on the the you
+should be able to take notes with AI in
+real time for a good like six months I
+think before we we figured out that
+actually no it's too much and just doing
+it all in one pass after the meeting is
+the way. What do you feel like is the
+lesson there for like teams that are in
+that particular part of the idea base
+where like ah gosh there's something
+here but we haven't quite cracked the
+form factor.
+Like when you look back on that period
+of exploration,
+obviously knowing the solution is worth
+knowing, but like what advice would you
+give for teams that are squarely in that
+space?
+&gt;&gt; Yeah, I mean I don't I don't think we I
+don't think we did it optimally like we
+we were banging our head against the
+wall trying to make like real time AI
+months. Um kind of and I think just kind
+of enamored with how like science
+fiction it felt like the idea of it. Um,
+so if I could wind back the clock, I
+would go for like way more wide uh, you
+know, we were kind of like doing like
+little step-by-step iterations on on the
+thing. And uh, I would have tried to
+deliberately go way more broad to see
+how different things felt. Yeah. And um,
+I guess there's also this undertold
+story of, you know, you're navigating a
+specific kind of relationship. This is
+your first time co-ounding a startup,
+correct?
+&gt;&gt; Yeah. Um, so
+that changes your self-concept. That's
+also a question of like, okay, do I team
+up with this person? Like, how permanent
+decision is this? Um, what advice do you
+have to to designer founders as they're
+kind of navigating that specific
+arrangement or like, okay, am I going to
+start a company with this this person?
+Like, what questions should they be
+asking? Um, and how I guess afterwards
+you can talk a little bit about how that
+relationship has evolved as you went
+from this idea that's kind of started
+working to the business that exists
+today.
+&gt;&gt; Yeah. Um,
+&gt;&gt; this would have been much easier to ask
+if Chris wasn't here. By the way,
+[laughter]
+&gt;&gt; he's closing the door for the record. In
+my defense, in my in my defense, I
+thought Chris was going to be on an
+airplane flying back to London right
+now. [laughter]
+&gt;&gt; So, give us a real dirt, man.
+We we had like a um uh it's like I think
+I think the beginning of our
+relationship was embarrassingly like a
+real dating relationship, you know, like
+as in as in we kind of took it slow and
+we were like uh uh hanging out socially
+and then co-working next to each other
+and then trying out working on ideas
+together and then and then uh honestly I
+think you saying you were interested in
+putting a check-in was the moment where
+we were like, "Oh boy, is this is this
+are we getting married?" [laughter]
+and and we we went for a long serious
+walk and Chris was like, "Sam, you know,
+this is this is a this is a big deal.
+Are you sure you want to do this?" And
+[laughter]
+&gt;&gt; yeah, I mean, how did you answer that
+question for yourself? Like the the the
+whole like commitment part?
+&gt;&gt; Yeah. I mean, I didn't like initially. I
+was like, "Oh, [ __ ] Yeah, I should go
+think about this." Um but uh uh I think
+I think for me it was just like like
+this was just a combination of like um I
+know I've always kind of wanted to get
+to work on a thing that I got to build
+from the ground up. And um
+this is like this a great combination of
+like a person I really like working with
+um who I think makes me better at what I
+do. And uh and it's it's a kind of tool
+that it's like the kind of tool that I
+was hacking on choosing to hack on every
+day like in my own time and and now I'm
+going to get to do it like like as my
+job as my full-time thing. Um so I mean
+I I think the the scary stuff for me was
+like um
+I've always just been like an an IC
+designer. I think always the first like
+the only designer on the team. I never
+worked and I never worked as a team
+bigger than like 10 people before I
+think. Um so like the the
+honestly I was like very excited about
+the first year you know or whatever of
+like um let's just figure out version
+one of the product but then like the
+what happens if it's actually successful
+was like oh it's kind of I I basically
+solved that by not thinking about it you
+know I was like whatever like if we get
+there then great we'll um we'll make it
+up as we go along from there but yeah
+&gt;&gt; and what have been some of the biggest
+surprises along the way I mean startups
+are notoriously hard even when things
+are going super well. And so when you
+look back on like what you thought the
+role was going to entail, what it's
+actually required of you, how has
+Granola changed Sam?
+&gt;&gt; Yeah, many many many ways. Um uh I think
+I think um
+I think a thing we had to learn for the
+first year especially like when we were
+this was like we'd started working we'd
+raised some money but we hadn't launched
+the product we were just iterating
+trying to figure out what version one of
+the product was um was uh
+uh it was incredibly like
+I feel
+my [clears throat] um what's the word?
+Day by day I could I could feel like,
+man, we're really on to something. We're
+going to we're going to make it. And
+then the next day, it would be like, oh
+Jesus, like uh like somebody's just
+announced some really cool thing.
+Doesn't that kind of make us irrelevant?
+Or like uh um ah the nobody's using the
+product today. What's going on? Um
+um I would I was It was a real like up
+and down roller.
+&gt;&gt; It's the weekend. People aren't working.
+&gt;&gt; Yeah. Yeah. Yeah. And and and like most
+of this had not much basis in reality,
+you know, it's just like how how do you
+wake up and how do you feel on a on a
+given day? Um but like I guess
+I I never worked on a big team, you
+know. I'd always worked on tiny teams as
+the only designer. But even then a team
+that has momentum has momentum and
+certain momentum carries you forward day
+by day. Um and uh it was kind of I mean
+I mean I was working with Chris and and
+with the early engineers so I we had
+some momentum between us but like uh you
+know when you're that tiny you you have
+to provide your own steam like every day
+to keep going. It's hard. Yeah.
+&gt;&gt; And I can't help I but like raise the
+fact that again you guys are building
+this in London, right?
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; What is it about the ecosystem? How how
+is Granola a uniquely British or London
+startup? Like what is it about the place
+in which you work that maybe feeds
+itself into the product? Because I often
+encounter folks that are assuming that
+oh I thought they were in New York or I
+assumed it was out in the Bay Area. I
+had no idea that it's built in a wholly
+different country. Yeah. And that's the
+thing that I find most romantic about
+this particular company is that it is
+&gt;&gt; London native. What what what do you
+think feeds into
+company building, product development
+that comes from the London environment?
+&gt;&gt; Yeah, I think I think um
+uh I think I honestly I think there are
+a bunch of disadvantages to to being in
+London as well. Like like everyone was
+trying to persuade us to come to San
+Francisco in the first year for very
+good reasons. [laughter]
+But uh I am I'm very proud that we are
+in London and I and I feel like now
+uh I wouldn't be anywhere else like we
+like it's a great place to be. Um I
+think the benefits though of it have
+been like uh
+um even when we were tiny um we and we
+like put up our hand you know and we're
+like hey we you know we want people to
+come work with us and and build
+something together. um
+we got to it's just a it's a much
+smaller pond and it's definitely a much
+smaller pond in the kind of thing that
+we're building there. There really
+aren't many teams in London uh trying to
+you know like help people be better at
+work with AI. Um there's a lot of
+fintech stuff. there's a lot of uh
+there's a lot of kind of B2B stuff, but
+um I think we we got to be like one of
+the few voices uh and and therefore like
+a bit of a I don't know like a magnet
+hopefully for the for the right kind of
+people. Um and you know, we deliberately
+tried to make like our our like first
+hiring manifesto kind of romantic and
+kind of like dreamy and and to try and
+find those people wherever they were in
+London. Um and uh I think
+what's nice now is we're like a team of
+50 in London and um uh from getting
+those first few that were drawn to the
+vision and to working on this kind of
+product that's kind of snowballed really
+beautifully I think to to to now we're
+50 people who think like that and care
+about that. And um uh I I think just in
+a in a more competitive space where like
+San Francisco where there are more teams
+who think like that and build like that.
+Um I think we would struggle to to to
+like have such a unique kind of culture.
+&gt;&gt; I I want to touch on culture because you
+know I feel like that's one of the key
+responsibilities for the founding team.
+How has your toolkit applied itself to
+developing and and cultivating the
+culture of Granola? Like what what have
+you found to be useful? What advice do
+you have to founders that are now on
+that part of the journey of like okay
+now that the company that I build is the
+team that I build? Um how can a designer
+founder apply that toolkit to that
+exercise?
+&gt;&gt; Um it's a good question. Uh,
+&gt;&gt; how do you think about like managing
+culture at Granola?
+&gt;&gt; Yeah, I I think
+um what are the things you've done?
+Well, I I we had this great piece of
+advice by by um an investor's uh um
+internal recruiter like we were we were
+trying to hire our first engineers and
+we spent an afternoon with them, them
+helping us like figure out how to do
+that. And um I remember Chris and me
+were getting really anxious about um
+like we need a we were a team of two or
+three or something at that point and and
+we were like we need we need to hire
+like uh wide ranging different kind of
+person and like we should be like um we
+shouldn't be too close-minded and we
+should we should like um if someone
+comes to us and they're not exactly like
+us, we should consider it because you
+know we want to have different points of
+view and things like that and and um
+and and this this this adviser was
+basically like nah nah [laughter]
+like you you're you're like two people
+uh and and ultimately like you're the
+founders of the company at this stage
+like you're deciding your own destiny
+and whether you like it or not the
+company's going to be a reflection of
+you like like that's just going to
+happen whether you like it or not and
+you fight it like only bad things are
+going to happen and and really just you
+got to lean into it. Um, and I I found
+that personally incredibly helpful. It
+just helped me relax about like
+basically like a lot of a lot of our
+early hiring decisions, you know, we're
+like we do the basic stuff to to
+determine whether the person feels
+competent, but then you're like, am I
+going to enjoy spending my my days with
+this person and does this person give me
+energy? And um, yeah, I I think I
+initially felt really bad about
+listening to that voice inside of me,
+but like but now it's it's most of how I
+decide who I want to hire and and it's
+surfaced well so far. Are there other
+qualities that you look for in addition
+to just I got a good vibe with this
+person?
+&gt;&gt; Yeah, I I think um uh
+for Granola specifically, we we kind of
+look in everyone for like a high degree
+of empathy and like care for like
+um if it's an engineer, we we want to we
+want to believe that they really care
+about the person that they're solving
+the problem for. Um we've we've turned
+down a lot of really really competent
+engineers who get overly excited about
+the technical problem in front of them
+and forget that it's a human being that
+they're trying to solve the technical
+problem for. Um but I think that kind of
+applies to to all disciplines, you know.
+I think I think the
+I think some of the most successful
+people we've hired have been like
+enthusiastic granola users and have
+really felt the like how it's helped
+them in their life before. And um Yeah.
+Yeah. I I feel like when when you build
+a company as a designer co-founder, one
+of the things that I've heard repeatedly
+is that it it's become a direct
+expression of your own design
+philosophy. Um what are you starting to
+see echo back? What qualities are you
+seeing in Granola the company, Granola,
+the product that reminds you of you
+where you're like, "Oh yeah, that is me.
+That's it's it's coming back to me."
+Um that's a good question. Uh,
+I think we like
+I'll include Chris in this. I think we
+we like we like to have fun and we like
+not to take ourselves too seriously. And
+I think that comes across in like the um
+I mean fact I think the fact that the
+name Granola Stuck was like part of it's
+like a good uh expression of that. And I
+think that's like permeated through the
+team and I think shows up in like um
+like crunched the the Spotify rap thing
+we did um in the holidays. Um, did
+anyone else feel like they peered into
+their soul? [laughter]
+Um, for those of you unfamiliar, the
+crunch was a a year-end feature that
+basically synthesized, you know, months
+and months of meeting notes and provided
+like highle overviews on like your
+relationships, your personality traits,
+I don't know, a whole bunch of things
+that I I felt were like deeply
+validating because it was a summary of
+like, yeah, this is how I spent the past
+year collaboratively, the kinds of
+conversations I have, the advice that I
+give, and I've got the receipts to show
+it. Yeah. It turns out Granola knows
+what more about me than I realized.
+&gt;&gt; Yeah. Yeah. Yeah, it was a it was a
+beautiful thing because it was um I
+think Chris and I both thought it was a
+bad idea and [laughter]
+and and kind of dismissed dismissed it
+for a long time and like you know and
+and just really went into it and uh you
+know it's like it's like it's going to
+be a ton of effort. It's going to be
+over in a day and then it's going to
+dissolve into nothing and like come on
+can't we can't we spend our time on more
+lasting things? Um, but the team fought
+for it rightly and and it's basically
+like I think Chris and I had basically
+no involvement in making it happen. It
+was all uh folks on the team. But I feel
+like it like encapsulates so much of the
+soul of of the company and and like and
+the reasons crunched is different to
+things that you've seen before in
+software is like I think also true of
+how granola is different as a team to to
+other teams out there.
+&gt;&gt; Yeah. Now, I think Sam deserves a little
+bit more credit for doing what I I find
+to be a really brave thing, which is to
+put yourself into your product
+onboarding. Um, and so for many of you
+who installed Granola, part of the the
+the unpackaging of Granola is having
+your first meeting and it's a meeting
+with with with with Granola Sam and he
+kind of explains in practice like how
+the application works and um I think
+much of the early traction you enjoyed
+was just how streamlined that onboarding
+was, but you didn't have to push
+yourself in it. And so like who's
+&gt;&gt; nobody else would. [laughter]
+&gt;&gt; That's right.
+Well, say a little bit more about that
+because you know I appreciate that you
+stepped up and and you did it and you
+sort of became a part of of the product
+and in the process.
+&gt;&gt; Yeah, it was uh I mean we tried a lot of
+other things too like we were it was
+really um uh
+we were really conscious that like just
+the biggest way the product would could
+fail I think at the beginning was like
+uh just had this hard problem where the
+aha moment of the product is is when the
+notes generate at the end of a meeting.
+in order to get that aha moment. Like if
+you had to sign up to the product on uh
+Tuesday lunchtime at 12:47, but then
+your next meeting is at 3:00, you know,
+we've lost you. Like there's no there's
+no way you're going to you're going to
+you're going to be like, "Oh, what's
+this thing granola? Download, click the
+button, install, go through the
+onboarding, um get to a homepage, be
+like, all right, nothing to do." And
+then close it and forget about it. Um,
+and so like it kind of felt like if we
+didn't get you to that aha moment
+immediately that we just we've lost you.
+Um, and uh, yeah, we tried a bunch of
+things like the the the video was kind
+of a last resort because it's pretty
+heavy lift to make it to make it work.
+Um, not totally last resort. The other
+idea was that we have we employ people
+to be on a permanent Zoom call and so
+you could just [laughter] you uh you
+could always just like as soon as you
+land you click and there's somebody
+there to say hi and show you around.
+&gt;&gt; Um but uh yeah, this is the compromise.
+Um so
+yeah. Yeah, we put it up and it was it
+was basically like we we we need to just
+give you the bare minimum to feel
+comfortable and then get you to that aha
+moment as quickly as possible.
+&gt;&gt; Right. I still like this idea of like a
+professional chat roulette as a part of
+your granola onboarding experience.
+Might want to bring that back. Um early
+on you mentioned that you think of these
+productivity tools as something that's
+deeply personal like a vessel that we
+put our lives into and that really
+resonated. Um how are you navigating the
+tension of of of a single player
+resource, something that is mine versus
+the natural collaborative aspects of a
+granola.
+&gt;&gt; Yeah. that have a teamwide context, a
+professional context, a context that
+spills way outside of personal life.
+&gt;&gt; Yeah.
+&gt;&gt; Um I feel like so many startups fail at
+answering this question because they get
+stuck
+&gt;&gt; in single player mode and my Facebook
+brain is immediately like
+&gt;&gt; you know raise the alarms make
+&gt;&gt; the conversations with you have been
+very helpful in making us like wake up
+to the fact that that
+&gt;&gt; but it's al but there's also real
+genuine tension here because people that
+use granola today do treat it as a as a
+private resource. So, how are how are
+you currently navigating that from the
+design standpoint?
+&gt;&gt; Yeah, I I think um uh it's it's tough
+and I don't think we've nailed it yet,
+honestly. Like um I think a lot of the
+initial success like like when you
+download Granola and you don't know what
+what this thing is um is that it feels
+private, intimate, safe, like it feels
+like a notes app that you're used to.
+And a notes app you're used to is yours.
+You know, you can write whatever you
+want in there and no one's going to see
+it. Um and so I think I think that's
+just so important to us that I think we
+have to keep it. And um and I also think
+like from you know we've we've I feel
+like we've um
+we've done like the equivalent of like
+uh
+we've been like therapists for for for
+people's people people's meeting
+behavior. You know, at this point, we've
+like talked to hundreds or thousands of
+people about how they do meetings and
+how they take notes and and um I think a
+universal truth there is like uh part of
+taking notes is is like having a space
+for your brain to feel free and safe to
+just write down the [ __ ] that that it
+wants to. And a lot of what we put on
+the paper like when we're taking notes
+is like
+um kind of stupid or like uh it's it's
+definitely not something that you want
+someone else to see. and and um and I
+think if granola doesn't support and
+encourage that behavior, then I think
+we're dead in the water. Like I think
+we've got to we got to meet you where
+people are and and that's like they want
+to have a place to write that's theirs.
+Um yeah, so for those reasons, I feel
+like Granola is basically I think we're
+we're on a path where we have to be kind
+of default private to you in a lot of
+scenarios. Um and yeah, then the
+challenge is like there's also this
+incredible value in teams using Granola
+together and how do you bridge that gap?
+Um I think
+we're still figuring this out honestly
+like like I think um at the moment the
+the we have um uh this concept of team
+spaces where you can uh uh like put like
+folders you know you put the the meeting
+notes that you're okay being shared into
+shared spaces um we have some suggestion
+mechanics to try and make that easy. Uh,
+and I think we have a whole team at the
+moment working on like a how do we make
+this as frictionless as possible but
+still like keep your individual agency
+to to like feel like you're in control
+of of you know making sure that things
+you say are in have the privacy level
+that's appropriate to them. Um,
+it's it's like they'll uh I could see
+this evolving a lot over the next couple
+months. So we we we're playing with like
+um real-time collaboration in the
+notepad at the moment. And uh that
+surprisingly feels to me at least okay a
+lot of the time to to maybe be a default
+on thing like internally in a team like
+if if you're just meeting with folks
+that you meet with a lot and you feel
+kind of safer with them and it feels
+more okay to share the notepad. Um
+&gt;&gt; hard to agree here. Yes.
+&gt;&gt; Yeah. Yeah. But but like less okay. You
+wouldn't want if you're doing a sales
+call, you don't want to share the
+notepad with the person you're trying to
+sell to, right? That's that would be a
+really bad idea. So, uh, so there's
+there's like tons of social nuance to
+navigate here to make it feel okay.
+&gt;&gt; Yeah.
+&gt;&gt; I, um, gosh, I have so many questions. I
+I really want to talk a little bit about
+the road ahead. Um, because
+as you're aware, as we're aware,
+everyone's seeing Granola's lead and
+they're like, "Oh, wow. That's really
+smart. I should put this in my Zoom
+application." Notion's like, "I should
+put this inside my notion platform." and
+you're going to be facing competitive
+pressure from incumbents and startups
+across the street from here. Um, how are
+you navigating the competition that's
+emerged? What do you think is going to
+have to be true for Granola to prevail?
+Um, and then where do you hope to see
+the product evolve? What can this room
+kind of expect from Granola um under
+this new brand in the year 2026? Yeah, I
+think on the on the like um on the first
+part of that, I think uh
+there so many companies are trying
+really cool things out there, you know,
+and so we're obviously constantly
+looking and being inspired by good ideas
+that other people have that we can
+incorporate into Granola. Um, but I
+think uh we also have to play to our
+strength and I think the the the big
+strength that we have is that um people
+that use granola use it habitually for
+all their meetings. It's like a starts
+to feel like a prosthetic over time and
+um I think we really have to protect and
+encourage that habit because that's kind
+of the groundwork for everything we want
+to do in the future. Um, and that means
+keeping the product really simple,
+really streamlined in the the core like
+flow that that everyone's used to. Um,
+yeah. So, and I think like um
+it's a hard thing to copy. It's a it I
+don't know. It's like a and it's also a
+hard thing to put I can't really put my
+finger on like what about granola makes
+people feel that way, you know? It's
+like probably the sum of a bunch of
+things. Um,
+so yeah, we got to we got to protect
+that. And then I think in the in the
+future I think that the game for us is
+like the world is evolving so quickly
+and it's where like um uh AI is letting
+us do so much more you know like like
+Claude co-workers is is like so so
+bloody impressive like and uh I think
+like
+I I think the the our kind of philosophy
+has always been like um
+we you know as much as possible we want
+to ride these waves. Like when people
+come up with good stuff like this and
+and it makes sense to incorporate the
+product, we we should um and so I think
+there are there are parts of what these
+general purpose AI products offer that
+we will be able to do better because we
+have the context of what's happening in
+your meetings. We're like a thing that's
+already on your screen because you just
+used this in in your last meeting. Um
+and uh I think the brand also helps with
+that. like I think a brand that you that
+you trust and that feels personal. It's
+like a an important thing in making you
+feel okay to to to kind of to work with
+very closely. Um so yeah, we have I
+think I think we have to try and just
+incorporate the the best of the
+technology world out there in a way that
+makes sense for us. Um, and also I I
+think um it's very tempting to kind of
+uh and I feel this especially in San
+Francisco talking to people because it's
+such a hype driven place, you know, like
+uh um we're always like chasing the next
+the next idea and the next idea. Um, and
+the thing that helps me stay sane, I
+think, is is remembering that like uh
+most real people like this isn't the
+real world here, you know, and like most
+real people out there like like I don't
+know what the [ __ ] to do with Claude yet
+or like any of these things. And um and
+so if we can just nail like being really
+useful at one very specific thing um on
+top of meeting notes, that's already a
+huge deal for most people like and and
+um and yes, we should make really
+powerful open-ended tooling for for like
+people in San Francisco, but also for
+the rest of the world like if just small
+steps done really really well, I think
+can lead to a product that that is is
+used by by tons and tons of people.
+&gt;&gt; I love it.
+&gt;&gt; Yeah,
+&gt;&gt; that's a wonderful note to end on. Um,
+Sam Stevenson, thank you so much for
+spending your time with us. I know you
+didn't fly all the way out to have this
+conversation, but I'm grateful you're
+here. Thank you. Thank you for your
+question, Bridget. Thank you all.
+[applause]

@@ -1,0 +1,24 @@
+{
+  "mode": "daily",
+  "lookback_days": 1,
+  "generated_at": "2026-03-21T23:43:15.360970+08:00",
+  "since": "2026-03-20T23:43:15.360970+08:00",
+  "items": [
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "Terence Tao – How the world’s top mathematician uses AI",
+      "url": "https://www.youtube.com/watch?v=Q8Fkpi18QXU",
+      "upload_date": "20260321",
+      "published_at": "2026-03-21T00:29:48+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260321-terence-tao-how-the-world-s-top-mathematician-uses-ai"
+    }
+  ]
+}

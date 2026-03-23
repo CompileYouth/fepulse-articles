@@ -1,0 +1,7 @@
+interface:
+  display_name: "FEPulse 公众号改写"
+  short_description: "将归档原文整理成可发布的 FEPulse 公众号文章"
+  default_prompt: "Use $fepulse-wechat-publisher to turn archived FEPulse source material into a publish-ready WeChat article."
+
+policy:
+  allow_implicit_invocation: true

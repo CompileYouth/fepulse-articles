@@ -1,0 +1,118 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260323-105007/links.json",
+  "results": [
+    {
+      "source_id": "lennys-podcast",
+      "title": "The single most important skill outside of AI | Jessica Fain (Webflow, ex-Slack)",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-the-single-most-important-skill-outside-of-ai-jessica-fain-webflow-ex-slack.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-r42rbvu3/RP4vJeIb7WU.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-r42rbvu3/RP4vJeIb7WU.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-the-single-most-important-skill-outside-of-ai-jessica-fain-webflow-ex-slack.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "dwarkesh-patel",
+      "title": "Terence Tao – How the world’s top mathematician uses AI",
+      "url": "https://www.youtube.com/watch?v=Q8Fkpi18QXU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260321-terence-tao-how-the-world-s-top-mathematician-uses-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-wz9zbddb/Q8Fkpi18QXU.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260321-terence-tao-how-the-world-s-top-mathematician-uses-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Simon Willison: Engineering practices that make coding agents work - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=owmJyKVu5f8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-simon-willison-engineering-practices-that-make-coding-agents-work-the-pragmatic-summit.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-xkp_d1fi/owmJyKVu5f8.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-xkp_d1fi/owmJyKVu5f8.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-simon-willison-engineering-practices-that-make-coding-agents-work-the-pragmatic-summit.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
+      "url": "https://www.youtube.com/watch?v=HjopX519nXg",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-gtc-101-shorts.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9id0icfc/HjopX519nXg.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-gtc-101-shorts.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "south-park-commons",
+      "title": "Granola's Sam Stephenson on Intentional Design and the Future of Notetaking",
+      "url": "https://www.youtube.com/watch?v=jkKfZMgJZ28",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-granola-s-sam-stephenson-on-intentional-design-and-the-future-of-notetaking.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nrg31z6c/jkKfZMgJZ28.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nrg31z6c/jkKfZMgJZ28.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260319-granola-s-sam-stephenson-on-intentional-design-and-the-future-of-notetaking.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Building WhatsApp with Jean Lee",
+      "url": "https://www.youtube.com/watch?v=5Kn32cIWPSY",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-building-whatsapp-with-jean-lee.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tdagv5lq/5Kn32cIWPSY.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tdagv5lq/5Kn32cIWPSY.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-building-whatsapp-with-jean-lee.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "url": "https://www.youtube.com/watch?v=jnYWv_0MzBw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-item.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9c04s_lm/jnYWv_0MzBw.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-item.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "America's $1 Trillion Deficit and The AI Plan to Fix It | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=OqS0w1h9lRs",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-america-s-1-trillion-deficit-and-the-ai-plan-to-fix-it-deep-dives-with-a16z.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ii7dgedn/OqS0w1h9lRs.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ii7dgedn/OqS0w1h9lRs.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-america-s-1-trillion-deficit-and-the-ai-plan-to-fix-it-deep-dives-with-a16z.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "How Every Edits in the Age of AI",
+      "url": "https://www.youtube.com/watch?v=Uif_qAcgnLk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-how-every-edits-in-the-age-of-ai.txt",
+      "status": "error",
+      "error": "No public subtitles found."
+    },
+    {
+      "source_id": "every",
+      "title": "Naveen Is a Dictater",
+      "url": "https://www.youtube.com/watch?v=dbSQippLw9o",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260317-naveen-is-a-dictater.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tq6cokd8/dbSQippLw9o.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tq6cokd8/dbSQippLw9o.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260317-naveen-is-a-dictater.txt",
+      "status": "ok"
+    }
+  ]
+}

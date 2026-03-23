@@ -1,0 +1,41 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260323-104416/links.json",
+  "results": [
+    {
+      "source_id": "lennys-podcast",
+      "title": "The art of influence: The single most important skill left that AI can’t replace | Jessica Fain",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-the-art-of-influence-the-single-most-important-skill-left-that-ai-can-t-replace-jessica-fain.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5xzanlh7/RP4vJeIb7WU.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5xzanlh7/RP4vJeIb7WU.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-the-art-of-influence-the-single-most-important-skill-left-that-ai-can-t-replace-jessica-fain.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Nicole Forsgren: Leading high-performing engineering teams in the age of AI - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=DfrAaDgFgjc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-nicole-forsgren-leading-high-performing-engineering-teams-in-the-age-of-ai-the-pragmatic-summit.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gwmv8pjm/DfrAaDgFgjc.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gwmv8pjm/DfrAaDgFgjc.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-nicole-forsgren-leading-high-performing-engineering-teams-in-the-age-of-ai-the-pragmatic-summit.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Product-minded engineers in an AI-native world",
+      "url": "https://www.youtube.com/watch?v=0Cv5763UX70",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-product-minded-engineers-in-an-ai-native-world.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5vo59mjn/0Cv5763UX70.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5vo59mjn/0Cv5763UX70.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-product-minded-engineers-in-an-ai-native-world.txt",
+      "status": "ok"
+    }
+  ]
+}

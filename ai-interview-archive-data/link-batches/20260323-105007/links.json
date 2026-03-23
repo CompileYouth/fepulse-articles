@@ -1,0 +1,183 @@
+{
+  "mode": "weekly",
+  "lookback_days": 7,
+  "generated_at": "2026-03-23T10:50:07.091790+08:00",
+  "since": "2026-03-16T10:50:07.091790+08:00",
+  "items": [
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "The single most important skill outside of AI | Jessica Fain (Webflow, ex-Slack)",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260322-the-single-most-important-skill-outside-of-ai-jessica-fain-webflow-ex-slack"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Nicole Forsgren: Leading high-performing engineering teams in the age of AI - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=DfrAaDgFgjc",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-nicole-forsgren-leading-high-performing-engineering-teams-in-the-age-of-ai-the-pragmatic-summit"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Product-minded engineers in an AI-native world",
+      "url": "https://www.youtube.com/watch?v=0Cv5763UX70",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-product-minded-engineers-in-an-ai-native-world"
+    },
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "Terence Tao – How the world’s top mathematician uses AI",
+      "url": "https://www.youtube.com/watch?v=Q8Fkpi18QXU",
+      "upload_date": "20260321",
+      "published_at": "2026-03-21T00:29:48+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260321-terence-tao-how-the-world-s-top-mathematician-uses-ai"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Simon Willison: Engineering practices that make coding agents work - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=owmJyKVu5f8",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260319-simon-willison-engineering-practices-that-make-coding-agents-work-the-pragmatic-summit"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
+      "url": "https://www.youtube.com/watch?v=HjopX519nXg",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260319-gtc-101-shorts"
+    },
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "Granola's Sam Stephenson on Intentional Design and the Future of Notetaking",
+      "url": "https://www.youtube.com/watch?v=jkKfZMgJZ28",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260319-granola-s-sam-stephenson-on-intentional-design-and-the-future-of-notetaking"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Building WhatsApp with Jean Lee",
+      "url": "https://www.youtube.com/watch?v=5Kn32cIWPSY",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260318-building-whatsapp-with-jean-lee"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "url": "https://www.youtube.com/watch?v=jnYWv_0MzBw",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260318"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "America's $1 Trillion Deficit and The AI Plan to Fix It | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=OqS0w1h9lRs",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260318-america-s-1-trillion-deficit-and-the-ai-plan-to-fix-it-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "How Every Edits in the Age of AI",
+      "url": "https://www.youtube.com/watch?v=Uif_qAcgnLk",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260318-how-every-edits-in-the-age-of-ai"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "Naveen Is a Dictater",
+      "url": "https://www.youtube.com/watch?v=dbSQippLw9o",
+      "upload_date": "20260317",
+      "published_at": "2026-03-17T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260317-naveen-is-a-dictater"
+    }
+  ]
+}
