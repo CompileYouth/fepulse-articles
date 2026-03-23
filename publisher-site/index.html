@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FEPulse 发布助手</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <div>
+            <p class="eyebrow">Publisher</p>
+            <h1>FEPulse 发布助手</h1>
+          </div>
+          <button id="refreshButton" class="ghost-button">刷新</button>
+        </div>
+
+        <div class="tab-bar">
+          <button id="selectedTab" class="tab-button active" type="button">精选</button>
+          <button id="briefsTab" class="tab-button" type="button">简报</button>
+        </div>
+
+        <div id="selectedPanels">
+          <section class="article-group">
+            <div class="group-header">
+              <h2>待分配时间</h2>
+              <span id="unscheduledCount" class="count-badge">0</span>
+            </div>
+            <div id="unscheduledList" class="article-list"></div>
+          </section>
+
+          <section class="article-group">
+            <div class="group-header">
+              <h2>已分配时间</h2>
+              <span id="scheduledCount" class="count-badge">0</span>
+            </div>
+            <div id="scheduledList" class="article-list"></div>
+          </section>
+        </div>
+
+        <div id="briefPanels" class="hidden">
+          <section class="article-group">
+            <div class="group-header">
+              <h2>未读</h2>
+              <span id="briefUnreadCount" class="count-badge">0</span>
+            </div>
+            <div id="briefUnreadList" class="article-list"></div>
+          </section>
+
+          <section class="article-group">
+            <div class="group-header">
+              <h2>已读</h2>
+              <span id="briefArchivedCount" class="count-badge">0</span>
+            </div>
+            <div id="briefArchivedList" class="article-list"></div>
+          </section>
+        </div>
+      </aside>
+
+      <main class="main-panel">
+        <header class="main-header">
+          <div>
+            <p class="eyebrow">Preview</p>
+            <h2 id="articleTitle">请选择一篇文章</h2>
+            <p id="articleMeta" class="meta-text"></p>
+          </div>
+          <div class="action-row">
+            <input id="scheduleDateInput" class="hidden-date-input" type="date" />
+            <button id="scheduleButton" class="ghost-button hidden" type="button">设置发送时间</button>
+            <button id="promoteButton" class="ghost-button hidden" type="button">精选</button>
+            <button id="copyButton" class="primary-button" disabled>复制带样式内容</button>
+          </div>
+        </header>
+
+        <div id="statusBar" class="status-bar">加载文章列表中…</div>
+        <section id="preview" class="preview empty-state">
+          选中左侧文章后，这里会直接加载 markdown 并渲染。复制时不会预先生成独立 html 文件。
+        </section>
+      </main>
+    </div>
+
+    <template id="articleItemTemplate">
+      <button class="article-item" type="button">
+        <span class="article-item-title"></span>
+        <span class="article-item-meta"></span>
+      </button>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+  </html>
