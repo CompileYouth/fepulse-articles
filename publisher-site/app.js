@@ -14,7 +14,6 @@ const copyButton = document.getElementById("copyButton");
 const promoteButton = document.getElementById("promoteButton");
 const scheduleButton = document.getElementById("scheduleButton");
 const scheduleDateInput = document.getElementById("scheduleDateInput");
-const refreshButton = document.getElementById("refreshButton");
 const selectedTab = document.getElementById("selectedTab");
 const briefsTab = document.getElementById("briefsTab");
 const selectedPanels = document.getElementById("selectedPanels");
@@ -368,16 +367,6 @@ scheduleDateInput.addEventListener("change", async () => {
     setStatus(`《${payload.title}》已设置发送时间：${payload.scheduled_date}`);
   } catch (error) {
     setStatus(`设置发送时间失败：${error.message}`);
-  }
-});
-
-refreshButton.addEventListener("click", async () => {
-  try {
-    currentItem = null;
-    pendingSelection = null;
-    await refreshData(currentTab);
-  } catch (error) {
-    setStatus(`刷新失败：${error.message}`);
   }
 });
 

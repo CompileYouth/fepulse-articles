@@ -127,9 +127,9 @@
       "title": "How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee",
       "upload_date": "20260322",
       "published_at": "2026-03-22T21:01:41+08:00",
-      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.txt",
-      "status": "downloaded",
-      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.txt",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.txt",
       "downloaded_at": "20260323-181858"
     },
     {
@@ -138,9 +138,9 @@
       "title": "The End of Coding: Andrej Karpathy on Agents, AutoResearch, and the Loopy Era of AI",
       "upload_date": "20260320",
       "published_at": "2026-03-20T21:27:35+08:00",
-      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260320-the-end-of-coding-andrej-karpathy-on-agents-autoresearch-and-the-loopy-era-of-ai.txt",
-      "status": "downloaded",
-      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260320-the-end-of-coding-andrej-karpathy-on-agents-autoresearch-and-the-loopy-era-of-ai.txt",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260320-the-end-of-coding-andrej-karpathy-on-agents-autoresearch-and-the-loopy-era-of-ai.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260320-the-end-of-coding-andrej-karpathy-on-agents-autoresearch-and-the-loopy-era-of-ai.txt",
       "downloaded_at": "20260323-181858"
     },
     {
@@ -149,9 +149,9 @@
       "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
       "upload_date": "20260320",
       "published_at": "2026-03-20T21:01:00+08:00",
-      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260320-inside-the-startup-reinventing-the-6-trillion-chemical-manufacturing-industry.txt",
-      "status": "downloaded",
-      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260320-inside-the-startup-reinventing-the-6-trillion-chemical-manufacturing-industry.txt",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260320-inside-the-startup-reinventing-the-6-trillion-chemical-manufacturing-industry.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260320-inside-the-startup-reinventing-the-6-trillion-chemical-manufacturing-industry.txt",
       "downloaded_at": "20260323-181858"
     },
     {
@@ -160,10 +160,21 @@
       "title": "Master Gemini in Google Docs, Sheets & Slides in 18 Min (5 Real Use Cases)",
       "upload_date": "20260318",
       "published_at": "2026-03-18T21:00:32+08:00",
-      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.txt",
-      "status": "downloaded",
-      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260318-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.txt",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260318-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260318-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.txt",
       "downloaded_at": "20260323-181858"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lkKGQVHrXzE",
+      "source_id": "direct-input",
+      "title": "Designing with Claude Code",
+      "upload_date": "20260320",
+      "published_at": "2026-03-21T03:09:23+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260320-designing-with-claude-code.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260320-designing-with-claude-code.txt",
+      "downloaded_at": "2026-03-23T20:25:17+0800"
     }
   ]
 }

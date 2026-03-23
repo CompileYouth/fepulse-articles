@@ -72,11 +72,19 @@
 - `ai-interview-archive-data/link-batches/`
 - `ai-interview-archive-data/`
 
+扫描完成后，默认继续执行，不停在“只下载字幕”这一步：
+
+- 先按 `FEPulse-reader-profile.md` 自动筛选
+- 适合长文的 raw 字幕移动到 `selected/raw/`
+- 其余需要快速了解的 raw 字幕移动到 `briefs/raw/`
+- `selected/raw/` 自动整理为正式文章，输出到 `selected/`
+- `briefs/raw/` 自动整理为 500 字左右简报，输出到 `briefs/`
+
 ### 2. 初筛
 
 新内容扫描完成后，不要长期留在 `ai-interview-archive-data/` 根目录。
 
-需要立刻做一次分流：
+需要立刻做一次分流，并继续完成后续生成：
 
 - 如果适合 FEPulse 主线读者：
   移到 `selected/raw/`
@@ -93,6 +101,15 @@
 
 1. `PROMPT_TEMPLATE.md`
 2. `selected/raw/` 中已筛选出的字幕文件
+
+处理 YouTube 来源时，参与者信息不能偷懒写成“分享者”“设计者”这类泛称。
+
+默认规则：
+
+- 先用视频公开元数据确认人物信息
+- 优先读取 `channel`、`uploader`、`description`
+- 能确认真实姓名时，使用“真实姓名（身份）”
+- 如果不能确认，就保守描述身份，不使用含糊占位词
 
 最终文章输出到：
 
@@ -158,3 +175,4 @@
 - 默认分流顺序是：`ai-interview-archive-data/` -> `selected/raw/` / `briefs/raw/`
 - 默认长文顺序是：`selected/raw/` -> `PROMPT_TEMPLATE.md` -> `selected/`
 - 默认简报顺序是：`briefs/raw/` -> `BRIEF_PROMPT_TEMPLATE.md` -> `briefs/`
+- 本仓库的 git 提交信息默认使用中文。

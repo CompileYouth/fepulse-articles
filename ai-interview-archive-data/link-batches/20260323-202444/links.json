@@ -1,0 +1,19 @@
+{
+  "mode": "direct",
+  "lookback_days": 0,
+  "generated_at": "2026-03-23T20:24:44.062906+08:00",
+  "since": "2026-03-23T20:24:44.062906+08:00",
+  "items": [
+    {
+      "source_id": "direct-input",
+      "source_label": "Direct Input",
+      "source_type": "youtube",
+      "title": "Designing with Claude Code",
+      "url": "https://www.youtube.com/watch?v=lkKGQVHrXzE",
+      "upload_date": "20260320",
+      "published_at": "2026-03-21T03:09:23+08:00",
+      "topic_buckets": [],
+      "slug": "20260320-designing-with-claude-code"
+    }
+  ]
+}

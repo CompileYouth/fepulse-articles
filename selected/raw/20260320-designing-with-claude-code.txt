@@ -1,0 +1,1180 @@
+原文： https://www.youtube.com/watch?v=lkKGQVHrXzE
+
+So, I've been using Claude Code as my
+primary design tool for just over a
+month now, and it's been pretty
+spectacular. Uh, I've made a few things
+here. I made this sort of pricing pages,
+[music] three tier pricing page with a
+comparison table, and it's got some
+other stuff here, like a testimonial and
+a FAQ section. This isn't for anything
+particular. I just kind of made it for
+fun, just to kind of get familiar with
+using Cloud Code as a design tool. Uh
+then I also made this sort of finance
+dashboard. We made this for Tailwind
+Labs to sort of consolidate our all of
+our revenue streams into one clean
+dashboard. Um I populated this with a
+bunch of fake content just to make it
+look all colorful and whatnot. And uh I
+thought it would be cool today to build
+a marketing page for this [music] app
+and just show you my workflow and maybe
+share a few design tips along the way.
+Now I have it opened up in my Ghosty app
+here. I have the the folder I created
+for this project. Um full disclosure, I
+I'm still incredibly new to the command
+line. This is all pretty foreign to
+[music] me. Uh Adam Wyven helped me get
+set up initially. Uh and now I just have
+this V project template that I copy from
+every project that I start. So at this
+point I'm pretty much only I'm pretty
+much only confident like changing
+directories and getting Claude started
+up. Um but so yeah, I have this project
+open. Uh I'm going to uh get it all
+started and up and running here. So,
+okay. So, this is now running on my
+local host here. So, uh I'm just working
+from a blank canvas here. I have there's
+no skills I'm using. I'm just starting
+from complete scratch here. Okay. So,
+I'm going to split this window up. Okay.
+And now I'm going to run Claude
+Okay. So, let's get started here. So, uh
+I did sort of pre-write a a prompt here.
+I'm going to copy and paste that in and
+and I'll read it out.
+Okay. So, I'm going to say uh design a
+simple marketing homepage for a finance
+app. It's essentially an app that
+consolidates all of your revenue streams
+to see all the activity in one
+dashboard. It focuses on revenue
+tracking, expense management,
+forecasting, and tax prep. Keep it
+pretty simple. Include a navbar hero
+logo cloud feature section that
+highlights like two of the main
+features, a stat section, testimonials,
+and finish it with a CTA section and
+footer. And let's see what it outputs.
+[music]
+We have it billowing now.
+Okay. So, this is a decent starting
+point.
+I could work [music] with this.
+Yep. Okay. I mean, I like that it used
+like this emerald color instead of
+indigo, which I find AI kind of defaults
+to every time. So, that's that's cool.
+Um, the first thing I want to do is I'm
+going to put an actual screenshot of an
+of the app in here. Um, putting a It
+kind of just generated this fake UI. You
+can kind of guess based on how I
+describe the app. Uh
+putting a screenshot on your homepage,
+like if you don't have any graphics or
+anything, uh including a screenshot is
+just a great way to bring a graphical
+element into your homepage just to make
+it look a little bit more slashy, make
+it look more interesting if you don't
+have any [music] sort of visual graphics
+to work with. So, okay. So, I'm going to
+say, so I said, swap the demo in the
+hero. Grab a screenshot of the app in
+the code/ finance app in the index.html
+HTML file. Make sure you use any
+dependencies so it renders correctly.
+Capture it at 3x so it's high
+resolution.
+Rasmatazing.
+Okay, so that did a decent job. Let me
+just look in here. So I can already see
+what the heck the corner radius isn't
+quite right there. And even when I zoom
+in here, I can also see that like the
+the grays that I'm using on this app are
+it's using it looks like it's using like
+a slate gray here. So, I'm going to
+update a few things here. First, uh
+tighten tighten up the corner radius on
+this screenshot. Cool. That looks like
+it's, you know, just eyeballing it, it's
+a little bit better. kind of matches the
+corner radius of the corner radius that
+I generated in the screenshot.
+I'm also going to update the grays. Now,
+this is using it looks like it's using
+more of a slate and my screenshot is
+using I think I'm using like neutrals in
+there, like neutral grays. So, um update
+all the grays
+on the site to use neutral.
+Uh the next thing I'm going to do is uh
+right now it kind of looks muddy here
+with like you got the shadow and then
+the inner gray border. Uh what is it
+using for a border here? Yeah, it's
+using a solid color for border. So, one
+thing I like to do when making borders
+on [music] elements like buttons and
+screenshots and stuff like this is I
+like to use
+uh I I try to avoid using solid colors
+uh cuz you get that muddy looking effect
+between the shadow in the border. What I
+like to do is use like a a gray 950 and
+then reduce the opacity to like 10% and
+make it stick on the outside.
+Um, so you kind of get that crisp
+looking shadow that kind of sits behind
+that that border. So I'm going to say uh
+use a outer ring on the screenshot
+instead of a border. Make it gray 950
+um at 10%.
+Okay. And now now we have a much crisper
+looking border here. It kind of bleeds
+into the shadow nicely. It looks a lot
+cleaner. It's not as muddy as it was.
+Okay, so the next thing I'm going to do,
+like I said, I do admire that I chose
+this green instead of indigo, but I do
+want to keep this kind of neutral
+looking. So, um, swap all the uses of
+emerald to [music] gray 950.
+Okay, I like that better. Okay. Uh, next
+thing. Okay, so this looks like it's
+using enter here, which I I like. I'm
+just going to confirm that. Yep. Okay.
+Um, but I want to make sure it's using
+the variable version of the font. And it
+doesn't look like it's doing that
+because uh the nice thing about the
+variable version of Inter is that it's
+got a a text version of the font. It's
+got a display version of the font. And
+uh the display version just looks a
+little bit more has a little more higher
+impact to it. Uh I don't really how to
+know how to describe it. It just feels
+more displayy. And so I want to you make
+sure I'm using that one. Plus, it has
+all of the uh the variable version has
+all the fancy font features. Like if I
+want to do a single story, a uh so I
+find that um claw when it generates
+sites, it it typically leans into just
+[music] like the sort of basic default
+version of Inter. So, I'm going to say
+make sure you're using the variable
+version of Inter with all the fancy font
+feature settings and the display version
+of the font. uh and get it from the RS
+rsms.
+Raasmus Raasmus' website.
+Okay. [music]
+So, that's better. I don't want to use
+that version of the L.
+Don't use the version of the lower
+case [music] L with the tail.
+Okay, so that's looking better. So,
+another cool thing about using inter is
+I can use sort of all the in between
+weights. So, if I if I like medium feels
+a little too thin um and [music]
+semi-bold feels a little bit too bold, I
+can find something kind of in the
+middle. So, I'm going to say change the
+font weight
+to be uh I'm going to say 550 just
+somewhere in between medium and semibold
+cuz so medium would be 500. Semi- bold
+would be 600 I believe. Uh so,
+okay. And I'm also going to make it
+[music] uh make the tracking just a bit
+tighter uh just to kind of give it a
+little bit more impact. I find like when
+you get to font sizes over like,
+you know, 24 to 30 pixels, I like to
+make the tracking just a bit tighter.
+Uh, so I'm going to tighten that up a
+bit. So, uh, make the tracking in the
+tracking in the headline a bit tighter.
+Cool.
+And um
+now one thing I find that when I
+generate sites with AI that it kind of
+[music] defaults it centers everything
+by default. Uh I'm more of like a left
+align guy.
+Another thing you could do is um I I did
+this on the the Tailwind Plus website.
+If I go into
+Where did I do this? Yeah, on the tail
+one plus one page, I kind of did this
+sort of uh split headline with the uh
+subheading like split like not quite
+50/50. There's a little more weight
+given to the headline, but [music] you
+know, it's just a little bit more
+interesting than a center aligned or
+left align [music] headline and it kind
+of just fills that space nicer. So,
+change the layout of the hero headline.
+Make the headline left align. And put
+the supporting text on the right with
+the buttons. Left aligned. Make sure the
+top [music] of the supporting text lines
+up with the top of the headline. Make it
+like a 3/5ths and two- fifths split.
+Let's see what that does.
+It's a pretty sloppily written sentence,
+so I just kind of, you know, Oh, I got
+it. It got it pretty right there. That
+looks [music] pretty good. And I'm just
+going to get rid of this eyebrow
+treatment. I don't want that in there.
+Um, okay. And I also want to make the
+supporting text a bit smaller. I want
+these to kind of almost be the same
+height. I might make these buttons a
+[music] bit smaller, too. Uh, let's just
+make it like make the supporting
+text
+16 pixels.
+Let's just see what that looks like. I'm
+guessing that's like 18 or 20 it looks
+like right now.
+Okay, that's a bit better.
+Um, okay. I'm going to make this a bit
+wider, too. Um, so make the page
+container wider.
+Maybe 1280.
+Okay, that's a bit better.
+Um, I don't like the way this sort of
+wrapped here. I'd like this to be with
+this sentence. So, um, put each sentence
+in the headline on its own
+line.
+That's better. Okay.
+Um, next thing.
+First of all, I don't like that this is
+kind of doing this zigzaggy thing. Um,
+yeah. So, [music] make the screenshot
+full width in the page container.
+Okay, that looks better.
+I also think those buttons are looking
+pretty clunky. I think the text could be
+smaller than them, too. Make the buttons
+in the hero smaller.
+Um, thinking like 14 pixel font size.
+Well, I like somewhere in like the 36 38
+pixel range for button height. I'm just
+going to say that. Uh, make the button
+height 38 pixels. [music] Not fixed
+height though. Just make it work with
+padding and stuff.
+I don't like that icon in there. I just
+I don't know. Not into it. Uh get rid of
+the icon in the watch demo button. I
+want it looking clean, you know.
+Okay. I also think that the X padding is
+a little bit more. You know what? I'm
+going to make these pill buttons and
+I'll I'll see what happens from there.
+So, uh, make the buttons pillshaped
+all all through the site.
+Okay, that looks pretty good.
+And, um, make the secondary button a bit
+more elevated to give it a small shadow.
+Okay. And how is this built? Okay. So, I
+think this is doing what it was doing on
+the screenshot where
+the border is using a solid color and
+you're kind of getting that muddy
+looking border right now. So, I'm going
+to say uh use a uh outer ring instead of
+a border on the secondary button. 95010.
+Okay. So, yeah, now you get a much more
+crisp looking shadow.
+Now,
+how is this built?
+Okay. So,
+this button has a [music] ring around it
+and this one doesn't. So, as a result,
+this is technically 2 pixels taller than
+this button, and
+we can't have that. That's that's that's
+how I lose sleep at night. Um, Adam Wen
+cooked something up for me to solve this
+[music] problem. Uh, I have it saved in
+a a tailwind play here. Uh, basically
+what you want to do is
+wrap
+you want to wrap this border button in a
+span with this inline flex and [music]
+p-px
+utility. And then he puts all this calc
+stuff on here. Honestly, I could not
+have cooked this up myself. This is some
+Adam magic happening. So, uh, but he did
+kind of give me this tail and play. I'll
+be sure to put a a link to this play in
+the comments so you can use it yourself.
+I don't fully understand how it works,
+but I'm going to take this structure
+here and update all the buttons [music]
+to be structured like this. And let's
+see. Let's see what it does.
+That didn't do what I wanted it to do.
+Oh, and I put the shadow on the parent
+here. Okay.
+Make sure the button shadow
+is on
+the button, not the parent spin
+class.
+That's looking better.
+Okay, this is looking pretty coming
+along. It's looking clean.
+Um, okay.
+So, I'm going to just
+what I'm going to do now is [music]
+update the hero. So, let's put a
+different logo in there. It just kind of
+generated this fake logo and it has
+weird alignment. Um,
+I have a Figma file.
+This is one of the few uh reasons I
+still open up Figma is to generate
+generate vector graphics. [music] And um
+I just have this file of all these fake
+logos that I just kind of go to every
+now and then. So I'm just going to use
+this this logo right here that I made
+up. Uh but yeah, this is one of the few
+reasons I still open up Figma is to get
+vector graphics going. Uh AI is still
+kind of working on that. The Quiver AI
+tool that recently came out that looks
+very promising. Uh I haven't had a
+chance to dabble in it yet, but I'm
+excited to dive into it. Um, so I'm
+going to copy this logo.
+Uh, I have ADHD, so as [music] you can
+see, I have a lot of unclosed tabs here.
+Uh, but yeah,
+update the logo to use this.
+And uh now that we're using this logo,
+let's uh update all mention of the word
+ledger to be axiom.
+Uh update all
+mention of the word ledger
+to axiom on the site.
+Okay. No, let's uh let's work on this
+nav a little bit. I'm going to make the
+logo just a tinge bigger. Make the logo
+a tinge bigger.
+That seems fine. Okay. And um and I
+think I want to uh I think I want to
+left align these links to be kind of
+snug with the logo instead of centered.
+Uh it just feels kind of busy in here
+with these three elements. So, um, left
+align the links in the navbar
+to be closer to the logo.
+Okay, good. [music] And I want the
+the button in the nav bar to be a bit
+smaller. It looks like it might be even
+a bit bigger than the [music] hero
+button. Um, so I want it to be a bit
+tighter. so it's not competing with that
+button. Um [music]
+maybe I'll put this sign in button into
+like a secondary looking um give it that
+secondary treatment as well. So make the
+the button in the nav
+smaller. I don't know. I'm going to say
+like 28 pixels tall.
+Uh, give the sign in [music] link a
+secondary button treatment.
+Made it too small. It's 24 pixels.
+That's 24 pixels.
+Make it 28.
+And I want it to be text excess
+or text text small not
+excess.
+Cool. That looks better. Um
+I think it's pretty good. I like that
+blur treatment that gave. I I didn't do
+that. That just kind of added it and
+that looks that's kind of cool. Uh, but
+[music] the border
+is doing the on the nav is doing that
+same thing where it's looking kind of
+muddy. It's probably using a solid gray.
+Yeah.
+Uh,
+so make the bottom border on the nav
+ring.
+I guess it wouldn't be a ring. Yeah,
+like a ring. Um 950
+10 an outer ring.
+Okay, that's better. That's looking a
+little more crisp.
+Let's move down. [music] So, I'm going
+to move down to the
+this logo cloud. Let's put some real
+some real fake logos in there, you know,
+not just these text [music] logos.
+Where's my Figma file with all my logos?
+Yeah. So, I'm going to grab a bunch of
+these logos, logos. I have them all. I'm
+going just grab these ones right here
+that are all in a nice column. I'm going
+to export
+export them as SVGs.
+And I'm just going to put them in the
+folder of this project.
+So, I'm going to say update the logos in
+the logo [music] cloud to use the logos
+in the uh public slash logos
+folder.
+Okay. Um,
+yeah, they're set at H6 with opacity 70.
+Um,
+don't use any opacity.
+Make them
+just gray
+950.
+Uh, make them
+full width [music] in the container.
+Make them a bit bigger.
+Okay. Get rid of the off-white
+background [music]
+in this section. Get rid of
+the I don't know how to tell. Get rid of
+the top bottom borders.
+Get rid of the title
+of this section.
+Okay, I like that. I don't think the
+title of that was necessary. I think it
+was, you know, I see these on a lot of
+sites and they don't really have [music]
+a a title for the section. They just put
+the logo and it's very clear that
+they're they're user they're likely
+going to [music] be users of this app.
+Okay, let me move on to this feature
+section. Okay, I'm going to I'm going to
+left align this section heading. uh left
+align
+section heading
+in the feature section.
+Okay. And uh so I'm going to do
+something different with [music] this
+uh treatment. Uh I'm going to do that
+sort of inline treatment. I I think I
+first saw it on Apple
+linear does this
+where sort of the the title kind of
+leads into the supporting copy and it's
+just it's sort of in line and they just
+use a different color for the supporting
+text. I think that looks a little bit
+more interesting. Uh like Stripe does
+this too. They do it on their their hero
+now and in these sections. Uh I think
+Adio Audio does the same thing.
+Um, yeah, they sort of do it here as
+well. So, I think that's a cool style
+right now. So, I'm going to update that
+to do that style. So, um, update the
+style of the feature section heading or
+make the title
+and supporting text the same size.
+Make the title in line
+with the supporting text so it reads
+like one block. Make the supporting
+text I don't know. I'll say gray 600 for
+now just to see what that looks like.
+Uh make it uh medium weight.
+Make it medium weight. I think that kind
+of captures that look. We'll see what it
+does.
+I mean, that did it.
+Make it bigger. Like
+4XL.
+Also, make the supporting sentence
+a bit longer. I feel like this this
+treatment, the style of uh title kind of
+requires a bit of a longer sentence if
+you're going to use it.
+Yeah, that seems fine. Uh,
+how's this build? Have like a max width
+on it.
+Max width 3XL. So, I instead of giving
+it like a fixed max width, I like to use
+like the the like max width character
+thing. Um, make the max, how is that
+written out? Max width like the I'm just
+going to say like
+ch 45
+maybe a bit tighter than that. 40.
+Mhm.
+Let me just see 35. 35.
+I like 40 better. Sometimes you got to
+goldie locks it.
+What this character rule does is is it
+bases the
+the width of this text block on the
+amount of characters it could fit into
+[music]
+that. I think it's based on like the the
+zero character. And uh so I could fit
+like 45 zeros of this font size in this
+space. I think that's how it works.
+Um, but that's a little bit more
+flexible for when you're working with
+typography cuz sometimes you just want
+typography to you just want a nice
+reading width. You don't really just you
+don't want to have like a like sort of a
+set width. You want it based on how many
+characters you can fit on the line. So,
+that's a nice little uh tool for that.
+Um, I'm going to say add it got rid of
+the it got rid of the the eyebrow there.
+So, I can add that back. add the eyebrow
+back.
+Okay.
+Yep. Okay. And um
+I'm going to make it use How are you
+doing this session? You're doing good.
+I like using u a mono space for these
+eyebrows. I think it just looks a little
+bit more designed, a little more um
+interesting. So, uh, I'm going to say
+make make the eyebrow
+mono space.
+Um, maybe maybe mono. That's a good
+font. Uh, and when I do that, I uh I
+like to make them all uppercase. So,
+uppercase
+and uh
+uh I like to make the tracking a bit
+wider when I make everything all
+uppercase.
+tracking
+wide.
+Um, and I'm going to make it uh gray um
+and uh maybe
+uh text XS.
+Yeah. And I'm going to say tracking
+wider
+just to give it a little bit more room
+to breathe.
+Okay. So, that looks more interesting.
+Uh,
+and I want this this same treatment for
+all of these
+section headings. Um, apply this same
+feature
+section heading
+style to all of the
+sections below.
+Okay.
+Okay, that did it right, but it kept it
+pretty tight there. Uh, what's going on
+here? Why is that happening? Oh, I put
+the max width 40 characters in. [music]
+It needs to be the same size that the
+font is set. Uh, make sure uh max
+width 40 characters is
+on the same
+line where the font size is set.
+Uh, I don't like that orphaned
+orphaned word right there. Um,
+I I'll get to that in a minute. Let me I
+just focus on this uh feature [music]
+section.
+So, let me um I'm going to put some
+actual screenshots in [music] here. So,
+what do I got here? I got unified
+revenue tracking and smart forecasting.
+I'll just use more screenshots and I'll
+just kind of focus in
+on the feature that's highlighting. So
+for unified revenue tracking, I'll just
+kind of focus in on this chart and maybe
+I'll have it have that like little tool
+tip thing opened up. And then for the
+smart forecasting, [music] if I go to
+the actual app here,
+there's this sort of trend forecast
+graph at the bottom here. So maybe I'll
+have a focus on that with this tool tip
+showing. So I said swap the graphics in
+the feature section to use an actual
+screenshot. Grab a screenshot from the
+finance app file like you did in the
+hero. Capture the whole screenshot and
+crop it in the space so I can focus on a
+specific part. When grabbing a
+screenshot for the unified revenue
+section, make sure the tool tip on the
+revenue chart is showing. For the
+forecasting section, grab a screenshot
+with the forecasting tool tip showing.
+Let's see if I can pull that off.
+Oh boy, it's been raasmatizing for 5
+minutes. Oh, there we go.
+Okay, I'm going to put the
+screenshots on top of the text.
+move the screenshots
+to be
+above the
+um text
+in the containers.
+I'm going to insert them a bit inset the
+screenshots in the containers.
+I like when it's pretty tight. Uh, I'm
+thinking like like 8 pixels maybe as a
+starting point.
+Make sure the border radius on the
+screenshot
+is concentric with the container
+radius.
+That's just so that the Yeah, the radius
+kind of matches. It kind of hugs the
+outer radius.
+That looks more correct.
+I'm going to add add an outline to the
+uh screenshots.
+Uh I want to say like 950
+uh five for now.
+Yeah, just like that.
+I want it to be inset so it's on top of
+the image.
+Um,
+it's probably underneath it. So, um
+I want it to be [music] on top of the
+image
+right now. It's likely behind it. I
+think I don't know how to do this stuff.
+I think you got to like
+put it on its [music] own thing and
+absolutely position it. I have no idea
+how this stuff worked.
+Yeah, but this now it's doing what I
+want it to do. So, has a ring on there
+and it's sort of just kind of covering
+the corner of the image. It's like
+giving me a nice crisp bore around it.
+Yeah, that looks good. Um, now I want to
+zoom in on the images a bit more. It's a
+little zoomed out on each. So, um, zoom
+in on each of the images,
+like I don't know,
+maybe 25% as a starting point.
+That seems fine, I think. Okay. But I
+want to move these around. Right now,
+they're just kind of positioned in the
+top right. So,
+uh, I could kind of just tell it how
+where I want it moved to. But you know
+what? I'm going to have uh build me a
+little tool here, a temporary tool that
+I can use to move the image around
+myself to and get it to the spot I want.
+Uh so
+uh
+uh build a temporary tool so I can move
+the images around in the cropped area
+and uh
+uh so I'm going to have to do that. So,
+build me a temporary tool so that I can
+move the images around in the crop area.
+Let's see what it does here.
+Okay, so it made me this little tool
+here on a different logo host.
+Uh, can you just make it an
+temporary
+inline thing
+on the site I'm working on?
+Yeah. So, I built the tool, but it's
+like in a separate domain. I just want
+to see it in line here. I want to be
+able to just move things around right
+here so I can position them exactly
+where I want.
+Cool.
+See, now I can move this around right
+here.
+And I think I want it just like right
+I don't know. [music]
+I'm just going to scale this by. Oh,
+yeah.
+Maybe like right right there.
+And then this one, I'm going to have the
+same zoom,
+but I want to show
+this little panel
+maybe right there.
+So, it's telling me once I pos once I've
+got the positions I like, share the
+values or hit copy and I'll bake them
+into [music]
+the code and remove the tool.
+So here are the values
+for the first image.
+Here are the values
+for the [music] second
+image.
+Copy that code.
+Amazing.
+Okay.
+Uh instead of Yeah. So I want this
+&gt;&gt; [music]
+&gt;&gt; container to be more of a a wellstyled
+treatment instead of a just like a white
+container just to give the help the
+image pop a little bit more. So, I'm
+going to say uh give the
+containers a background color
+uh I'm going to say gray
+950. I want to be really soft. I'm going
+to say like like 2 and a half%.
+&gt;&gt; [music]
+&gt;&gt; Let's just see how that looks. Uh, drop
+the border
+around the container.
+Okay, that's that's that's pretty soft.
+Let's make it make it opacity
+five.
+That's a bit better.
+Um, and let's make it a little bit more
+snug between these containers. Uh, I
+want it to basically be like the same as
+the gap around this image. So, I want to
+be pretty tight in there.
+Um, make the gap between
+the
+two features
+uh 8 pixels.
+Oh, did I get rid of the border on the
+on the screenshot?
+No, it didn't. It just matches the color
+of the background. Uh, so let's make
+that a bit bor. Make make the border on
+the screenshots
+10%.
+Opacity.
+Yeah. And then it just kind of pops a
+little bit more. Okay. Okay. I think
+this
+text is a little chunky, too. I'm going
+to make that a bit tighter.
+Make the
+feature
+text
+um text small. Maybe
+uh both the title and description.
+And I'm going to make it uh make the
+leting a bit taller.
+Make the leting
+bit taller. I'm going to say I don't
+know what is text small is 14. I'm going
+to double it like so. I'm going to make
+it like double it from the text size.
+So, uh that big 20 pixels
+clean.
+Cool. I like this well treatment. You
+know what? [music] I might do the same
+well treatment in for the hero too. Uh
+so I'm going to say uh put the screen
+shot in the hero
+in a [music] well styled container
+like the feature sections.
+[sighs]
+Uh but I want it because it's much
+bigger. I do want to have much more
+liberal spacing. This is all pretty
+tight. Um, so give it I'm going to say
+like
+64 pixel
+padding
+around the screenshot.
+I feel like these sentences I write
+barely make sense, but it it understands
+me every single time.
+Yeah, that's that's like doing what I
+want it to do. Uh
+why did it change the the radius of the
+screenshot there? Uh
+make the radius
+on the screen shot a bit bigger.
+That's better.
+I want it cropped to the bottom. I want
+it kind of sitting on the bottom of
+[music] the container. So,
+instead of having like equal space all
+around, um,
+zero
+padding [music] at the bottom.
+I want the
+bottom of the screen shot to be propped
+a bit at the bottom.
+crop it by like 10 pixels just to get
+rid of that like gray
+edge around it at the bottom.
+At the bottom, [music] get rid of the
+bottom corner radius.
+And uh now that it's cropped,
+I'm I need to add a little bit of a
+border here. So I add a inset
+ring on the container. Um 5% opacity.
+Uh make sure it's on top of the
+screenshot.
+Okay, that's better.
+So now it kind of has some definition
+between the edge and the screenshot.
+Okay,
+let's work our let me let me work my way
+down here. Um I'm going to do this stat
+section here.
+Um first of all, I'm not crazy about
+this dark background. Uh I want it to be
+pretty simple. Uh, get rid of the dark
+background on the stat section.
+Okay. And let's left align all the
+stats.
+So, I'm going to say left align the
+stats, make them fill the entire width
+of the page container.
+I'm going to have it also I'm not crazy
+about this orphan text. So, uh apply
+um pretty to the section heading
+sentence
+text pretty. That's what I meant to say.
+But it understood me perfectly.
+Okay, these numbers stats are pretty
+clunky. Uh, make the values in the
+stats, I don't know, like
+just regular font size.
+I think I can make them [music] a bit
+bigger, like um
+maybe
+5 XL.
+Oh, I meant to say regular font weight.
+Oh, it but it got it right.
+And make the labels those look a little
+bit soft. Labels like I don't know, ray
+600. Is that what it is already?
+No, that's a bit better. Just a little
+bit higher contrast.
+Okay, so this section is looking pretty
+good. Um, maybe I could add like a
+divider.
+Add a divider between each stat.
+Yeah, that looks pretty good.
+Yeah, I'm going to move on to this
+testimonial section.
+What can I do here? I just want to make
+it look a bit more visual. I'm going to
+get some real images in here. You know
+what I'm going to do? I'm going to put
+the images I'm going to get like just
+generate some images on chatt
+and [music] make some make them like the
+background of the card and then uh put a
+sort of a dark shim on it that [music]
+the text could sit on top. So, I'm going
+to go over to
+So, I got ChachiBT to generate a bunch
+of images for me. Uh, so yeah, I'm going
+to copy all these into into the prompt
+here. There's first image,
+second image, third image.
+Use these images in the testimonial
+section. Uh, use each image as the
+background [music]
+for the card container.
+Uh,
+make the text for the quote
+white.
+Um,
+get rid of the stars and the circle
+uh avatar container. Um, align the quote
+at the bottom of the portrait.
+Okay. So, it wants me to put these
+images [music] into my public folder.
+So, I I'm going to do that right here.
+Um,
+and yeah, I'm just going to pop them in
+there.
+And I'm just going to rename these
+three. Okay, so those are all saved in
+there. Uh, they are there now. Um,
+they are as PGs, whatever.
+Um,
+also update the
+names to be unisex.
+Oh yeah.
+Oh, and it even updated the spacing
+because I wanted to I was planning to
+match that with this, but it just kind
+of learned from itself.
+And
+what I also like what it did is it added
+a bit of a dark shim to the bottom. It
+just sort of
+right. Is that what I'm seeing
+correctly?
+Yeah, there's sort of a
+Yeah, like a sort of a gradient from the
+bottom to the top there. So, just so the
+text stands out a bit more.
+Wonderful.
+Um,
+and I'm going to make the names just a
+bit smaller.
+Make the name title
+a bit
+smaller. Uh maybe text I say text excss
+which is ballpoint
+cool. Um
+and maybe
+make the line height of the
+name title [music] bigger.
+Cool.
+Lovely.
+Okay, the last thing I want to touch on,
+I'm going to do this footer and the
+CTA section. Uh, get rid of the
+background
+card
+in the CTA section.
+Cool. And
+oh, it just updated everything else. It
+updated the [music] style of the button.
+So, it's just kind of learning as it
+goes here, which is is sort of nice. I
+don't have to make additional updates.
+Um, I mean, that looks fine.
+What would I have done differently?
+Um,
+no, that looks fine. I'll leave it as
+is. I think the way this kind of wraps
+is funny. Uh
+text pretty.
+That doesn't look pretty.
+Maybe
+text balance.
+That's better.
+Yeah. Yeah. So, sometimes you have to
+play with like text pretty and text
+balance to get the right results. But I
+think text balance looks a little bit
+better in this situation cuz you don't
+have the funny funky wrapping with the
+the 14-day free trial stuff. Uh, so
+that's looking pretty good. Um,
+get rid of the [music]
+off white background on the footer.
+Let's start there.
+Okay. And uh I'm going to swap this logo
+out to be just the mark, not like the
+mark and the text. So I'm going to go
+back to my my Figma file here and grab
+just that. Let's just like duplicate
+this and
+get rid of this guy
+and
+copy as SVG.
+Okay. Uh,
+use this for the logo in [music] the
+footer.
+[snorts]
+And how is this built? Is this built
+like with equal
+columns? Yeah, it's just built with on a
+grid. Okay. With five columns.
+Okay, that's fine. Uh, get rid of the
+text below the logo. I don't think
+that's necessary.
+Just want to clean it up a little bit.
+It's looking kind of busy over here.
+Yep, that's fine. And
+I want to make all the
+links a bit tighter. Um, make right now
+it looks like it's using like text
+small. Make all the links in the footer
+text
+excess.
+Cool.
+Uh, next, let's make those social media
+links.
+Make the social
+they look a bit clunky.
+I I want to make them darker. U they
+also feel just a bit clunky right now.
+So make the social media
+icons a bit smaller and gray 950.
+Cool. That's fine.
+Okay, this is looking pretty good. I
+want to fix up the spacing between these
+sections. Uh, one thing I was thinking I
+could do to this site
+is I see this on a lot of sites. This
+sort of uh
+[sighs and gasps] I like to call it a
+canvas grid. It's something like a
+stripe sort of does it. You can kind of
+see these borders that go around the
+entire site. They kind of contain each
+section. Um, an AIO side I brought up
+earlier as well. It does that as well.
+It sort of has this grid. We do it on
+the Tailwind site. Uh it's just sort of
+a popular treatment to [music] do. It's
+a great It's again like the screenshot,
+it's just a great little technique you
+could add to a site just to make it a
+little bit more interesting. Just make
+it a little bit more visual if you don't
+have like custom graphics to work with.
+It's just a nice way to add uh just some
+visual gimmick to the site. Um and then
+once I do that, maybe that will kind of
+fix some of my problems here with the
+spacing between everything. So, uh, so
+I'm going to write something up here and
+repeat it out loud when I'm done writing
+it up. So, uh, okay. So, I want to say I
+want to add decorative borders to the
+entire site. I want each section to have
+containing borders that are the size of
+the page container. I also want dividers
+between each section. Um, let's just see
+what it does with that.
+Oh, yeah.
+Okay.
+Yeah, it did a pretty good job. This is
+a good double border right here.
+Okay. Um,
+okay. I think it'd be cool if I think
+it'd be cool if the borders kind of hug
+the containers a little bit better. Uh,
+so any of these sections that have a
+container sort of in them, it should hug
+those, but maybe give add a little bit
+more
+space between areas that don't have
+containers. So,
+I'll try to communicate that. [music]
+And I think I want
+and I think I want the space between the
+containers be sort of match the gap I
+have between these containing elements.
+So, this 8 pixel pad, this 8 pixel gap
+right here.
+Um,
+okay. So, I I wrote I want the borders
+to hug the containers on the site a bit
+better. So, the container in the hero
+feature section and the testimonials.
+Uh, make sure it has 8 pixel space
+between the containers on the sides and
+at the bottom of the container. For
+items that are not contained, give them
+additional padding. So, like all the
+section headings and stuff. So, let's
+just see what it does with that.
+Okay. So, it did a pretty good job
+there. Yeah, like it even hugs the
+bottom of these container sections.
+[music]
+So, that looks good.
+The only thing it didn't quite do it in
+the hero. So, uh, I'm going to say good
+job the
+seeing about 16 pixel
+padding below the image in the hero.
+Can you
+fix that?
+Seeing a
+double border
+between
+the CTA section
+and the footer.
+Mhm.
+And I also want this border to be full
+width. So make the border
+between
+the footer
+links and the
+um copyright
+stuff
+full width.
+Cool.
+And you know what? It might be cool if
+the all the vertical borders actually
+full width of like the viewport, not
+just this container.
+Um,
+just to make it a little bit more
+interesting [music] as you scroll. Uh,
+make the vertical
+borders [music] vertical. I mean it's
+horizontal borders. Make the horizontal
+borders between each section
+full width of the
+viewboard. [music]
+Keep the
+vertical
+lines where they are.
+Oh, yeah. First try.
+I'm going to get it to bring up my So,
+I'm getting it to bring up the old
+version. And I'm just going to put it on
+a different page within this within this
+project just so I can So it's recreating
+the old version right now.
+Okay. Yeah. So here's what it looked
+like before.
+Okay.
+And here is where I landed with it.
+So,
+you know, just some more interesting
+patterns and
+different way of laying it out. These
+are all just ideas you could try to use
+on your site. So, I'm pretty happy with
+that. Um, I'm going to leave it like
+that. Cool. I'm not going to make any
+other changes. Uh, I've been recording
+for a while now. Um, I'm probably going
+to chop this all up, but
+yeah. Yeah. So, if you enjoyed this, uh,
+we're working on a tool right now called
+UI.sh.
+Uh, it's a tool. It's a set of skills
+for coding agents like Claude Code, AMP,
+Cursor, everything that says right here.
+And, um, I'm working on this with Adam
+Wen and the Tailwind team. And it's not
+fully out right now. There are some
+early users right now. Uh, but we'll be
+we're sharing a lot of updates right now
+and we'll be making it more public very
+soon. So follow along with that. Um, now
+if you enjoyed this, I hope to be making
+more videos like this very soon. So um,
+thanks for tuning in.
