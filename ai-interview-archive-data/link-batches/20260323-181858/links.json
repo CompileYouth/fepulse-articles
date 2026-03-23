@@ -1,0 +1,243 @@
+{
+  "mode": "weekly",
+  "lookback_days": 7,
+  "generated_at": "2026-03-23T18:18:58.030025+08:00",
+  "since": "2026-03-16T18:18:58.030025+08:00",
+  "items": [
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "How to influence executives without playing politics | Jessica Fain (Webflow, ex-Slack)",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260322-how-to-influence-executives-without-playing-politics-jessica-fain-webflow-ex-slack"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Nicole Forsgren: Leading high-performing engineering teams in the age of AI - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=DfrAaDgFgjc",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-nicole-forsgren-leading-high-performing-engineering-teams-in-the-age-of-ai-the-pragmatic-summit"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Product-minded engineers in an AI-native world",
+      "url": "https://www.youtube.com/watch?v=0Cv5763UX70",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260322-product-minded-engineers-in-an-ai-native-world"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee",
+      "url": "https://www.youtube.com/watch?v=ydiMKfljb-I",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T21:01:41+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee"
+    },
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "Terence Tao – How the world’s top mathematician uses AI",
+      "url": "https://www.youtube.com/watch?v=Q8Fkpi18QXU",
+      "upload_date": "20260321",
+      "published_at": "2026-03-21T00:29:48+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260321-terence-tao-how-the-world-s-top-mathematician-uses-ai"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "The End of Coding: Andrej Karpathy on Agents, AutoResearch, and the Loopy Era of AI",
+      "url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
+      "upload_date": "20260320",
+      "published_at": "2026-03-20T21:27:35+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260320-the-end-of-coding-andrej-karpathy-on-agents-autoresearch-and-the-loopy-era-of-ai"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
+      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
+      "upload_date": "20260320",
+      "published_at": "2026-03-20T21:01:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260320-inside-the-startup-reinventing-the-6-trillion-chemical-manufacturing-industry"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Simon Willison: Engineering practices that make coding agents work - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=owmJyKVu5f8",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260319-simon-willison-engineering-practices-that-make-coding-agents-work-the-pragmatic-summit"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
+      "url": "https://www.youtube.com/watch?v=HjopX519nXg",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260319-gtc-101-shorts"
+    },
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "Granola's Sam Stephenson on Intentional Design and the Future of Notetaking",
+      "url": "https://www.youtube.com/watch?v=jkKfZMgJZ28",
+      "upload_date": "20260319",
+      "published_at": "2026-03-19T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260319-granola-s-sam-stephenson-on-intentional-design-and-the-future-of-notetaking"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Building WhatsApp with Jean Lee",
+      "url": "https://www.youtube.com/watch?v=5Kn32cIWPSY",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260318-building-whatsapp-with-jean-lee"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "url": "https://www.youtube.com/watch?v=jnYWv_0MzBw",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260318"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "Are Tariffs Fueling the AI Race? | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=OqS0w1h9lRs",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260318-are-tariffs-fueling-the-ai-race-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "How Every Edits in the Age of AI",
+      "url": "https://www.youtube.com/watch?v=Uif_qAcgnLk",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260318-how-every-edits-in-the-age-of-ai"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Master Gemini in Google Docs, Sheets & Slides in 18 Min (5 Real Use Cases)",
+      "url": "https://www.youtube.com/watch?v=DIrg_kHMhbw",
+      "upload_date": "20260318",
+      "published_at": "2026-03-18T21:00:32+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260318-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "The Rise of the Dictater",
+      "url": "https://www.youtube.com/watch?v=dbSQippLw9o",
+      "upload_date": "20260317",
+      "published_at": "2026-03-17T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260317-the-rise-of-the-dictater"
+    }
+  ]
+}

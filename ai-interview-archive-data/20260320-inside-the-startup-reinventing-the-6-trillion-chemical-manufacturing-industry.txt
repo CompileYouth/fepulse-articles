@@ -1,0 +1,393 @@
+原文： https://www.youtube.com/watch?v=PCypBUVhff8
+
+This reactor in Houston, Texas,
+represents a whole new approach to
+chemical manufacturing. We make
+chemicals in a completely new way. We
+started off by making hydrogen peroxide.
+Now we sell products for water
+treatment, national defense,
+infrastructure, agriculture, you name
+it, we make a chemical for it.
+&gt;&gt; The story of Cyogen is as scrappy as it
+gets. It all started with this prototype
+built out of PVC pipes the founders
+bought from Home Depot.
+&gt;&gt; In its heyday, this did 12,000 bucks a
+month in revenue. Fast forward to now,
+Cyogen is a billiondoll company shipping
+out tanker trucks of products that power
+critical US industries. So, how did they
+go from this single beaker of hydrogen
+peroxide to this full-scale
+manufacturing plant? I visited Solen HQ
+in Houston, Texas to find out.
+What do you guys do here? What is solen?
+&gt;&gt; We use biology to create chemicals that
+allow us to create smaller chemical
+plants and have a cleaner, safer, more
+environmentally friendly footprint.
+We've invented a process called chematic
+processing where we take the specificity
+of biology by taking an enzyme and
+pairing it with a metal catalyst uh
+which is what's traditionally used in
+industry. What we've done with these is
+by marrying these two, you can actually
+create more efficient reactions. So
+instead of having a 60% yield, you can
+have 96% yield, which is what we have at
+scale precisely because of these two
+catalysts.
+&gt;&gt; Syogen is the first company to fuse
+biology and chemistry in this way.
+Pulling enzymes from living cells, in
+this case corn syrup, and pairing them
+with novel metal catalysts. The output
+is chemicals that can be used in
+everything from agriculture to skinare.
+Traditionally, chemical plants relied on
+fossil fuel feed stock, which has led to
+all kinds of unintended consequences.
+This new approach is cleaner, safer, and
+more efficient. We receive rail cars of
+corn syrup, and then we run our utility
+system. We change the parameters of the
+plant, the way that the enzymes are
+reacting, the way that the metal
+catalysts are reacting to oxidize the
+corn syrup how we want. And then at the
+end, we evaporate water. We take the
+final products, we store them in
+finished good tanks or we send them to a
+blend farm to get blended with other
+chemicals and that's the process.
+&gt;&gt; Sogen started with a true Eureka moment,
+the kind of freak invention that
+normally happens only in science
+fiction. Shawn was working in the
+chemicals industry and Gorb was in
+medical school studying pancreatic
+cancer.
+&gt;&gt; I was working on this like skunk works
+project to try to do direct hydrogen
+peroxide synthesis where you react
+hydrogen and oxygen gas directly
+together over a metal catalyst. And like
+you know I was working on this project
+and then Gorb was like oh yeah no like I
+found this like really crazy mechanism
+in pancreatic cancer where it's like
+locally 50% hydrogen peroxide
+concentration. I was like what that's
+wild.
+&gt;&gt; It turned out that an obscure enzyme
+found in pancreatic cancer cells that
+Gorb was studying was the key to a new
+process for making industrial hydrogen
+peroxide.
+&gt;&gt; So these pancreatic cancer cells they
+put out peroxide. Peroxide creates
+almost like an invisibility cloak around
+the pancreatic cancer that makes it
+difficult for immune cells to come in.
+It was like that's a very interesting
+discovery, but why? And so once we asked
+the question why, we found out the
+reason was an enzyme. It was just a
+mutated enzyme that's found only in
+pancreatic cancer. And so that's when we
+said, what if the two worlds could
+collide, right? What if enzymes and
+metal catalysts could coexist?
+&gt;&gt; Here's how it works. Cyoggen feeds corn
+syrup to the enzymes, the same ones from
+the pancreatic cancer cells, which
+transform it into new compounds. They
+then use metal catalysts to further
+process those into the final chemicals
+that can be used to build all kinds of
+products we use in our everyday lives.
+In most chemical plants, the feed stock
+comes from oil and gas, which inevitably
+produces toxic byproducts. Solugen
+literally starts with sugar. We have to
+suspend belief for a second. People
+believe that anything to do with biology
+and chemicals, it's just a bad mix
+because, oh, biology is too sensitive.
+It's going to break down blah blah blah
+blah blah. But we said let's just
+suspend that criticism for a second and
+just look at the numbers and we say if
+we can make the enzyme last this long on
+stream and the product is this
+concentration we can make a lot of money
+and that's where we started.
+&gt;&gt; This insight that organic enzymes could
+operate at industrial scale and
+efficiency was the company's first key
+breakthrough. Today Scen operates both a
+biology and metals lab where it produces
+its own enzymes and metal catalysts
+inhouse. These are actually enzyatic
+reactors. So what we do, we grow bugs,
+we break the bugs open, we take the
+enzymes and we put them in these
+reactors and we can stress them out and
+figure out what they're capable of doing
+at scale. We have outfitted this with
+probably some of the best uh analytics
+that you can ever have for enz enzymes
+which gives us a good insight into how
+things will scale.
+&gt;&gt; Across from the biology lab is Cogen's
+metals lab. We just went to the the
+enzyme lab. Yeah. But basically now we
+pair that enzyme with the right metal
+and so you can basically mix and match
+which metal and which enzyme you want to
+pair together.
+&gt;&gt; Their next big insight was a commercial
+one. Previous startups that had tried to
+do something like this all started by
+raising a huge amount of funding and
+building a large scale plant. Sigen took
+a different approach. They built their
+first reactor for just $10,000 and then
+started selling to customers almost
+immediately. Gradually they scaled up to
+larger and larger plants. So you did
+this technoeconomic analysis and you're
+like, "Wait a second. This could
+actually work."
+&gt;&gt; So May 2016, we got unofficial second
+place in the MIT 100K competition.
+&gt;&gt; We lost.
+&gt;&gt; We got We lost uh gloriously, but we got
+10,000 bucks.
+&gt;&gt; $10,000. That doesn't seem like very
+much money.
+&gt;&gt; I think capital constraint forces very
+creative thinking cuz like with 10
+grand, like you have a very confined
+space of what you can afford to buy to
+try to make the product. And so ours
+ended up being PVC like a Walmart shelf.
+You know, we couldn't even afford the
+metal catalyst parts. It was just the
+enzyme portion.
+&gt;&gt; This was the very first solen reactor.
+&gt;&gt; Yep. This is the first one complete with
+schedule 80 PVC from Home Depot. This is
+like a bubble column with a membrane. So
+you sparge air in to the bottom. Inside
+there's the liquid with the corn syrup
+and the enzyme and it's kind of spinning
+in a loop. Then they're reacting which
+makes the peroxide and then this is a
+membrane and so the membrane keeps the
+enzyme in the bubble column and then the
+permeate on the membrane is the peroxide
+product. Armed with just their $10,000
+reactor but no customers, Shawn and Gorb
+applied and were accepted into YC. But
+they deferred a few months and set out
+to first try and sell the tiny volumes
+of peroxide they could make.
+&gt;&gt; We made our first product in like
+September 2016. We couldn't afford any
+controls, right? This is a total manual
+operation. We'd come in in the morning.
+We would try to get this reactor to a
+steady state. And then I'd go to work.
+He was He'd go to the hospital. He was
+in his last year of med school.
+&gt;&gt; I was on surgery rotation.
+&gt;&gt; On surgery rotation.
+&gt;&gt; Wow.
+&gt;&gt; Yeah. 36-hour shifts.
+&gt;&gt; Good times. And then in the evenings, go
+in and try to retune it to a steady
+state. And then our first three
+customers were float spa hot tub owners
+in Dallas. We discovered the supply
+chain dislocations because for these hot
+tub owners, they were buying 3% peroxide
+in the brown bottle on the store that
+went through multiple distributors,
+multiple downpackers, putting in little
+brown bottles, shipping it to the store,
+retail markup. It's like, oh, we only
+have 10 grand, but like we're actually
+manufacturing the chemical and we're
+like bypassing like huge distribution
+value chains. So on weekends, we would
+put pour the chemicals in people's hot
+tubs. We looked at a bunch of markets to
+be like what can we just like wedge
+ourselves into? When we first accepted
+Soligen into YC, they had zero revenue,
+but they deferred by a batch and spent 6
+months getting those first customers. By
+the time they started at YC, they were
+gaining traction. Typically, when people
+think about hard tech companies like you
+guys in YC, they're like, "That makes no
+sense. What could you possibly
+accomplish for like a few hundred,000?"
+To most people, it intuitively seems
+hilariously mismatched to the like costs
+and timelines of something like a new
+chemical plant. This fundamentally goes
+back to the customer experience, which
+is what YC taught us to do, right? It
+was really like for me it was like grad
+school for customers is how I I look at
+YC where it's like the second you have a
+PhD in your customer and you're an
+expert in their world, then you know
+exactly what you can and can't build.
+It's that simple. If you know this
+customer is not the right fit, that's
+okay. Go to the next customer.
+&gt;&gt; I remember the picture of the beaker
+because in your like demo video, that's
+what it was.
+&gt;&gt; Do you remember this? The blue beaker
+and then we had the color change back
+and forth with the metal catalyst. But
+but I remember another thing about your
+application, which is even though the
+only thing you'd actually made was like
+one beaker full of this stuff, you had
+the idea completely worked out. Like you
+totally understood the reason that this
+would work. You'd worked out all the
+technoeconomics. Like all the math was
+done. The idea was fully flushed out. I
+don't think the idea like the core idea
+has changed one bit since the blue
+beaker phase.
+&gt;&gt; Literally the same.
+&gt;&gt; Yeah. It's just like a million times
+larger.
+&gt;&gt; Yeah. Is this larger?
+During YC, you guys are still driving
+around with like buckets of peroxide and
+selling them to spas. You finish YC, you
+raised your $4 million seed round. What
+What happens then?
+&gt;&gt; So, we moved to where our customers
+were, which was Houston, Texas, and we
+used the seed capital to build our first
+big pilot reactor, not just a PVC pipe
+reactor, but a proper 1500gallon type
+reactor.
+&gt;&gt; And then our first oil and gas field
+trial was January 2018. And so we had
+billboards targeting this guy so we
+could go get our first oil and gas field
+truck.
+&gt;&gt; Wait, you had billboards targeting one
+guy?
+&gt;&gt; So what we did, there was one guy um at
+at the saltwater disposal company who
+controlled all of the chemical spent.
+What we figured out was where he
+frequents like he actually goes to the
+field where he goes and where he lives
+or at least the neighborhood he lives
+in. and we bought up the billboard and
+billboards are cheap
+&gt;&gt; along the highway that he commutes to
+work in so that every day as he's
+commuting to work he's just seeing your
+billboards
+&gt;&gt; and then eventually he gets a call from
+us. It's a it's like a priming aspect of
+it that look we knew this was the guy. I
+was willing to spend 10 to 15K just to
+make sure that we can get in front of
+the guy. And the second that he saw that
+and he got a call from us, he was like,
+"Oh, I see your billboards everywhere."
+And so that's when he felt special,
+right? And this goes back to the
+customer experience. Do you think the
+CEO of DAO would do that? No. No way.
+They're not going to do that. Soon, Syen
+had signed enough customers that they
+were able to raise money again and build
+their first state-of-the-art plant, the
+Bioforge 1. So, this is Bioforge.
+Everything you're looking at here was
+built in five locations simultaneously
+and then shipped here on trucks. We
+rented a crane for 4 months and just
+stacked it up like Legos. So, all of the
+tan tanks are filled with corn syrup.
+That's our raw material. We were able to
+hold four rail cars of corn syrup at any
+one time, which is about 800,000 pounds.
+&gt;&gt; So it's like 800,000 pounds of corn
+syrup in these four large tan tanks.
+That's the starting material for the
+whole plant.
+&gt;&gt; That's the starting material for the
+whole plant. And then the plant runs
+continuously 24/7. So this is the full
+scale version of the PVC reactor. Is
+this the bubble column?
+&gt;&gt; This is the bubble column.
+&gt;&gt; It's so tall.
+&gt;&gt; 60 ft tall. It's identical to the PVC
+reactor from Y Combinator. It's just
+10,000 gallons instead of seven gallons.
+We sparge air in the bottom, corn syrup
+and enzyme go in the top and the two
+react together.
+&gt;&gt; All the other stuff is necessary, but
+like this piece is the magical piece,
+right?
+&gt;&gt; This is the reactor that makes it
+happen. Yep. We feed in one Coke bottle
+of enzyme and you get two to four tanker
+trucks of product. That's how efficient
+the enzyme is.
+&gt;&gt; Wow. After filling up the tanks, Syogen
+loads up trucks to distribute the
+chemicals to nearby customers.
+&gt;&gt; So, this is the end of the line. This is
+where customers pull up uh either with
+their own trucks or Solent supplies
+trucks and does all the logistics for
+them and we're able to fill up trucks at
+about 300 gallons per minute.
+&gt;&gt; Building out lots of factories near
+customers to keep shipping costs down is
+a key part of how Syen has managed to
+undercut its larger competitors. What
+has it been like to build new like
+physical stuff in America? It is
+definitely challenging, but if you're in
+a part of the country that wants that
+manufacturing back that's favorable to
+manufacturing, like it is absolutely
+possible to to build in America. What
+does Syogen look like in 10 more years?
+&gt;&gt; It's actually going to be multiple
+different assets. So, we're actually
+like we've taken enzymes and metal
+catalyst and applied them to not just
+bioforges, but other types of
+manufacturing assets that combine them.
+And we'll be solving the most
+fascinating customer problems that like
+right now like we're not even aware of
+them. some of the problems that we're
+going to solve, they don't exist yet.
+And so it's like just creating a culture
+that's willing to like be wrong and
+solve those problems is actually what's
+most important right now.

@@ -1,0 +1,1351 @@
+原文： https://www.youtube.com/watch?v=ydiMKfljb-I
+
+A lot of designers first of all are not
+freaked out enough. They are really
+actually not on clot code or cursor
+today. Majority of them are still on
+Figma. Code produces a significantly
+higher quality output than compared to
+other coding agents that I've tried from
+a haste perspective. Cod code just wins
+it all. If you you do use the MCP, it
+actually automatically fills up all of
+these things. So that's the advantage.
+All of these are like vectors, right? So
+it's like SVGs. You can edit the colors
+as well. It's not just a screenshot. It
+really becomes component inside of
+Figma.
+&gt;&gt; Oh, that's amazing.
+&gt;&gt; It just made a globe by itself. The most
+that I did was just provide a
+screenshot. If they see this exact
+podcast, they see what it can be capable
+of. Hopefully, they feel excited.
+Hey, welcome everyone. My guest today is
+Felix. Uh Felix is CEO of ADP list and
+he's also taught thousand of designers
+and how you use C code gigab to design
+amazing interfaces and apps. So really
+excited you could finish to show us
+exactly how to go from design to product
+and vice versa. Welcome FedEx.
+&gt;&gt; Hi Peter. I'm very excited to be on your
+show today. I've been a big fan. So
+thanks for having me.
+&gt;&gt; Yeah. Um so why don't we get right into
+it. N do you think you can share a few
+products that you designed using carbo?
+&gt;&gt; Yeah, for sure. So let me just uh share
+my screen. I think it's the best use
+case for that. So I have designed a
+couple of products and and just from a
+background information uh perspective I
+have uh uh been vibe coding as a
+designer for about maybe close to three
+and a half months today. So I started at
+the uh during the holidays uh of uh of
+2025 and kind of rode into uh you know
+2026 this year. So the first website
+that I've uh really kind of built was my
+own personal website. And this is where
+I uh highly recommend a lot of people to
+start because of course you know it's
+it's all about yourself and and and it
+you know there's no it's not for any
+clients or anything. So it's you could
+just be experimental with it, right? So
+uh this is my personal website
+felix.dev.
+Um you know there's dark mode, light
+mode. So you know it it just go auto
+goes to dark mode as well if it's at
+night. Um and I also built an AI chat
+for myself. Um so for example I could
+say uh why did you start uh ADP list? So
+uh for this I use sort of uh superbase
+uh and built a rack database um you know
+with it with all the information about
+myself ADP list and everything right uh
+and as you can see it populates the
+answer and it given gives you uh the
+sources that it plucks from right so
+this is all built uh by myself there's
+no sort of third party plugins or
+anything uh done directly on cloud code
+&gt;&gt; is this using um like open AI or
+something or keep generating answers.
+&gt;&gt; Yeah. So, so the the the the the API for
+sort of the the chat is uh using uh uh
+uh uh the CL clot AI. Yeah. Entropics uh
+API. Yeah.
+&gt;&gt; I love how when you get dark mode and
+light mode, the background changes too.
+&gt;&gt; Yeah. How how do you get that to work?
+I'm just very
+&gt;&gt; Yeah. So,
+&gt;&gt; is it two different images or Yeah,
+&gt;&gt; it's actually two uh different images
+that I uploaded. But, you know, it's
+it's pretty interesting because I did
+not upload uh the the dark mode for
+cloud code. So, what I tell cloud code
+is convert this image uh the original
+image, which is this uh into a dark mode
+version. So, you know, it's it's so
+great. I mean, it's uh back then it was
+Opus 4.5 and it was able to just convert
+it in into dark mode. I didn't have to
+do much.
+&gt;&gt; Understood. I
+&gt;&gt; Yeah. And then there's some Easter egg
+as well. Yeah. So, so you could have
+that as well. It's uh pretty simple. Uh
+but it was it was really where I got
+started. Uh my next website was for was
+for ADP list, right? So, this is my uh
+during the holidays as well. And I've
+unccoded this platform where we actually
+connected uh real live data of our 2025
+uh bookings on ADP list on onto what we
+call the ADP list rep globe right it's a
+little bit uh it's inspired by Shopify
+globe where Shopify has like you know
+shoppers and everything uh in this case
+we have people uh calling one another
+across the globe uh this is this lines
+represents uh the bookings uh that that
+you know global bookings and if you Just
+click into the yellow dots though. Uh if
+you click into the yellow dots, it shows
+you the meetups that are organized by
+our community around the world. Um
+you could just randomly click one. This
+is in Toronto. It's beautiful. Um just
+click here. This is in Singapore where
+I'm at right now. Um so and then of
+course at at the bottom you know we
+wanted to design something like a live
+ticker almost like a stock market but uh
+with the names of the mentors uh who
+contributed in 2025. So uh that's a
+little touch here and of course these
+are sort of all the minutes sessions
+that that are being done uh in 2025. So
+this is relatively simple but I decided
+uh that you know for my sort of second
+project in the sense uh it will be
+something that uh goes back to the
+company. So this this is this is where
+uh I landed next
+&gt;&gt; and and dude can you can you share how
+you like at a high level how did you you
+just like did you get that glow from
+somewhere and I just built your
+database?
+&gt;&gt; Yeah for sure. So
+&gt;&gt; yeah,
+&gt;&gt; so what I did was that of course um I
+actually plugged uh so I actually
+exported the data of the names of the
+mentors uh you know where the calls are
+happening from a from a city to country
+perspective uh the minutes the sessions
+uh all this data from our AWS uh back
+end um I exported it as as CSV and uh
+what I what I did uh co clocker to do is
+that hey look um you know uh read
+through all this data uh and can uh sort
+of design this globe, right? So, I
+actually had a screenshot of the Shopify
+globe and I tell that, you know, I I
+kind of want this globe uh where uh the
+calls are sort of uh uh interlin through
+the lines and everything like like
+Shopify globe. So,
+&gt;&gt; I asked it to make make for me a plan.
+Uh it had it had a great plan to to
+begin with uh with all these data sets
+and then it just begin building from
+there. So, this project took me about I
+would say combined it's about 12 hours.
+So it's relatively straightforward in
+that sense. Yeah.
+&gt;&gt; Also, you did not use like a 3D globe
+asset. It actually just made a globe.
+&gt;&gt; It just made a globe by itself. Yes. I
+did not use a 3D asset for that.
+&gt;&gt; Wow.
+&gt;&gt; Yeah. Okay.
+&gt;&gt; Uh it it is insane. Yes, it is insane.
+So I I I I think the most that I did was
+just provide a screenshot, you know. It
+wasn't anything more than a screenshot.
+Yeah.
+&gt;&gt; Okay. I'll try this new. Okay. You do
+one more.
+&gt;&gt; Yeah. I I I do have uh one one last one
+just to show everyone.
+This episode is brought to you by
+Replet. Replet's new agent 4 is the best
+way for teams to collaborate with AI
+agents. There's a new infinite canvas
+where you generate design directions,
+compare them, and take your favorite
+straight into a working app. From there,
+you can spin up multiple AI agents in
+parallel to build different features at
+the same time and track them on task
+board where you can review and approve
+what ships. And once your app is built,
+the agent can generate slide decks,
+animations, and more from the same
+project. Because slides, animations, and
+documents are all just code under the
+hood. Check out Replet via the link in
+the video description and use my code
+pan26 to get three months free. That's P
+Y26.
+Now, back to our episode. Uh, so this is
+why I call the growth analyzer app,
+right? So, this is this is something
+that I I I put on put on X as well. Uh,
+people loved it, you know. Uh,
+basically, so you have credit system. So
+this is really a full-blown app here
+Peter because uh you got to sign in you
+you can purchase credit if you want. So
+if you go here uh you can purchase
+credit. So this is linked to stripe uh
+you can log in with you know your Google
+account. So what it does is that you can
+actually upload your landing page image
+or even your website URL and what it
+does is that you know it will come back
+with something like this. Right? This is
+again a quick demo. So it will come back
+with something like this where it tells
+you hey you know your your landing page
+is at about 72%
+uh some of the things where you can
+improve on uh like your copy you know
+and it tells you a little bit of like
+what kind of copy you should write next
+uh and what would be the expected uh you
+know outcome of of of that new sort of a
+UX change right so even like the CTA
+&gt;&gt; Yeah. So instead of saying get started,
+you could be like start recording free,
+right? So more actionable
+uh you know like direct to to your value
+uh prop rather than just saying get
+started. So so I I I designed this and
+wow this this really took me a long
+time. I mean uh it took me maybe about a
+combined of maybe more than like 48
+hours I think. uh uh you know across a
+yeah across a span of like across a span
+of a good three weeks. Uh of course I
+was iterating on that. Yeah.
+&gt;&gt; So that's this one is just like uh like
+you have to take a screenshot of the
+website I'm guessing and private window
+AI with a prompt and then gives advice.
+Is that how it's like
+&gt;&gt; exactly? Yeah. Yeah. Yeah. So you can
+upload your screenshot or or you can
+tell it to capture a screenshot of a
+website and then it comes out with all
+this. Yeah. What's the toughest part
+about business for second?
+&gt;&gt; So yeah,
+&gt;&gt; the tough part about this honestly I
+think one and I've been getting DMs
+about it uh is that is to get the
+hotspots right. Right. So you see this
+hotspots. So uh these hotspots if you
+were to use uh clot code or you were to
+use Entropics uh Opus LM API u uh for
+some reason the visual recognition part
+isn't really the best. Um, so sometimes
+the hot spot just goes way off, right?
+For example, uh, this one might not be
+on the copy directly. It might be
+somewhere on the top right corner. So,
+it's a little bit hard to use that. So,
+I had to try different, you know,
+models. Uh, and the best one for this
+would be the the Gemini Pro uh, which
+has nano banana. Uh, I I I think that
+that that one was like really good to
+help uh, with it. So getting the
+hotspots right was one of the toughest
+one. Um and then second getting it to
+write uh really great feedback. Uh uh
+that makes sense, right? I I think I had
+to kind of like fine-tune the response a
+little bit as we go. So I did spend a
+lot of time on the quality of the output
+here.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. This is amazing, dude. This is uh
+any any kind of landing page
+optimization usually goes viral on X. So
+yeah.
+&gt;&gt; Yeah. You're probably making money from
+site.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Yeah. Yeah. Like like there's a
+lot of landing page optimization stuff.
+Yeah. So this is more of like uh uh sort
+of uh uh along the lines of like helping
+you with you with conversions and and
+just like uh uh supporting you with with
+like a second view of your landing page.
+Yeah.
+&gt;&gt; Okay. Well, this is pretty incredible.
+So let me ask you about so when you make
+stuff like this I mean you're the
+designer by trade, right? So like do you
+actually start with the vaas or or do
+you just go straight this coa?
+&gt;&gt; Well, you know it's a it's a great
+question, right? Um uh frankly frankly I
+I have not used uh I have I did not
+start from Figma for any of these
+projects that you just seen. Um uh
+unfortunately unfortunately
+&gt;&gt; crap. Okay.
+&gt;&gt; So so Figma is not a part of cones. You
+just kind of iterated and called rep.
+&gt;&gt; It's not it's not part of the process.
+You know we have got a lot of things to
+talk about that. Uh but yes it it wasn't
+a part of the process when I designed
+all of these things.
+&gt;&gt; Yeah. And it's like uh this stuff is so
+good already and like you know code is
+distributed free at this point and and
+like it's almost like I'm not a designer
+by trade and I was trying to use all the
+layout.
+So like see it's almost easier to just
+like generate the code to like try to
+build some box around in Figma.
+&gt;&gt; Yeah. Was it you who tweeted like did
+you tweet something like auto layout is
+a pain in the ass or something a few
+days ago? Was it?
+&gt;&gt; It was me.
+&gt;&gt; Okay.
+&gt;&gt; Yeah. Oh damn. Yeah. Like no, I mean I
+mean it's it's same for me like like I I
+wouldn't claim that I am like a
+full-blown designer from a perspective
+of that I spend time on design every
+other day. I mean I did do that in the
+first two years of founding our startup.
+Uh but you know after we raised our
+first round uh you know I I hired a
+designer uh and she took uh pretty much
+the bulk of the workload in fact
+everything. So I I didn't kind of uh uh
+do that like anymore. Yeah. But uh it
+was always hard to figure out all the
+auto layout stuff as well.
+&gt;&gt; Okay. Well, I mean why why don't we uh
+cube ourselves here? Let's actually try
+to use Figma a little bit more. Uh
+&gt;&gt; like they have a they have a MCT, right?
+&gt;&gt; Yes. Yes.
+&gt;&gt; Can you show like this MCD kit beer?
+&gt;&gt; Yeah, for sure. So, uh maybe just to
+kind of get get everyone on on speed,
+right? like Figma has uh Figma MCP has
+like sort of I would say many many
+different functions but what we will be
+uh demoing here as we talk about Peter
+would be uh two things right uh one
+would really be uh using the Figma MCP
+to get a design to code and then uh next
+thing is uh like something more new
+which Figma uh released which is uh you
+know getting uh code into Figma right I
+think that's that's just launched a
+couple of days ago so we we'll kind of
+go through uh both now Let's let's do
+the first one maybe. Uh so I'm going to
+share my screen and and open up
+something here. I think maybe what would
+be great is uh we do a simple landing
+page right from a uh uh by using CO code
+to kind of uh uh get that done uh and
+and the fake my MCP. So I have a readym
+made uh let me just bring that here. So,
+I have a readym made sort of a um a
+landing page here for one of our ebook
+guides uh that ADP uh usually promotes,
+right? It's called a design mode short
+uh landing page. Um so to kind of give
+give a little bit of a a a sort of
+broader understanding of this landing
+page is that you know you could fill in
+your email address, full name, job
+title, company uh and then you you you
+know you could just claim your stuff
+here. So to give everyone some
+perspective um is that you know usually
+a landing page like that if you were to
+you know uh learn web flow or framer it
+maybe take you like a few hours or or
+you know if you were to let's just say
+get a developer to do it you got to
+maybe write a PRD submit it uh and and
+you know and then you get a developer to
+prioritize it. It might not even be high
+up the priority list as compared to any
+other thing. So end up you know a lot of
+growth teams or marketing or even
+product managers who wants to just
+experiment with things uh it just kind
+of like lags behind uh it gets delayed
+by a lot. So uh uh this landing page
+would have taken me about would have
+would have took took my team I think
+about at least a day or two right uh it
+isn't long but but I think it's it's
+pretty frustrating when you have to go
+back and forth with different
+stakeholders. I I think what would be
+great it would be to kind of show you
+how FigmT can convert this into a
+working building prototype. Yeah. So
+let's let's get to it. So usually what I
+do is I use uh terminal. So I can use
+terminal for this. So then you can
+activate cloud code. But also what we
+can do is that we can go to cursor if
+anyone wants to see uh and usually I use
+an IDE for it because I can preview the
+code. So uh I can create a new new
+directory. I can say landing landing
+page
+landing page right so can create it and
+what I'll do is that usually I'll use
+clock code within cursor just so that I
+can see uh the code and the files within
+uh cursor yeah so what you're seeing
+here is uh uh cursor right and and I
+just activated clot code within cursor
+and of course the the simple reason for
+that is you know you always want to use
+an IDE to preview your code to preview
+some of the things that is turning out.
+Uh so uh I I prefer always using CO code
+as the primary coding agent. Uh but I
+use cursor just as a um you know just as
+an I uh sort of like a previewer. Yeah,
+in that sense. So let's get started. So
+first of all, I think for anyone wanting
+to see that uh MCP I think it's already
+installed here. So if I would to just
+show anyone uh Figma MCP is already
+connected. So uh AWS MCP is connected
+but I might I will just disable that
+first. So we have Figma MCP. So what
+I'll do is just go to Figma uh this
+design and I'm going to go to deaf mode.
+It's very simple and I'm going to copy
+example prompt here. Let's say implement
+this design from Figma. So it's very
+straightforward. Uh and it's going to
+start running. And uh while we're
+waiting like I also run Hakov cursor in
+sometimes later in trouble no more and
+uh you know I the cursor team insist
+right that's the best they want you to
+use their yeah it's just not bo
+&gt;&gt; yeah yeah usually usually that's the
+case but I've I've seen that like you
+know um the interesting thing about C
+code and I I think a lot of people ask
+me this I mean while we're waiting for
+it is that you know C produces a
+significantly higher quality output than
+than compared to other coding agents
+that I've tried. So I've tried like you
+know the one in Gemini AI studio uh uh
+you know even like Codex from cursor I I
+I just think that from a from a taste
+perspective you know cloud code just
+just just wins it all uh and of course
+it produces much higher quality uh
+outputs as well from everything from
+markdown file to codes right so so so I
+continue using cloud code for that
+reason
+&gt;&gt; yeah some people say that uh coded are
+better at solving policy stuff but I'm
+afraid with you know up till now. So,
+&gt;&gt; oh yeah. Yeah, for sure. I I mean I mean
+there's a case to be made as well about
+how different models also work
+differently and has different outputs on
+different machines. So you could have uh
+cursor using Opus 4.6 or you could have
+CL code using Opus 4.6 and and it is
+surprisingly you know very different in
+terms of it output uh with the exact
+same prompt. Uh I I I'm not sure what's
+the size behind it. I'm not a AI
+researcher or a AI engineer but I'm
+quite sure that it is different to a
+certain extent. Yeah.
+&gt;&gt; Okay. Um so what it's showing now is
+that you know quad code is actually
+taking Yeah. So this is this is this was
+just pulled up here and uh it is it is
+showing all these elements here right
+now.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. It is it is that oh look at this.
+This is interactive. This is incredible.
+This is incredible. So so what I'll do
+next is that uh you know what I'll do
+next is that I'm going to say something
+right. I'm going to say okay I'm going
+to take this going to copy the link for
+it because this is the uh let me just
+copy the link here oops copy link okay
+so because this is the after state once
+I submit uh the form right so I'm going
+to go here and say as you can see it's
+just 10 minutes okay uh it's way faster
+than going to any developers
+so I'm going to say uh uh great now the
+after state once I submit the form
+should be his uh
+and the logo isn't showing on the
+preview
+and the logo isn't showing on the
+preview. So, make that work. And
+finally,
+the book should be sticky at the side
+until as I scroll down. Okay. So, I I
+just what I did was just like, you know,
+I I I told it three things. Uh one is
+the after state. Uh second of course the
+logo isn't showing and then uh the book
+should be uh uh in a sticky format uh
+rather than rather than just uh you know
+floating around.
+&gt;&gt; Do you actually have the So the whole
+point of this land is to download the
+PDF, right? Like you actually have the
+PDF in this.
+&gt;&gt; Yes, I do have the PDF. Yeah. So so I'm
+I'm actually going to get the PD like
+actually you pointed that uh perfectly
+well. So what I'm going to do is I'm
+going to go get the PDF while it's uh
+loading.
+Yeah. So it's it's going to make all the
+edits right now.
+&gt;&gt; All right. Oh, so logo is a little
+weird. We we we'll handle that later. Uh
+but what we really want to do is um you
+know this part, right? This is the main
+part. I mean the rest is visual. We have
+to edit it a little bit but let's see if
+this works right now from the after
+state perspective.
+Okay. So let's see.
+Okay. Yeah. So now it now works. So
+there is a download the report. Um so
+what we'll do is just to say uh for
+download report in after state it should
+Okay.
+&gt;&gt; Okay. So you're going to take like a URL
+is a bit left to
+&gt;&gt; Yeah. Exactly. Yeah.
+&gt;&gt; Drive.
+&gt;&gt; Yeah.
+&gt;&gt; Okay. So now I think it should be
+working. Let's just refresh a little
+bit. Say Felix
+um baby puris.
+&gt;&gt; Yeah. So it's it is working.
+&gt;&gt; It's working. Yeah. Yeah.
+&gt;&gt; So if you can see I mean this whole
+workflow just took us less than uh 15
+minutes. Of course there are some visual
+stuff that we got to you know uh uh uh
+briefly settle it but but other than
+that you know it's it's really really
+fast to just get this out of the way. So
+&gt;&gt; I wonder I wonder like how much better
+this is than just like copying some
+screenshots over to clock. Yeah. So,
+based on my experience the last time, I
+think when I when I did this landing
+page, so this is actually a real case
+study. Actually, it's it's right here.
+Uh, let me just show everyone. Um, it's
+right here. So, it's a lot better the
+last time before the new MCT was
+updated. I I'll be honest.
+&gt;&gt; Um, yeah. Yeah. Yeah. Like from an
+output perspective. Just from an output
+perspective. Yeah. But I I think it's
+it's still okay. I mean if you were to
+put screenshots I mean what it would
+requires from a screenshot perspective
+is that it will start asking you for all
+these assets right like the book uh all
+these minor minor icons. Yeah. So you
+end up having to go back and forth a
+little bit but if you you do use the MCP
+uh it actually automatically fills up
+all of these things.
+&gt;&gt; Okay. That that makes a square advantage
+right.
+&gt;&gt; Yeah. Exactly. Yeah. So that's the
+advantage of just using MCP because it
+has all the assets.
+&gt;&gt; Cool. This is awesome. Yep. Do you want
+to come on next?
+&gt;&gt; Okay. So the next one uh is something
+that I've done it before but uh I I
+think we we talk about it in in the end
+as well which is uh going from Figma
+from Fig Jam and building a game using
+Fig Jam uh directly using clot code. So
+so this is really really super cool. It
+kind of blew my mind a little bit uh
+when I when I did it. So let's just
+clear this project first. Uh we don't
+need this anymore. Not for now. Just
+going to close this folder. So now I'm
+going to sort of do a purist puff,
+right? So I'm going to go f jam and I'm
+going to say like I'm going to like a
+flappy bird or something I guess, right?
+Flappy bird. Flappy bird game and I'm
+going to say draw a So this is this is
+Fig Jam's uh AI. So this is pretty good
+as well. Draw a flow chart of a simple
+Flappy Bird game app uh that doesn't uh
+require sign in. It should include a
+simple scoreboard uh with highest
+records and others. We'll keep airflow
+uh simple to simple for users. Okay. Now
+uh meanwhile we're going to open up
+terminal. So this is where gets
+interesting. Okay. So we got now we got
+two things, right? So we got our
+terminal here open and we got our flow
+chart. So it's a little bit messy. Uh I
+don't usually kind of go through all of
+this. Uh but what I'll do is that you
+know I will just imagine that you are a
+designer and your product manager just
+gave you a flowchart and be like do it
+like this and if you're lazy to read it
+you could just you know vibe code
+something and just use it or if you want
+to of course uh you can read through the
+flowchart uh and and but what what why
+this is really useful and why I like it
+Peter is because uh flowchart is a sort
+of bread and butter skill for a lot of
+designers. it's it's necessary in bigger
+organizations. Uh engineers require it
+and many people just want to see it um
+so that they understand how things work.
+Uh personally of course at ADP flowchart
+is not really a big thing. Uh uh and
+that's just because we we keep things
+really simple. There's not really a lot
+of complications. Uh but we do have some
+flowcharts for more complicated stuff.
+Uh but with that said, you know, I'm
+going to copy this link to this
+selection and I'm going to say uh using
+uh look at this Figma flowchart and I
+want you to build the Zappy bird game
+reference using this flowchart. Okay. So
+what it's going to do is that it will go
+to Fig Jam and it will start reading the
+Figma board as you can see. So it's
+fetching the Figma board now and it has
+a get Figjam NCP. So it's pretty
+transparent. This is what I like. You
+know, it tells you exactly what it's
+doing.
+&gt;&gt; This is still using the Figma MCP,
+right?
+&gt;&gt; Yeah, it is still using the Figma MCP.
+&gt;&gt; Yeah.
+&gt;&gt; So, there's no uh Figma has just one MCP
+and and it has multiple functions.
+&gt;&gt; Okay. So, now it's asking me where do I
+want to create it, right? So, I'm just
+going to say create a home directory.
+And if anyone in just wants to see uh
+while while this is just building up,
+let me just go back to uh my VLE and I
+will show everyone what I did by uh
+building a game right on to where is
+that? Okay, I have a Tetris scheme here.
+Okay, so there's a scoreboard.
+Wow, there's a lot of people that just
+played the game. I I did not know that.
+Uh but yeah so so you can basically play
+a simple game of Tetris uh directly uh
+for free um on desk desktop. Uh I just
+built this using the same exact flow
+with fake jam. So I'm just going to use
+it. Okay. So now it's actually building
+it. Same thing. So just to give everyone
+kind of a a little bit of a preview as
+well, but it will blow your mind when
+this is ready. Um hopefully it just it
+it has a good output.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Let me just
+&gt;&gt; I mean that that flowchart is pretty
+difficult for human me to view like a
+little overlapping ones. So hopefully
+Yeah.
+&gt;&gt; Yeah. Look at this. Look at this.
+There's a little bit of a Yeah. What?
+&gt;&gt; Yeah. This flowchart is not that simple.
+Okay. So it's building the HTML file
+right now as you can see. Oh, look at
+that. Right. So
+&gt;&gt; yeah,
+&gt;&gt; let me see. Yeah. So it is done. Are you
+seeing it?
+&gt;&gt; What's that? Okay.
+&gt;&gt; Yeah. Look at that. this tubby bird. So
+you can play
+Oops.
+&gt;&gt; Bucks. Oh, look.
+&gt;&gt; Okay. So, it's a little bit too
+sensitive, right? So, I I can adjust
+that a little bit later.
+&gt;&gt; Um, you can view the scores
+settings as well. That's easy. Okay. So,
+maybe I just go to easy and you can try
+it.
+&gt;&gt; Oh,
+&gt;&gt; hey, I got a f.
+&gt;&gt; Yeah, there. Yeah, there you go. Right.
+So it just took like uh like you know a
+few minutes to even just build a game
+like that uh with animations with clouds
+and everything else. So uh if I of
+course if I want to adjust it a little
+bit a little bit further you know you
+can do that. So what I'm trying to show
+here is how quick it is to get from a
+flow chart on Figma board uh to build
+something as simple as a game like Tetri
+or Flappy Bird or anything of sorts uh
+and just by using clot code. Yeah. And
+MCP think MCP.
+&gt;&gt; Yeah.
+&gt;&gt; I I think this but I guess my question
+would be like how much does it actually
+use the fully char? But it just knows
+how to kill black people.
+May maybe it just knows how to build.
+Yeah.
+&gt;&gt; Yeah. I I I think that there there is a
+good chance that he just knows how to
+build. I mean uh probably 100% 100%
+chance that he knows how to build. Uh
+so, you know, as as we kind of get
+through today's podcast and demos, I I I
+think designers will start to realize
+that the use case of Figma really isn't
+what it's like a year ago or even a few
+months ago, right? like if you're on
+cloud code like me, using Figma would
+would be a little bit of a bottleneck in
+in some sense to sort of what you're
+doing a and I think that as we kind of
+get through of course today's podcast,
+you know, we start to realize that a
+little bit more, right? it becomes a
+little bit clearer. But what I do see
+Figma as a good use case would be uh
+would would really be sort of like when
+it becomes like a collaborative tool uh
+between engineers or product managers
+where you could leave comments and and
+and you could like uh you know
+collaborate on the finer elements of the
+case components and whatnot. Yeah.
+&gt;&gt; Yeah. Then it is like the last 10% the
+last
+good.
+&gt;&gt; Yeah. I mean my my guess is that at some
+point the last mile would be gone,
+right? Because l would get hopefully
+good enough and and uh and good enough
+to the point where you could just
+overlook the last mile or if not just
+get through the last mile or uh if the
+if the AI is good enough. Yeah.
+&gt;&gt; I also think like there's a use case to
+Figma for very closely matched design
+system. Right. Yes. Although I I think
+LM are okay than LQ but like you want
+like exactly mass design system for
+everything maybe like going to Finma
+first.
+&gt;&gt; Oh yeah 100%. Yeah. Yeah. So like design
+systems I think is is going to be big
+thing uh at least with uh uh sort of
+like um you know with with everything
+with Figma into into CL code or vice
+versa. uh which is something that I've
+been trying to solve like so you see
+this file called taste MCP here right
+yeah yeah you could see that I
+screenshot a bunch of tweets like you
+know
+&gt;&gt; uh everyone is saying like you know you
+cannot replicate taste right it'll be a
+long time until you can replicate taste
+and just a lot of tweets right like like
+uh funny tweets and not uh my I mean my
+guess is that at some point it will and
+like I'm I'm trying to replicate my own
+taste at least or like taste of really
+good designers that have publicly shown
+their work. Uh so that's something that
+I'm personally building as a side
+project. I mean it's been really really
+hard to replicate taste if I'm honest.
+Like you know I spent maybe like two
+weeks now. Every day I've been trying to
+replicate it for like a good four hours
+and it's just been really hard. So I can
+see where these people are coming from.
+Uh I don't think it's impossible but
+let's see. Yeah,
+&gt;&gt; dude. that that that's that's actually a
+good thing to close on. Like I would
+love to see if you share some of your
+skill files that you use for cloud bone
+or like how your part was set up.
+&gt;&gt; Yes. Right. Do you have I think I think
+you had like a designer view console or
+something skill.
+&gt;&gt; Yeah. Uh I I don't have that right now.
+Uh but okay. But I'm happy to sort of
+like uh show a little bit of the
+workflow actually of how to build that.
+Yeah. So maybe let's just um cancel this
+one first.
+So I I think that's one of the things
+that you talk about which is uh about
+the uh design review panel right skill.
+So so what I'll do is that usually what
+I do is that I I there's a multiple
+workflow but I'm going to keep it
+simple. I'm going to say uh create a
+clot skill uh for a UX uh reviewer. Uh
+and and one of the things that everyone
+wants to kind of take note is that a a
+design review panel is made up of uh
+multiple
+uh uh sort of reviewer. So you have your
+UX researcher, your your UI designer,
+your visual polisher and much more. Uh
+so usually what you want to do is that
+you want to have all of them review
+something either simultaneously or or or
+taking turns, right? Uh so what I'm
+doing here is that I'm actually just
+creating one of it first just to show
+you uh uh an example of how it works. So
+I'm going to say uh review uh
+screenshots uh and mockups. Yep. Keep it
+flexible. So it's asking me, you know,
+what frameworks I want to use. Keep it
+flexible. All this will be for
+designers, maybe mix teams, right? And
+then submit it. Uh and and the reason
+why I'm taking this workflow and and
+before this I used to write all my
+skills uh by the way. But what I've
+realized in the in in in the past month
+alone is that is that just just Claude
+has been so good at writing these things
+uh that it would be unwise not to tell
+it to do it for you, right? Uh uh uh so
+so I think that's that's one of the
+things, right? It's like you could do
+it. Uh but then of course you could
+either maybe go and check out some open
+source stuff on GitHub that might have
+better skills as well uh to to put in
+yeah score card and uh okay maybe just a
+structured yes use MMCP this is pretty
+great. Okay. So answers
+&gt;&gt; and if you want to make a council of uh
+advisors you just ask it to make a scale
+for council buy.
+&gt;&gt; Yeah.
+&gt;&gt; Exactly. Yeah. So so you could always
+say like I want to add a UI visual
+polisher into this particular skew as
+well. Yeah.
+&gt;&gt; You have to add anti- AAI slot other it.
+&gt;&gt; Yeah. Exactly. Yeah. You you can you can
+add the anti-AI slot. I don't think it
+understands what's anti-AII uh slop
+because I mean it it just it just treats
+everything as high quality in this sense
+which which I think makes it even
+harder. Yeah. Yeah.
+&gt;&gt; Uh because it's very hard to quantify
+what is lo these days from a uh it's
+very hard to quantify to designers to to
+to the to the AI itself. But from a
+human perspective you just know it's
+lop.
+&gt;&gt; Well it's getting harder. It used to be
+it used to be like on the slop was like
+purple
+&gt;&gt; purple purple brillian right but now the
+latest models is actually getting better
+at not doing that so
+&gt;&gt; exactly
+&gt;&gt; it's getting harder and harder yeah
+&gt;&gt; it's getting a lot better and so it's
+it's getting harder especially when it
+comes to writing right like we we talk
+about this but when it comes to writing
+and coding it's becoming very hard to
+distinguish between what is slop and not
+slop right uh I I think a bulk of that
+text problem it's already solved I mean
+that's really what LM are for, right?
+It's text based. Uh, but when it comes
+to visual, I I think it has some way to
+go. Uh, you know, of course, of course,
+like you know what this guy Daryl
+&gt;&gt; just posted here, you know, we all see
+this, right? Like we just know this is
+from AI, right? So, so there is still
+arguably some some room for improvement
+from from a visual perspective. Yeah.
+Okay. So, it's so just to kind of walk
+through everyone like it is creating the
+slot uh the skew.md right now, right? Uh
+it is creating the UX review skill.md.
+It's beautiful. I just love like seeing
+it run. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; And and and just to like for people who
+are not familiar, it's a skill is
+literally just like a text box, right?
+Text file a bunch of instructions. Oh,
+we should and should not do.
+&gt;&gt; Exactly. Yeah. SK is really just a set
+of instructions. So if you just read
+this uh green color lines, right? like
+it is really just hey overview
+conduct UX review of UI designs to do
+your workflow. So this is really just
+what a core skew is which is just a set
+of instructions for you to perform a
+task right a specific set of
+instructions. So you could you could
+write it in your own language to
+customize it uh how you want it or how
+you feel like your workflow should be.
+So in this case, you know, it's done.
+It's packaged to uxq.reer. So maybe what
+I'll do is to show everyone what that
+skew look like.
+&gt;&gt; You know what you should do? I'm I'm I'm
+going to put you on the slot. You should
+go up your web website again to review
+landing pages and just screenshot that
+and and and ask the same you should ask
+the skill if it's about the design or or
+not.
+&gt;&gt; Oh, like I should ask uh the the the the
+clot code about my own landing page. Is
+that what you're saying? Yeah, the Yeah,
+like the one that you made for review
+land.
+&gt;&gt; Oh, this one. Yeah. Okay, let me just
+take a screenshot of it.
+We're going to put it in there. It's a
+very good idea. Right. So, we're
+connecting the dots all together. We're
+going to say review this Figma design
+using the UX reviewer skill. Now, I just
+want to share why I prompted it this
+way. Um, even though it just says
+something like review this Figma design.
+And the reason why I I I say this is
+because now I'm going to edit this
+first. Uh, review this screenshot.
+Sorry. Okay. So, the the reason why I
+prompted it this way is because there
+will be instances where it doesn't use a
+skill even when you're clear about, you
+know, reviewing something like UX,
+right? So, it will just automatically
+give you feedback and whatever without
+using the skill. So what I usually
+advise is like specify that you want it
+to use the skill in this case. So let's
+just
+&gt;&gt; Yeah. It's not very good recognizing
+tender.
+&gt;&gt; Yeah. I'm I'm glad I'm not the only one
+Peter because like you know when
+whenever I go online and everyone is
+like oh skew is so great and everything.
+Uh but you know I I had some troubles
+getting it to use skill. Uh uh and I
+have to always manually prompt like hey
+use skill use skill. Use skill. Yeah
+that's always a big one. Now maybe while
+it's loading I I would I would like
+share a little bit of a behind the
+scenes as well of like what I use a
+skill for and also like uh just just
+like some of the things that I' I've
+built using skill. So maybe let me just
+uh go to my clot first. Okay. So there's
+the settings here capabilities. Sorry.
+So actually I have what I call the UX uh
+viral xrital skill sets, right? like
+like I I was like hey uh like you know
+Nikita Beer has like some principles
+about writing good stuff on on X. So I
+usually you know I I give it some of the
+references like I have example markdown
+files and everything. So I give it real
+examples from like Nikita's like advice
+that he posted um and everything else
+and it just comes out with this and
+including my own voice right so direct
+no you know ADP list AI first
+school so and so forth. So, so a lot of
+my tweets, I wouldn't say 100% AI
+because I adjust it a lot, right? So,
+this skill is really not perfect, but
+what I like about it is that it gives
+you a starting point to begin somewhere
+uh with with the with the uh cloud
+skill, right? So, this is uh a little
+bit outside of design, but just to show
+everyone that you can use it to write
+your PRDS, your your your anything uh
+that you want basically. Yeah. Okay.
+&gt;&gt; Yeah, I have something pretty simple. So
+yeah.
+&gt;&gt; All right. So now it's done. Uh so it
+actually used a skill. So as you can see
+it successfully loaded the skill. If it
+used the skew actually you would see
+this uh green dot and the skill here. So
+it's it's pretty clear and now it gives
+you a high level structural uh issues
+critical that to fixed uh tells you fix
+and whatnot. So this is this is just
+basically how skill works, right? Uh
+which is specific set of instructions
+that you want it to perform a task for
+you uh and a certain output as well.
+Yeah.
+&gt;&gt; Awesome. Awesome. Yeah, this is great.
+&gt;&gt; Um
+&gt;&gt; Okay.
+&gt;&gt; Well, I think I'll put this up now.
+Yeah.
+&gt;&gt; Uh but we got one last thing, Peter. We
+got one last thing which is
+&gt;&gt; Oh, you want to show that thing? Okay.
+Okay. Sure. Yeah. which is uh Figma's
+latest function of uh of of converting
+cloud code to to uh Figma design. I
+think that's that's the one we wanted to
+to to also demo, right? Yeah. So let's
+let's let's try that. So I got this one.
+So let's see. Okay. So let me just reset
+this a little bit first. Now previously
+we did talk about one of the websites
+that I built which is the growth
+analyzer, right? So it is here. That's
+the last one. Just going to Oh, where is
+it? Terminal. Okay. Run this on local
+host.
+All right. So this is the
+final demo for at least for different
+workflows using Figma MCP and just uh
+use cases for designers. Uh this one is
+what Figma announced two days ago uh
+which is um uh getting from cloud code
+back to canvas. I think it's pretty
+controversial by the way uh because a
+lot of people that I know do not
+understand uh why uh Figma is doing that
+like why do you want to put code back to
+canvas? uh I myself of course have some
+hypothesis about it um but I don't think
+it's like you know people uh completely
+get it um so that's one way right so
+okay so now we run ran this on local
+host uh this is not the actual website
+this is localhost uh I want to say
+export this to a Figma file using Figma
+FCP
+&gt;&gt; I I need to go this because like I said
+it's actually easy to just go from zero
+to one with hole
+And then and then you can hopefully
+don't want to pigma to like retrace
+after that.
+&gt;&gt; Yeah.
+&gt;&gt; And but I think
+&gt;&gt; like but I think the irony is like you
+still got to somehow bring it back to
+cloud code. I I you know I I think
+that's that's really kind of where where
+people think like
+&gt;&gt; hey it's a little bit ironic, right? You
+got to design it and you got to bring it
+back to cloud code somehow. Um so you
+might as well just you know design it on
+on on cloud uh cloud code or something.
+Yeah,
+&gt;&gt; I mean what I I think what people really
+want is like you know you make a fitbot
+and then and then the MCP actually makes
+a full stack app like it makes a
+database and back
+&gt;&gt; that's what people want.
+&gt;&gt; Exactly. Exactly. I I've been seeing it
+in my comments like people are like
+&gt;&gt; I'm convinced about the use case but
+what I really want is just uh getting it
+into into like a proper code uh for my
+design. Okay.
+&gt;&gt; So as you can see it yeah it just sent
+to Figma. Um, so maybe let's just open
+the file for now for the Figma one and
+we would be able to see it. Okay, so it
+has created a new Figma file for me and
+it's called growth analyzer. As you can
+see, I got everything. Wow, look at
+that. You see this, right?
+&gt;&gt; So So let me let me show you something a
+little bit more interesting. Okay, so
+let's say I want to capture specific
+elements like the button here. This
+button I want to capture. It can do a
+lot more things, right? But for the
+interest of time, I'm just going to show
+uh some simple stuff, right? So send
+this great and then I can select element
+like I want this whole this part here.
+Okay. And let's go back to Figma. Now
+you can see everything is just neatly
+tied up here.
+&gt;&gt; Oh, that's amazing. Yeah,
+&gt;&gt; the the icon as well. Look at that.
+&gt;&gt; Yeah, dude. They should there should be
+like a Chrome extension so I can just
+say skill stop. Yeah, it's it's it's
+literally like a Chromeback session,
+right? Like uh but but it is of course
+native to to to Figma. And I think what
+is amazing is that all of these are
+like, you know, like vectors, right? So
+it's like SVGs. You can edit the colors
+as well.
+&gt;&gt; Uh it's not just
+&gt;&gt; it's not just a screenshot, right? It it
+really becomes a component inside of
+Figma. And I think that's what designers
+are looking for. Um, but of course all
+of this at the end of the day, you know,
+you want it to go back to production.
+The irony is that it has to go back to
+cloud code for, you know, again. So
+that's that's that. Yeah. And and that's
+all that's that's this is the new
+function. Yeah.
+&gt;&gt; I'm I'm actually really impressed by the
+coupon. Yeah. More part I can see being
+very Yeah.
+&gt;&gt; Yeah. Yeah. I I think what I what I wish
+that it can do is that it can name these
+layers, right? Otherwise, it's all it's
+all a little bit like icons icons and
+just a lot of stuff here. But, you know,
+it's it's good for first version, I
+would say.
+&gt;&gt; All right. Well, let let me ask you one
+more question, man. So, like uh you
+know, we just went from Figma to con
+code to Figma and you also filled a
+bunch of stuff without going to Figma at
+all. So, what do you think like do you
+think designers to like if I was
+designer, I'll be like freaked out by
+all the stuff,
+right? Like like uh what what should I
+do? Why who should I do? cuz all I know
+is how do you make hmas like what I
+should should I like know the code or
+&gt;&gt; well I you know I I I would I would I
+would have a really honest view on this
+is that a lot of designers first of all
+are not freaked out enough right like
+they're not freaked out enough because
+they are really actually not on clot
+code or cursor today um a lot of them
+like majority of them are still on Figma
+the workflow for them has not
+drastically changed
+um and they're not learning cloud code
+outside of work. I mean, you know, to to
+give you sort of a little bit of a a
+data point, right? Like at ADP list, I
+mean, we have mentorship sessions. We
+have more than 55,000 bookings every
+month today. And I would say that the
+conversations from designers regarding
+cloud code has maybe only like uh like
+cloud code or cursor like deeper AI
+tools uh has only increased maybe for uh
+like 10 20% uh over the past uh 6 months
+right it it hasn't really dramatically
+uh seen the rise uh of that but I I
+think what we do see the rise on is
+Figma make right uh and and of course we
+know that Figma make is not really CO
+because it doesn't have all his uh deep
+skills and everything of sorts. So my
+guess is that designers are over reliant
+on Figma as a as a company as a and as a
+tool. Uh and that's one right a second
+thing is just that CL code or cursor uh
+just looks really daunting right I mean
+you think about it as a as a designer
+you don't want to see terminals you
+don't want to see uh you know the IDE of
+cursor so uh that that is a high barrier
+of entry for a lot of designers so uh I
+mean they're not freaked out enough uh
+but if they if they see this exact
+podcast they see what it can be capable
+of I I think uh hopefully they feel
+excited yeah
+&gt;&gt; yeah I also think Uh this is just like a
+trial court thing so the designers don't
+get offended but I I feel like uh some
+some of these spikma files that I open
+have like so many explorations that it's
+like way more confusing than just like
+using the terminal tree like terminal I
+just type in the same thing and it does
+right but some some of these spikma
+files has like 20 different expirations
+I don't even know where to look.
+&gt;&gt; Yeah.
+&gt;&gt; And and also another thing I'll say is
+like I feel like design has got to a
+point where it's like so standardized
+like you have to use design since them
+got use all layout. I I I feel like the
+creative part of design is almost like
+gone, man. Like like I don't know I'm a
+viewer around but like but we had like
+wake uh we had a wing app and some of
+these more like out there designs and
+now and now I feel like everything is
+like very standardized and like you kind
+of like working with all these
+constraints.
+&gt;&gt; Yeah.
+&gt;&gt; And like I I I feel like designers
+should be free should be free from
+object whoever they want.
+&gt;&gt; Well there there is always a real
+challenge right with when we talk about
+quality and craftsmanships. I mean it it
+takes a lot of patience and a lot of a
+lot of intention, right? Like I mean
+when I first started design, I mean I
+did not start with software design. I
+started with industrial design. Um and
+and and if you were to look at the best
+designers that uh that Silicon Valley
+look up to. I mean particularly I mean
+these are these are really good
+industrial designers. I mean the fact
+that he designed the Ferrari uh and and
+it it got sort of the whole tech Twitter
+talking about it. I I I I I mean first
+of all you could be a really good
+software designer but you would never
+design for Ferrari. Uh because designing
+hardware and designing for industrial
+stuff uh is entirely different ball
+game. You know I have a really really
+good friend who who works as a
+industrial designer in a uh in a firm in
+in Copenhagen and and you just look at
+the details and the patience and the
+intention behind the design are
+everything from the the click of a sound
+of the pen, right? like is it supposed
+to feel luxurious, right? Is the sound
+supposed to feel luxurious? Like all of
+these things and even the manufacturing
+cost uh like even the tools used to
+manufacture um and all of these things
+the industrial designer has to care for.
+And the reason for that is because you
+can't really unmanufacture something,
+right? So it's really like a one shot
+oneshot thing. Uh whereas whereas for
+for software designers, I mean you could
+always go back to Figma, you could
+change the colors and everything that
+you want. uh it's pretty
+straightforward. So, so when you work
+with industrial designers or
+ex-industrial designers uh it just
+brings a a fresh level of intentionality
+uh that that you don't really find in a
+lot of softwares today.
+&gt;&gt; Interesting. Okay. Yeah. Okay. Maybe uh
+the digital designers will be disrupted
+by AI lacks.
+&gt;&gt; Yeah. I mean I mean uh I I don't know if
+that that that is Yeah.
+&gt;&gt; Cool. All right. curious where can
+people find you online and also you know
+I guess where Ed right
+&gt;&gt; yeah uh eddy please uh.com
+or just find me on x uh I I'll always be
+there yeah
+&gt;&gt; well thanks so much man for all these
+demos and showing us how everything
+works
+&gt;&gt; of course thank you so much for having
+me Peter this is exciting
