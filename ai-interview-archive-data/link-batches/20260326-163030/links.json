@@ -1,0 +1,65 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-03-26T16:30:30.549397+08:00",
+  "since": "2026-03-24T16:30:30.549397+08:00",
+  "items": [
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "Hadrian CEO on Rebuilding the American Industrial Base | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=hf4ZhtJmCyo",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260325-hadrian-ceo-on-rebuilding-the-american-industrial-base-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "AI Makes Building Products Easy. Knowing What To Cut Is the Hard Part.",
+      "url": "https://www.youtube.com/watch?v=KRv9GpJYrUA",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260325-ai-makes-building-products-easy-knowing-what-to-cut-is-the-hard-part"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Turing Award Winner On Why Writing Improves Your Thinking | Leslie Lamport",
+      "url": "https://www.youtube.com/watch?v=VEqOPjCPMJ8",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport"
+    },
+    {
+      "source_id": "google-deepmind",
+      "source_label": "Google DeepMind",
+      "source_type": "youtube",
+      "title": "Introducing Lyria 3 Pro",
+      "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI for Science / Robotics"
+      ],
+      "slug": "20260325-introducing-lyria-3-pro"
+    }
+  ]
+}

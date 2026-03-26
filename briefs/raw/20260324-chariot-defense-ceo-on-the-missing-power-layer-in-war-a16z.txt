@@ -1,0 +1,1535 @@
+原文： https://www.youtube.com/watch?v=-awTbzrJLvs
+
+All the things we want to do is really
+about the soldier in the mud, cold, wet,
+tired, hungry. What makes their lives
+easier or better? Your average soldier
+today, they're drawing just by
+themselves 30 to 60 watts of power
+continuously during their operations. So
+that's basically a mid-tier laptop
+running all the time.
+&gt;&gt; We are moving towards an increasingly
+electronic battlefield. There's really
+this missing uh power layer that is
+required to actually field all those
+systems. Shar is building uh the
+tactical power layer for robotic
+warfare. So we had a lot of passive
+capabilities that were able to hide kind
+of sense without kind of giving away
+position but needed the ability to go
+active when we needed to to make an
+interception. So that meant that we had
+to bring the 15 kow generator that was
+99% of the time running at 500 watts
+creating this detectable signature both
+from the thermal and acoustic signature
+and then the resupply because it's using
+fuel so inefficiently.
+&gt;&gt; So there are all these things that
+create a signature in environments where
+there shouldn't be signatures and that
+means that we can be targeted. So,
+someone will go plug in a coffee pot and
+it'll take down the air defense radar.
+We're here today with Adam Warmth and
+Alex Miller. Adam is the founder and CEO
+of Chariot Defense, which builds next
+generation power systems for the
+battlefield. Before that, he led
+engineering at Anderl and and product at
+Archer Aviation. And Alex is the CTO of
+the US Army, where he runs all things
+technology. Uh he's the driving force
+behind the army's push. Thank you. To
+get new tech into soldiers hands fast.
+Adam, Alex, welcome to the A16Z show.
+&gt;&gt; Yeah, thanks for having me. Great to be
+here.
+&gt;&gt; Maybe just get getting right into it. Um
+Adam, for listeners in 60 seconds, what
+is Chariot building? Who's the end user?
+And what does winning look like for you
+guys in the field?
+&gt;&gt; It's a great question. Uh Chariot is
+building uh the tactical power layer for
+robotic warfare. Uh you know the reason
+why chariot needs to exist in the world
+is we are moving towards an increasingly
+electronic battlefield at the same time
+that is becoming more distributed more
+decentralized uh and we're building kind
+of these new systems or we're pushing
+these new systems down uh to these
+operational mo mobile forces that now
+need to sustain equipment uh have
+organic capabilities around command and
+control around county UAS uh around air
+defense EW all of these electronic
+systems uh and there's really this
+missing uh power
+uh that that is required to actually
+field all those systems. So when I was
+leading county US at Anderoll uh we were
+fielding all these new systems into
+expeditionary environments and
+constantly running into problems with
+the existing power solutions being
+insufficient for what they're being
+asked to do in that new environment. Uh
+so what we're doing is basically
+building in integrated battery power
+electronics microcontroller systems uh
+that allow you to hybridize your
+systems. So we're not going to replace
+diesel fuel, we're not going to replace
+power generation. What we can do is be
+much more smart and be much more
+tactical about how we actually employ
+and distribute value on the battlefield.
+&gt;&gt; Awesome. And now for al Alex for for
+listeners, what is the CTO of the army
+actually mean in practice? What do you
+control versus influence and what are
+you trying to change right now?
+&gt;&gt; No, it's a good question. Um, it's an
+allin influence operation. So I will
+tell you the the real driving force
+between all the change really is
+Secretary Driscoll, General George is
+the chief of staff of the army and then
+I have an amazing partner in uh Mr.
+Brent Ingraham as the Army acquisition
+executive.
+&gt;&gt; So right now at this point in time
+influence is really easy because I have
+willing partners and willing uh
+leadership who say we are going to
+change things for the better. Um, but
+what it means for me in practice, what I
+do control is getting out and actually
+seeing the problem set with my own eyes,
+getting digging in with my hands,
+actually being there, seeing it, doing
+it, which you don't see a lot of
+generally. Um, the p the Pentagon
+becomes very insular and people just
+sort of hang out there and drive things
+from the top. It becomes much easier
+when you really understand from the
+bottom from soldiers in the mud, cold,
+wet, tired, hungry, what makes their
+lives easier or better. That is that is
+my job to go understand the problem
+space rather than just approaching
+bright shiny objects or chasing
+technology.
+&gt;&gt; That's awesome. So maybe let's set the
+scene. Um the army is adding drones,
+sensors, electronic warfare, edge AI,
+autonomous systems. You know, we've
+heard about this. It's happening faster
+than ever. Um and we're we're here
+because there are gaps in our power
+infrastructure. So maybe Adam, let's
+start with you. Paint us the picture of
+a tactical operation center right now.
+what's physically there, what's running,
+what's consuming power, what are the
+gaps?
+&gt;&gt; Yeah, it's a great question. So, the the
+tactical operations center today looks a
+lot different uh than it looked 5 years
+ago. Uh as we transition from a very
+counterinsurgency focused force
+structure to a very, you know, large
+scale combat operations, distributed
+decentralized. Um and so you're seeing
+brigade command post and operational
+centers uh that are smaller than a
+battalion, uh you know, command post was
+before. Um, and so what you're doing is
+you're pushing a lot of capabilities
+that used to be able to live at these
+big fixed site fobs.
+&gt;&gt; Right. So those forward operating bases
+that were dug in or in construction
+&gt;&gt; like semi-permanent.
+&gt;&gt; That's right. And so things like
+mobility didn't matter. Things like
+signature management didn't matter. Um,
+even logistics mattered and logistics
+was painful, but we kind of lived with
+those logistical burdens. And the reason
+was we were fighting on kind of this
+barbell of the operational spectrum. um
+where there was kind of short patrols
+happening from you know uh you know
+where all that the soldiers really
+needed to carry with them was a radio to
+communicate back to that brigade command
+post that was kind of dug in and fixed
+and could provide air defense ISR C2
+capabilities as long as they could
+communicate with that forward force. Um
+what we're seeing is that that every
+kind of link in that chain has been
+disrupted. So if you think about a
+platoon forward deployed needs to go see
+over that next mountain to know what's
+on the other side of that terrain
+feature. They would call back for
+support to this big fixed command post.
+That command post would launch a drone,
+you know, fixed wing drone from a runway
+that would get overhead and kind of
+provide time on station and stream down
+a high, you know, high bandwidth 30 fps
+full motion video stream down to that
+platoon and they would have that
+intelligence picture. Every link in that
+chain has been disrupted in a in a large
+scale combat operation fight. Uh that
+transmission back to base uh is going to
+get that uh triangulated and detected
+and targeted. the runway that they'd be
+launching that from has been destroyed
+uh by the enemy's long-range strike
+capabilities. If you do manage to get
+ISR overhead, right, that's going to be
+contested. Um it's going to be shot down
+and if it does manage to maintain time
+on station, the link that video link
+down to it is being jammed.
+&gt;&gt; And so what that means is we're pushing
+a lot of those capabilities down to the
+company, the platoon level. And so
+you're kind of your your command post is
+now much more distributed. Um you're
+running command and control out of a
+single truck rather than these big kind
+of semi-permanent installations.
+So, we're starting to see the shift
+already, but let's take that same talk
+and add everything that the army wants
+to do in the next, let's say, two to
+three years. Next generation command and
+control, AI, more autonomous systems.
+How does that power math change?
+&gt;&gt; Um, sure. So, before we actually talk
+about the tactical operations center,
+let's actually talk about the soldier.
+So, all the things we want to do is
+really about the soldier. Your average
+soldier today might have one or two
+radios depending on if they're in a
+leadership position. Um, as we think
+through things like soldier born mission
+command, as we think through uh drone
+batteries, as we think through their
+EUD, their end user device, so something
+like a a tactical Android assault kit,
+um, they're drawing just by themselves
+30 to 60 watts of power continuously
+during their operation. So that's
+basically a mid-tier laptop running all
+the time. So if you run that over a 72
+oper 7 72-hour operation, they might be
+drawing between 1.5 and 2 kilowatt hours
+just by themselves before you start
+adding their team, their squad, their
+platoon. So before we start talking
+about the fixed positions and the mobile
+positions, power looks different at the
+soldier level. Now for things like
+nextgen command and control um one of
+our goals is really making those those
+platforms uh much more power uh
+efficient but also bringing down the
+size of those command posts. So we had
+this this wonderful set of
+experimentation called transforming in
+contact where the very first unit that
+went through that the second brigade
+101st strike their brigade command post
+was five Humvees backed up to each other
+&gt;&gt; whereas normally a brigades talk
+&gt;&gt; by doctrine is 4,000 square ft. Um, so
+if you think through just making it
+smaller forces us to have
+&gt;&gt; less servers, less computers, less fans,
+less TVs because you walk into every
+jock and it, you know, it looks like a
+Tajbo hall of of TVs and routers and
+everything. Just by minimizing the
+footprint, we've reduced how much stuff
+we have, which means we've reduced our
+power draw. So as as we then take that
+truth and look at Niction command and
+control which is our full stack
+deployment of how do you do
+infrastructure for communications,
+infrastructure for software platforms,
+infrastructure for software services
+like autonomous warfare like robotic
+warfare and then the delivery. So
+everything from your apps or your your
+TAC tools or the websites that you hit,
+&gt;&gt; being able to deliver that as one set of
+platform platforms as a full stack
+rather than the 17 disparit systems that
+came before it means less servers, less
+radios, less routers, less cabling, less
+comms, antenna, less noise makers. That
+is what we're going forward to. It's not
+just trying to find better ways to power
+everything we had. It's actually
+thinking through what should we have and
+then how do we power that.
+&gt;&gt; So
+I mean you've seen some of this in in
+the field. Um Adam and Andre, you were
+at you were at Andre for three and a
+half years building counter drone
+systems. Um what did the power problem
+for these actually look like in practice
+for you? What was failing in your
+experience?
+&gt;&gt; Yeah, so that that that experience
+really shaped you know what what chariot
+defense is today. um which was we were
+supporting expeditionary county US
+operations you know before Ukraine
+before it was kind of the the um the the
+kind of invogue topic um and is because
+we were working with SOCOM who was kind
+of running into these problems you know
+ahead of the conventional force you know
+when when we started building those
+systems I assumed cool hey we bring the
+robots right uh and and there'll be
+somewhere for us to plug in
+&gt;&gt; uh and quickly realized that that was
+not the case and that your your options
+today were kind of small or like lead
+acid you know batteries
+um not really designed for energy
+storage and power distribution or kind
+of massive diesel generators. Um and and
+we we certainly kind of believe in in in
+diesel being part of this solution.
+We're very much a hybrid power company.
+Um it's very energy dense compared to
+batteries, but what not having a kind of
+hybrid system forced us to do was size
+our power generation to the peak demand
+of that sense of that kind of US kit. So
+we had a lot of passive capabilities
+that were able to hide kind of sense
+without kind of giving away position but
+needed the ability to go active when we
+needed to to make an interception. So
+that meant that we had to bring the 15
+kW generator that was 99% of the time
+running at 500 watts which means it's
+using fuel be very efficiently. It's uh
+causing reliability challenges. Um it's
+taking up a lot of space on that
+aircraft that's airing in. it's it's you
+know creating a detectable signature um
+both from the thermal and acoustic
+signature and then the resupply because
+it's using fuel so inefficiently. So all
+of that creates a targetable signature
+that's throwing away a lot of those
+those benefits of that passive chemical
+gas system. So that's really where we
+believe in hybrid. We believe in
+batteries as power management power
+distribution kind of pairing with the
+existing power generation assets in the
+army around the vehicles uh and the
+power generation that exists. would
+love, you know, on this topic of kind of
+the generators and the diesel systems
+that are in use today. You know, they
+produce heat, noise, emissions, they can
+be detected and targeted. You know, we
+were also just talking earlier about how
+how much of a target these fuel convoys
+are. Would love to hear kind of your
+perspective. How big of a problem is it
+for the army?
+&gt;&gt; That's a good question. So, there was a
+long period of time where uh being an 88
+Mike, a truck driver, was was one of the
+most dangerous jobs because you're
+basically driving you're driving a truck
+full of liquid explosive. you're driving
+truck through full of of fuel. So, it
+didn't matter how efficient the
+generators got, they still needed fuel
+to run. And all of the signature that
+we're thinking about for even in in the
+world we're seeing today over, you know,
+over the weekend and into today,
+signature really matters. So, if you are
+creating a thermal signature because
+your your generator is running all the
+time, you can be found if you
+&gt;&gt; and so maybe for the very tech
+illiterate of which there are probably
+not many listening to these podcasts,
+what thermal signature is basically
+heat.
+&gt;&gt; It's it's heat. So, um, if if your phone
+gets hot when you're using it too much,
+and that's a thermal signature. You're
+you're if you put your the easiest way
+if you go put your hand on top of your
+refrigerator at home, it's warm because
+it's actually generate it's using
+energy. It's generating that and it's
+it's putting out thermal energy
+&gt;&gt; and that means that the en that the
+enemy could potentially detect
+&gt;&gt; and you can see it. Yeah.
+&gt;&gt; Um, you can see it because it's it's
+part of the spectrum. Um, it's why
+hunters use thermal cameras. Everything
+generates that.
+&gt;&gt; Um, same with acoustic. So it makes
+noise because you can hear it for a long
+distance especially when you're on flat
+terrain or nothing else should be making
+noise. Batteries if they are not coded
+correctly if the converters aren't
+shielded they actually produce
+electromagnetic noise. So you can find
+that as well.
+&gt;&gt; So there are all these things that
+create a signature in environments where
+there shouldn't be signatures and that
+means that we can be targeted. That's
+one of the areas that we are are really
+thankful for new new players that are
+emerging in the portfolio that say I
+need I know that I have to generate
+power. We don't live in a world where we
+own everything all the time. Therefore,
+it has to actually produce power in a
+way that's useful. And useful in this
+context is low thermal output, uh low
+acoustic output. So, can't be hot, can't
+be loud, and and it's got to be easy to
+actually move.
+&gt;&gt; Yeah. the the the easy to move I think
+is also under underrated.
+&gt;&gt; Yeah. Yes.
+&gt;&gt; As as a challenge. Um so maybe uh Adam
+back to you. What exactly is your first
+product? Um how does it work? How's it
+different from a traditional battery
+system?
+&gt;&gt; Yeah. And uh and we actually t tend to
+lead our products with their concepts of
+employment because that's really what
+makes our product interesting.
+&gt;&gt; Yeah.
+&gt;&gt; And so what our you know what our first
+product is is 424 system. It's a 4
+kilowatt system. 4 kowatt hours of
+energy storage. Uh but what it does is
+it can deploy at kind of the squad up to
+battalion level
+&gt;&gt; maybe for just contextualize how much is
+that like what does that power?
+&gt;&gt; Yeah. So it depends on the use case and
+that's kind of the great thing about
+having this universal product is so we
+went out to our first transformation and
+contact exercise back in May of last
+year. Um that was 6 months from first
+check into the company. So kudos to the
+to the Army Transformation Initiative in
+terms of its ability to bring new
+companies in to say, "Hey, we're going
+to work with this. Um, we're going to
+bring it in, right? We're not going to
+make you file 6 months worth of
+paperwork. We're not going to say, hey,
+we already started planning this
+exercise 6 months ago. Try again next
+year." Um, and so we we we brought it
+out there and a lot of it was, hey,
+let's discover those use cases on the
+ground. We had a multifunctional
+reconnaissance company, which is one of
+the new elements in the mobile brigade
+combat teams, uh, actually aerosol in
+with our with that M424 system. They're
+able to run 36 hours without generating
+any kind of detectable thermal or
+acoustic signature running their radios,
+their EW equipment, their drones. At a
+battalion command post, you're looking
+more at like two or three hours. And
+this is where we say, "Hey, the battery
+is not really the answer from an energy
+perspective." In some cases, it can be
+for time.
+&gt;&gt; But at a battalion command post, what we
+saw was guys idling trucks under camo
+nets given over carbonoxide poisoning
+because they had no way to convert their
+AC generator power to DC power. or we
+saw, you know, the the um executive
+officer having to choose who got to plug
+their laptops in so they wouldn't
+overload those generation assets. And so
+what our system does, it kind of drops
+in the middle and kind of access this
+converter buffer manager. Exactly. That
+lets you handle the big surges um on the
+output side without passing those
+through to your loads. Lets you shut
+your generation off to go into that low
+signature kind of hiding mode.
+&gt;&gt; Um gives you, you know, failover when
+when those when those power generation
+assets fail. Keep gives you high quality
+power to your C2 equipment. a lot of
+that NG NGC2 equipment.
+&gt;&gt; What do you mean when you say high
+quality power?
+&gt;&gt; Yeah. So, that's a it is a bit of a
+nuance like a tech.
+&gt;&gt; It's like electrons, you know.
+&gt;&gt; Yeah. Um when you plug into traditional
+generators uh and you have a big surge
+of of load um a lot of times that can
+pass uh that can impact the generator's
+ability to generate your kind of clean
+sine wave um alternating current power.
+Um when you're plugging into maybe host
+nation shore power, right? Um there's
+brown outs, blackouts, um voltage
+spikes, all of that is is kind of
+kryptonite to these these these uh
+command and control systems.
+&gt;&gt; Yeah. I mean, I'm being somewhat
+facitious, but like if you you know, a
+lot of
+&gt;&gt; it's a real thing.
+&gt;&gt; It's a real and and a lot of people who
+work in tech and who listen to this
+podcast sit where in in you know,
+Silicon Valley in the United States
+where maybe they have a power outage
+every once in a while, but really don't
+have to reckon with
+&gt;&gt; what it means to what it means to not
+have kind of reliable consistent
+&gt;&gt; power for their laptops. And it's it's
+one of those things where if you you've
+traveled overseas and you plug your
+phone into a wall after you figured out
+which adapter and it doesn't charge
+quite right, you can tell that it's
+taken too long or it's getting really
+hot
+&gt;&gt; or if you're me and you blow out your
+your your
+&gt;&gt; air. Yeah. Um so so like clean power is
+something that we used to talk about a
+lot more and then we figured out how to
+put generators in the middle and
+separate ourselves, but those were fuel
+driven. So having clean consistent
+power, that's that's a really important
+topic.
+&gt;&gt; Yeah. And you brought up the the wrong
+voltage, wrong frequency, right? You
+know, stuff that's frying your haird
+dryer, right? So, a big part of how
+we're going to fight and how we're
+fighting now is is with allies um that
+don't always share the same power
+standards.
+&gt;&gt; Um so, the other thing our system can do
+is act as that softwaredefined power
+layer to bring all of these different
+sources together and power all these
+different outputs. Right now, there's
+really no smarts running on kind of
+there's no like kind of routing
+happening with power. Um so, someone
+will go plug in a coffee pot and it'll
+take down the air defense radar. Um, and
+so what we're doing apply is applying
+kind of that smart power layer that's
+able to kind of manage um that's able to
+optimize that's able to forecast and
+simulate um that's able to convert to
+the right voltage the right frequency
+kind of through hot software handshakes
+between systems and so I think yeah
+people don't realize kind of how how
+much room there is to improve kind of
+the the current power situation how much
+in counterinsurgency we kind of just got
+away with some kind of bad habits around
+around this stuff and and how much we're
+really going to have to transform
+&gt;&gt; uh to to kind of meet this new modern uh
+way of fighting But but it's a it's I'm
+glad you brought up the coffee maker. So
+this is sort of tangent. It's it's also
+an education on things that are very
+high draw versus things that are very
+low draw because a lot of people don't
+understand as soon as you plug your
+coffee maker in or a microwave, you are
+changing the nature of how much power
+you're drawing because it it's going to
+spike immediately versus a lot of our
+drone batteries are much much lower draw
+but they're longer. So you need that
+energy. It's just not spiking and and
+bringing down your talk which definitely
+didn't do coffee maker.
+&gt;&gt; Yeah. Yeah, it's like I have in in our
+pantry we have a microwave and a toaster
+oven. Can't run both of them at the same
+time. I learn I remember that the hard
+way approximately once a week.
+&gt;&gt; Um
+&gt;&gt; and then the the layer the software
+layer that we're adding is instead of
+expecting our you know our you know you
+know end user level you know operators
+to to really be like you know PhDs in
+power. Instead of that if you just add
+that software layer that can say like
+hey instead of turning on all three air
+conditioners at the same time turn one
+on wait 3 seconds turn the other on wait
+3 seconds turn the other on wait 3
+seconds. very simple, zero operational
+impact. You've now cut your peak power
+demand by a factor of three, which means
+you've cut the size and weight of your
+system by a factor of three. So, some
+very small, you know, improvements with
+software can have a major impact on on
+mission outcomes.
+&gt;&gt; And so, um, Adam, Chariot's core insight
+is that the commercial EV and EV tall
+industries have largely already solved
+this or solved this to some extent. Uh,
+can you explain that in more detail?
+what made you connect the dots between
+the tech on the commercial side and the
+military application?
+&gt;&gt; Yeah, absolutely. So, so the time I
+spent in my my kind of first career out
+and when I come out of college um
+outside my time at Androl was in the
+electric aircraft industry. Uh electric
+opportunity is only possible because of
+some incredible breakthroughs happening
+in the in the technology sector for
+these core kind of electro-industrial
+stack components around high voltage
+batteries uh silicon carbide power
+electronics. It's this like almost
+magical new technology that lets you do
+all of these things in terms of kind of
+software controlled power, really high
+compact, high density. And so there's
+some incredible breakthroughs there. Uh
+same breakthroughs that are behind, you
+know, Heron Power, um right, same
+breakthroughs that are behind companies
+like Impulse Stoves even um is these
+really high power density electronics.
+And so that was all happening really in
+the commercial sector, right? Tesla kind
+of leading the way there. Um two of our
+leading electric aircraft companies uh
+you know are in the Bay Area about 20
+miles from Tesla headquarters, right?
+you know, Joby and Arch are not in LA
+where you might expect them to be. Uh,
+and it's because these incredible
+breakthroughs happening in the
+commercial sector, uh, that actually
+allow your hybrid system to win on kind
+of size and cost and weight compared to
+traditional combustion engine system.
+&gt;&gt; Um, and so that improvement's been kind
+of happening over the past 30 years um,
+in the industrial sector. And what we're
+doing is kind of through good forward
+deployed engineering um and good, you
+know, kind of go to market and building
+the product in a way that's informed by
+our experience getting into the mud and
+dirt with the war fighter,
+&gt;&gt; we can kind of take that that amazing
+technology advancements and and bring it
+into the department
+&gt;&gt; in a way that's similar to what Andrew
+did with self-driving car technology and
+autonomy developed from that industry to
+what Palunteer did in terms of their
+their working with kind of cloud compute
+and big data processing technology
+invented commercially brought to
+department which has been kind of a flip
+from what we saw in the cold war, which
+was GPS really invented and kind of
+research labs brought into the
+commercial sector.
+&gt;&gt; We've seen a bit of a flip there and
+we're kind of part of that trend
+&gt;&gt; coming full circle. And I mean you
+mentioned this earlier but you went from
+founding the company to having a system
+in the field in 6 months. Um how did you
+achieve that? how would have and and and
+how maybe would that have looked
+differently under the old model before
+we had people like Alex pushing things
+forward?
+&gt;&gt; Yeah, I mean I I talked about a little
+bit of of just like you know the um the
+paper drills, right? And kind of the the
+process following and the kind of
+inflexibility to say why does this
+process exist, right? Um and I think we
+kind of lost track of that where the
+process kind of became the outcome
+versus you know the outcome is winning
+like we want to win and then like okay
+the process exists and we have things
+around like fairness and we have things
+around you know uh yeah you know the
+kind of right regulations and stuff so
+that everyone kind of feels like they
+have enough of a shot to keep new
+entrance participating
+&gt;&gt; but there was kind of then this
+overcorrection where the the process
+became the outcome and I think what
+you've seen with the the guidance from
+Secretary Hath and Secretary Driscoll
+and General George is is really
+refocusing on the outcome. Um, and what
+that means if you focus on the outcome
+is hey just because this company didn't
+exist when we started planning this
+exercise literally for that JRTC
+exercise we did not exist when that
+planning kicked off um and uh and and
+it's kind of been a complete
+transformation in terms of the
+willingness to accept risk
+&gt;&gt; um the willingness to kind of bring in
+new entrance right and just I think that
+really that that outcome focus is really
+what I would say is the kind of central
+tenant of the transformation initiative.
+Yeah, I I agree. And um and this is
+really the core tenant of when Secretary
+Hegsth and Secretary Duffy and Secretary
+Michael um for acquisition and
+sustainment research engineering and of
+course the the department. That's really
+what they're talking about in terms of
+it's a cliche overused. It's buying
+runs. It's it's not hey our goal is to
+feel a team. No, our goal is to actually
+win and then you feel the team that's
+going to win and you work backwards. So
+the transforming in contact when we
+first started it was all about how do we
+flood the zone for those units give them
+all of the technology to solve their
+problems and then we will find out what
+doesn't work we'll find out what worked
+but needs maybe some adjustment rather
+than the two years of writing
+requirement the five to seven years of
+trying to field something and then going
+oo I don't think we bought and made the
+right thing
+&gt;&gt; the right thing after all
+&gt;&gt; so maybe that to to that end like what
+have been some of the product lessons
+that you've learned deploying directly
+in the field. I joke like I' I've
+jokingly called you the chief for
+deployed engineer because when you look
+at when you look at Adam's calendar,
+it's basically impossible to get him in
+person in San Francisco uh for for for
+let's say a term sheet signing today. Um
+because he spends all of his time
+essentially in the mud.
+&gt;&gt; She's going to slide something over.
+Um, so would love to hear like what are
+some of the specific lessons that you've
+learned and feedback that you might not
+have gotten if you hadn't had the
+opportunity to really uh deploy with the
+war fighter and get some of that direct
+product feedback.
+&gt;&gt; Yeah. Yeah. Yeah. And I've had the
+opportunity to see Alex out in the field
+at at JRTC out in the mud out there at
+NTC out in the desert um you know
+spending three weeks living out of you
+know motel and you know just getting out
+of the field with with the soldiers
+&gt;&gt; just really enjoying Barstow all that it
+has to offer.
+&gt;&gt; Yep. Yep. Exactly.
+And so uh you know that's that's really
+been a great experience is I've spent a
+lot of time I think Alex could also
+probably be called chief forward deploy
+an engineer as well and uh you know just
+embracing that model of you know we're
+going to get out and we're going to
+learn uh we're shipping version 5.2 of
+our system um today um as a system that
+we're actually selling and delivering uh
+to army units right now. Um and so uh
+that's you know in in just a year right
+that you know going from version one um
+you know our first system we actually
+ever built uh is still up actually
+deployed with a unit up in Alaska
+because they wouldn't let us take it
+home after the demo. Um but they also
+had a lot of really good feedback for us
+and said don't take this home. We like
+it as it is but if you were to change
+something here's what you should change.
+And a lot of those changes have been how
+do we actually make this as drop in as
+possible to the doctrine to the training
+right to the to the existing equipment
+right focused on that interoperability
+that ease of use um
+&gt;&gt; is that like hardware interoperability
+software interoperab that allows for
+interoperability what do you mean when
+you say drop
+&gt;&gt; it's it's all the above including um
+including just kind of the concepts of
+operation how they would transport it
+how they would load it onto different
+platforms you know so one of the key
+things that our system has is every
+&gt;&gt; tactical ical vehicle and combat vehicle
+in the army has this NATO port on it
+that today they only use basically to
+jump a truck when it battery dies cuz
+someone left the radio on overnight. Uh
+that is effectively though something
+that ties you right into that vehicle's
+electrical system.
+&gt;&gt; Um and so we realized, oh hey, we can
+actually drop something in there. We can
+plug into that port. They actually
+already have that cable. Um and so with
+with something that like we just deliver
+this one box, we make it super simple to
+use. We have one switch to operate it.
+Um, you know, that was kind of the thing
+that we we really learned and iterated
+on. We dropped it in. Okay, well now
+they plug it in and now it's going to
+now they end up with a dead truck if
+they charge our systems. It's like,
+okay, well, let's add that birectional
+charging.
+&gt;&gt; So, we'll charge our system, but then
+when the truck turns off and they're
+running loads off the truck, we'll push
+power back in.
+&gt;&gt; So, things like that were things that we
+learned by actually getting out into the
+field, you know, doing this at a time in
+transformation contact because the
+formation structures are changing so
+rapidly, right? that there's no textbook
+that you can like read on and especially
+around power, people really can't
+describe their power needs, you know,
+their connectors, their voltage, their
+frequencies. You kind of have to get out
+there in the field,
+&gt;&gt; give them something and they say, "Hey,
+this doesn't work."
+&gt;&gt; Um, and and again, kind of coming back
+to we don't actually really like talking
+about our products. We like talking
+about what does enable um how can they
+be more lethal, more survivable, you
+know, more operationally independent um
+with this capability. And so you can
+really only learn that by getting to
+deal with them, seeing seeing the
+soldier innovation of, hey, what uses do
+they come up with it?
+&gt;&gt; One of the multi-purpose companies threw
+it onto a robotic vehicle and went and
+drove around silent, you know, silently
+beyond the flot while powering all their
+systems. Um, and we're like, okay,
+that's that's a use case we should
+design for.
+&gt;&gt; Yeah.
+&gt;&gt; And I know you actually just got back
+from the Arctic uh with the 11th
+Airborne. would be curious to hear some
+of the things you've observed whether
+specifically related to kind of on the
+ground resupply power management power
+supply chains
+&gt;&gt; everything breaks at -40
+&gt;&gt; mhm
+&gt;&gt; um JP8 freezes at 53 when you are about
+-20 or below by the time you issue the
+battery for your radios from the conx
+they're dead so one of the one of the
+lessons so I had the opportunity to go
+up to 11th airborne's JRP JPMRC Alaska
+rotation. So, first brigade was the
+training unit. Second brigade was the OP
+four and they they gave a master class
+on how do you make the things that you
+have work and then we also were able to
+provide them through uh devcom several
+experimental types of power generation
+management and storage techniques. a lot
+of it focused on small batteries and how
+do you keep those from cold soaking
+which is the condition where um it gets
+so cold for so long it actually destroys
+part of the chemistry of the battery and
+it doesn't charge properly. Um how do
+you prevent them and and soldiers come
+up with the best solutions?
+&gt;&gt; Um
+&gt;&gt; and and like one soldier took a space
+blanket and just wrapped the drone on
+the battery and it produced enough heat
+that it kept it actually kept it
+thermally insulated uh enough to fly. So
+that's super super simple. It doesn't
+need a whole bunch of other things. Um,
+DevCom brought some some battery heaters
+which just slaps onto the cells, draws
+about 10% of the power power from the
+battery, but keeps it long enough that
+keeps it warm enough that it will fly.
+&gt;&gt; Yeah.
+&gt;&gt; So, all of these edge cases were really
+really interesting to see soldiers do,
+but they're edge cases. So, we saw a lot
+of the very similar things at JMRC
+in Germany last year where it wasn't
+negative 20, it was about 20 degrees and
+we saw the same failure. So now we we
+can figure out and I'm glad glad you
+brought up the flow between the
+industrial base now and the department
+versus the cold war which it was
+department was the idea of factorying
+push stuff out. We are at a interesting
+time where we're seeing a lot of
+technology that solves the 80% solution
+and then we can hyperfocus on what's
+that 20% edge case because the Arctic is
+one and we're seeing the exact same
+things that that all of us grew up with
+with the super heat uh super hot
+environments as well because the jungle
+eats batteries just as much. The desert
+eats batteries. So now we can actually
+go okay the the commercial industry has
+solved this really serious 80% problem.
+the consumer market is is making things
+smaller, more efficient, less expensive.
+We can now spend taxpayer dollars on
+those edge cases.
+&gt;&gt; Focus the resources on the things that
+really don't matter in the commercial
+sector.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. There you go.
+Uh so maybe switching gears a little
+bit. Um
+I I guess more more broadly like how can
+you talk more about how the army is
+modernizing its procurement and tech
+integration? You've talked you've talked
+about it a little bit. Um, but would
+love to just, you know, hear hear your
+big picture view for for how this should
+work.
+&gt;&gt; I I Yes, I can. And I'm
+proud of where we've been because a year
+ago, um, Justin and Leila and I started
+we're sitting here talking about what
+does acquisition reform
+&gt;&gt; look like? What does it mean?
+&gt;&gt; And now we're here and I can actually
+tell you here's what we've done. And so
+the army had 13 program executive
+offices across everything and then PMS
+under that. We had uh research and
+engineering centers that were
+disconnected. We had contracting
+officials that didn't work for the PMS
+or the PEOs. All of that was separate
+and they actually lived under different
+commands. We had Army Futures Comm Army
+Futures Command with the labs. All of
+the PMs lived under the the acquisition
+and logistics and technology chief in
+the Pentagon and then the contracting
+lived under army material command. Today
+we have six
+portfolio acquisition executives and uh
+our sort of plus one is the pathway to
+innovation pathway to innovative
+technologies the pit. Um the contracting
+officials work for those portfolio
+executives. The labs report to those
+portfolio executives. The requirements
+generators report to those portfolio
+acquis executives. So now you really
+have a portfolio manager who says here's
+the current state of what soldiers need
+in my portfolio. So, command and
+control, protection, fire, sustainment,
+very big, meaty problems.
+&gt;&gt; Yeah.
+&gt;&gt; Here are the current efforts that we
+have underway within the labs that solve
+some of these problems. Here's what we
+can cut away because commercial industry
+is probably going to solve that faster
+than us. I'll give you an example. We
+did a uh lots of credit to to Chris
+Manning who was our deputy assistant
+secretary for research and technology
+and is now the deputy C2 portfolio
+executive.
+He actually put together a gauge that
+said here are sort of the big big areas
+that we invest science and technology
+dollars on fires, command and control,
+energetics, sustainment and then he also
+assessed here are the areas where
+industry invests their money and if both
+of those are invested in that's probably
+a mismatch. That means we are wasting
+dollars that you are going to actually
+solve way faster than we will.
+&gt;&gt; So we can focus on things like
+energetics and propulsion and things
+that are super unique to us. That is how
+we actually thought about nextgen
+command and control. Go fully commercial
+where you can. That's how we're thinking
+about some of our next generation fires
+capabilities because there's probably
+not a need for 20 years of government
+development when we can see very clearly
+there's companies who have built
+&gt;&gt; better, cheaper, faster missiles or
+better less complex rockets. I I get to
+watch start SpaceX launches all the
+time.
+&gt;&gt; So that that is those are examples of
+things that we have done like the
+acquisition reform is a thing. It is
+here. is working within the army.
+&gt;&gt; Mhm. So, and you you also mentioned a
+little bit earlier this transformation
+in contact which is essentially I mean
+you should you should describe it
+actually.
+&gt;&gt; Okay. Um it was a ve it was a very
+simple thought um from General George
+and then immediately signed on with
+Secretary Driscoll. It was what if we
+gave commanders flexibility to organize
+their units and their equipment for
+their mission. So generally the army the
+big green machine we have the best
+capability in the world for the things
+that are unique to us like the things
+that came out of the big five uh Patriot
+Abrams Bradley Blackhawk Chinook or um
+Apache best things in the world bar
+none.
+&gt;&gt; However that can't be the norm for
+everything where commercial industry is
+going to go faster. So we said, what if
+we saturate these units, give them so
+much stuff to the point where it's
+probably going to break them. They're
+not going to be able to try everything
+all the time, and then what if we let
+them tell us what's working and what's
+not, and then organize themselves with
+the formation and the technology to be
+the best, most lethal organization they
+can be. So we started with second
+brigade 101st down at Fort Campbell,
+second brigade 25th in in the Pacific in
+Hawaii, and then third brigade 10th
+Mountain who was going to Europe. We
+said, "You cover the globe. You're
+probably going to look and feel
+different rather than just trying to
+field everyone the same thing everywhere
+all the time." And then we spent the
+next 18 months iterating with them. We
+expanded a little bit. So I think I've
+seen Adam at every tip rotation.
+&gt;&gt; Um, and then we took it to every
+combined training center that we have.
+So that's the real crucible where we
+make units as a unit actually go fight
+the fight against a living breathing
+thinking OP four instead of just what we
+used to do which is hey it worked in a
+lab let's spend the next 5 years
+building it and then fielding it out and
+then hopefully it doesn't combat what we
+needed to do we actually made everyone
+use their technology. Um, everyone talks
+about the things that that work. The
+things that came out of tick that were
+most important for at least me as an
+adviser to the chief and the secretary
+is here are the things that don't work.
+We should stop doing them. Let's not
+waste more money. Or here are the
+companies that are really promising.
+They're not quite there yet. We can give
+them rudder guidance. Or
+&gt;&gt; here are the in here are the portfolios
+of investment that are the most
+fruitful. Let's continue to send them
+our demand signal because that's what
+they need to do their job.
+&gt;&gt; Yeah. So, how do you know that tick is
+working? What does it look like? Um
+maybe specific wins or um I I guess like
+h how do you move from success in on
+within tick to you know a longer more
+sustaining larger contract?
+&gt;&gt; It's not it's unevenly distributed.
+Yeah.
+&gt;&gt; Um so I will give you one example for
+how I know that that tick is working. So
+we started with purpose-built a tradable
+UAS and now that is something that we
+are scaling to the army. We started with
+um sort of a vision that
+not like Ukraine because we don't fight
+like Ukraine but some of the lessons in
+technology we definitely want and we
+should scale it.
+&gt;&gt; So what you're going to see here in the
+next couple weeks is the UAS marketplace
+go live.
+&gt;&gt; It's live right now. We've got it sort
+of sequestered off so we can actually
+try it, get soldier feedback on it. But
+that is a way that now companies can get
+their kit out there and then scale those
+demand purchases. Um we know that we
+used tick to fix the network and really
+what that means is rip out a lot of the
+super complex networking stuff that we
+gave to units
+&gt;&gt; and we allowed them to reorganize and
+say this is this is how it needs to be
+organized for me to get the data that I
+need where I need it. And now we're
+institutionalizing those training or
+those um those architectural changes.
+So, I know that it's working in in big
+hairy areas.
+I think if I were a betting man that
+you'll see very similar from us on
+things like autonomy, things like power
+generation management and storage, um
+things like u mission autonomy across
+air and ground and maritime.
+&gt;&gt; So, that's I know that it's working with
+the things that were really baseline.
+So, I know that it will work on the
+things that are much more complex. And
+so then I mean the budgets are still
+ultimately controlled uh at the
+congressional level. So how do you work
+with Congress to make sure that the
+long-term budgets line up with your
+modernization efforts and what you see
+being important in the field
+&gt;&gt; aggressively? Um I think
+I think last year I talked about concept
+called flexible uh flexible funding or
+agile funding. Um we worked we worked
+with all of the committees and in the 26
+budget we were able to get some of our
+budget line item consolidation. Um
+having those portfolios executive is is
+as an arbiter of what their budgets look
+like also helps because now you have a
+portfolio of things instead of multiple
+different efforts. Um and those
+portfolio executives can make trades
+with
+&gt;&gt; they can trade off. Yeah.
+&gt;&gt; They can make trades on requirements.
+They can make trades on on systems. they
+can make opportunity cost trades where
+hey maybe we get an 80% solution you
+know 30 days from now instead of 100%
+solution years from now and then what
+you'll see in the army's budget without
+giving away numbers because that's how I
+get tackled on the streets is is we will
+continue to be aggressive about BLI
+consolidation and 27 and program element
+consolidation but also doing the simple
+things that like nobody cares about um
+except us here in Washington making sure
+that our Jbooks are are not so specific
+that we lock ourselves in. Making sure
+that our PNR forms are are talk about
+the thing the capabilities that we need,
+not the stuff that we're buying. Because
+then
+&gt;&gt; as new companies come online, as new
+capabilities become real, that gives us
+flexibility to try them immediately
+rather than having to waiting having to
+wait another palm cycle,
+&gt;&gt; which was what we did, you know, two or
+three years ago.
+&gt;&gt; Yeah. Yeah. So maybe um zooming out
+again a little bit uh you know thinking
+thinking towards the future and power
+and you know the future of warfare um
+I'd love to talk a little bit like one
+of the big risks in uh power and energy
+in particular batteries is how much of
+our battery supply chain comes from
+China. Um and China is currently beating
+us on battery production production
+costs and many of the downstream
+industries like EVs, drones, grid
+storage. etc. So h how big is the gap?
+Is this something that the army is
+thinking about? How do we close it and
+how do we bring these supply chains
+closer to the US?
+&gt;&gt; Yeah, just simple question. Definitely
+no budget.
+&gt;&gt; No, no big deal.
+&gt;&gt; No. So, so we are um so one of the under
+understood components of the army is our
+organic industrial base. Um, it's 23
+depots and arsenals and factories across
+the United States that that were built
+during World War II and have been
+running ever since as a strategic
+reserve for the for the nation. So, the
+army builds all the ammunition. We
+repair radars and and combat vehicles
+and we build um we have the added
+manufacturing center of excellence. So,
+that like that is a strategic reserve
+that the army has. So, as we think
+through battery production, there's been
+two big two big pushes. So NDA26 had
+investments in battery cells. So that's
+massive. Um and then the under secretary
+of war for industrial-based policy is
+also making big investments coupled with
+the department of energy and how do we
+onshore manufacturing of battery cells.
+super super exciting because you're
+looking at you know across the across
+just uh IBP industry based policy and
+the department of energy you're looking
+at almost $300 million of investment and
+then you're also looking at um you know
+a couple an additional couple hundred
+million of investment area that the
+department of war is looking at for
+battery cell production which turns into
+battery manufacturing which turns into
+upstream rare earth mineral
+manufacturing product productization
+metalization and then making it
+available so that that companies can
+pull it into their supply chains. So
+yes, your your army is looking at how do
+we do that and we are also trying to
+make sure that the department
+and industry and the rest of the federal
+government understand here's the demand
+signal because we will we will
+absolutely consume these things. Um it
+allows Americans to get upscaled. It it
+allows factories to be stood up for
+American manufacturing and production
+and that it tells the American
+industrial base that there are
+opportunities that might not have looked
+like they were available 5 years ago.
+That
+&gt;&gt; will actually be hugely beneficial for
+the country moving forward. It's not
+just a it's not just a drone thing. It's
+not just a um you know toy problem
+thing. It is really this actually solves
+America's problems, not just the
+Department of War's problems.
+&gt;&gt; Yeah. Yeah. I I'd be curious to get your
+perspective as well and and how you're
+thinking about your supply chains
+particularly on the on the battery end
+but you know more broadly across across
+the product.
+&gt;&gt; Yeah. So and we we really kind of see
+our position as you know kind of that
+that next level down from from the
+department where we're delivering an end
+product and end solution. Um and so we
+can also kind of you know using the
+demand signal from the department for
+our products can go pass that on to our
+suppliers and our supply chain as well.
+And we can say hey the you know the
+department is is probably the highest
+willingness to pay kind of per kilowatt
+hour for these systems. Um you know
+versus kind of consumer commercial type
+applications and doing that reshoring is
+going to take uh you know going to take
+investment right those first hundred
+those first thousand right are going to
+be more expensive than the equivalent
+from China. But what we can do is we can
+say, "Hey, we will kind of help you get
+down that cost curve." Um, because we're
+able to say, "Hey, we can go and take
+that and deploy it into kind of the the
+most demanding application, right, that
+has the most demanding supply chain
+requirements."
+&gt;&gt; And we can kind of act as kind of an
+offtake agreement uh kind of for um for
+those companies. And um you know, I
+think a lot about uh you know, we you
+know, reading kind of freedoms forge and
+thinking about how do we kind of
+re-industrialize, right? And how do we
+kind of compete in this economic domain
+against China? And it's not by by trying
+to out China China, right? It's like
+what do we do great here, which is
+capitalism, right? Incentives. It's it's
+it's the government as a customer,
+right? Not the government as an
+investor. Um, and so we kind of really
+see opportunities to take the demand
+signal to sell those products into the
+department and then say, "Hey, if you're
+buying, if you're building cells in the
+US, we will buy those cells. We will buy
+those first thousand cells to help you
+get down that initial cost curve because
+we have a customer, right, who who has
+that highest demand
+&gt;&gt; for that in a way that, you know,
+prevents the government from having to
+go buy lithium and then figure out,
+okay, what do I do with all this
+lithium, right? like we sell a product
+that that goes directly to that end user
+but can help kind of provide
+&gt;&gt; that demand signal to those US companies
+trying to trying to reshore. The other
+thing that we think about really in the
+supply chain space is focusing on those
+those end items um or those kind of mid
+middle of the value chain items where
+there's a lot of focus a lot of
+discussion right at the national level
+the at the white house about critical
+minerals right about cells refining
+mining but where we actually see some of
+the biggest risks in supply chain are
+actually these these end items um where
+where soldiers are going to Home Depot
+and buying uh you know these Chinese
+battery banks uh to fill a gap um around
+power
+&gt;&gt; uh systems that are Wi-Fi connected
+right systems that could be backed right
+from a communications perspective could
+even be shorted out in terms of their
+BMS and turned into remotely triggerable
+IED. And so we see a lot of kind of the
+supply chain and really trying to drive
+the supply chain discussion not just
+into those inputs but into those end
+items and it all kind of has to work
+together coh easily.
+So maybe last question then. If you
+could define success for tactical power
+modernization 24 months from now, if
+that's the right time frame,
+what would soldiers actually feel is
+different?
+Coming back to the war fighter,
+&gt;&gt; um I I'll tell you a story. Um hopefully
+it supports the answering question. So I
+went to I had an opportunity to go to a
+THAAD battery and I will not say where
+it is. um even though they are
+decisively engaged right now. And they
+were rebuilding they these fire soldiers
+were rebuilding 3KW generators by hand
+because the adapters were fouled. Um the
+the guts had had basically worn out. Um
+and they needed them to make sure they
+had continuity of operations.
+And and the question that we asked was
+why do you why are you rebuilding this?
+Like 3K is nothing. Go let's go find
+some. And they went we would love that.
+We would love that flexibility to just
+go buy a 5K generator and just have it
+here. And we weren't doing that for
+them. Um so we've solved that problem,
+but 24 months from now that problem
+shouldn't exist. Now, it's going to take
+time to get, you know, everywhere all
+for the entire army, but we should be
+able to either have some type of of
+dismounted solid state battery that's t
+tactical micro grid compliant. We should
+have some type of of solid state
+generator that's tactical micro grid
+compliant. Or we should have something
+like um the infantry squad vehicle heavy
+where it's a vehicle that actually is
+able to put out power that is tactical
+micro grid compliant that allows
+everyone to know here is the the way
+that you you build your interfaces just
+like we did with software APIs forever.
+Here is the way that you serve your
+power. Here is the way that you have to
+hook up to to so you can give it to us.
+And that standard should be no more
+cumbersome to any company than us
+saying, "Hey, your software has to have
+APIs." Um, if we can do that, I think a
+lot of the problems that soldiers have
+today go away and they get to ask second
+order questions like, "How like can we
+make this?
+&gt;&gt; How what are the other interesting ways
+that I can employ this? How can I
+actually power my my robotic warfare
+company? How can I actually power my my
+my tactical UAS platoon and their
+batteries so that they're not in a
+hindsight with two generators fight, you
+know, powering six different types of
+UAS batteries. Some of them are super
+slow trickle charge because the cells
+are smart. Some of them are very fast
+charge because the cells are dumb. I
+think a lot of those problems become
+much more transparent and we can
+actually start solving harder problems.
+&gt;&gt; Yeah. Yeah. I mean it I kind of I'll
+bring it full circle to kind of the the
+outcomes focus, right? And and again,
+Chariot not really liking to talk about
+our products, but liking to talk about
+what we enable. Um and we want to yeah,
+we want to kind of blend in as this just
+infrastructure layer. Kind of similar
+thing with NextG C2, right? Is just like
+everything communicates, right?
+Everything is shared. There's no silos.
+Um you don't need that individual
+soldier on the ground to be an expert on
+networks or an expert on radios or an
+expert on how to configure and dial in
+this this particular radio. It's it's
+you know, I plug something into the
+network and immediately that sensor,
+right, all of its data, right, is
+available to to the to the people who
+need it. um we want to be that kind of
+same same layer for for power where it
+is it is transparent right it's it's not
+something that you have to think about
+significantly you can think about how do
+I deliver effects right how do I be more
+lethal how do I be more survivable how
+do I hide what how do I use this to
+operate longer without resupply and so
+that's really where we're focused is and
+and we've we've seen some early you know
+wins there um we had a brigade commander
+he dropped this into his vehicle uh last
+year at the same exercise was driving
+these these you know Home Depot Chinese
+battery banks back to the 10k K
+generator and swapping them out the
+whole time. Uh, his exo was constantly
+doing math on like, okay, when is this
+thing going to be dead? When do we need
+to drop it back? We dropped ours in this
+time, plugged it into the vehicle, and
+and now power was not a thought. And now
+now, right, that that that that
+bandwidth, right, um, that operational
+kind of command and control bandwidth
+was focused on mission objectives.
+&gt;&gt; Um, not, you know, hey, how do I where
+am I going to charge my battery next?
+Um, so that's really kind of I think
+where if if we if we succeed in 24
+months, right? Actually, nobody talks
+about power because like because because
+it just works, right? It just works.
+&gt;&gt; We're on to the next bottleneck.
+&gt;&gt; Exactly.
+&gt;&gt; Yeah. Cool. Well, thank you both so
+much. This is really fun.
+&gt;&gt; Thank you.
+&gt;&gt; Yeah.

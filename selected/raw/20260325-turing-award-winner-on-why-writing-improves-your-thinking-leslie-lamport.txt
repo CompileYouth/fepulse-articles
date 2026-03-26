@@ -1,0 +1,93 @@
+原文： https://www.youtube.com/watch?v=VEqOPjCPMJ8
+
+Why is writing conducive to good
+thinking?
+&gt;&gt; It's very easy to fool yourself.
+Uh I mean that underlies my uh my whole
+idea of of writing proofs. One thing I
+learned is that you had to write a a
+correctness proof of an concurrent
+algorithm.
+And when my algorithm starting to get
+more complicated,
+the proofs started I started writ
+PhD in math. I knew how to write proofs
+and I was starting writing the proofs
+the way I would normally do. And I
+realized it just didn't work because
+there were just so many details involved
+and I just couldn't keep track of them
+and whether I had done it. And so as a
+computer science know how to deal with
+concurrency
+uh it's hierarchical structure and so I
+devised this hierarchical structure
+where a proof is uh you know is a
+sequence of steps each of which has a
+proof and the proof is either a par well
+a proof is either a paragraph or a
+statement a sequence of steps each with
+its proof and that proof can be either a
+paragraph graph or a sequence of steps
+with its proof and you know so you break
+the whole problem up into these smaller
+pieces. So there's never any question of
+you know where is this coming from. You
+know you're stating that this step
+follows from you know this step this
+step this step this step and if it does
+not follow from that step your proof is
+wrong. The theorem might be correct but
+but means your proof is wrong. Um well
+you know so I've discovered that worked
+great on writing my proofs of programs
+but I decided to really you know I also
+write proofs of theorems you know you
+know uh you know think proofs that are
+things that are you know more like
+ordinary math and I started trying that
+on them and I discovered it worked
+beautifully. So when I started to to try
+to convince mathematicians to write
+these proofs uh I started in one small
+seminar I went you know won't describe
+what it was about but uh and I I
+described this this proof through maybe
+uh 20 mathematicians or something their
+reaction shocked me
+they became angry
+I really thought that they might
+physically attack me. So
+I believe that what's going on is that
+when pe I mean I believe that's totally
+irrational and when people act
+irrationally
+it tends to be out of fear
+and what I believe people are afraid of
+is that mathematicians are afraid of is
+that they're going to have to write
+their proofs to convince a a computer
+program and and in fact you know and I
+give it a one of those talks I gave you
+know I say very clearly this doesn't
+have to be you don't have to be any more
+formal than you do you can write the
+exact same thing proof you know but it's
+just a matter of organizing things and
+it's very simple you know hierarchical
+structure and then when you're using a
+fact mention that you're using that
+nothing about formalism or anything you
+know after I gave that talk someone got
+up and said I don't want to have to
+write my proof my my proofs for a
+computer program.
+And in fact, it's more work doing that
+because the reason it's more work is
+that it reveals what you haven't said
+and that there's steps in there that you
+know, you may think they're obvious, but
+you haven't written them down.
+And if you think you know something, but
+don't write it down, you only think you
+know

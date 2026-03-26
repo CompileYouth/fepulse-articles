@@ -1,0 +1,40 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260325-212749/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "Turing Award Winner On Why Writing Improves Your Thinking | Leslie Lamport",
+      "url": "https://www.youtube.com/watch?v=VEqOPjCPMJ8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-0grdljy4/VEqOPjCPMJ8.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-0grdljy4/VEqOPjCPMJ8.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链",
+      "url": "https://www.youtube.com/watch?v=B3wJuvYjLu0",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-2026-gtc-ai-token.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-qfoa131_/B3wJuvYjLu0.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-2026-gtc-ai-token.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "Chariot Defense CEO on the Missing Power Layer in War | a16z",
+      "url": "https://www.youtube.com/watch?v=-awTbzrJLvs",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-chariot-defense-ceo-on-the-missing-power-layer-in-war-a16z.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ahq4ppuw/-awTbzrJLvs.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ahq4ppuw/-awTbzrJLvs.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-chariot-defense-ceo-on-the-missing-power-layer-in-war-a16z.txt",
+      "status": "ok"
+    }
+  ]
+}

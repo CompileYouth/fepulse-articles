@@ -1,0 +1,48 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260326-163030/links.json",
+  "results": [
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "Hadrian CEO on Rebuilding the American Industrial Base | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=hf4ZhtJmCyo",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-hadrian-ceo-on-rebuilding-the-american-industrial-base-deep-dives-with-a16z.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-yx4ln6h2/hf4ZhtJmCyo.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-yx4ln6h2/hf4ZhtJmCyo.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-hadrian-ceo-on-rebuilding-the-american-industrial-base-deep-dives-with-a16z.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "AI Makes Building Products Easy. Knowing What To Cut Is the Hard Part.",
+      "url": "https://www.youtube.com/watch?v=KRv9GpJYrUA",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-ai-makes-building-products-easy-knowing-what-to-cut-is-the-hard-part.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-bttdod22/KRv9GpJYrUA.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-bttdod22/KRv9GpJYrUA.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-ai-makes-building-products-easy-knowing-what-to-cut-is-the-hard-part.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "title": "Turing Award Winner On Why Writing Improves Your Thinking | Leslie Lamport",
+      "url": "https://www.youtube.com/watch?v=VEqOPjCPMJ8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "google-deepmind",
+      "title": "Introducing Lyria 3 Pro",
+      "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-introducing-lyria-3-pro.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ehm_4j66/hv8ZI7foGZk.en-j3PyPqV-e1s.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-introducing-lyria-3-pro.txt",
+      "status": "ok"
+    }
+  ]
+}

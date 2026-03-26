@@ -1,0 +1,33 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260323-224526/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "The Co-Creator of Kubernetes On Convincing Google, Building It, and Scaling for LLMs",
+      "url": "https://www.youtube.com/watch?v=FKijpCEH9D8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260323-the-co-creator-of-kubernetes-on-convincing-google-building-it-and-scaling-for-llms.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-fcx5v4m_/FKijpCEH9D8.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-fcx5v4m_/FKijpCEH9D8.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260323-the-co-creator-of-kubernetes-on-convincing-google-building-it-and-scaling-for-llms.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "title": "The art of influence: The single most important skill left that AI can’t replace | Jessica Fain",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260322-the-single-most-important-skill-outside-of-ai-jessica-fain-webflow-ex-slack.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee",
+      "url": "https://www.youtube.com/watch?v=ydiMKfljb-I",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

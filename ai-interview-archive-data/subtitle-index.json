@@ -166,6 +166,83 @@
       "downloaded_at": "20260323-181858"
     },
     {
+      "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+      "source_id": "google-deepmind",
+      "title": "Introducing Lyria 3 Pro",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-introducing-lyria-3-pro.txt",
+      "status": "downloaded",
+      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-introducing-lyria-3-pro.txt",
+      "downloaded_at": "2026-03-26T16:33:38+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KRv9GpJYrUA",
+      "source_id": "every",
+      "title": "AI Makes Building Products Easy. Knowing What To Cut Is the Hard Part.",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260325-ai-makes-building-products-easy-knowing-what-to-cut-is-the-hard-part.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260325-ai-makes-building-products-easy-knowing-what-to-cut-is-the-hard-part.txt",
+      "downloaded_at": "2026-03-26T16:33:35+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hf4ZhtJmCyo",
+      "source_id": "a16z-deep-dives",
+      "title": "Hadrian CEO on Rebuilding the American Industrial Base | Deep Dives with a16z",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260325-hadrian-ceo-on-rebuilding-the-american-industrial-base-deep-dives-with-a16z.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260325-hadrian-ceo-on-rebuilding-the-american-industrial-base-deep-dives-with-a16z.txt",
+      "downloaded_at": "2026-03-26T16:32:58+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-awTbzrJLvs",
+      "source_id": "a16z-deep-dives",
+      "title": "Chariot Defense CEO on the Missing Power Layer in War | a16z",
+      "upload_date": "20260324",
+      "published_at": "2026-03-24T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-chariot-defense-ceo-on-the-missing-power-layer-in-war-a16z.txt",
+      "status": "downloaded",
+      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-chariot-defense-ceo-on-the-missing-power-layer-in-war-a16z.txt",
+      "downloaded_at": "2026-03-25T21:30:52+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B3wJuvYjLu0",
+      "source_id": "the-valley-101",
+      "title": "深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链",
+      "upload_date": "20260324",
+      "published_at": "2026-03-24T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-2026-gtc-ai-token.txt",
+      "status": "downloaded",
+      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-2026-gtc-ai-token.txt",
+      "downloaded_at": "2026-03-25T21:30:20+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VEqOPjCPMJ8",
+      "source_id": "ryan-peterman",
+      "title": "Turing Award Winner On Why Writing Improves Your Thinking | Leslie Lamport",
+      "upload_date": "20260325",
+      "published_at": "2026-03-25T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport.txt",
+      "status": "downloaded",
+      "note": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260325-turing-award-winner-on-why-writing-improves-your-thinking-leslie-lamport.txt",
+      "downloaded_at": "2026-03-25T21:30:16+0800"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FKijpCEH9D8",
+      "source_id": "ryan-peterman",
+      "title": "The Co-Creator of Kubernetes On Convincing Google, Building It, and Scaling for LLMs",
+      "upload_date": "20260323",
+      "published_at": "2026-03-23T08:00:00+08:00",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260323-the-co-creator-of-kubernetes-on-convincing-google-building-it-and-scaling-for-llms.txt",
+      "status": "exists",
+      "note": "moved to /Users/bytedance/Documents/my-projects/fepulse-articles/selected/raw/20260323-the-co-creator-of-kubernetes-on-convincing-google-building-it-and-scaling-for-llms.txt",
+      "downloaded_at": "2026-03-23T22:48:06+0800"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=lkKGQVHrXzE",
       "source_id": "direct-input",
       "title": "Designing with Claude Code",

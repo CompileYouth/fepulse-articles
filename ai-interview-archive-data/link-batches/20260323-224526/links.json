@@ -1,0 +1,51 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-03-23T22:45:26.474203+08:00",
+  "since": "2026-03-21T22:45:26.474203+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "The Co-Creator of Kubernetes On Convincing Google, Building It, and Scaling for LLMs",
+      "url": "https://www.youtube.com/watch?v=FKijpCEH9D8",
+      "upload_date": "20260323",
+      "published_at": "2026-03-23T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260323-the-co-creator-of-kubernetes-on-convincing-google-building-it-and-scaling-for-llms"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "The art of influence: The single most important skill left that AI can’t replace | Jessica Fain",
+      "url": "https://www.youtube.com/watch?v=RP4vJeIb7WU",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260322-the-art-of-influence-the-single-most-important-skill-left-that-ai-can-t-replace-jessica-fain"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee",
+      "url": "https://www.youtube.com/watch?v=ydiMKfljb-I",
+      "upload_date": "20260322",
+      "published_at": "2026-03-22T21:01:41+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260322-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee"
+    }
+  ]
+}
