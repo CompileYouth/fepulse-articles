@@ -80,6 +80,15 @@
 - `selected/raw/` 自动整理为正式文章，输出到 `selected/`
 - `briefs/raw/` 自动整理为 500 字左右简报，输出到 `briefs/`
 
+这是默认执行链路，不需要再额外提醒。
+只要已经完成扫描并成功落下字幕，就必须继续完成：
+
+- 分流到 `selected/raw/` 或 `briefs/raw/`
+- 生成 `selected/` 下的正式文章
+- 生成 `briefs/` 下的简报
+
+除非用户明确要求“只采集，不做后续处理”，否则不能停在采集结果。
+
 ### 2. 初筛
 
 新内容扫描完成后，不要长期留在 `ai-interview-archive-data/` 根目录。
@@ -167,6 +176,45 @@
 - `简报` 里的未读内容支持一键“精选”，会直接移动到 `selected/`
 - 点击文章后直接渲染 markdown，并可一键复制带样式内容
 - 复制时不会预先生成单独的 html 文件
+
+### 8. 飞书群发送
+
+如果你已经在 `selected/` 里把文章文件名改成：
+
+- `YYYY-MM-DD 标题.md`
+
+那么每天 `08:00` 的发送脚本会自动查找当天日期前缀的文章，并发送到飞书群机器人。
+
+发送时区默认按：
+
+- `Asia/Shanghai`
+
+本地配置：
+
+- `.local/feishu-bot.env`
+- `.local/feishu-app.env`（可选，优先级更高）
+
+需要包含：
+
+- `FEISHU_BOT_WEBHOOK=...`
+- `FEISHU_BOT_SECRET=...`
+- `FEISHU_APP_ID=...`
+- `FEISHU_APP_SECRET=...`
+- `FEISHU_CHAT_ID=...`
+
+发送脚本：
+
+- `python3 scripts/send_scheduled_feishu_posts.py --workspace-root /Users/bytedance/Documents/my-projects/fepulse-articles`
+
+默认规则：
+
+- 优先使用飞书应用发送：`FEISHU_APP_ID + FEISHU_APP_SECRET + FEISHU_CHAT_ID`
+- 如果没有配置飞书应用，则退回群 webhook 发送
+- 只发送 `selected/` 第一层里文件名前缀等于当天日期的文章
+- 如果同一天有多篇，会按文件名字典序依次发送
+- 发送成功后记录到 `.local/feishu-sent-log.json`
+- 已发送过的同名文件不会重复发送
+- 优先使用飞书 `interactive card` 发送；webhook 兜底时也尽量保留标题、分段和小节结构
 
 ## 备注
 
