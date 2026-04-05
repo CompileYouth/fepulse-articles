@@ -1,0 +1,2818 @@
+原文： https://www.youtube.com/watch?v=3jjRNVfm3V4
+
+Uber had about 5,000 microservices.
+&gt;&gt; None of us wanted to go through that
+extreme. But lots of time when you are
+under a lot of pressure and no time to
+react other than to survive that scale
+that keep on coming at you.
+&gt;&gt; Travis told you you have 2 months to
+launch in China.
+&gt;&gt; That was one of the craziest thing we've
+ever done, but it's also one of the most
+amazing thing we've ever done and now
+explain why. So
+&gt;&gt; let's talk about how and why Uber built
+so much internal tools. I can't claim
+that every single one of those thing
+were absolutely necessary but all the
+important one were absolutely necessary.
+So I remember a very painful example of
+that we had to face early on was
+when Tuan Pam joined Uber as the
+company's first CO in 2013. The company
+had 40 engineers did 30,000 rides per
+day and the system crashed multiple
+times per week. He had 5 months before
+Uber's dispatch system would hit a brick
+wall with no way out. 7 years later, he
+left the CTO of one of the most complex
+engineering organizations ever built. In
+today's conversation, we discuss Tuan's
+interview with Travis Kellik for the CTO
+role, which lasted 30 hours, spread over
+2 weeks, scaling through chaos,
+rewriting dispatch before it collapsed,
+launching China in 5 months, and the
+full appreite known internally as
+Project Helix. Why Uber ended up with
+thousands of microservices and hundreds
+of internal tools because existing
+solutions could not handle Uber scale at
+the time, and many more. If you've ever
+wondered what it's like inside the room
+when a company is growing faster than it
+systems can handle and what are ways to
+get things under control, this episode
+is for you. As a side note, I've been
+lucky enough to work at Uber while Tuan
+was a CTO. And Tuan is the real deal.
+This episode is presented by Statsig,
+the unified platform for flags,
+analytics, experiments, and more. Check
+out the show notes to learn more about
+them and our other season sponsors,
+Sonar and Work OS. Tuan, it is so good
+to have you here in person.
+&gt;&gt; It's my pleasure. It's so good to
+connect with you again after all these
+years. And it's so good to reconnect. We
+we worked together for almost four years
+at at Uber. Probably my first month I
+already met you in like some really like
+fun slashstressful circumstances during
+Helix the Uber app rewrite which was a
+crazy project. Well, before we get into
+any of that, how did you get started not
+just in tech but but in life? You had a
+pretty rough start.
+&gt;&gt; Yeah, I I I grew up in I was born in
+Vietnam and uh I was a child I would say
+of the Vietnam War. So in 1975
+when the south of I was from the south
+of Vietnam, my father was tied to the
+military of the south uh of the south
+and uh when the when the country was
+unified, right? The the south has lost
+and north is one and there were a fair
+amount of repercussion, right? People
+who are associated with the southern
+regime would not have much of an
+opportunity growing up. the education
+opportunity, all these other that was
+again the the the way it was at the
+time. That's not necessarily true right
+now. Uh but uh that was and my mother
+then made a very bold decision that she
+wouldn't want her two son growing up
+with no opportunity. And so um we had to
+flee the country. And at the time there
+was a massive wave of exodus called the
+boat people uh where people just get
+onto rinky boat uh fishing boat or
+whatever thing they can get their their
+their place in and uh escape the country
+in the middle of the night. People did
+not know at the time and nobody thought
+about it that but the chance of survival
+was about less than 50%. that about two
+million people left, about million
+people survived the crossing because
+this these boats are not sea worthy and
+we crossed the ocean and um yeah, but we
+were the lucky we were lucky half
+really. But no one thought about if
+people think too much about it, they
+probably wouldn't do it. Uh but everyone
+just like well we need to escape we need
+to you know give ourselves a shot of a
+better life and so we did. So we we left
+Vietnam. It took many try and took it
+depleted the entire you know saving of
+my parent because it was a scam. People
+were say you know pay up half now half
+later and then the boat never shows up
+and finally on the fourth try we
+actually made it and then we were lucky
+that we have a really good captain who
+actually navigate through storms and and
+all that and we survived even pirate
+from from Thai. I was around I think 11
+12 somewhere and so we crossed that uh
+and we survived three uh three day four
+nights of um the crossing of the South
+China Sea uh to Malaysia then we went
+into Malaysia we thought we were done a
+week later we got tow back out and dump
+it in Indonesia a few days later and
+that's where the government there uh
+accepted us in and put it on a deserted
+island at the time and we formed a
+refugee camp there. So, and then we were
+waiting to be processed. We got
+interviewed by all the different
+countries and the the US gave us a
+refugee um settlement uh because we were
+tied to the old regime that were
+supported by the Americans. So, we were
+very very thankful to to get here the
+land of opportunity and uh we didn't
+know any English. We didn't have any
+penny to our name. Uh we were sponsored
+by a church. the first set of clothing
+we got was from the donation closet at
+the church. And so um and so but we had
+to build from the ground up and uh so
+that that was how I grew up and that's
+how I got here.
+&gt;&gt; And then from this like absolutely
+not just unconventional but just
+extremely hard start. How did you
+eventually get your interest into
+computers into tech?
+&gt;&gt; Just like most in life is by happen or
+luck. Um I I was pretty good in math and
+science as most kids in in Asia. We were
+growing up. We learned that. And uh when
+we got here um I had a friend in high
+school uh who had uh received a gift
+from his dad uh an IBM PC. That was when
+one of the very first one the one with
+like two floppy disc.
+&gt;&gt; Was this in ' 80s or '7s?
+&gt;&gt; This was in the 80. This was in 1982.
+Yeah. So freshman year. So after school
+I would hang out at his place and he's
+got a new toy and so we were you know
+writing little basic program and playing
+game and all that stuff and we learned
+how to use word processors and lotus and
+word stars and all that and I started
+coding in basics and then I just
+realized that oh it come very natural to
+me I can think very algorithmically and
+then there's another weird thing I I
+sometimes tell people I am generally a
+procrastinator I don't like to do the
+same thing twice so computer programming
+is perfect for me, right? You solve the
+problem once that's a creative part.
+After that, I get bored. I got to do the
+next problem. And so, writing program
+was like the perfect fit for me.
+&gt;&gt; You do not duplicate your code.
+&gt;&gt; Yeah. I don't like duplicate the code. I
+don't like to do the same thing twice.
+Uh and so, yeah, when you write it and
+then it execute way faster than you can
+do it by hand. So, that was really
+wonderful. I just taught myself that.
+And then I volunteer at a government
+agency to write code for them after
+school. And so I did that and I went in
+there and I basically stitched together
+Lotus uh DBA3 with all the scripting
+languages and automate the entire
+financial accounting and reduce the the
+the workload. At the time the two
+accountant had to spend about 3 weeks or
+so every quarter reconciling everything.
+I did all that stuff with a purchase
+button uh and took about three hour for
+the whole batch to run. And so they were
+so happy when I graduated high school. I
+think they they wrote me a really good
+recommendation letter. Uh, and with
+other things that were going on and the
+good grades and everything else, I I got
+accepted MIT and then I got there and I
+really learned computer science like the
+fundamental of computer science. Back
+then I was just like a kid who just, you
+know, write programs. So,
+&gt;&gt; and then during or after MIT, what was
+your first professional job where where
+you got paid and you worked full-time on
+on techn with technology?
+&gt;&gt; Uh, one thing lead to another. I was uh
+when I was um at MIT, there was a
+multi-year co-op program uh with uh some
+of the best company tech company in the
+world at the time. AT&amp;T, Bell Labs, uh
+Xerox Park, HP Labs, and all these
+company Bor all over the country
+actually. And so we applied for it and
+um and then the best the the kids with
+the best grade got prioritized. Then the
+company had to go through a selection
+process. They rank all the kids and then
+the kids all ranked the company that
+they got ranked and then there was a
+matching process and I end up um coming
+to Hill Packard Laboratories and AP was
+one of an awesome company at the time.
+&gt;&gt; Back then they were massive and like
+very
+&gt;&gt; very innovative laser printers you know
+workstation computer systems all of that
+stuff. I was in the HP lab which is the
+research lab where a lot of the really
+innovative stuff happened and so it was
+a dream job. uh as a student I get to
+work on cutting edge research with all
+the other PhDs around um I get to write
+the joint thesis for my bachelors and my
+masters with the work there that was
+part of the arrangement and uh when I uh
+u graduated HP just hired me straight
+into that research lab so I became one
+of the researcher although I didn't have
+a PhD and after that that were uh a few
+years of that then I went into the
+industry and write code that uh people
+would actually use I really enjoy my
+time at HP lab because you get to do
+cutting edge stuff. We were working on
+medical informatics at the time where
+right now you go to every doctors all
+your recctors following you. Back then
+we actually have a network distributed
+system architecture where every
+physician workstation that you go to
+right had your your X-ray and everything
+follow and then you have like knowledge
+base that actually look at for drug
+interaction. Oh, we actually did that
+research back in the mid late 80s
+actually. And so like these are cutting
+edge stuff. But then the the thing that
+I find unsatisfied uh unsatisfactory at
+the time for me was we published great
+paper and then didn't go anywhere. It
+was not productionized and I'm just like
+I want this is so cool. Why can't we
+bring it to the user? But that wasn't
+the setup. The setup was research lab
+worry about research and then we would
+have like a a tech fair every year and
+the general manager of every product
+division swing by and then decide what
+they want to pick up and productize. And
+so I didn't feel empowering beyond the
+research phase. So I just had to go find
+a a a place where I can write code and
+people actually use my code.
+&gt;&gt; So I went to Silicon Graphics. At the
+time we were also trying to invent the
+future and we actually did a prototype
+of that. There was um interactive TV
+where back then now we could take for
+granted a streaming video video on
+demand online game right cooperative
+game. Back then we didn't have cell
+phone internet yet and we can cobble
+4,000 um homes together in an 18 trial
+that has cable and then we invent like
+network protocols and all these things
+and we actually formed a set top which
+is like tube TV not even a flat screen
+TV with a set top box on top which is a
+silicon graphics box and we can
+implement online shopping uh um movie on
+v video on demand and you're building
+all of that without having any of this
+stuff right here like we and and
+celebrity like Michael Jackson came by
+and saw demos and we saw Spielberg, we
+saw everybody. We thought really believe
+that was the future and it was the
+future. The problem was it's way we way
+way ahead of the time. Right. Then I
+learned a big hard lesson. It's not
+about just a technology. It's about
+whether the world is ready for it,
+whether it's economically feasible.
+&gt;&gt; And and back then what was the point
+where you realized like this is not
+going to work even though we're doing
+this awesome stuff
+&gt;&gt; after a year, right? because um it took
+like $100 million back in 1994
+just to provision the head end. Silicon
+Graphics love it because they sell all
+these massive server to pump out video
+and then the settop itself is a silicon
+graphics workstation that cost $45,000
+right people would not buy that right
+&gt;&gt; especially like like in today's money
+that would be like 10 $20,000
+&gt;&gt; people would not buy that the early
+adopter enthusiastic maybe right but not
+for the mass market and so when we and
+we we did that trial incredibly
+successful we definitely all saw the
+future and then we did the same trial a
+similar trial with a different set of
+software that we wrote for NT nippon
+telephone in Japan. We went to Japan
+deploy that very cool had a really great
+time but then it fizzled out because it
+would not be commercially viable and so
+that was a really first life lesson that
+I learned it's not just a technology
+right you got to be at the right place
+at the right time and the right price
+point and then uh after that I went to a
+startup founded by a former office mate
+at SGI so we were doing internet
+advertising the internet was about to
+take off then mosaic browser search came
+out uh Netscape was being form and um
+yeah in the early days of Netscape and
+so we saw very clearly that the the
+advertising model worked for TV so it
+has to work for the internet right
+because all these content people would
+use it if it's free but then who has to
+pay for it the advertising so we we I
+joined a company initially we call
+ourselves netvertiser which is like you
+know very and then ch it changed it name
+quickly to net gravity and then it's so
+uh enterprise software to put ad banners
+dynamic ad banners ers on CNN on
+Netscape site and all that. I was one of
+the very early engineer there. I was the
+fourth engineer I believe. Yeah. And so
+um people don't know this but a buddy of
+mine we were the first pup engineer to
+put the first dynamically targeted ad on
+the on the Yahoo page on the internet.
+&gt;&gt; And dynamically targeted meaning that it
+showed different ads based on different
+or or like whatever.
+&gt;&gt; Yeah. The version before I came in was a
+script that crawl through and just put a
+stick static banner ad and rotate it
+through every hour. But then we it's
+like we got to target it and then we
+started using cookie we started you at
+first it was a content of the the page
+and and the person and then we actually
+use that to actually target different ad
+and then we have ad sequence and all
+that stuff and that was the very first
+one of course uh we had some success
+there that company went public but
+another thing that I learned was um
+sometime you got to seize the market
+right there's a company that formed
+right much later than us but did an ad
+service bureau And that took off because
+it take a lot less investment for people
+to you just stick a banner a tag on your
+HTML page and then revenue just come
+your way, right? Because the the the
+service bureau kind of stick the app
+there dynamically or that kind of stuff.
+We had wanted to do that in our company
+but then one of our board members said
+no you should focus on get to profit
+first before you expand. Oh, and we went
+down the profitability path and we then
+becomes like you know a bigger robust
+enterprise solution where the other one
+is and try to get profitable and the
+other one is just expand through the
+internet like raising Wi-Fi then after
+that years later got bought by Google.
+So that was the journey there. There's a
+lot of lesson there about how to build
+things.
+&gt;&gt; So, so this was do I understand that you
+you you saw that what happens when
+there's a big market and you you focus
+on profitability which which should make
+sense but a player focuses on growth
+even at being nonprofitable. It might be
+able to swallow you in the end.
+&gt;&gt; That's right. Look at what happened to
+at Uber, right? We did not the right
+move.
+&gt;&gt; I'm starting to see how these things are
+coming together. So now you're at the
+startup which almost took off but not
+quite. And then what was your next stop?
+That company went public and then got
+absorbed and after about seven years
+there I had made it to the VP level. I
+joined as an IC. Along the way I knew
+that from my inspiration at the Silicon
+Graphics day that if you want to do
+something really big you need to
+leverage other people. You can't do it
+with your bare two hands. So then I
+switched over to the management uh track
+and I honed the skill and I got up to
+directors and senior directors and then
+ultimately got the VP and then after
+about eight years, seven year, eight
+year there, the com bust happened right
+of that time and then uh I said well
+maybe it's time to prove to myself
+whether or not I'm just a one hit wonder
+or I actually have skill that are
+transferable. Just just one thing on the
+dotcom bus because you kind of swept
+over it because you you've now seen a
+lot of like ups and downs but can you
+take us a little bit back what actually
+happened with comb bus because the
+people I talked to especially were new
+grads it sounded very very scary what
+what did you feel like and what did
+people professionals engineers all
+around you feel like
+&gt;&gt; the com bus was was kind of scary when
+the correction happened right but before
+that there was this exuberance that
+everything is.com right pest.com
+fubar.com everything is a.com webban.
+Yeah, all of that stuff. I still have
+the webb van bin in my garage actually.
+And so, yeah, but then uh there there
+was a shake out eventually. There has to
+be sound business model that makes
+sustained profit, right? Growth and
+profit. Growth alone eventually burn,
+you know, money and that's not good. Uh
+you can grow fast, but eventually you
+have to turn that into profit to be a
+durable company. And so in that dot wave
+there were massive company that emerged,
+right? There was Yahoo, there's Google,
+there's Amazon, all of those company.
+There's also a bunch of other company,
+web van and others, whatever that would
+go under because they didn't have like a
+strong value proposition that last the
+the test of of time, right? So, yeah,
+it's all about the what value you
+deliver uh and whether or not it's
+beneficial and valuable to the customer
+that they're willing to pay, right? And
+I think that's one thing that we
+learned. Which one is like a real
+fundamental strong business even though
+it might not be a profit initially, but
+which one are just a me too, right? Just
+put a.com on something and and it's hot
+there. There may be a lot of AI things
+that's going on right now, right? Uh
+eventually some of these things will
+consolidate, some will go under, some
+will become really awesome solutions and
+all that stuff. And so, but the the
+market will sort it out. In the end, the
+the customer will vote on what they want
+to spend the money on. Speaking of
+building things that last versus things
+that don't, one thing that always
+separates the two is cold quality. And
+that's what our season sponsor Sonar is
+all about. Sonar, the makers of Sonar
+Cube, is deeply rooted in the core
+belief that code quality and code
+security are inherently linked.
+Highquality code is naturally more
+resilient, and as agents start to write
+code at a massive scale, that
+verification layer becomes your most
+important security parimeter. This is
+where solutions like Sonar Cube advanced
+security are valuable. With this new
+malicious package detection, advanced
+security provides a real-time circuit
+breaker, automatically stopping agents
+from pulling in unverified or risky
+thirdparty libraries before they ever
+hit your pipeline. The impact is
+measurable, too. Developers who verify
+their code with Sonar are 44% less
+likely to report experimenting outages
+due to AI. As per Sonar states of code
+developer survey 2026 report, it's
+really about closing the gap between the
+speed of AI and the reality of
+production security. What else is Sonar
+doing to help reduce outages, improve
+security, and lower risks associated
+with AI and agenda coding? Head to
+sonarsource.com/pragmatic
+to find out. With this, let's get back
+on what Swan did after the com boom and
+bust. And there was a lot of layoffs,
+companies going bankrupt. Did that worry
+people around you? Did that worry you
+that, you know, your your job could be
+in danger or you might have a harder
+time switching jobs or did you not did
+was was it a very short-lived?
+&gt;&gt; It lasted a couple years. Uh I remember
+and during that time it was definitely
+hard to to get a job. uh especially for
+new college grad that's always the the
+the first layer that get hit right when
+everything retrenchs people want more
+experienced people uh people want to
+stress existing folks rather than keep
+on you know hiring entry- level so that
+you have to you know continue to invest
+in right so it's just the economy of
+time it it comes and go in wave um yeah
+so that's always a certainly a very
+scary time u but of course you know in
+the longer range of history things
+generally tend to recover But it it
+caused a rearrangement and yeah so
+during that time it was it was certainly
+tough. Uh however I the way I look at
+this thing is like yeah talents are
+always talent right so people really
+strong talents uh and who's really
+hungry is always um try to punch above
+their weight will always be marketable
+right yeah
+&gt;&gt; even in a downturn
+&gt;&gt; even in a downturn so I think the key
+thing is how people should even in peace
+time invest in that skill never be
+complacent constantly try to be better
+and then in wartime or in rough time uh
+those will save you right if people uh
+just be very complacent atrophy with the
+time and then when rough time hit it's
+very very hard to recover from that
+&gt;&gt; and then you went to VMware at this
+time.
+&gt;&gt; Mhm. Yeah. So um let's see after I went
+from double click to that uh and then I
+jumped into a fourperson company again
+leaky roof and everything classic
+startup that business did not succeed.
+Uh it took about 3 years or so, got to
+about 40 50 people in size and then kind
+of ran out of money and then got
+acquired by another entity that was
+built with a security appliance product
+with try to solve the problem of you
+know uh intermediation of web services
+traffic going through and uh it was a
+very interesting security niche but it's
+not a mass market thing and so it's hard
+for a company to kind of break through
+like that right uh and um but eventually
+it it uh it went away but even then you
+Those three years taught me a lot. Um,
+okay. That you can survive even when you
+do it from the ground up. Uh, then you
+still have skill that you can pick up
+despite the fact that that journey might
+not end in like a commercial success.
+Uh, but your skills still get better.
+&gt;&gt; So you are getting better as a
+professional even though
+&gt;&gt; and that's something we have to trust.
+We invest in oursel but of course we
+invest in the company or vehicle that we
+are part of and ideal case both side
+succeed but if the other succeed at
+least if you work really hard you will
+gain some skill and then based on that
+uh then you can then leverage all the
+thing that you learned so far and all
+the mistake that you've made all it got
+you smarter and better and wiser uh to
+look for the next opportunity. So uh
+right after that I look at a bunch of
+other thing when that company was
+acquired and then I I went into VMware
+um again when VMware was a pretty small
+not very well known yet um so it was um
+40 person organization and so that build
+software to stitch together
+&gt;&gt; so so VMware was still early
+&gt;&gt; VMware was it's still early yeah there
+was two there was three division um one
+division that did the the workstation
+desktop app and then there was the
+division that does the hypervisor which
+is the OS underneath the OS. Uh and then
+there was my division that was building
+enterprise software that stitched
+together all of the hypervisor into like
+a a cloud platform and management
+platform. Right? So I was one for that.
+It was our 40 people and we kind of
+built the very first product suite for
+VMware called virtual center that tied
+to ESX. So that was um that was a really
+really fun right people
+&gt;&gt; and and then and then VMware really took
+off. virtualization as a whole took off.
+Uh in the early 2000s, VMware was was
+core part of it. It was one of the main
+things. So it was just uh was it a kind
+of hockey stickish experience?
+&gt;&gt; It was um not to the extreme of Uber. Um
+but uh it certainly was because it was a
+industry changing technology. It was a
+game changer. Right? Before that there
+wasn't anything like that. At first
+people thought, "Oh, this is kind of
+interesting tool on the desktop for you
+to run a couple of, you know, Mac and PC
+OS on top in on a PC, but the true power
+was the ESX, right? The Yeah. And then
+that's what you power data center. And
+then of course that's the the hypervisor
+but the the I think the key feature that
+made VMware so useful was the whole
+votion thing when you take a virtual
+machine and you can migrate it from
+hardware to hardware without any
+perceivable downtime of the application
+run on top with that capability. unlock
+the whole cloud thing, right? Because
+you have a thousand machine, it can look
+like one. It can look like a C machine
+and so application inside of your
+machine will just scale and it will just
+move itself and it can do whatever you
+need to do, right? You can do DR, you
+can do, you know, uh yeah all kinds of
+things with it, right? So that's
+actually make it very much like a cloud
+operating system.
+&gt;&gt; And then at VM where we also grew with
+the company, right? So, so again I it
+seems you have this history of you were
+VP of engineering at the startup, you
+stepped down to a small startup, you
+then joined VMware and eventually you
+became VP of engineering at VMware as
+well, right?
+&gt;&gt; Mhm. Yeah. Yeah. I have this weird thing
+where when I get when the thing get
+large um and I start to feel too
+comfortable, I get nervous
+&gt;&gt; really.
+&gt;&gt; Yeah. And so that's where when at double
+click when I got to VP and I managed
+hundreds of people, I like is this a
+fluke or is it real? So I had to go back
+to a fourperson company and try to see
+if it's real or not. That didn't succeed
+really well, but the engine was healthy.
+It was good. And then when a VMware
+again is a smaller company and go big
+and when it get really big again when
+you get to a point where you're just
+running things rather than breaking
+ground and doing this thing or how hard
+learning then you got to do something
+different, right? So I keep on going
+back small and when I get big I might go
+back small again and
+&gt;&gt; yeah so I'm seeing the pattern. So you
+you got big at VMware and VMware was
+doing amazing. What made you um look
+around and how did you find this very
+small company at the time called Uber or
+it might have been Uber Cab I'm not even
+sure how it was called.
+&gt;&gt; It was Uber at the time already was way
+before that. Yeah. Mhm. Yeah. It was
+when after 8 years at VMware um and
+sometime people change sometime company
+change uh sometime both side change and
+so um yeah for me what changed
+personally for me was I reached to the
+point where I didn't feel I could do
+much more there. Right. I'm running 800%
+engineing team. We're building this that
+this software and and it's been like the
+third generation of that software
+already. We're tweaking, we're adding
+more feature to it. I love my team and
+all that. But you know, it's just more
+of like keep it steady, keep it growing
+and add more feature. And then the
+company has also changed along the way.
+you know, the the original founder left,
+new crew came in, and there's a fair
+amount of changes and personalities and
+all that. And after a while, it just
+felt like it's time.
+&gt;&gt; So, so now with your background, like
+you now have a super impressive
+background. You probably could have gone
+anywhere large or small. What was your
+search process look like? And and then
+how did you come across again? Cuz Uber
+was still pretty obscure.
+&gt;&gt; Yeah. Uh here's a really interesting
+thing. People do ask me about what the
+search process look like. How did you
+sit together a career like that? My
+honest answer is I didn't do any of
+that. And um and it wasn't luck that you
+that you bumble around and you find one
+thing after another. It's actually
+something different. It's that if you
+try to do a really good job at every
+company you've been working well with
+all the people that you work with,
+including your own team, your peer,
+whatever it is. Over time, very slowly,
+you accumulate a decent reputation in
+people's mind. And people always come
+and go throughout the industry. But if
+you're good with them, to them,
+whatever, they tend to remember that.
+And then when you become available,
+then people come to you.
+&gt;&gt; Yeah.
+&gt;&gt; Like this, how about this? How about
+this? How about this? And then you
+actually look at all those thing. And
+then you can dig in and you can decide.
+And so uh that played out multiple time
+for me um in the in the valley. And
+especially I think the biggest
+breakthrough was Uber. Again, when I
+left VMware, I didn't plan to do
+anything, right? I'm said well let's sit
+back and take a look see what's going on
+and then uh Bill Gurley from Benchmark
+Capital who invests in early investor in
+Uber and guess what his tie was he knew
+me from that net gravity startup a
+decade before and so he we kind of knew
+each other and then but of course when
+we know someone you follow their
+reputation and it was Bill who come to
+me uh after he knew that I'm leaving
+VMware hey can you take a look at this
+one I'm investing it could be really
+interesting so I went up to his uh his
+um office in um San Hill and he shared
+with me the board deck and how the
+company is growing and then I understood
+the the business model right to all of
+you back then when I trying to recruit
+some people it was like why Don why you
+joining a taxi company right
+&gt;&gt; yep I remember everyone's asking that
+question exactly and so but I I knew
+that and of course then we have to go
+through like a pretty rigorous interview
+process with Travis uh And uh yeah, but
+ultimately it's about the connection
+that lead to the the right thing, but
+that connection uh and the opportunity
+is basically tied to your reputation.
+&gt;&gt; And then back then as I I I looked it up
+and you also helped me with this, Uber
+just raised it series B which was $30
+million is value at $300 million which
+was sizable but still not nearly the the
+gigantic company that it later became.
+And one fun fact that I I read about is
+you had this very rigorous interview
+traveler process which was tens of hours
+or or something like that. Can you can
+you talk about how that went?
+&gt;&gt; It was impressive on that he did that.
+It was he committed over 30 hours
+interviewing me oneon-one.
+&gt;&gt; Wow.
+&gt;&gt; Yeah.
+&gt;&gt; That's like several days of like long
+&gt;&gt; two weeks worth of interviewing every
+single day. A couple hours each day
+minimum.
+&gt;&gt; Yeah. with passion, with intrigue and we
+end up after a while I kind of forgot
+that I was being interviewed. It was
+like through people kind of sharing
+ideas like exchanging idea and sometime
+disagree something and then kind of work
+it out
+&gt;&gt; and then you you showed me you took a
+photo of like some topics that you
+talked about like can you like summarize
+what what those were?
+&gt;&gt; Yeah. uh my very first meeting I drove
+up to San Francisco and saw Travis in uh
+in the office and we immediately went to
+the whiteboard and he wrote down all the
+topic on his head that you know he want
+to talk about with me that was a really
+long list there's a big long list of
+general topics about you know hiring and
+firing and communications and all of
+that stuff or design everything else and
+then there's a shorter list of very
+engineering specific stuff what about
+code quality what about QA what about
+design um all that and then there is
+also a list of shorter list of the five
+things that he want to see in an
+engineering team and and the culture of
+the engineing team and yeah and so that
+was the list and so after we wrote the
+list um we start talking picking up some
+item off the list and talk of course you
+know in two hours I was supposed to meet
+him for an hour it last two which is
+actually good because we got totally
+into it time ran out and then uh as soon
+as I drove drove out of the office. I
+barely get to the exit. I got a call
+from the the recruiter say, "Go Travis,
+we want to see you again and talk talk
+some more." And so we did that. And of
+course, he's very busy. He's traveling
+around the all the uh regional offices
+um to run the business. And so we set up
+a Skype session every single day for two
+hours each day and we will pick one of
+the topic. That's why I took a picture a
+photo of that whiteboard and he did the
+same thing as a as a list of topic to
+talk about and I still have it on my
+phone today. It's it's so impressive to
+me that cuz we'll we'll share that list
+uh in this episode as well that
+screenshot but that the fact that the
+that the CEO would go into things like
+code review like it's the hiring topics
+I understand but but that he was so
+engineering minded or
+&gt;&gt; did you get a sense that he had the
+vision that technology and engineering
+would be just key to Uber?
+&gt;&gt; Oh absolutely. I mean he he knew that
+and it was very clear from the very
+beginning that he viewed the business
+has two major engine that powers it. One
+is the operation you know bits and atom
+right you got to have wheels physical
+thing moving around the world and then
+there's technology and technology is a
+key part of that right no one side is
+super appeal to the other but it require
+both of those uh yeah and so that was
+very key and I think he also knew what
+he wants also uh and what he want in
+whoever it is and so I think this list
+and this this this series conversation
+was for him to to vest that yeah Later
+on, I I I think either he said something
+or I figured out that it was actually a
+simulation of what it's like to work
+with another person
+&gt;&gt; in that capacity. In the end, when we
+inside, we all working with each other
+all the time and can we disagree on
+something? Can we work things out? Do we
+have generally similar philosophy and
+principle? And he did it himself. Yeah.
+And so that Yeah. and and the the level
+of passion and commitment he showed was
+just really impressive from from this
+side I can tell you uh for example
+there's some session when we totally you
+know in the middle of that and two hours
+gone by and he had to like stop and
+catch a flight to go somewhere else he
+literally stopped and told me just wait
+and he'd pick up his phone call his EA
+and say can you move my flight and
+continue the conversation who had that
+level of commitment right and passion
+and stuff like that and when you see
+that it actually draws you in.
+&gt;&gt; Yeah. So I guess it was not a question
+that you joined but can you recall what
+was it like from the inside especially
+from an engineering point of view from a
+systems point of view from like what was
+going on?
+&gt;&gt; So it was still pretty small. It was um
+about 30,000 rides a day when I pulled
+the data the the the weekend which is
+always the busiest time when people move
+around. Yeah. That weekend uh the the
+day the the Saturday or Sunday before I
+join I joiner Monday. um was about
+30,000 rides a day. Uh and Uber was I
+don't know 20 something cities around
+the world at that point uh 2030 and so
+it was very modest. The there's certain
+things that were going for it already.
+The the engineing team was very young
+but uh pretty scrappy and uh pretty
+committed and talented where whatever
+need to get done by hook by group they
+co together right and so and as a result
+though the the the service was
+beautiful. anybody who ride we only had
+black car service at the time but the XP
+was beautiful when for all the people
+who ride it that's why word of mouth is
+you know raging around and uh yeah and
+so that was the really good part now the
+thing that maybe Travis had foreseen or
+whatever it is was the next phase which
+as the company grow faster and faster
+what happened right uh and by the way
+the the the 40 engineer were very very
+young I think in the 20s all of them and
+um the system was built not to scale,
+right? It was built for functionality.
+It's actually
+&gt;&gt; together and it worked.
+&gt;&gt; Yeah. And it worked and it worked
+beautifully, right? But it wouldn't
+scale and it would crash and burn all
+the time, multiple times a week. And
+that was our lives in the trenches. The
+hockey stick actually happened. Um yeah,
+everything breaks. Uh and um and we have
+to basically race against time to
+actually figure out what would be the
+next most critical thing that would
+break and how to get ahead of it. And
+one of the thing that drivers always
+tell me even from the interview days is
+you got to see around corner. So I try
+my very best to see around corner this
+that's and one of the first thing I I
+did when the first couple weeks were
+beyond getting the getting to know the
+engineer and build relationship and
+build trust was to start examine what we
+currently have and what we need and
+dispatch was the first thing
+&gt;&gt; without dispatch there is nothing right
+that's where you match the writers and
+and drive
+&gt;&gt; yeah it's it's our matching service
+right when when it has the drivers the
+writers and does the match
+&gt;&gt; that's right and without that there's no
+business right there's
+And so yeah and I I start that was the
+first system I looked at and I asked
+some I I reviewed the architectures I
+reviewed the implementation plan and um
+it was very obvious that wasn't going to
+get scale uh it was a JavaScript it's
+NodeJS and it was a single threaded
+thing and the engineer at the time where
+when the city get larger and larger uh
+they need more out of that piece of code
+to power that city they would move that
+piece of code into a larger machine with
+a faster processor.
+&gt;&gt; Vertical skilling only gets you exactly
+so far.
+&gt;&gt; So my role also is to do thing but also
+to teach people along the way and so I
+would just asking leading question to
+the team and the team only have three
+people three or four people at a time
+and uh so I asked the engineer um okay
+what would happen if the city get larger
+and you have to support that because
+every city is getting larger the ride
+volume is getting larger and larger. Uh
+then entry base said, "Oh, yeah, we just
+we just move it to um a more powerful
+processor and say what happened if you
+get to the fastest process you can." Oh,
+there are multiprocessors and then you
+can get a four-way box and then you can
+put multiple of these processes on them
+and then you say, "Well, you got three
+or four of these things servicing same.
+Do they talk to each other? Do they
+share the same state?" Not really,
+right? So it become very partition. So
+pretty soon by asking those leading
+question, the engineer now discovered a
+flaw that this thing would not scale,
+right? And then and then I had to
+establish the limit of where is the
+brick wall and I basically said what's
+the biggest city uh do we currently have
+in terms of right volume and uh they say
+New York City and I said okay when is
+New York City is going to we can run our
+capacity even handle New York City even
+on the biggest box that we can get our
+hands on it's about October and this was
+around May okay and so it's like well we
+have to rewrite it don't we uh and we
+have to write it in a really scalable
+way And uh and I only have two
+requirement that I all I need. One is a
+city has to be powered by multiple
+boxes.
+&gt;&gt; Yes.
+&gt;&gt; And a box has to power multiple cities.
+That's it. So you can have N byM.
+&gt;&gt; You gave them these two constraints.
+&gt;&gt; No new feature necessary. Just make sure
+that we can do that. And then that allow
+the business the company to just pour a
+whole bunch of hardware behind that and
+it will scale. Technically it will scale
+infinitely right. And so the engineer
+did that and because the requirement is
+very simple uh we have to do it really
+really quickly before we run out of time
+uh run out of runway to survive and uh
+so they did that and we actually
+deployed that right around August
+September right before it actually
+&gt;&gt; and then on to the next problem database
+going to be the next choke point right
+and then the API monolith is going to be
+the next choke point and we keep on
+identifying all these things uh so
+there's all these threat coming at us
+and we have to establish like how much
+runway we have until we like really
+getting serious Star War there's no way
+out and then get ahead of it
+&gt;&gt; and so this was then the reason that we
+had so many rewrites I I joined later
+but rewrites were still continuously
+happening and I think when you come in
+you ask like why could have they not
+written it properly the first time or
+like but but I I guess do I understand
+correctly that it was because a
+sometimes you just build a system to
+solve your problem and and and b you
+don't always know how big this will say
+a good example is the the New York
+problem And then you take those
+constraints and then you build a system
+and then if those things change later
+you might need to build a different
+system.
+&gt;&gt; Yeah. Um it also depends on how fast
+you're growing that dictate how you make
+and because the faster you grow the
+shorter runway you have to survive right
+given whatever architecture and system
+that you currently have. And yeah the
+the the question about how big it can
+possibly grow nobody knows really. But
+it's actually not fruitful to
+pontificate on that. Yeah. It was all
+about um how much time we have to live.
+&gt;&gt; Yeah.
+&gt;&gt; Right.
+&gt;&gt; We don't we hit the brick wall and it's
+no way out. Right. So yeah, and and if
+that time is really short, then don't
+overthink it. Just survive that and give
+yourself enough runway to then live to
+fight another day is what I like to say.
+&gt;&gt; Growing fast like Uber did is a good
+problem to have for startups until it's
+not. And the pain points that come with
+fast growth is a good time to mention
+our season sponsor, Work OS. If you're
+building any SAS, especially an AI
+product, surprisingly, you reach the
+need to build enterprise features like
+SAML edge cases, directory sync, audit
+logs, and all the things enterprise
+customers expect quickly. Building that
+infrastructure yourself takes months.
+Work OS gives you APIs to ship it in
+days. Authentication, SSO, SCIM, Arback,
+audit logs, and more. All designed to
+integrate directly into your product.
+That's why companies like Entrophic,
+OpenAI, and Cursor already run on work
+OS. Skip the rebuild. keep shipping.
+Visit workhaw.com. With this, let's get
+back to Tuan's team rewriting the
+dispatch system and the short breeding
+space that this first rewrite gave them.
+So that's what with dispatch, we knew we
+had to do it very quickly, maybe by
+ourself another 12 months. And after we
+get through that point, then we have
+another 12 months to think about the
+next phase of survival for that team.
+That's why the system need to be
+rewritten several time. Let's say if my
+requirement for the engineer was build a
+system that will scale infinitely to the
+test of time, it might take a year. We
+never get there. We'll die before then.
+&gt;&gt; Yeah. Speaking of of dying before, you
+were given in 2014 a seemingly
+impossible task. Travis told you you
+have two months to launch in China. And
+apparently launching in China was not as
+simple as just like opening your API and
+allowing the firewall. What was that
+project like? I heard it was an
+absolutely manic and crazy project. Can
+you take us back what it was like? Yeah,
+that that was one of the craziest thing
+we've ever done, but it's also one of
+the most amazing thing we've ever done.
+Um, and now explain why so that that is
+so so I remember very very clearly right
+around Christmas time 2020 14. Uh we
+were all hanging out in the the the the
+the
+big room in uh 1455 and Travis made a
+declaration that okay come the new year
+I'm going to light it up and we're going
+to go into China. Okay. And then he
+turned over to me. It's like I want the
+uh and one of the requirement at the
+time was that we have to run our
+services on China soil, right? And data
+center physically there
+&gt;&gt; physical data center needs to be there
+&gt;&gt; until then we kind of dabble in dirt
+water by powering it from from the US.
+Okay. And we have a limit of time um to
+do that but he's going to light it up.
+We're going to do that. And I said he's
+like two months. And I said well that's
+really tough. And he's like why is that?
+because I can go rack all the machine
+and copy the software over and shouldn't
+take more than two months and then I
+have to like explain that it it's not
+that easy because when you do that then
+it work on day one and then the two
+drift and how you going to maintain that
+right we don't have twice the
+engineering team to actually manage two
+different system that deviate
+&gt;&gt; so the right way to do that is you build
+rearchitects whatever you need to do to
+kind of build one system that that can
+be partitioned right so I think there's
+a huge security concern right because
+there are anything that runs over there
+cannot presume to have any level of
+privacies or anything like that. Uh but
+over here we have to protect everything
+right. So we have to build that same
+system that has completely partition of
+data and controls and everything else so
+that yeah nothing bleed across but it
+has to be every time you deploy code you
+have to close everywhere right so you
+have to re rebuild a lot of things and
+uh so I went to the TPM team and asked
+uh the team to actually scope it out and
+I think
+&gt;&gt; TPM technical program manager
+&gt;&gt; technical program manager and um I think
+the best path for us was about six
+months and that was the fastest we can
+even imagine
+I benchmarked with a few of my friends
+in the industry and they kind of laugh
+at me and it's like 18 months minimum
+thing. Uh but you know that was Uber so
+we just like we didn't think too much
+about it. was like well that that um
+let's do that and then driver didn't
+like the the six months so we kind of
+settle around four months right so and
+so
+&gt;&gt; because he didn't like
+&gt;&gt; we just split the difference we didn't
+know anything but we just want to heads
+down and start getting to it and so we
+look at oh what need to change given
+like this is the end u uh goal and the
+requirement and then with everybody
+start getting really busy uh working a
+lot of hours to stop making these
+changes and four months come and we are
+still a month or so short so we slip the
+winter trappers and he's not too happy
+about that but it's fine right and then
+uh five months comes around and we're
+very close but we're not there we're
+about to slip again and so uh it was not
+h definitely not happy then but we
+actually
+talk it out and I said the team feel
+very confident that within a month we
+can launch but he had to give us
+something that mean give us a ability to
+incrementally launch instead of lighting
+all the city in China oper once let let
+us do it in phase right every single
+week we'll launch a number of cities and
+then we're going to do it in a process
+of like a few weeks and then we're done
+with that and he said okay that's
+reasonable but he want the the biggest
+city first and that's Chungdu
+&gt;&gt; so he he agrees to the incremental
+launch but you need to start with the
+biggest
+&gt;&gt; start with the biggest first
+yeah exactly but it it is brilliant
+though you think about it uh I I I
+thought a lot about that you know over
+time and that was the most brilliant
+thing because by doing the hardest thing
+first once you launch that everything
+else is downhill from there the team has
+this swag the team know would go into
+the next set of city with confident had
+we done the traditional way let's start
+with the safest one the smallest one
+first and next one we step it up on the
+surface it seemed like oh it's a very
+good risk control measure but every
+single week we'll be holding our breath
+until it's done it's not done right but
+this time we we did everything we and to
+do the hardest thing first and after
+that it just the routine process
+throughout the rest and that it worked
+out exactly like that and so yeah we got
+it done and a bunch of people were
+really burnt and then they took like a
+month off go to the beach and did
+nothing except stare at the water I know
+some other did that uh but after that
+though we're not fearful of anything we
+did like kind of the impossible and
+&gt;&gt; I I I I talked with a friend at who
+worked at the IT team at the time and
+his job was just to get the servers
+physically set up and he said that
+&gt;&gt; the timeline was so impossible. I think
+they had two weeks from start to finish.
+They had a little bit of time to plan
+but they were on the site. They were
+just and and when I gather the stories
+from the software engineers who worked
+on it, everyone had their own impossible
+task and project and they all thought it
+couldn't not be done and then somehow it
+all came together.
+&gt;&gt; That's right. None of us thought the
+whole thing that could be done, but we
+just got our head down and we just, you
+know, break it apart and just do it one
+step at a time.
+&gt;&gt; And then I think needless to say, but
+the China launch was a massive success.
+Uber started to compete head-on head
+with the leading Chinese provider DD.
+And they were is pretty much head-on
+head uh very intense competition all the
+while competing with the rest of the
+world as well.
+&gt;&gt; That's right. Yeah.
+&gt;&gt; So that that was something incredible.
+That was something incredible and I
+think just the experience having gone
+through that and doing thing that
+initially you didn't think was possible
+just increases everyone's confidence and
+range and and that's what stretching all
+about and I think that there's a saying
+that Travis like to say that sometime
+you have to be willing to redline
+yourself a little bit right and that's
+how you you you prove that you can
+actually do a lot more than you can that
+was the fearlessness of the and the
+risk-taking culture that he won in the
+company in the first place
+&gt;&gt; one thing that Uber has been very very
+well known about from the outside is
+microservices and from the inside one
+thing that uh has been very talked about
+is a program and platform split. Can you
+tell us which one came first and and how
+do we get to as many microservices as we
+did? The program and platform came
+first. Yeah. And microservices came
+later. Um and the platform and and uh
+program platform as an organizing
+structure came first out of necessity.
+When I came in April of uh 2013
+uh we had 40 engineer and three product
+manager.
+&gt;&gt; Yeah.
+&gt;&gt; By the end of that year um we had about
+a 100 engineer and a dozen or so product
+manager. Even at that really small size
+we ground ourselves to a halt with a
+functional or structure. Uh imagine a
+low tone engineer there about up to
+eight or 10 mobile developers uh a
+number of infrastructure engineer and a
+bunch of backend engineer etc etc and um
+five eight people or so at dispatch now
+but every feature that we want to put
+out has to be queued up on mobile
+development bandwidth dispatch bandwidth
+and it become impossible to navigate
+tradeoff because every feature you want
+to do you have to go negotiate with so
+many team right and so then the team
+want to move fast and start to feel that
+friction and complain right away. And
+that's a good thing, right? You know, we
+raised a concern. And so I remember uh
+Travis and Jeff Holden and I saw that
+and we got together for a couple days
+actually and I remember we had uh sticky
+represent a different function
+engineering product designer um and uh
+we put one person name to each of the
+sticky note and then Travis gave a talk
+about what are the most important area
+of the business that he think right and
+at the time they were like 17 area that
+he can think of the the world of Uber
+can cover 17 area turned out to be a lot
+more than that but at the time it was 17
+we didn't have enough to fund 17 we had
+enough to fund seven plus a few more
+right so we fund seven uh with partially
+the next four and that's it and the rest
+can remain empty until we hire more
+people and we fund it and so that was
+the the the the thing but then as part
+of that process we then put sticky note
+onto each of these area has to be a
+cross functional team because we can no
+longer afford to run in no uh yeah cross
+function rather than a functional team.
+&gt;&gt; Yeah, which means that there's like a
+back end, a mobile and whatever else
+they need like a design if they need to
+etc.
+&gt;&gt; That the the concept is that team has to
+have all the skill set necessary to just
+get it done. Whatever they have to do,
+they just go off and they do that.
+Right? So that was the the principle
+behind that decision and then we call
+some of those program and some of them
+platform. So programs are the team that
+build thing that the end user actually
+use and the platform are the thing uh
+that build tools and layer that other uh
+program team use and that was it sort of
+horizontal versus vertical kind of
+thing. So and that's that and and then
+after we define that then we start
+putting the right sticky note onto that
+box and then that's how the first
+version of programming platform came
+about.
+&gt;&gt; And then how did microservices start and
+how did they blossom as much as they
+did? Yeah, again um you know none of us
+wanted to go through that extreme but
+lots of time when you are under a lot of
+pressure and no time to react other than
+just to survive that scale that keep on
+coming at you, you have to make uh
+decision that increase uh speed and
+velocity because speed and velocity
+allow us to build quick enough to
+survive and so um we knew right away
+that the the backend API which is a
+monolith, right, is the thing that will
+prevent prevent speed from happening,
+right? So, we made a declaration
+anything that is new need to be built
+outside of that. Yeah.
+&gt;&gt; As a microser. Okay. And then there's a
+team that's dedicated to decompose that
+that monolith that API monolith into a
+bunch of services.
+&gt;&gt; Yeah. We used to call it API, right? I
+think
+&gt;&gt; that's called API, right? And uh I think
+that project name is called Darwin.
+&gt;&gt; Yes, Darwin. Oh, I remember.
+&gt;&gt; Yeah. And interestingly, had we freeze
+time, that piece of code could be
+decomposed in a matter of 3 to 6 months.
+But it took us 2 years to do that
+because as we peel out a piece of code,
+the business keep on going forward,
+right? These hockey sticks are laying on
+top of each other now as we launch new
+city and happening fast.
+&gt;&gt; New city and new product Uber X.
+&gt;&gt; That's right. Feature has to be added
+on, right? And so the philosophy we all
+operate at the time was no one should be
+blocking anybody else. No one can block
+anybody else. And so when a team that
+need to build a feature and that thing
+hasn't been pulled out of monolith, they
+add to the monolith, right? And then the
+team that pulls it out do the best that
+it can and then we kind of keep chasing
+our own tail until eventually you know
+something get completely pulled out and
+as it happened it bulges up like this
+the monolith right because you pull out
+one thing the remaining stuff grew even
+faster than the stuff that you pull out.
+So the code base get larger and larger
+eventually reach to a certain point when
+it start to come down and that's why it
+took two two years and meanwhile
+everything that is new must be auto
+because we don't keep on adding stuff
+right to to the monolith and so that's
+how it came up to to like you know
+thousands of microservices but that was
+out of necessity so that we can just fan
+out and solve every problem all at once
+and then over time after things
+stabilize and so the business more
+mature and growth is not as violent like
+that anymore uh then the team uh we
+actually have a project called ARC. We
+can look at this stuff and how do we
+clean it all up. So we put like domain
+interfaces on top a whole bunch of
+microservices that are within the same
+domain. It's
+&gt;&gt; it's funny because I remember that
+around like 2016 or so there was a
+published Uber blog post that Uber had
+about 5,000 microservices and I just saw
+about a few months ago Uber published
+another one and they have about 4,500.
+So in that 10 years the number has gone
+slowly gone down right to go down but
+even then right now Uber has so much
+more complexity right yeah it's the
+process what took a little while but
+when yeah the team had to look at
+everything and how do we simplify that
+right and and then to make sense out of
+that the new tool has to be invented by
+us gagger the tracing tool all of that
+stuff and so that be really great tool
+that we open source to
+&gt;&gt; and let's talk about h how and why Uber
+built so much internal tools and also
+open source a bunch of them. Jaker was
+one of them but internally we had
+schemaless a trip data store T channel
+RPC protocol ring pop g spatial placing
+clay service framework you monitor
+observability and there's like hundreds
+of others some of them open some of them
+not
+&gt;&gt; how were you thinking about that like
+does it not seem like a lot of waste for
+us to build this or was it again
+necessity
+&gt;&gt; it was mostly necessity I can't claim
+that every single one of those thing
+were absolutely necessary but all the
+important one were absolutely necessary
+the thing is when when I started
+Uber used pretty much all the open
+source stuff. We use Reddis, we use
+everything, right? Because those the
+engineer there just focus on putting
+together a service that actually move
+cars. But then as we scale uh we keep on
+using uh pushing the boundaries of the
+capability of those um um open source
+stuff and to the breaking point and at
+certain point if we don't invent
+something to power our own need. By the
+way, this is 2013, 14, 15, 16. It's not
+as mature as
+&gt;&gt; we did not have the kind of the big tech
+investment in open source back then.
+There was very little and and mo most of
+the big teams like Google and Facebook,
+they were keeping their inside.
+&gt;&gt; I remember like for example a very
+painful example of that we had to face
+early on was we use Postgress.
+&gt;&gt; All right. and we get to certain scale
+that postquest would randomly fail and
+that take our services down randomly
+without we don't understand it's inside
+the kernel I remember the time where I
+had to go on LinkedIn begging people who
+anybody on LinkedIn that has any
+knowledge of postgrad to be our
+consultant to help us diagnose this
+problem and we spent several weeks and
+during that it was terrifying because I
+don't mind if we think we can do
+something of our own problem it's
+terrifying when we have a major problem
+and we depend on somebody else and we we
+don't know because it's open source
+there's no single person no some single
+company I'll be willing to pay anything
+if someone can give me an answer but
+there was no one right and so that was
+one of the motivator to kind of build
+our own you know data layers and all of
+that stuff as well so that we would use
+this generic database uh and we end up
+using uh my SQL just as table data store
+all the logic on top we have to build
+for our own use right because then we
+control our own state and we only build
+the feature that we really need, right?
+And so that was one of many example and
+eventually we run into other brick wall
+of scaling. I remember in 2015 right
+around the holiday I was taking a
+holiday trip. I had to go to the airport
+and I I took an Uber ride as usual. The
+receipt didn't come for 2 days after
+that, right? Why is that? Things were
+queuing up. We weren't processing things
+enough, right? And so yeah, but that's
+not a dealbreaker for many people
+because they just ride and then receipt
+come later. is fine uh as long as the
+building and all the stuff even when you
+build people late they don't really mind
+that either right but as long as the
+right happened the rest of stuff can be
+processed later but it's still not great
+okay when I dug into it like our data
+processing capability is at capacity
+right so we have to rewrite a bunch of
+stuff and then our cap ability to
+monitor things is reaching a breaking
+point with the open source tool that we
+use so the M3 has to be invented right
+and all of that stuff so we we allow lot
+of we had to do thing because we at the
+scale where we broke all the open source
+stuff that we use
+&gt;&gt; at Uber we did unusual things one of the
+most unusual projects which is where you
+and I met when I joined Uber was called
+internally called Helix it was
+completely writing Uber's app and as I
+understand what happened is Uber's user
+experience was starting to degrade
+because it was really cluttered got a
+bit fed up with it the designer team
+came up with a solution which was a very
+nice and clean UI which kind of the
+engineering team looked at it and it
+would have been a full rewrite And then
+we just did a full rewrite. Back then I
+remember we had a million or two million
+lines of code. We had two or 300 mobile
+engineers working on this. This was a
+massive business and there was an
+extremely tight deadline set. Can you
+take us back on why did we even do this
+&gt;&gt; because from it didn't feel it felt
+existential threat from the inside but
+it was not like uh like a plus versus uh
+versus Facebook existential thing. And
+how did we decide on that short
+deadline?
+&gt;&gt; Yeah. Um it seemed like a recurrent
+theme that keep on coming up was a tight
+deadline, right? Everything we do had a
+tight deadline. It's just it's yeah it
+just that's just how the culture role.
+Um anything we want to do want to do as
+fast as we can. Um but going back to uh
+why Helix um actually Travis has a
+vision right and it's actually not just
+the designer Travis and uh Yuki who was
+the lead designer at the time they pair
+up and they all the storyboard and
+everything else. So he has a vision
+where the current app back then was too
+limiting. Yeah, it's really good. Push a
+button, get a ride, all that stuff. But
+if you want more services to hook in
+other things, right, messaging and all
+these other things as people were
+riding, uh the new architecture allow it
+was much more open, right, to all those
+things. Uh and so that was the the
+vision behind that. And then when we're
+doing that, the aesthetic is really
+important. The icon change and all of
+these things change. Oh, yeah. And so
+but that but that is yeah it's beautiful
+right that's actually Travis and Yuki
+right they were and then of course when
+when that fleshed out to a certain
+amount um then the engineering team the
+mobile team get involved and it's not
+just the mobile engineer the back end
+had to be written to everything
+&gt;&gt; we we we changed from uh the heartbeat
+where every 5 seconds we would pull and
+it was pretty painful to an actual push
+uh push channel
+&gt;&gt; yeah this part with that by by that time
+it's called real time system now right
+yeah it has to change back end has to
+change everything has to change to port
+the new flows and then all that stuff
+and so yeah it it took I don't know 6
+700 engineer all told 7 8 months to
+actually do it then we put it off and it
+still live today it's still on that same
+architecture it was so far well thought
+out it's almost like future proof in
+that design so it's still used today
+it's still beautiful today and if you
+compare that with the previous version
+it actually was definitely the right
+&gt;&gt; yeah and it was scalable user experience
+&gt;&gt; I take no credit in that it's like the
+genius of Travis and Yuki
+&gt;&gt; you every now and then sent emails to
+all of engineering on different things
+and I remember this really really
+emotional email coming from you uh about
+naming.
+&gt;&gt; I see all this and I understand that
+young engineer want to have fun.
+&gt;&gt; We were having fun.
+&gt;&gt; Yeah. And name things in a goofy way. I
+think the trigger for that was a service
+named Mustafa. I have no idea what it
+is. Right. I look at that stuff and and
+by that time we were already very
+complicated, right? And we had to
+onboard new engineer all the time. we
+want builders to ramp up quickly etc etc
+and I can imagine an engineer come in
+here and if all these weird name have no
+context to it uh at the time our tooling
+wasn't that great either right you blame
+didn't come into existence yet right and
+so there's no mapping for people to
+discover what this really mean and then
+those we renaming scheme so I got to the
+point where I'm kind of fed up so I send
+that email out of course you know those
+mass emails sometimes you regret after
+you send it out because it has some
+effect but it didn't really solve
+&gt;&gt; and I I think it very quoted because you
+specifically wrote this is not a Mickey
+Mouse shop.
+&gt;&gt; Exactly. We're not Mickey Mouse. We and
+and yeah, it was uh again it was it was
+a growing up phase for everyone in the
+company. But it was it was my
+frustration at the time was look at at
+this scale inside we got to take
+ourselves seriously. We got to do thing
+better faster and this is not helping.
+Tuan's been talking about improving
+things as the orc scales such as moving
+to a more mature naming policy.
+Introducing new and better approaches as
+the company matures leads us nicely to
+our presenting sponsor stats. Statseig
+built a unified platform that enables
+both experimentation and continuous
+shipping. Built-in experimentation means
+every roll out automatically becomes a
+learning opportunity with proper
+statistical analysis showing you exactly
+how features impact your metrics.
+Feature flags lets you ship continuously
+with confidence, roll out to 10% of
+users, catch issues early, roll back
+instantly if needed. And because it's
+allin-one platform with the same product
+data, teams across your organization can
+collaborate and make datadriven
+decisions. They have a generous free
+tier to get started and pro pricricing
+for teams starts at $150 per month. To
+learn more and get a 30-day enterprise
+trial, go to stats.com/pragmatic.
+With this, let's get back to Tuan. We we
+started to do better names. One other
+thing that was very very unique to Uber
+across the industry and it caused a lot
+of confusion from the outside is Uber
+senior level. For a while Uber had a
+senior engineering level called L5 which
+is common and then at some point you
+were the leadership team cut it into
+two. There was L5A and L5B senior one
+senior 2. Can you talk us about why you
+did that and where did you get the idea
+from?
+&gt;&gt; I did that. I'm I'm not apologize for
+it. I think it was a good move at a
+time. Um and the the the principle was
+we want people to grow right but we have
+a very clear definition and expectation
+of what it is at the staff engineer
+level because we benchmark ourselves to
+all the great company out there Google,
+Facebook and all that
+&gt;&gt; and then I realized that for many
+engineer crossing from senior engineer I
+mean um engineer two pass through the
+senior engineer to get staff it could be
+a fiveyear journey.
+Okay, it's a long time and so I just
+want to break it in two so that people
+get that sense of progress and then also
+not everybody can make it to staff,
+right? But some people it's good enough
+to make it to senior
+&gt;&gt; senior too. Yeah.
+&gt;&gt; And I think that's a benefit. It's not
+right but versus like not doing it and
+everybody kind of just get lost in that
+five year you know journey. Um yeah and
+so that was the the motivation behind
+that. So you saw a problem and then this
+was a solution and it it it worked we
+can say right
+&gt;&gt; it worked for a while right and then
+people were acclimatized to that and
+then they start complaining it's like oh
+why there's two level we need to get the
+staff faster uh and then while I was
+there I held on to that because I was a
+principal and staff is staff compared to
+the best of the industry
+&gt;&gt; u and later on after I left I think it
+got
+&gt;&gt; re they got pushed down L5B is now staff
+everything got pushed down
+&gt;&gt; inflation and I I didn't want to do a
+cytoin inflation thing.
+&gt;&gt; I I I appreciate that. Another email
+that I I remember from you is in 2016
+you sent an email saying you've heard
+the feedback that NGS are unhappy
+because their managers not support them
+and then what you wrote is like we are
+creating an easy internal transfer
+process. You can move teams how how was
+that received and again how did you
+decide that we need to do this? I look
+at um the talent base and I think it is
+best for us to create opportunity for
+people to keep on growing with fresh new
+challenges within the company because if
+we don't do that they would leave the
+company and seek uh and then I thought
+about the next logical step which is hey
+if people come to us and just resign
+they didn't tell us when they interview.
+&gt;&gt; Yeah. And so why the heck do we have
+like these rigorous process when you
+have to ask your manager for permission
+to go to another team. Yeah. Why do we
+make it harder for ourself right when
+our own engineer go from team A to team
+B have to ask for all these uh you know
+permission where they don't have to ask
+if they interview outside. Yeah.
+&gt;&gt; That just doesn't make any sense.
+&gt;&gt; Basically it's easier to interview
+outside or it was easier to interview
+outside.
+&gt;&gt; So that didn't make any sense to me and
+so I said well let's not have that.
+Right. And that also has maybe a good
+side effect where manager now need to be
+incentivized to take care of people
+great develop them grow them you know
+put position the best people into the
+best time for them to grow and then they
+not like to leave their own team right
+if they continue to grow. So there's all
+of that you know that back pressure
+might cause engineer managers to be a
+little bit more responsible too. So that
+was that and I remember that get quite a
+bit of push back because it would be
+pretty radical at the time you but we
+just did it anyway and so that that
+turned out to be the the right thing to
+move right and I would rather people
+trust each other and when an engineer
+want to go they should have a really
+great relationship with their manager
+where they just talk to man hey look I'm
+I'm I want to do this and the manager
+should be generally supportive instead
+of like no you belong to me that kind of
+thing which is the the wrong thing I
+have a saying that I share with you guys
+all the time
+It's not a jail. We can lock anybody
+down, right? Everybody have free will.
+If they want to work, you know,
+somewhere, they should have the ability
+to do that. And uh we should create more
+opportunity and then we also to support
+that. We publish internal job board,
+right? Anything on the outside see we
+see on the inside. So any should be able
+to shop within all the opportunity have
+inside the company and stay with the
+company. And why make it so hard and end
+up leaving the company? That's just a
+silly thing. I remember at Uber in in
+some of the the meetings either all
+hands or team meetings you you gave
+talks that were memorable and one of the
+most memorable I I asked around former
+Uber folks and Charles specifically he
+was on the podcast he told me that his
+most vivid memory of you is this talk or
+or this topic about behaving work in the
+perspective of death. Yeah, I don't
+remember that exact speech but I I do
+have that line of thought in my head all
+the time right and sometimes I would
+share with different audience with
+different context but it is um it's all
+about finding one's you know purpose and
+not take oneself too seriously right if
+you look at uh people the most
+accomplished people don't take
+themselves that seriously right the more
+you know the more you know you don't
+know kind of thing and people who are
+arrogant tend to like not know enough
+yet or they have to all that right so um
+yeah so I always take opportunity to
+remind people to sort of be humble and
+the example I use always is use myself
+right I say look you know when you're in
+an important position people treat you
+really well but don't let that get to
+your head it's not you it's the position
+you hold and I remember saying this like
+the moment I stop being salt
+right And that's always happened, right?
+The the world forget about us, right? So
+the only thing we can really do is in
+any job that we do, do the best that we
+can to help each other to leave a
+lasting positive impression in each
+other. And one day everything ends a job
+end and then I'll get to the mor stuff
+like life even end itself. And so then I
+measure my myself like what is my
+achievement that I will be most proud
+of? And I said, well, when I'm gone, the
+thing I'm most proud of is how many
+people remember how I was good to them
+or helpful to them and for some number
+of years, right? And that is that
+because I can't take anything with me.
+And so live in the moment, be as best as
+you can to everyone and be very as
+constructive as you can and uh and and
+leave a good legacy behind you. So that
+that that was a whole gist of that. It
+it feels to me sometimes there's talk
+about how you can network better and
+grow your network, but sounds like this
+is almost like it's it's not a hack.
+It's just do the work, right?
+&gt;&gt; Do the work and then the right thing
+happen, right? But you can't do the work
+in service of that goal because that's
+very artificial, right? Just be genuine,
+just be yourself, be helpful, be
+constructive, uplift everybody, help
+people along the way, coach you being
+doing it altruistically. And let me tell
+you another angle too which I personally
+experienced over and over again. It's
+not only that other people around the
+industry pull you into good stuff. When
+you pull in and you don't have people to
+support you succeed, you would not you
+would not succeed also. And here is an
+example at at Uber right when I came in
+uh again the engine we talk about very
+very young in experience did not know
+how to build system at scale reliable
+all that stuff and the network that I
+have who really knew how to do that was
+from VMware. You're building system
+software. We're building operating
+system. Right. Rigorous principal level
+engineer all
+&gt;&gt; experience. No like in their sleep they
+can do it. Right.
+&gt;&gt; Right. So when I came in and when I have
+to like um work with the team on
+dispatch I pull in the first engineer
+from Uber to to lean land on that team.
+Right. His name is George. And so he
+there and he work for everybody else or
+uplift everybody there. Right. That and
+then
+&gt;&gt; from VMware.
+&gt;&gt; Yeah. Yeah. Yeah. Yeah. And then when I
+build payment system, let's pull in
+another a few more one. And then when we
+get to build schemalas, it was a Denmark
+team, right? I pulled the top four
+engineer from my VMware team in that I
+moved them down from one floor to the
+next in Denmark.
+&gt;&gt; This is why we had a Denmark office
+which was correct which was one of the
+best infrastructure offices at Uber
+&gt;&gt; and they built schemalist.
+&gt;&gt; They built schemalist. They they built a
+lot of other
+&gt;&gt; right. And so now if I weren't a good
+person doing a good job for them with
+them or what why would they come?
+&gt;&gt; Yeah. They would they wouldn't answer
+the phone.
+&gt;&gt; Yeah. They wouldn't answer the phone,
+right? But every single one that I call
+because I really needed help, they all
+came. Initially they all asked the same
+question. Why taxi company? But when
+they understand that they came, right?
+But they came because they still enjoy
+working with you. Right? There are
+people who work with me for five
+different company over 28 years. And
+that always surprised me and I think
+this is something that people might
+overlook a little bit as they're
+building out offices or I'm talking with
+founders is one thing is where you can
+hire the other thing is where people
+where the good people stay for a long
+time and there's a lot of value in that
+and Denmark kept being very core
+critical infrastructure.
+&gt;&gt; Yeah. core infrastructure software team
+and that's one of the thing we had to
+build at Uber because back then when I
+came in we didn't build infrastructure
+software right we just use existing open
+source stuff right and we built that and
+another thing that I you know uh
+discover along the way is great talents
+are everywhere but you know you have to
+bring opportunity to them
+&gt;&gt; they don't necessarily relocate from
+Denmark to San Francisco right and so
+that's why we end up having nine engine
+offices around the world y because we
+have a lot of work need to be
+We didn't go to other places because of
+cost savings like that. We go there
+because we have need and we have world
+class talent and we just cherry pick the
+worldass talent doesn't matter what size
+it is and Denmark team was small
+compared to team in India etc. But you
+know there would really great talent
+infrastructure and we'd invest on that.
+Lithuana we had amazing DevOp uh team
+and so we just go to where the talent uh
+is and then we bring the great work to
+the great talent and then then we
+establish a structure uh to manage and
+give people first class ownership of the
+problem and then you know everybody is
+kind of equal. At Uber you you talked
+about several times of your three tours
+of duty. Which ones were these?
+&gt;&gt; Yeah. Again, it it come back down to
+purpose. Uh so when I do something, I
+try to be intentional about why am I
+doing something? What's my purpose of
+doing that? And so of course my purpose
+to come into Uber was, hey, let's build
+this business. I just build a tech that
+support the business. And so the first
+couple year, 18 months, 24 months were
+fixing a lot of the broken stuff. Things
+weren't reliable, become more reliable,
+etc., etc. Uh rebuild things. um
+basically just get thing to work and
+work well and then along the way you
+know these things don't end and
+beginning on a particular day it just
+phase in and out right so the phase two
+uh that what I call my second tour of
+duty was scale worldwide scale that was
+China that was massive scales everywhere
+in every dimension uh and so yeah so at
+each of those phase when you're done
+with that phase you ask yourself am I
+still useful do I want to re-up right my
+commitment and energies and everything
+else. And so the first two phase were no
+question, right? We're there to do that.
+And then as phase two were about to wrap
+up, right, uh about 2017, we actually
+kind of stabilized. We're really big
+now. I was actually asking myself that
+question, do am I need it here anymore?
+And I was actually about to wrap it up
+that summer because, you know, at that
+point, we had also another STP that was
+higher. And I think he's really really
+great technically and I can like feel
+very very at peace kind of you know
+there's there's someone who really take
+it on even better cuz the person has
+done even bigger thing at Google right
+yeah and then but that didn't work out
+and then Uber has a really rough year so
+then I have to like sign myself up to
+the third tour of duty which is and what
+is the purpose of that you know help the
+company get through the turbulent years
+and I had no idea at the time when that
+phase would end I just kind of know the
+condition for that to end which is
+whenever the next CEO arrive right and
+then after that whether that person like
+me I like that person or whatever it is
+that's to be decided but that third
+phase I have to stick it through because
+you know we owe it to oursel and we owe
+it to everyone along the way who have
+built Uber to that point right to to get
+through that turbulent phase. So we did
+that and then uh when the new sale come
+in and you know I stayed on until 2020
+&gt;&gt; and then in in so in 2017 I remember it
+was really turbulent. Travis had to step
+down for a while. A group of of I think
+14 people who were Travis's direct
+reports. They took over steering the
+company. You you were one of them. So
+this is the point where you decided that
+if everything would have gone smooth,
+you might have actually just left. But
+you decided to stay on to help the
+company, help the team to help us get
+through. Uber was built by tens of
+thousands of people, right? Past and
+present. The fact that people built
+somewhere and then left before I that's
+so fine. They that work was still in
+there in some way, right? That led to
+that Uber that we have there. And it was
+a really important thing that we all
+built that that many of our lives were.
+And and then just to suck it up, we went
+public, which which which went good. And
+then it it it went okay. And then of
+course CO happened which really hit uh
+Uber and a few months uh later in into
+CO uh you did step down. Why did you
+leave Uber and and why why was the
+timing what it was and what motivated
+you to say okay this is the time to to
+go? Yeah, it it didn't have anything to
+do with co really. it you know I was I'm
+lucky enough to arrive at a point in
+life where money doesn't matter right
+and so then I asked myself why am I
+doing anything if I wake up every day
+and spending x number of hours on doing
+something why would I do that versus
+something else and so it come down to
+three things one is do I really love the
+mission and what I'm doing and the
+second one is do I feel like my being
+anywhere there right is making a really
+big impact. And the third one is am I
+enjoying the company of people I'm
+working with? Right? And if several of
+those dimensions are lacking then at
+some point is not enjoyable in totality
+anymore. Right? Then uh then it come
+down to okay when you wake up and you
+spend 50 hours a week doing something
+where money doesn't matter anymore. Uh I
+live very modestly so it doesn't doesn't
+change anything. So uh then why would I
+do that versus doing some other thing?
+And so I think that was that was the the
+realization at that point where I'm more
+like okay I'm there doing a a big job
+but more or less running things rather
+than you know being very uh much more
+effective and building the company like
+in the early days and so and at that
+point I think it's actually much better
+for other people who take a crack at
+that job again it you know like
+everything ends right and so you have to
+decide yourself at
+&gt;&gt; and it did give opportunity to other
+people right so like and and they did
+pick it up now After Uber, I I remember
+you did an interview uh with a with a
+publication. I think you said that
+you're thinking of retiring or you'll
+see. But then you you were not done. Oh,
+no. You you did other stuff. Kong new
+bank fair. Can can we talk about what
+what what happened? What was your
+thinking? And you never even left for
+for a moment, honestly.
+&gt;&gt; Well, I blame that on CO. So, seriously,
+that one co had everything to do with
+it. Uh so when I left um we had um a
+plan to travel the entire summer because
+my our daughter was between eighth grade
+and ninth grade when she's about to
+enter high school. We had African safari
+plan. We have all the other travel plan.
+&gt;&gt; Everything got shut down. Everything got
+shut down. All the flight get
+cancelceled all the country clothes and
+so we stuck at home. Yeah.
+&gt;&gt; Right. And I don't remember at the time
+where I'm the only one who go to
+supermarket to and then then like very
+very sparse to kind of race through it,
+pick up what you need and you get out
+with all the mass and
+&gt;&gt; yeah and so uh we kind of bored though
+and so I I'm bored so I sit at home and
+we all got on video uh zoom call and uh
+lots of people want to kind of chat with
+me uh to um not surprising and so I took
+a bunch of call and one of them was the
+the founder of coupon and we had really
+great chat and you know it's like hard
+charging person want to get a lot of
+thing done and I I really like that and
+I I think well I'm not doing anything
+here anyway so might as well you know
+make myself useful right again it's
+about how you spend your time and so
+yeah as I did that and I um yeah I I
+joined there and I helped some but I
+learned also a ton because that's also a
+very interesting area right of Amazon
+style logistic and the way coupon does
+it is you talk about 5 hours 6 hours
+delivery
+Wow.
+&gt;&gt; Yeah. You order before midnight and the
+thing show up in your doorstep 5:00 in
+the morning. 5 and I when I was there I
+joined the delivery truck putting
+packages in front of people's home like
+2 3:00 in the morning and it's it's
+brilliant right and all those thing that
+you learn and you you you learn a whole
+bunch of these thing and so yeah it's a
+really great use of time right given the
+circumstances.
+&gt;&gt; Yeah. And then you became was it is it
+an adviser or a board member at Newang?
+&gt;&gt; Uh board member. Yeah. And New Bank is
+for for those that don't know and
+outside of the US or Europe, it is the
+most successful and highest valued non
+US companies, the largest growing bank
+uh in Latin America. It's it's it's
+extreme. It's as it's engineering
+culture. I hear amazing things about
+you're the first person I'm actually
+talking about. So, what what did you
+learn there? And and you're still
+involved, right?
+&gt;&gt; Yeah. Yeah, I'm still involved, but as a
+in a as a board member capacity. Uh and
+for a while I I also took on a more
+active responsibility to mentor the Cto
+right a couple of them.
+&gt;&gt; And so yeah and so I I again it's all
+about being useful. Um we all learn a
+lot in our journey and working with
+really smart people, really motivated
+people younger and impart that knowledge
+and sharing you know what you see and
+advice help people move forward better
+faster and and I find that very
+fulfilling and so so that uh was that
+and the the culture there is very
+vibrant. I mean it remind me of our
+early days Uber when everybody is
+gung-ho hard charging the founders hard
+charging everybody is when I visit there
+uh usually during board meetings uh once
+a year we kind of go down to Brazil uh
+and we will have all hands with the with
+the entire company and sometime I also
+did all hands with the engineing team
+and do AMA style the way we did Uber and
+so it's just very energetic right and
+and there there many factor to their
+phenomenal the success one is like like
+very much like Uber they actually solve
+the right problem at the right time
+&gt;&gt; there's a whole bunch of unbanked
+population before new bank came along
+and they deliver like leapfrog of
+traditional banking just online and the
+app and the experience is beautiful the
+NPS score is through the roof uh and it
+it ultimately it add a lot of value to
+people right live and that's why the
+adoption rate is crazy high right and
+and and so yeah well executed um amazing
+product vision and phenomenal cultures
+and energy and all those factors are
+very common in like great companies and
+we experienced one of those thing at
+Uber too in early days. So it's really
+re-energizing being a part of that
+&gt;&gt; and and and they're doing great and now
+you're the CTO at fair. What made you
+join fair?
+&gt;&gt; I took a couple years off when my
+daughter was finishing high school
+because I figured that time would not
+ever come back when she's gone and she's
+gone now.
+&gt;&gt; What was it the right choice?
+&gt;&gt; Oh, absolutely. I would not take that
+time back. So that
+&gt;&gt; um yeah, I'm so glad.
+&gt;&gt; Yeah, 10th, 11th grade, and 12th grade,
+I get to stay home, drop her off, pick
+her up, cook, you know, hang out
+together, help with college application,
+all of that stuff. And so the the bond
+we had was really cool. And as I was
+thinking about her going to college, I
+was thinking, "Wow, I'm going to have a
+lot of time on my hand, so what should I
+do?"
+&gt;&gt; Here we go again.
+&gt;&gt; Exactly right. And so should I join
+another board, which I was about to. And
+then at the last minute some partner
+Seoya asked me to meet Max uh the CEO of
+there and really liked him very smart
+again all the same characteristic very
+smart uh very hard charging want to all
+the right thing the businesses empower
+you know local you know businesses
+&gt;&gt; can we talk a little bit about that
+because from the outside you know when
+you Google fair and you and I look at it
+it doesn't tell you exactly too much
+feels a
+It is um it is a B2B marketplace right
+between uh big brand wholesalers and
+retailers up. So people buy that and
+then uh stock their storefront and and
+so yeah and so all the traditional
+two-sided marketplace dynamic apply and
+the mission is very similar to our
+mission rub even though we are B toc
+right this is B2B but it's all about
+what can we do to empower local
+businesses to flourish right so to buy
+the right thing to sell through make a
+profit grow that business
+&gt;&gt; so basically this can help small and
+also large businesses to actually just
+like grow their business may may that be
+like
+more successful demand, more demand,
+more supply, all of that stuff, right?
+So, yeah, it's like a really
+&gt;&gt; market place is really fun and very
+complex and so I really like that
+&gt;&gt; and I really when I dig in uh through
+the interview process and everything
+else and again this company moved really
+fast within a week everything was
+finished including my homework
+assignment, right? I have to go and
+present and everything else and so I
+really the company moved really fast. is
+energizing and the culture is super nice
+and super kind, you know, like no
+politics. Everybody's just focused on
+doing the right thing and working with
+each other, taking care of one another.
+So, it's a trifecta. Doesn't matter if
+the company is really big or really
+small, right? But it's got all the
+ingredients. So, I was like, well, maybe
+that's a good place to jump in and help
+out help out.
+&gt;&gt; And can you give us a little context on
+fair in terms of the size of the
+company, the size of the engineering
+team, where the hubs are, what the what
+the work is like? Is it in person? is is
+is it hybrid and so on?
+&gt;&gt; Yeah, the company is about a thousand
+person. The engineing team including the
+data science team combined is about 300
+people. The work we are in the office
+three days a week um yeah three days on
+the week that the other two on um are
+working remotely online for yeah and
+some people show up more if they live
+close to the office. Um yeah uh the
+engineering team uh there's a a portion
+here in SF um just down the street from
+here and uh a large part is in uh Canada
+uh then we have a big office in water
+and we have a big office in uh Toronto.
+So I I make the trip there quite often.
+Every five six week or so I'm over
+there.
+&gt;&gt; And what are some interesting
+engineuring challenges that you're
+excited about right now that you're
+solving? Oh uh right now clearly the
+most exciting thing is AI and how is AI
+changing everything so quickly. Tell me
+h how what what are you seeing what's
+working what's not at you know like in
+on your teams
+&gt;&gt; in my team as well as in the company you
+know we're using AI to boost everyone
+yeah effectiveness and productivities
+and output right and so so that's one
+within the engine specifically we use AI
+to make you know search and
+recommendation better right because the
+whole job is to help people discover
+thing that would sell really well for
+the business and etc and imagine AI as a
+shopping consultant right and all this
+stuff and then coding wise you know AI
+is doing a lot more of of the coding now
+um but we also used uh different
+technique to actually boost uh
+engineering productivity um you have you
+heard like swarm coding
+&gt;&gt; so so swarm coding as an agents
+&gt;&gt; yeah a whole bunch of a swarm of agent
+right
+&gt;&gt; it's it's pretty new so you're already
+using it
+&gt;&gt; so we already using it and we we
+building orchestrator to orchestrate the
+action of all this agent and uh we
+measure the the first the early adopters
+um the and then the the the bulk of the
+engineer follow through after we build
+the the more robust tooling and we see
+dramatic lift in engineering output
+among the early adopter the the one are
+really efficient at thinking this way
+right because it's very different from a
+linear kind of thinking when I write
+this piece of code right now it's almost
+like multi-threaded programming was
+single threaded right you have to think
+about all these other thing you have to
+prompt all the action and then you have
+all this code come back at you and you
+have to review it you sit together.
+Yeah. And it it required a different way
+of thinking and the cognitive load might
+be a little higher but the output is
+dramatic and we have seen our best
+engineer double their output. I I know
+we're talking about that but just to
+make it clear we're talking about not
+the code out but the actual business out
+but the impact of their work right
+&gt;&gt; yeah the impact uh now depend on the the
+evolution of AI right so right now the
+state uh of the art right now is it's
+very easy to make large scale changes
+right clean up and everything else right
+so massive productivity increase now
+we're trying to crack the next frontier
+which is how we get that level of
+productivity increase and output
+building new features on top of a code
+base that are older, right? It's not
+like, oh, you and I can just go build
+something brand new, not entangled with
+anything. It's really fast. The whole
+thing will generate for you, right?
+Yeah. But we got millions of lines of
+code and how do you like deal with that
+and build feature on top with all those,
+you know, dependencies and all that
+stuff, right? Can AI good enough now to
+help us untangle some of those thing
+along the way building new thing and so
+we actually, you know, continues to work
+on that and figure out how we can
+actually continue to boost uh more and
+more productivity out even building new
+feature with AI. How do you think AI
+will change software engineering and
+what a software engineer does and what
+skills we value?
+&gt;&gt; Yeah. Uh it's already changing. I mean
+very rapidly fast. These changes are
+fascinating anything I've ever seen
+including the internet. Right. Back then
+I remember when we first learned how to
+um do programming. We have to know a lot
+about the machine architecture. We have
+to know about virtual memory. We have to
+know and then we have to learn how to
+like syntax and coding. All of that
+stuff been abstracted away now. Right.
+Especially AI. It's like I want X Y and
+Z blah and it should be this way and
+whole thing get constructed right so it
+elevated level the playing field where
+people who don't even know how to
+program can now create good you know
+good decent code and app or whatever it
+is that look on the surface are really
+good. So it is gamechanging right it it
+um it elevates the playing field. Now
+then in that level of of abstraction,
+how do you tell the great engineer from
+the good engineer?
+&gt;&gt; Great question. How do you
+&gt;&gt; Well, from what we see so far, the great
+engineer are still finding way to
+leverage this and accelerate the output
+even more. Then we see the difference
+between the great engineer and an an
+average engineer is still two 3x in
+terms of their capability. They're more
+inquisitive. they're at the bleeding
+edge more, they're more innovative,
+right? And then there are people who
+like, okay, well, here's the tool that
+you give me, I'm going to be two times
+more productive, right? Because I'm
+using this tool. It's great. But the
+great angel continue to break new
+boundaries. And so I think that is still
+available. You can still you can look at
+people and you can see who are the high
+performer versus who are average. So do
+I hear correctly that the with the
+traits that you're seeing in G engineers
+is we didn't mention but it's kind of a
+given the foundations plus curiosity
+plus innovation
+&gt;&gt; fearlessness willing to innovate willing
+to stretch willing to try new things and
+break new ground all of those traits
+that's still exist
+&gt;&gt; interesting if I think back to like just
+the Uber days or your startup days that
+those traits were kind of the traits of
+the
+&gt;&gt; standout that's right those are things
+that make someone outstanding versus
+someone the average
+&gt;&gt; so I guess maybe an advice is like well
+I mean try not like if if you were a
+great engineer before just don't be
+complacent and keep using keep right
+approaching the same way. Right.
+&gt;&gt; Correct. Yeah. Complacency is death. I
+mean like every the world will move
+faster and faster and the moment we
+stand still we are falling behind.
+&gt;&gt; It sounds like if you if if you worked
+at a a fast fast-paced startup before
+which is this is how it works. AI should
+be familiar. Welcome to how it was
+before.
+&gt;&gt; To me it is a incredibly powerful tool
+but in the end it's still a tool
+and you can wield the tool properly. you
+can do extraordinary thing versus you
+just merely use a tool in a mundane way.
+You're not going to be a great stuff.
+&gt;&gt; So we talked about stand out engineers
+in this age. I'd like to talk about
+something that I cannot talk with too
+many things. Standout CTOs. You have now
+been CTO at multiple companies. I I lost
+VP of engineering. You've been at some
+of those high highest engineering
+leadership and at Uber at fair. You've
+you've done an outstanding job as a CTO.
+What is the most important job of CTO?
+&gt;&gt; Yeah, there there are a couple of angle
+to this. One is build a high performance
+team. All right, talent, culture, all of
+that. you know, whatever it is that you
+got to do, put the orc structure, put
+the, you know, uh, develop the talent,
+prune, you know, uh, bad folks out or
+whatever, everything that you need to do
+to make sure that you have really high
+talent density because when you have
+team A, team A will just want to hire
+more A level players and yeah, they just
+intolerant of anybody who's not
+performing, right? So, when you get to
+but you got to get to that concentration
+and then it's kind of just
+self-protecting, if you will, right? And
+then of course you have to create an
+environment where people really trust
+each other and align and work really
+well together, right? Because you put an
+all-star team together doesn't mean they
+work really well. If you don't have like
+a the cultural alignment, right? So that
+organizational side of things I've
+always deeply believe in that if you do
+that one well then good outcome will
+just happen, right? It doesn't matter
+what you want to do, right? They will
+just uh be able to come out with great
+result because we have great talent and
+with great motivation. The other side is
+you have to look in the future and see
+around that corner, right? For example,
+I always think about two years out. What
+does great need to look like? Okay, do
+we have the key, you know, uh ingredient
+if you will, talents and otherwise to
+actually get there, whether it's
+architects, the leadership, whatever,
+right? And what problem are we trying to
+solve? what would a business look like?
+So, you know, uh the famous Wayne
+Gretzky quote is skate to where the puck
+would be. So, you have then to envision
+that future and I would I would share
+this with everyone at every management
+level that when you're in a any level,
+your job is to see a little bit further
+out than your folks, right? Because your
+folks are busy working on the near-term
+things, right? And then you have to see
+because if you don't do that, then no
+one it's your job to actually do that,
+&gt;&gt; right? Well, let's put this to the test
+because right right now is the most so
+many people including me see it's an
+unprecedented time with growth.
+&gt;&gt; How do you look around the corner? What
+do you see around your corner right now?
+Like what will be coming maybe not even
+in two years but even in six months?
+&gt;&gt; Well in 6 months you know we know what
+we need to do. In fact it's too short
+right it's like these are the things
+&gt;&gt; talk about two years. I I I recently
+asked Open AI on what they see in two
+years and they're like oh that's too
+long let's talk six months.
+&gt;&gt; But in context is everything right? for
+them they're trying to reinvent that
+future and sometimes things are changing
+too fast there from that context but
+from fair the business
+&gt;&gt; we know what business result we want to
+drive we know what project we need to
+execute right to me that that's pretty
+much lock and load it just require good
+execution right good adjustment along
+the way to me 18 to 24 months out is my
+job to look at while my team is worrying
+about the six-month uh problem right and
+so for example there are many area that
+we need to clean up right there's the e
+data ecosystem that's been old and you
+know same problem we saw at Uber too you
+know something change upstream break
+thing downstream and how do you really
+clean it up with all this you know older
+you know code base then you know what is
+the next generation of search and
+discovery that are AIdriven right you
+know to look like productivity right how
+can we leverage AI to like double output
+on you know future development right so
+all of these thing what does that future
+need to look like and do we have the
+horsepower and and to get there right in
+terms of expertise uh management and the
+planning all that stuff and so and and
+then if the answer is no then it like
+the next question how do we actually
+position oursel there who do we recruit
+and so that that's the job of the co on
+on the sort of the the non-management
+side
+&gt;&gt; and then finally um what advice would
+you give to a young engineer someone
+let's say 25 years old or a new grad who
+is entering the industry right Now, lots
+of change
+&gt;&gt; for folks who are entering the the
+workforce right now. I have to
+acknowledge it's a very scary time
+because it's very bumpy. Even at our
+company right now, we still bring in uh
+new grad, but it come through our uh
+intern co-op channel, right? Uh we're
+not in the world where we just hire
+massive number of new college grad like
+the old days anymore, right? But if
+great people are still finding
+opportunity, right? That we have a a
+healthy cohort of co-op every single um
+four months that come through, right?
+And the best of the best still get offer
+from us because if we don't hire those
+folks today, what senior engineer will
+we have for yeah years from now, right?
+You have to feed the talent pipeline and
+great people are great people. They will
+learn and grow and
+&gt;&gt; Yeah. And so so that will always the
+opportunity will always be there for
+great talent. So invest in yourself when
+a student you know volunteer doing solve
+hard problem early on. The earlier and
+harder you work early on the better you
+will have in in the in the in the
+future. If you take it too easy right
+now then the road in the future might be
+a little harder. So I think that's the
+key. And then when you enter the
+industry it depend on uh I think career
+phases. I would say the first five 10
+years or so find opportunity where you
+learn the most that push you the most
+because those are the time that you you
+have the most energy to develop your
+skill and ramp up really fast and when
+you get to like senior engineer staff
+engineer range then you know enough to
+be very dangerous in terms of making a
+big impact then seek opportunity where
+you can make a big impact. Maybe a
+smaller company will allow you like a
+you know a bigger stage to actually make
+a huge impact, right? Take some of that
+risk and do that. And that phase should
+be about using what you know and make
+this big impact as you can. And you will
+learn along the way too. And then when
+you get to the next phase where
+hopefully if you're really good, you're
+already at this, you know, principal
+engineer, senior staff or on the
+management side, senior director, VP,
+whatever it is. And then that point you
+learn to give back, right? You learn to
+coach and develop people along the way.
+you'll be leading and responsible for
+you know very big things uh you know
+apply that knowledge to do a really
+great job but also teach and bring other
+people along so different phases you
+should change the priority a little bit
+&gt;&gt; to thank you so much this was a great
+conversation so I hope that everyone be
+um will find this useful
+&gt;&gt; what a conversation so many of these
+stories have not been told before and I
+hope you enjoyed them as much as I did
+the microser story is such a good one
+nobody at Uber planned to have thousands
+of microservices. It happened because
+every time they tried to decompose the
+monolith, the business was growing so
+fast that other teams were adding to it
+faster than the decomposition team could
+pull things out. It took 2 years to do
+something that in isolation would have
+taken 3 to 6 months. Uber had unusually
+violent business growth that resulted in
+unusually fast code growth and
+microservices helped Uber tame its
+growth. But unless you're growing at the
+speed of Uber, you probably will not
+need thousands of microservices. Oh, and
+fun fact, in 2026, Uber has fewer
+microservices than they had in 2016. I
+also found it fascinating how Tuan's
+entire career was shaped by
+relationships he built by simply doing
+great work. Bill Gurley reached out
+about Uber because he remembered Tuan
+from Netgravity, a company from a decade
+earlier that didn't even win his market.
+The engineers Tuan pulled from VMware
+into Uber came because they genuinely
+enjoyed working with him. There was no
+networking strategy. just years of being
+good to people compounding quietly in
+the background. Finally, Tuan's point
+about AI was an interesting one.
+Complacency is death. The traits that
+made someone a great engineer before
+these AI tools: curiosity, fearlessness,
+willingness to try new things are
+exactly the same traits that make
+someone great with AI tools. The tools
+changed. What makes people exceptional
+has not. Do check out the show notes
+below for more deep dives on Uber and
+Uber's engineering culture as covered in
+the pragmatic engineering newsletter and
+podcast. If you've enjoyed this podcast,
+please do subscribe on your favorite
+podcast platform and on YouTube. A
+special thank you if you also leave a
+rating on the show.
