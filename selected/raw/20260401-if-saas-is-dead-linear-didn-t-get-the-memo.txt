@@ -1,0 +1,1536 @@
+原文： https://www.youtube.com/watch?v=8QcW9-dal0g
+
+Everyone will have many agents, and
+companies will build their own agents.
+[music] Linear becomes kind of like a
+system for guiding the agents and like
+building this context.
+&gt;&gt; This is the perfect business for this
+era because it's still SAS. You're the
+one who has this sort of sticky
+interface cuz it's where everyone is
+kicking things off from and where
+they're recording all the information,
+but you don't have to pay for any of the
+actual tokens.
+&gt;&gt; [music]
+&gt;&gt; Karri, welcome to the show. Oh, thanks.
+Thanks for having me. Really, really
+great to finally meet you. You are the
+co-founder and CEO of Linear. Um
+little-known fact, the first time I ran
+into Linear, it was because we were
+using it in 2020 at the very beginning
+of Every to act as our um content
+management system for the newsletter.
+And at the time, it was like
+this very kind of like hush-hush, you
+couldn't get access to it, but everyone
+if you knew you knew um that Linear was
+like amazing.
+And we used it for a while and really
+loved it, but then um we realized it was
+made for software, not publishing
+articles. So, we moved off of it.
+Um but it was really cool while we did
+it. And um I've always like admired the
+the the level of taste and craft that
+you bring to to what you build. And
+also,
+I think the um the level of
+thoughtfulness and patience that you
+built it with.
+Um and I think that's one really
+interesting thing is the
+the way that you built the company
+originally was
+to keep it closed for a while, not raise
+too much money, not put too crazy
+expectations on the company, um and and
+and be patient and willing to build
+something quality over the long term.
+And I think that that's also has
+something to do with how you approached
+AI. Like
+you guys are really in AI right now. Um
+you know, when I think about the
+companies that are uh successfully
+transitioning into this moment that were
+started in the pre-AI era, Linear's
+definitely on that list. You know,
+OpenAI came out with Symphony the other
+day, and the the main thing that it
+hooks into is Linear. And um you you've
+successfully transitioned the product to
+be really agent-native.
+And so, but but like when GPT-3 first
+came out, I didn't see anything about
+about that on Linear. So, I'm sort of
+curious about um
+that transition for you. What was that
+like emotionally to have built this
+product for a particular way of
+working and a particular way of building
+software and then
+see the world change, but maybe not be
+totally sure if like this is this was
+going to be the thing and then
+essentially eventually be like this is
+the thing we need to re-rebuild the
+product or or or change how the product
+works in a significant way. Like talk to
+me about that.
+&gt;&gt; Yeah. Um well, that first of all, thanks
+for being early user. And I think like
+the the thinking [snorts] I think has
+always been the same. It's like we just
+want Linear to be the best product in
+this category and like helping
+companies move move work forward and
+often like build software products. And
+it's like
+in some ways like this new AI stuff like
+it doesn't really like change that
+mission. Like it it kind of like maybe
+even like improves it. And like our goal
+was always that like can Linear take
+more of the burden of like running this
+product teams or like figuring out
+things to do or like figuring out when
+to do them. And and let the product
+teams on the individuals who actually
+build the things. And and now like it's
+also like they build it with AI or the
+AI builds it. So, I think like in some
+ways like the mission for us didn't
+change. Yeah, actually like I think the
+AI is making it better because now we
+can automate more and like take more of
+the burden and let people do it. Uh kind
+of like use their craft or like use
+their like taste or thinking or
+something in it. But yeah, I think like
+we do have like I personally always have
+this problem like a like way of
+addressing problem, which is like I come
+from a design background. So, a lot of
+times my like the way I approach things
+is first I'm trying to understand them.
+So,
+this is sounds kind of obvious, but then
+I think like what happens in the tech
+world a lot of times is like people
+don't try to understand things. They
+often like jump into that like oh, I can
+do this, so I'll do it now. But like did
+you think like should you do it or like
+does it actually help you?
+So, that was kind of like our thinking
+with the early uh AI and and the
+chatbots. Like every company is like
+rushing into this moment as like hey, we
+are now an AI company because we have
+this chatbot integrated. And we we tried
+that too internally. And then we just
+realized this is not really that useful.
+Like how do you actually use like what
+is the workflow where you would actually
+need this or use this? So, we we have
+spent all these like couple years now
+like trying to understand these
+workflows. Like how do people actually
+want to use these things? And like we we
+did
+couple things well though. Like I think
+the the we released this like a agent
+platform. Like so, it's kind of like an
+open platform. It has very good docs.
+And like agents can build the
+integrations themselves using the docs.
+And because of that, we now have
+most of the like the coding agents or
+agents uh out there integrated with
+Linear. And like this this is like
+OpenAI brought their Codex um uh kind of
+like cloud agent in there because we
+just had this available.
+Um so, I think like
+we we kind of saw this world that like I
+don't think there's going to be one
+agent, but they everyone will have many
+agents. And like companies will build
+their own agents, which we're now seeing
+with like Coinbase and Ramp who are our
+customers. And they they built their own
+homegrown coding agents, which then
+integrate with Linear. So, Linear
+becomes kind of like a system for
+guiding the agents and like building
+this context. Um but it doesn't like we
+don't try to own everything in this in
+this world or in this market. We can
+like play with other people like other
+companies, too. So, I think like yeah,
+like their approach was much more like
+how do we like
+understand the workflows? Like what is
+actually valuable? And like what people
+could do use these tools for versus just
+jumping into like well, everyone else is
+doing this this thing, so we should do
+it, too. And by the way, now we are
+adding kind of like a chat interface
+into Linear, but it's a lot more like we
+kind of like there's tools and there's
+skills and there's
+more of like understanding we we gather
+of like how do you should use it? Like
+you can use it to
+kind of synthesize customer requests
+because that's like Linear can handle
+that. Linear is the place for customer
+problems or requests or other things.
+So, now like Linear agent can kind of
+like natively work through those and
+like see patterns or things like that.
+And that's kind of like the we're trying
+to bring like a clarity and context to
+the organization, which they can then
+use as part of their like AI building
+workflows. So, because like I think like
+once the
+AI builds more and executes more, like
+the kind of like the problem we've been
+comes like how do you productively
+harness this? Like in in a good way.
+Like you can you can task like a million
+agents doing something, but like should
+what are those things they should be
+working on? Like
+probably not all of those like if you
+don't think about it, like it it
+probably like a lot of those like work
+work is not necessary that useful. You
+need to have some kind of like
+decision-making progress of a process of
+like is this actually important? Should
+we do this? And like Linear is a way to
+like do that and like build that intent
+and build that context and then go to
+like build it with the agents.
+There's a um interesting
+I don't know if it's a meme or a mind
+virus or what going around right now,
+but the stock market thinks that SAS is
+dead.
+Um and I think you're you're pointing to
+something really interesting, which is
+this dynamic of a couple years ago, a
+lot of companies, including a lot of SAS
+companies, rushing to do chatbots. And I
+think a big part of that is well, we
+know this thing is happening, so we we
+have to at least show that we're doing
+something, you know? And I think that
+the the market is starting to the public
+markets are now starting to to look at
+that and like require that. And I I
+imagine
+um when the AI stuff was coming out and
+you guys were maybe testing AI features,
+but weren't releasing them, I imagine
+there were some pressure maybe from
+investors or from yourself or maybe
+internally to do something.
+Um
+and you kind of it seems like you waited
+until you you you had the fat pitch. Um
+and I I'm curious
+if that if that is true, what that was
+like.
+And what you think it means for, you
+know, all of the public market companies
+all the public market SAS companies that
+are down right now and whose CEOs are
+like well, I guess we really need to
+launch a agent platform or whatever, you
+know?
+Yeah. I mean, I think there was we we
+didn't really have a pressure from the
+investors. Like that's like one benefit
+of picking the right investors. And
+also, like they trust us to like make
+the right calls. And then also, we we
+did obviously did talk about this. But
+then we also like have that discussion
+like we just don't see the value right
+now doing it this way. We need to find
+actual like real value here that
+actually helps these companies. And so,
+I think it wasn't like that bad. There
+was Yeah, there's definitely like
+internal pressure like
+And now I think the the the speed of the
+market has
+picked up a lot. Like every month or
+some like couple weeks, there's
+something changing. And we are like
+tracking those thing changes.
+And kind of like try to see
+where all of this is going. But there's
+also like this it creates a lot of noise
+in the market that
+there's this like oh, now this week
+someone is doing these loops. And then
+the couple weeks later, people are like
+no, the loops are bad idea." And then
+like we we kind of like
+it you shouldn't like I think like those
+things are like signals that you should
+like read and understand, but like you
+also need to know that like
+a lot of this stuff is not tested and
+like a lot of times that people also
+testing these things are not testing it
+in some like large organizational
+context that where things actually
+matter like if if they work or not. And
+so I think there's that like we haven't
+tested all these things, so we can't
+like make these predictions of like how
+things are exactly going to change.
+Um I think on the on the SaaS narrative
+I do think like the it's it's probably
+like directionally correct that you with
+SaaS companies you probably have to like
+as an investor you kind of have to
+there's more
+uncertainty of the future cash flows
+that like because if the landscape is
+changing like you can't expect that
+everything will stay the same. But I
+think like the the narrative is kind of
+simplistic like oh people write code
+their own CRM tools and I don't think
+that's exactly going to happen, but I
+think like what might might happen is
+like there's new companies that come out
+or
+I think like a lot of the public
+companies are not the most like
+I don't know flexible or like the most
+robust solutions out there. They are the
+big solutions that the big companies use
+and there's a certain kind of like
+inertia in there. So like I would say
+that the
+Yeah yeah I think like the public
+companies probably get hit the hardest
+here because they have like
+their modes are kind of like
+disappearing in a way. Um I think even
+for us like we we consider now is like
+we need to live in this day one world
+again where like we can't rely on our
+previous decisions anymore. Like we have
+to like look at these problems like in a
+fresh way that
+like what happens when when these things
+change what happens when the agent come
+into this product development process?
+What are the new problems that come out
+of it and like how do we help that? So
+like we shouldn't be tied into the past
+experience like the past product we have
+but like see like what the future
+product should be. And I think like this
+is harder for large companies and like
+companies that existed for like decades.
+So I don't think it's like a easy task
+and then like I think there growth
+companies or startups can can do it a
+lot better. How big is the team now? Uh
+about 120 total. I think I would say
+like a
+about half of them like 60 people are on
+the product team. And what was that what
+is that transition been like? I assume
+that over the last couple years there
+have been a lot of divided opinions on
+is AI coding really a thing? Is it just
+glorified auto complete? Is it going to
+eliminate programming as a job? Um and
+then
+um how have you how is that change cycle
+been to actually go change your
+workflow, figure out what the new
+programming workflow is like? How how
+did you get the team in shape to do
+that? And um what did you learn in that
+process?
+Yeah I think like there there was there
+was definitely a time in a in a company
+to like
+we had to
+encourage people to use these tools
+more. I think there's always that
+there can be like habits where you
+always like done stuff this way so like
+you you are kind of like less and less
+like interested in like trying new
+tools, but I think like now I'd say like
+the
+probably all of the engineering and and
+sometimes our design and PMs also like
+are now using agent coding or coding
+tools. We don't like track any kind of
+specific to me is like what I joke about
+this sometimes on Twitter like people
+now it's like the the the biggest like
+vanity metric is like how much of your
+code is agent like
+written or how many PRs are you merging?
+And I think like that's like not the
+right metric. It's it's it's it's
+measures yeah like output, but like what
+does that output do? Like it does it
+actually generate value? Is it like
+improving the product? Like you need to
+have like if you're measuring this kind
+of
+metrics you need some kind of
+counterbalances like what is actually
+the quality of this work and like is it
+actually meaningful? And I think like
+that's like
+also I think what's playing out in the
+market is like we have large companies
+that are token sellers and then like
+when when um
+like you have a lot of incentives like
+your business model is like to spend
+more tokens and like things like our
+revenue will be higher and like our
+market share will be higher. So I think
+there's a lot of incentives saying
+people like you should just spend more
+tokens
+and not saying like well you should
+think about things and like spend it
+well.
+Um
+so I think there's
+that again like I think people are like
+maybe looking at it too like
+simplistically or like kind of like oh
+there's a good thing if we just like
+like spend more tokens things will be
+better, but I don't think that's ever
+been the case in
+in building products. Like yeah there's
+some
+some um value in speed and like making
+changes, but then like you should also
+understand any change or addition you
+make like it can also have a negative
+impact. So it's like it's not always
+like activity is always positive like
+sometimes it can be negative too. What
+do you think is a more nuanced metric
+for you know if you're judging how well
+how in this AI world are we? How well
+are we
+um doing our job of figuring out these
+new workflows and adapting to them and
+using them in our own work?
+If you know tokens or number of PRs
+submitted or percentage of agent
+generated code is are not necessarily
+the right metric maybe even in isolation
+maybe they're not the right metrics. Um
+what what do you look at or how do you
+think about it? I mean I think it's
+still the classic metrics of like
+profits or revenue or
+um user like love or some of these
+things are like what you should be
+aiming for. Those seem like lagging
+indicators, right? Yeah they are. Um but
+yeah there isn't like all I think like
+you should still measure like some of
+these things like token usage per person
+or like by a different teams or
+something, but you shouldn't take it as
+a like to the extreme of like this is
+the only metric that matters now. It
+should you should be like using it as a
+signal that like are we doing something?
+And then think like well
+is our product actually improving? Like
+do we have any indication of this
+product is actually improving? Like do
+we get comments on the new features? Are
+the is there less bugs? And like I think
+bugs is actually like really measurable
+metric if you if you run like honest bug
+tracking program process where you
+actually track bugs.
+And then I think like now I almost feel
+like
+with the agent agents and and AIs almost
+like
+why do you even have bugs in your
+product? Like you should be like there's
+no excuse for it anymore. And like
+internally we have the zero bugs uh
+policy which is like we have a linear
+team triage and like any bugs go there.
+Then there's a one week SLA that every
+bug bug needs to be fixed. And then now
+I think with the coding agents
+the coding agents actually can do the
+first pass on it and then like once it's
+done the fix it will
+kind of like attack the engineer on it
+and the engineer maybe doesn't like it
+or is there some like changes he they
+they want to make they can do it also
+now inside Linear and they can review
+the code in Linear. So there's this like
+very good workflow with for now, but I
+think like it's it's still starts from
+the fact that like do we
+care if we our
+product is buggy or not? And like we
+have made the choice like we think it's
+bugs are like
+kind of like
+bad things or mistakes and like we
+should fix them as as quickly as we can
+and that's like a priority to everyone.
+Um so I think it's still like
+it's still a choice if you like care
+about the quality of the output or you
+are just wanting like more of the
+output. What are the ways that um these
+tools have changed your product building
+workflow both both personally as and as
+an organ what are the most effective
+ones that might be surprising?
+Hm.
+&gt;&gt; [sighs]
+&gt;&gt; Yeah I think like on on the product side
+I think it's definitely a lot better.
+Like I think it's
+I have with with Linear now I have this
+like skill where it's like I I fed some
+of our internal docs and
+um blog posts about like how we think
+about product development and made this
+like a Linear way skill. And then like
+it it writes soon as I I tell it like
+okay like look at this
+like help me understand this like
+feature request. Like we have this we
+collect these feature requests and and
+inside Linear and then like for example
+there is a request like multiple
+assignees per issue. It's like requested
+by lots of people like hundreds of
+people. And so I can kind of like tell
+it to go synthesize like help me
+understand like what are the different
+reasons people want it. Like I don't
+want so it it's kind of starts with like
+explaining the
+problem like trying to understand the
+core problem which is usually what I
+want to know. It's like so this helps me
+like
+when I when I see a new request I might
+go into Linear and say like oh like do
+we have this kind of request already?
+And then help me understand it. And then
+like it helps me kind of like give an
+understanding like which then like helps
+me like potentially like should we
+actually tackle this now or is there
+something we could do later or maybe
+never?
+So there's that like
+before we start building anything is
+like it's helping me kind of like
+understand the problem and like in a
+very quick way. Like I don't have to
+like go ask around or like find people
+to do it for me.
+On the design front I actually don't
+personally use it much. I I actually
+like the manual design process. Like I I
+still have Figma open and then when I
+have a
+problem or idea I I just draw it in
+there. And it to me it's like
+I'm often like my work is often more
+like that kind of like exploring things.
+So I actually don't think the speed
+really helps there. Like I I actually
+like the slowness of the manual thing.
+Like you draw things manually. Every
+time you draw something, you have to
+kind of like
+check on yourself. It's like, why am I
+doing like why am I drawing it this way
+or like should I draw it different way?
+But then like the broader team when the
+design team when they they work on
+problems, I think now they are building
+a lot more like prototypes and we have
+this quite robust like
+build system, so you can you can
+actually build it into the like you can
+make a PR and then it will run
+the build and you get the preview link
+to the build and then you can use it
+live in the
+in the product. So it it helps the
+testing it uh or the prototyping stage
+of it. But I I still don't tell the
+designers to I kind of explore more
+freely in in Figma first or wherever and
+like try to think about how do you how
+do you approach the problem not just
+like let's just jump into doing it. Like
+there's projects like that too where
+it's very clear what needs to be done.
+But then if it's like a bigger project,
+I think like they should still spend
+that time. And then yeah, like
+engineering side is probably similar to
+a lot of other ones that were
+we can kind of like fix problems a lot
+faster uh once we identify them and like
+decide to do it. Um we use a Slack a lot
+and like with our Slack agent like we
+have a discussions and then we
+eventually decide like yeah, we should
+do this and then we just tackle in there
+and there saying like, "Hey, can you
+create issues out of this conversation?"
+And then we'll do it and
+so it it helps us like track come back
+to it later and like actually make it
+actionable right away versus like oh, we
+need to have a meeting and then we start
+a project and then we start like
+assigning people. So I think there's
+like
+I I think it's kind of like I I would
+say like kind of like the pattern in all
+of those things is like it's shortening
+the some kind of loop there
+and like making it faster. Like you can
+do the thing right away versus like
+waiting
+waiting for like I don't know, next week
+or some other time to do it like you
+it's it's very little effort to do it
+right away.
+Which is interestingly
+sometimes it seems like you're the exact
+opposite of your preferred
+outlook. You know, actually we shouldn't
+do things faster. Actually, we should
+take things a little bit slower.
+Um
+how does having tools that make you go
+much faster
+interact with that outlook?
+Yeah, and I think it's a good point. I
+think it's I think it's more like
+I think like we shouldn't go fast and
+like deciding things or or just like
+kind of like speed running the decisions
+or like not even doing the decisions.
+Like I think there's this
+some people do it there where they just
+like have an idea then they build it and
+now we are like now we are all looking
+at this idea that no one really know why
+it exists and like should we even do it?
+And it's like it's it's a
+every new prototype or idea can kind of
+like seem useful
+but then like you now like don't have
+like a good way of like
+framing it's like how useful this is
+versus other things. Like should we
+spend the time actually like now
+committing on this idea cuz we already
+had like kind of decided on this some of
+the other ideas. So I think there's this
+like danger of like you don't have some
+kind of like
+decision
+making
+uh way. We don't have like a lot of
+processes in in in linear, but it's more
+like we want to commit on this. Like
+once we commit on the thing or the fix
+or the project then I want it to improve
+fast. Like I want the loop to be faster
+actually work on the problem.
+But I don't want the problem
+finding to be fast. Like you should take
+the time to find the right problem and
+like the right approach for the problem
+and then once you decide that then you
+can go faster on it.
+Here's a simple test for whether your AI
+is actually ready for production. Would
+you stake a business decision on what it
+just told you? If the answer is not yet,
+you're not alone. The gap is in
+capability because AI can do a lot. It's
+really about trust. You can't [music]
+verify the output of the AI, you can't
+trace its reasoning, and nobody with
+real domain expertise has touched it.
+Dialect is a new system from Scale AI
+that captures how enterprises make
+decisions and closes that gap. It puts
+your actual experts in the loop, aka the
+people with years of institutional
+knowledge, and encodes their judgment
+into your AI systems. Every correction,
+every override comes with full context.
+It's actually really interesting. So the
+next time your AI makes a call, there's
+an expert's reasoning behind it. That's
+how you go from a cool AI demo to an AI
+system you can trust. Visit
+scl.ai/dialect.
+That's scl.ai/dialect
+to learn more. [music] While I'm doing
+that, back to the episode.
+One thing that
+what you're saying makes me feel is
+I totally get that approach and also for
+myself as a product builder, I often
+don't know what I'm doing until I do it
+and I can't think it through until I've
+done like five different things that I
+can't explain and then I'm like, "Okay,
+here's the thing and I understand it."
+Is is what you're saying different from
+that or is it the same just like said
+differently?
+Uh maybe it's different, but I I can see
+that workflow. I I feel like that
+workflow is kind of like
+like kind of like understanding. Like
+you're trying to understand like what
+you're doing and Yeah, it's building
+it's like making things as
+understanding.
+And I think that's fine. I I think the
+the problem there is this becomes like
+sometimes it's like
+you kind of like don't know are you
+I think I conceptual work sometimes like
+in design I consider this like a
+conceptual work where it's like the
+output of this is a concept. Like it
+it's not like a
+like we just shouldn't deliver this
+necessarily, but this is like a like I
+made this like I went through this
+process of understanding this problem
+and like I have a concept for it or like
+I have What's an example? Cuz I would
+assume that the output of a design
+process would be Figma, you know, a
+Figma that I you could export. So what's
+an example of a concept that comes out
+of a design process?
+Well, I I think like in in the past like
+in a large companies, I've used the
+concept term to like not to scare
+people. So usually it's like
+like rethinking some area completely and
+that's like a concept. Like it's not
+like it's like a concept car. So it's
+like this car won't go into production,
+but here's some ideas that could
+influence the next car. So it's like
+you're trying to like
+like sometimes people
+I don't know. It's it This is like
+partly like a large company thing, but I
+think it can happen in small companies
+too is that
+once you see like something like very
+different
+your like fears might start
+coming up. Like well, if we change this
+like what else going to happen like what
+is going to happen? What's what's going
+to break? But the point is like not
+right now to decide that. Like we we
+just decide like does this concept like
+this new idea have merit? And like can
+we like
+do we do we think it's like important
+enough for something to like take it
+further and then deal with the like the
+problems later. So it's kind of like you
+you kind of like trying to divide like
+the decision like what which decisions
+you are making now. And like I I've used
+it yeah, like in in our company in our
+companies I I just like completely
+rework a surface and say like, "Hey, I
+think the project should look like
+this." Like which is completely
+different from what it currently is and
+then people are like, "Oh, that's
+actually interesting." Or they're like,
+"Well, it won't work for this and that."
+And then I'm I'm like, "Okay, that's
+fine." And it's like it's a way to like
+and then it's it's maybe like a Figma
+design or a prototype. So
+it's just like
+I I think there's
+like even with all this tooling like the
+output shouldn't always be like we ship
+something.
+Like it it sometimes the output can be
+something internal that like, "Hey, we
+just now we have a like a better
+understanding of this problem. We can
+like tackle it better and like we can
+actually make it into a shippable
+thing." But like we first try to like
+think about it before doing it. Right.
+And and to you thinking about it can
+include building stuff. It's just the
+reason you're building stuff is not to
+ship it the next day, it's to understand
+it better. But thinking can be
+designing, it can be writing, it can be,
+you know, talking about it, that kind of
+stuff. Yeah, and and I I'm something
+like I did have to share with the
+company recently was that I like we
+always care about the quality bar a lot,
+but I think like um and like kind of
+like this thinking process of like are
+we doing the right thing? It's kind of
+like what we are trying to like
+uh like decide.
+Sometimes now with AI, it's actually
+like hard to tell. Like it's it's kind
+of like
+if the tooling changes all the time,
+like people like the the the LLMs are
+not deterministic anyway. Like you know
+as no like
+like how useful this thing could be. And
+then there's a moment you just have to
+decide like, "Yeah, I think we should
+obviously we can try this internally,
+but we also need to try it with
+customers." And you kind of like put it
+into some kind of beta or something.
+That that So I think like there's
+definitely nuance to this right now that
+there are situations where you just like
+and uh it's always with product
+building. There's a limit how much you
+can like think about it inside your
+company until you need to actually put
+it somewhere to someone else to use and
+then you learn from that use case. Um
+but again like it's it's more like every
+stage you kind of have like some kind of
+goal in mind. Like
+now we if we put it to beta, like the
+the the the the goal should be like
+understand the workflows and how people
+use it and how they want it to be better
+not to like something else. Like not to
+try to ship it as fast as we can or
+something. Like
+we should be honest about like what is
+the actual
+goal for for this stage.
+&gt;&gt; [sighs and gasps]
+&gt;&gt; So we've talked about how AI has changed
+your internal workflow. I'm also curious
+how it has changed your product strategy
+and how you think about building
+products not like the actual work of
+building products, but what kind of
+product to build and what for example
+should you let AI agents uh connect into
+your product, which I know you've done,
+versus build your own AI
+like into the core feature. Should you
+have both?
+What should they be able to do? Like
+yeah, how does it affect your your
+product strategy and your vision for
+what a good product is? Yeah, I mean I
+would say like
+we are now adding agent like linear
+agent that can like has context of their
+work and that context of the
+organization and the products you build.
+Um that you can use in different ways
+and they're like the PM workflows. Um
+you can also like as a designer use it
+that the way to like understand the
+problems and and then we will also do
+like a coding agent where you can
+actually like
+start like writing code with the agent
+Interesting. it will
+you can see the diffs online. So it's
+kind of like a cloud
+conductor and environment where you can
+kind of like see the changes and then
+you can kind of you can guide it. And
+then we think like
+the
+the the strategy as a whole
+definitely like change and we are just
+trying to like like understand like what
+are the problems that of today. We think
+like
+one of the things is like what is
+changing is that I think historically
+people thought like issue tracking is
+this
+kind of like a
+like it's like a ticketing system for
+the kitchen like and like but
+engineering. So it's like order comes in
+like someone orders fish. So now that
+fish goes into the kitchen, there's a
+ticket like make fish. And that's like
+kind of like people about issue tracking
+and like we kind of never thought about
+it that way. Like for us like linear is
+more like the backbone we rely on like
+collecting signals and collecting
+problems or collecting decisions like we
+should do this thing. So I think like I
+think there's definitely like shift we
+have to like teach people like these
+products is really a meant to like
+improve your team's workflow not to be
+this kind of like a weird ticketing
+system for your like different parts of
+your organization. And that's kind of
+like
+probably like going away like with the
+agent. So like you don't need that
+anymore. Like the agent can do those
+tickets and like they can also like
+complete them.
+But like we we think like there's still
+value of like like collecting that
+context and like the make make the
+shaping the work something actionable
+and providing agents like
+good context from the from the
+environment.
+But the
+the one lesson we learned with the
+uh
+with with the agents is that it's it's
+it's tough when we are not ourselves in
+control of it. Like it's it's like we do
+want to like support all companies and
+all agents as much as we can
+but then if we have ideas for it, we
+can't do it. Like it's it's on them to
+do it. So so now like one of the reason
+we are doing this coding agent is like
+we actually think we see this like a lot
+more smoother end-to-end workflow where
+you start your
+you don't have to do everything but you
+start some of your task in linear as
+like you you can ask the agent like hey,
+does this thing exist already? Or if
+not, make an issue, make like a work
+stream out of it. And then like start
+working on it and then start like
+writing the code and then you can like
+diff see the diffs coming in, you can
+like review it and you can like merge
+it. Or like you can see the prototypes.
+So it's just like trying to like
+one of the problems I see like when I
+use this like
+I cloud or
+chat GPT or some of these tools or codex
+is that like I have to really explicitly
+tell the agent or like the tool always
+like what like what context to bring.
+And then I think the value with linear
+is like the context lives there.
+And then if we kind of inject it like
+smartly part of the the work stream,
+it's like much more like
+like natural like we can design the flow
+that like makes sense and we don't like
+spam the spam the context windows or
+um and I think we we see this future as
+like you probably have this
+linear is kind of like the
+the multiplier or the the organizational
+context of what's happening in the
+product and what what is potential
+future state of it. You might still run
+local agents but there's situations
+where
+like you should just automate some of
+the like bug fixes or you should
+automate
+the small task and like just do it in
+linear and then like kind of like let it
+run in the background while in a sandbox
+while you like run your own work in in
+your own computer or somewhere.
+That's really interesting.
+Um
+I think for a product strategy
+perspective I'm really curious about the
+decision to integrate your own agents
+because I'm before we did this
+interview, I didn't know about the
+linear agent and I was sort of sitting
+here thinking, wow, this is the perfect
+business for this era because it's still
+SAS.
+There's no AI token costs but it is the
+place where you control all of the AI.
+So all the other companies have to deal
+with all the other coding agents and
+whatever have to deal with all the token
+costs open AI and anthropic and whatever
+but you're the one who has the sort of
+sticky interface cuz it's where everyone
+is kicking things off from and where
+they're recording all the all the
+information.
+But you don't have to pay for any of the
+actual tokens. Um and it sounds like
+you're adding it adding a layer where
+you will have to pay for the tokens and
+and you you may prefer that and I think
+the reason you're saying is because
+a tighter integration between the two
+means you can do more interesting more
+powerful things.
+How did you think about that from a
+business perspective?
+You know, changing your margin profile
+that much. I assume
+you know, I don't know I don't I I don't
+know off the top of my head how much
+linear costs a month but I assume
+there's a lot of interesting discussion
+there about how adding in token costs
+change the business model.
+Yeah, I mean like honestly I think it's
+something like we'll have to see like in
+the future more. We definitely thought
+about it and like have some like
+calculations or thinking on it. I think
+on a coding agents like we we do have to
+offer like usage based billing because
+it's going to get very expensive. On the
+basic like linear agent functionality
+that's like answers questions for you,
+it's like that's that should be more
+like included into the
+into the system and like we we'll have a
+lot more like we we'll have to see like
+how much the usage actually is but like
+in in linear it's still always going to
+be like this like fairly focused
+platform for like certain kind of
+things. Like you shouldn't be running
+random things here. Like I I think like
+it should be still like pretty like
+clear what you should be doing inside
+linear and like what what what kind of
+like workflows are you running there or
+workloads. Um so we we're not trying to
+like build this like very generic like
+agent platform. It's it's it's just like
+a more like the
+product context or the product memory
+platform where you can integrate those
+agents and you can use linear agents
+from other tools too or you can bring
+other tools into linear. So it's it's
+just like a way to like work around your
+product and it's kind of like a API into
+the product thinking versus like um
+using like more of the like normal tools
+where it's like you always have to like
+tell it to like go fetch this thing, go
+find this thing cuz it doesn't have any
+understanding like what are you
+generally do or like what what kind of
+like
+context that might be existing already.
+Can we see a demo? I'd love to see it.
+Um yeah.
+Um
+Is that is the screen sharing okay?
+Uh yes.
+All right. Yeah, so what we got have
+coming up like this is actually my like
+real linear instance and like what what
+we have come up is like we do have like
+now [clears throat]
+if you do a new tab inside linear that
+would be like with the classic box of
+like what do you want to do?
+There's also like this other interface
+where you can like if you are inside
+some context like a project or
+something, you can kind of like do the
+the work there.
+But like for example the one um
+we will have skills and these skills we
+we will have guidance like
+organizational guidance and a personal
+guidance and you can have skill like
+personal skills or organizational
+skills.
+So for example like what I was
+mentioning earlier is that sometimes I
+want to understand problems. So
+so um
+I want to like
+understand this problem of like multiple
+assignees. So I I made the skill which
+is like
+essentially like um
+um
+I I fed fed some materials from our blog
+and then it's like
+act like a linear product teammate and
+and then it's it's has this format of
+like it starts with the underlying need
+and it has this like way it goes through
+the problem. Um and I so I made this to
+I kind of like
+um help my workflow like some of the
+just quickly I'm trying to understand
+sometimes this feature request. So I can
+like do it like uh
+Well, let's do the multiple workspaces.
+So so we have this like
+collection of of stuff about like
+multiple workspaces and then
+it can kind of like
+go through there. There's like probably
+like many different requests and then
+like it will
+try to start
+um
+thinking through it. It will look into
+the customer activities. It will look
+through different things. Um
+What model is it under the hood?
+I did
+I think we'll eventually have a lot of
+multiple models but now we use Claude
+Claude for this.
+Sonnet or Opus?
+Sonnet, actually. No.
+Um
+So it starts going through and it's like
+okay like there's a
+it it's it's there's a real need but the
+uh
+it's like more complicated than it
+sounds. So,
+so companies maybe want this like
+multiple workspaces for different
+reasons. And I think like my
+understanding generally is that
+they they want like a one place to have
+this like billing and governance, but
+then they might have multiple different
+divisions in a company.
+And so it's it's not
+they would want to like divide the the
+workspace more,
+but um
+they they might still have some kind of
+like overarching control.
+So it goes through there the kind of
+like trying to like explain like what is
+what is missing and like what is good
+about it. It also like makes this like
+few recommendations of the product
+direction. So I do this or that and
+that. So it's like it helps to like kind
+of like make this something that is like
+quite like not like I don't know
+complicated into some kind of like
+actionable thing and like I can we can
+talk about this as a team or something.
+Um
+But similarly like more like a micro
+example is that like
+if if there is like a I I want to make a
+new theme like
+um
+new dark theme. Um what's a theme? Uh
+themes are just like in our app like so
+you can have like a themes
+&gt;&gt; a okay got it. Yeah yeah like a the way
+it looks for the way it looks. Yeah
+yeah. So maybe I want to create a new
+version of a like a dark theme like make
+it just black.
+So I can now task task like I like a
+coding agent on it.
+And uh it should
+start like looking into it can look into
+the code base and you can try to
+understand the code base obviously and
+then um at first it's like it's turning
+it into an issue and then like
+allocating into
+uh
+into an issue.
+So so I created this issue. It's in
+progress. It's allocated to linear and
+then now like linear starts working on
+it.
+There's a it's spinning up the um
+the sandbox for it.
+And like I think the pro like kind of
+the one of the benefit of an issue is
+like now people know I'm like doing
+this. So the team knows I'm doing this
+and I can say like hey Non like
+FYI I'm like I'm doing this. So like he
+can also come here to look at this like
+what is happening like and then the
+thing is like this
+agent session is visible to everyone. So
+it's visible to me and to him. So I can
+call like once it's
+it will take a while, but what once it's
+like does it like we can both jump into
+this chat
+and tweak it together if we want to or
+just like kind of see what happened
+here.
+So it's like similar to like what you do
+on your computer, but then now it's like
+kind of like happening in a shared
+context and there's more like a an
+understanding like where did this come
+from? Okay, it came from me.
+It this could come from a customer like
+discussion or
+&gt;&gt; context is interesting. Like so so two
+people can be in the same chat? Yeah.
+So I don't
+&gt;&gt; That's really cool. Yeah, I don't have
+Non to ready to demo this, but like we
+did have this like instance kind of like
+accidentally we noticed this like this
+is actually useful sometimes is that
+um it
+uh
+Non who's our head of product and like
+Connor who's our head of design, they
+both like were working on some tweaks on
+the inbox. So they they could kind of go
+back and forth like a PM and a designer
+could go back and forth like no it's
+like it's not quite right like let's fix
+this thing. And then they could both
+like see the kind of like the
+the the preview link. Uh let's see if I
+have
+something here.
+Okay, so there's like one like my
+previous pull request. So we will have
+like pull request here. You can kind of
+see the activity, but you can also see
+the code. So you you you see the code
+diffs and then
+if you want to like comment on it or you
+want to like work on this code with the
+agents like no this is not not right
+like and then I can like work on it. And
+similar workflow works for like code
+reviews where engineer might come in and
+say like this is not right. They could
+just task the agent to like fix it
+versus like saying
+like telling the other engineer to fix
+it. So I think it's like kind of
+collapses the collaboration loop a lot
+more
+um and allows like
+multiple people use the agents to work
+on one thing.
+Um and then like here
+this is only like a back end change. So
+there's no like
+client review I can do, but if I had if
+this would be a client facing thing, I
+could kind of like open the preview link
+and then like actually see like how does
+it look live. That's interesting.
+But yeah, those are yeah a few things
+we're we're like adding.
+I'm curious about this
+One interesting thing about this is it
+seems to
+increase the surface area of the product
+a lot. It's about a lot of different
+things
+that already exist to some degree
+somewhere else. And obviously there are
+things that you can do differently. So
+you can have multiple people in a chat.
+You can
+um it's it's more plugged into linear
+more generally, but um you you kind of
+have to recreate a lot of stuff that's
+already being built by a lot of other
+companies. So how do you think about
+that and the tradeoffs of that and doing
+that well
+especially entering something like AI
+coding where all the big companies are
+just like going as hard and as fast as
+they can to build AI coding agents.
+Yeah, I think that there's definitely
+the question we keep need to keep asking
+ourselves like what is our advantage or
+like unique advantage here? And I think
+like we
+I think like honestly like I don't think
+we will solve all the different coding
+needs, but like we don't necessarily
+also have to. Like I think it's it's
+what we see the value is this kind of
+like sitting upstream where the work is
+coming from.
+There's like really like good leverage
+there that we can offer to companies
+where it's like work comes in or bugs
+come in, they automatically get spawned
+into agents like like given delegated to
+the agents. Like engineers never even
+see them or like if they see them, they
+see them like once there's like a fix
+already being built. And so it doesn't
+like maybe work for all kinds of
+situations. It's like it's not like it's
+not the agents like you go to like hey
+build me a new product. Like we don't
+think that's like where we should be
+like working in. It's more like you have
+a large company. You have a lot of
+things requested from you. A lot of bugs
+filed in. Like how do we like reduce
+that workflow for you like
+automatically? And then yeah, you can
+use the other coding agents to do other
+kinds of work, but this is like where we
+kind of focus on. Um that's really
+interesting. But then like yeah,
+generally we've been thinking about the
+problems like we don't want to be a kit
+kitchen sink product like we do
+everything for everyone and like
+sometimes companies end up in the state
+because you have the enterprise buyers
+and you have the checklist and then like
+you just need to like get the check mark
+into the right spot on the checklist and
+it it we don't think it's that the those
+things like don't create like a good
+product experience.
+So the way we always thought about it
+and
+built the products is like we try to
+feel like what is like a net natural
+next step in this workflow? So
+like
+if we go from an issue, like it's it's
+like yeah some like the natural next
+step is like someone needs to fix this.
+And so like how do we help people to fix
+it faster? So one option is like we do
+this cloud agents and then you they can
+fix it. But now the cloud agents does
+the stuff like how do you know it's like
+good? So then then you need to receive
+the code like you need to see the diffs
+and like you need to run the builds and
+like whatever. So
+it's it's like we are more always
+focused on the workflow and how do we
+like improve it? Like how do we make the
+make the
+kind of like help companies to output
+better and faster
+versus trying to like own every surface.
+So we don't have to own like every piece
+of the surfaces, but like we we are kind
+of like trying to
+find this optimized workflow for people
+to do certain kind of like product
+things.
+So we're almost out of time. My last
+question for you is
+if you had to project how product
+development will change
+over the next five years let's say. What
+will be what will be different?
+And also what will be the same?
+I think the the one difference I I think
+there's going to be more of this like
+self-driving aspects of like you can set
+up
+some kind of rules or guidance and we
+even like are building something like
+around like a project memory or like a
+like so like you could have like a like
+a common workflow what we do is like we
+have projects going on. It's like a
+project is often like a feature of part
+of the interface or part of the part of
+the product. And then like we have a lot
+of like feedback and request and things
+coming in. I think there's opportunities
+like turn that into like more like the
+the the product or that feature is it's
+it's kind of like an agent itself and it
+kind of like tries to make decisions
+based on the input it it creates. And
+then it it can still have like maybe ask
+a certain amount of input, but it could
+run automatically. It's like hey like
+these kind of I'm seeing these patterns
+and these patterns point into this
+solution and this solution seems to be
+like potentially something that works
+for people and I built the made a
+build. I sent it to some customers and
+they say it's good the feedback is good.
+So it's it's kind of like it gives you
+like it does things on its own based on
+some kind of context and like a rule
+based system or like a some some kind of
+guidance.
+And then I I I do think like
+the thing I'm still like I think people
+should still think even in this world
+where agents do some of the thinking and
+like does run automatically to some
+degree, I do think like it makes
+people have to be like what lot more
+explicit like what do they want or like
+how do it like what is worth doing and
+like what are the areas we should be
+doing and
+I I think it's
+So there I think like a lot of this like
+still like
+humans having meetings or discussions or
+writing issues or writing documents. I
+think it's like reading documents like
+there there's still going to be like a
+place where humans need to like
+understand the stuff too. Like you can't
+just outsource the thinking purely to to
+the AI agents. Um
+and and but like you should like the
+more you can clarify your own thinking
+and the strategy or something the better
+it's for your team but also it's the
+better it is for the agents too because
+then like you can codify some of those
+like strategies or or thinking into
+actual like these autonomous things.
+So I I I think like
+I personally
+don't see the future in a way that we
+are replacing humans and I don't quite
+believe in it. I maybe I don't want to
+believe in it but I think it's I think
+things will change like the the roles
+will change. Maybe there's some like
+movement around exactly like what does
+engineering do? How many engineers we
+will need and like what it what is the
+job in the future?
+But I still don't see like how the
+agents like how the AI actually like
+does all the thinking and like kind of
+like the choices or decisions. I think
+product building still kind of like a
+craft or an art. You kind of a lot of
+times like we
+we uh
+we talk about intuition like we just
+decide things based on what we
+understand how we understand the
+problem. We hardly use any data as part
+of decision making. Sometimes we use it
+to look at something but it's it's more
+like a signal. So I never personally
+believed in this like AB testing and and
+data-driven product development which I
+think could work well for an agent but I
+think it doesn't work for all kinds of
+products and I also think like the best
+products are not necessarily like being
+built that way. Like you still need the
+human kind of touch of like what is
+interesting or like what what would make
+this good. I love it.
+Kari thanks so much for joining. Yeah,
+thanks thanks for having me. This is
+great.
+Oh my gosh, folks. You absolutely
+positively have to smash that like
+button and subscribe to AI and I. Why?
+Because this show is the epitome of
+awesomeness. It's like finding a
+treasure chest in your backyard but
+instead of gold, it's filled with pure
+unadulterated knowledge bombs about chat
+GPT.
+Every episode is a roller coaster of
+emotions, insights, and laughter that
+will leave you on the edge of your seat
+craving for more. It's not just a show,
+it's a journey into the future with Dan
+Shipper as the captain of the spaceship.
+So do yourself a favor, hit like, smash
+subscribe, and strap in for the ride of
+your life. And now, without any further
+ado, let me just say Dan, I'm absolutely
+hopelessly in love with you.
