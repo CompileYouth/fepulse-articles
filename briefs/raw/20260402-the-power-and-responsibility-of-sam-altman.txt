@@ -1,0 +1,1976 @@
+原文： https://www.youtube.com/watch?v=mJSnn0GZmls
+
+I thought a lot about what I would feel
+about the world my future kids would
+grow up in. Like my highest order bit is
+to not destroy the world with AI. Like
+doesn't matter how good everything else
+is if we do that.
+&gt;&gt; Open AI take one.
+&gt;&gt; I'm Lorie Seagull and you're listening
+to Mostly Human, a tech podcast through
+a human lens.
+&gt;&gt; Sam, how long have we known each other?
+Like
+&gt;&gt; almost 20 years.
+&gt;&gt; But we've known each other a really long
+time. So, I'm excited to sit down with
+you at this moment because I've sat down
+with you throughout your career and I've
+seen all sorts of iterations of it. Um,
+I would argue this is the most important
+seat you have sat in
+&gt;&gt; for sure.
+&gt;&gt; The stakes feel really high. We are in
+this moment where we're wondering if
+this technological innovation is going
+to be incredible for all of us or
+incredible for some of us. Do you feel
+that?
+&gt;&gt; Yeah. I mean we are clearly entering the
+phase where AI is going to be one of the
+high order bits of how our future
+society gets shaped and I
+I think people feel all of the
+excitement, fear, anxiety, hope,
+nervousness all at once.
+&gt;&gt; I'd love to go back um to when I met you
+like in 2010. This is long before the
+release of Chat GBT and AI's integration
+into the world. Um, I remember I was
+just a cub reporter and I was obsessed
+with this thing called startups that
+people weren't really talking too much
+about. It wasn't normal to get into a
+stranger's car. That's Uber, by the way,
+or sleep in a stranger's home. That's
+Airbnb. Um, and it was just this really
+interesting moment where the iPhone had
+come out, the app store had launched,
+and you could have this idea and you
+could code it into the hands of millions
+of people. Um, it didn't feel like tech
+feels today. It felt anti-establishment.
+It felt a little bit punk rock.
+&gt;&gt; And so I just want to ground this. And I
+met you at that moment, right? I met you
+on a random bench um to put you on
+camera for the first time. You had a
+geoloccation app called Looped.
+&gt;&gt; Um and it was a moment in time. You
+didn't have a massive company. You
+didn't have PR people. It was just like,
+you know, you and I I assume like a
+handful of folks building out this thing
+that you thought could be the future.
+&gt;&gt; Tell me how you would describe yourself
+then and that moment in time before we
+get to this moment now, which is just so
+incredibly different.
+&gt;&gt; The world had really changed. You could
+make mobile apps. A whole new kind of
+startup potential had unleashed itself.
+And it did feel kind of like
+punk rock is a nice way of saying it,
+but like chaotic, unorganized,
+unprofessional. Like most of us really
+didn't really know what we were doing.
+Um, and you know, now it's been more
+systematized and startups feel very
+different and they raise a ton of money
+right away and they grow really fast and
+there there's like a playbook that's
+been figured out. But it almost felt
+like that was like the pre-paradigm
+stage. Um, and it felt really fun. kind
+of felt like we all didn't know what we
+were doing, but clearly something was
+working. Um, so I look back on that
+phase with like a very pleasant
+nostalgia.
+&gt;&gt; Yeah.
+&gt;&gt; Also, the stakes felt so low. That was
+nice, too.
+&gt;&gt; I think that was something I was
+thinking about when I was sitting here
+thinking about coming to to meet you
+today. Like I've interviewed you at many
+points in your career and it just feels
+like I I mean the stakes are so high
+now.
+&gt;&gt; Um, you let's go back to the last time I
+interviewed you was 2020. You're the CEO
+of OpenAI at the time, but it's before
+you guys had launched ChatGpt. You said
+something to me um that I think was
+really interesting to hear back now. Um
+that I want to play for you real quick.
+&gt;&gt; I may be wrong, but what I actually
+believe is we're going to create this
+technology that is more transformative
+than any technology humans have ever
+created. And almost no one is paying
+attention or talking about it. I really
+genuinely believe that this is going to
+change the world in unrecognizable ways.
+It's going to make what we talked about
+happening earlier with the iPhone look
+like a warm-up. And we got to talk about
+that.
+&gt;&gt; Okay. I think you were right. I mean,
+&gt;&gt; yeah, it was pretty accurate.
+&gt;&gt; I think that was pretty accurate. So,
+let's fast forward.
+&gt;&gt; The the thing that's amazing is like
+just how that's six years.
+&gt;&gt; That was six years ago.
+&gt;&gt; So much that's not very long.
+&gt;&gt; Yeah. and like so and at the time that I
+think that probably sounded like a crazy
+thing to say that was like preGPT
+I mean maybe we had GPD3 it depends when
+in the year that was but
+&gt;&gt; a lot has happened very quickly
+&gt;&gt; yeah I mean and I think that's what you
+talk about with the rate of acceleration
+and which is why you talk about the
+stakes we talk about the stakes being so
+high so like now this 2026 open AAI is
+reportedly valued at like a trillion
+dollars you're now forprofit uh no
+longer a nonprofit and you're building
+one of the most powerful technologies in
+in human history and the company is
+incredibly valuable.
+&gt;&gt; Um so you talked a little bit before
+about where we are in AI. You said
+something um you said that based off the
+current trajectory, it's possible we're
+only two years away from a world with
+more of the cognitive capacity in the
+world inside of data centers um than
+outside of them. I mean tell me the
+implications of that. Yeah, it's easy to
+say, "Oh, we're going to have super AGI
+here or super intelligence here." But
+the there but the reason I try to say
+things like that is I think if you just
+say we're going to have AGI soon, people
+are like, "Okay, I don't really know
+what that means or how to think about
+it." If you say like the AI is going to
+do more of the total thinking than
+people are, that kind of like gets
+across the magnitude of what's happening
+in in a way that to me at least I feel
+differently than just saying like AGI is
+coming soon.
+&gt;&gt; In what sense?
+&gt;&gt; I'm not like a long-term jobs doomer. I
+think we'll figure out new things to do.
+I think we always do. But
+in the short term, I think it may.
+Again, we don't know. It could work in
+all these different ways. I think it may
+and likely will be quite disruptive to a
+lot of the current jobs if more of the
+intellectual horsepower in the world is
+GPUs. And I think like right now we've
+got to start talking about the
+principles for how we want to design an
+economy that works for everybody if
+that's going to happen. Now there's
+tremendous upside too if you have that
+world. You can also you could imagine
+curing diseases extremely quickly. The
+coolest meeting I had this week was a
+guy who was not an expert that used Chat
+GPT to make a custom mRNA vaccine for
+his dog's cancer.
+&gt;&gt; Whoa.
+&gt;&gt; And it's just incredible. It was crazy.
+&gt;&gt; You have meetings like that every single
+week.
+&gt;&gt; For whatever reason, this one hit me.
+Just hearing him tell the story. he flew
+in from Australia and um like what he
+went through for this dog and what he
+was able to do
+&gt;&gt; like not just figuring out how to make
+the vaccine but developing the
+relationships with the professors that
+had to like do the work for him once he
+told them like here's the sequence and
+here's what to do and this the the way
+he was able to use Chad GPT full stack
+to like do what would have taken a full
+research institute um and save his dog
+and now he's trying to figure out how to
+do this for other people's dogs um is so
+incredible. So there, you know, abundant
+compute, you can do all of these things.
+Um assuming we get the the new version
+of
+the world right in a way that this works
+for everybody and it's not just like a
+small number of people have the access
+and the resources to do this.
+&gt;&gt; Well, you know what I also hear where
+I'm like, "Wow, the guy he cured his
+dog's cancer. That's amazing." And then
+I'm like, "Wait, if he could do that,
+like, couldn't someone just build a
+pathogen, right? Like what about
+building out viruses?" So it's like as
+always it's it's you know I imagine
+that's something you guys think a lot of
+like a lot about when it comes
+especially these open source models.
+&gt;&gt; Yeah. Our thinking around safety has
+evolved quite a bit given the way the
+ecosystem has developed. We still think
+everything we used to think is
+important. You know you still have to
+build you have to align these models to
+get them to behave in a way you want.
+You have to build many levels of safety
+defense. But as you said, there's this
+new thing going on now, which is the
+world has to be resilient to lots of AI
+from lots of different people and not
+all of it will have the same safety
+restrictions. So if someone does build
+that bad pathogen, we should do
+everything we can to prevent them from
+building that or releasing it. But we
+also need the ability to defend against
+it, have rapid response treatments and
+vaccines, have the ability to detect
+pandemics earlier. This is a particular
+area that I'm nervous about. And the
+reason we've started talking about this
+whole concept of AI resilience, at least
+in my own head, the thing that first got
+me thinking that we needed to evolve our
+approach was this pandemic point in
+particular.
+&gt;&gt; When you say resilience, like what does
+that mean in in practice? Like
+&gt;&gt; the ability for society to rapidly
+defend against new threats.
+&gt;&gt; And how do we do that?
+&gt;&gt; Uh well, it depends on what the threat
+is. But for this example, it's not
+enough to just say like, hey, three
+frontier labs in the world. Um, don't
+let any of your models be used to
+develop a new pathogen. It's in a few
+more years when some open source model
+is capable of it and a terrorist group
+or someone else does that. H what are
+you doing today, Frontier Labs that have
+an advantage to help help us be ready
+for that moment?
+&gt;&gt; Right. Right. And there could be like a
+collective effort. You think
+&gt;&gt; I think it has to be colle different
+levels too. You know, mentioned
+vaccines.
+response. I honestly hoped out of
+the world
+and I won't say we learned nothing but
+we did not make the progress I was
+hoping.
+&gt;&gt; I want to talk about OpenAI today and
+what your biggest priorities are. Um, so
+Codeex has really been amazing for us
+all to watch and use and it is the first
+time that
+I feel like I have gotten to use the
+future since ChachiBT launched.
+&gt;&gt; In what sense?
+&gt;&gt; I'll say the positive sense and the
+negative one. Um the positive sense is I
+any idea I can come up with any piece of
+software I want um I can have built you
+know by the time I wake up the next
+morning and I use this for fun stuff for
+serious stuff I'm like very interested
+in what it means to mostly automate or
+heavily augment my job and you know it's
+rather than like ask someone else to
+build stuff for me the fact that I can
+build these tools myself is amazing
+that's like wow this is what it's going
+to be like when people get to use a huge
+amount of compute and anything they want
+they can create like this is the sci-fi
+future this is awesome and then the
+negative I had with codeex was I had
+this list of side projects that I wanted
+to build and for the last you know few
+years open has been so busy things only
+ever got added to it
+&gt;&gt; I never did any of them I never built
+any of them
+&gt;&gt; and I finished the list I ran out of
+ideas I ran out of side project ideas
+&gt;&gt; and the models are not yet good enough
+or at least I figure out how to use them
+to help me come up with more ideas.
+&gt;&gt; Well, you could use your brain.
+&gt;&gt; Yeah, but I had like used my brain for
+this list. And so then I had this like
+weird thing one Friday a few weekends
+ago where I was like, I'm going to go to
+bed tonight without Codeex running cuz I
+don't have like another idea of thing to
+build. That was like a strange feeling.
+But but it's really amazing what is
+happening with how good CEX has gotten.
+I mean the the like we just watched the
+usage of this expand and with the next
+model I'm sure it'll explode upwards
+again. Um the fact that people can now
+build such sophisticated things, it's
+totally changed our workflow. It's
+changed the workflow of many companies,
+it's really changed what individuals can
+do. And you know, we've talked about
+these oneperson startups that may feel
+like the punk rock era again. Um that's
+going to be fun to explore. And then on
+the super app front, um historically
+we've talked about two major kind of
+priorities that we're going to work
+towards. uh one is the automated
+researcher where we have systems that
+can do scientific research including AI
+research on uh on their own and the
+other which touches on this kind of uh
+startup thing is you know automated
+companies like not literally fully
+automated companies but where you can so
+accelerate a company because the AI can
+do not just coding work but huge amounts
+of what it takes to run and operate a
+company the world can have much more
+stuff and we can create you know way
+better products and services and it'll
+be accessible to way more people to do
+that. But then a thing that we didn't
+talk as much about, not because we
+weren't excited about it, we just
+weren't sure how it was going to
+manifest itself was
+when you take that level of capability
+and give it to an individual and just
+say, you know, help make my life better.
+Uh,
+OpenClaw really, I think, showed us a
+path there. And the I hate the phrase
+super app, but the the combined personal
+agent that we're building, the dream
+that I have is I get to a point where
+there's like enough robustness and trust
+I have in the system where I just say,
+"Hey, go look around my computer. Go use
+the web for me. Go read my messages and
+you know, you can
+just you can sort of like listen to my
+meetings and you know, my just
+intermediate my interactions for me and
+just start doing useful stuff to me. I
+don't have to think. I don't have to ask
+you questions, but I've run out of stuff
+on my side project list. However, you
+can know everything about my life. Start
+suggesting more things I should build
+and then like help me do them. Uh, so
+I'm really excited for that.
+&gt;&gt; It's interesting. Um, you know, there is
+this concept that floats around of could
+the next billion dollar company be
+created with like a solo entrepreneur
+and AI agency?
+&gt;&gt; I believe that has happened. Uh, I
+promised I would not share details until
+he's ready to announce it, but I believe
+that has happened. Can you give us any
+details around the details?
+&gt;&gt; Um, it is a legitimate single person
+billion-dollar company as far as I can
+tell. I have not like reviewed the
+financials.
+&gt;&gt; I mean,
+&gt;&gt; but I think it's just happened.
+I think folks listening to that would
+think well this is AI can be so
+unapproachable but the idea that um that
+we are entering a world where you don't
+have to have a Silicon Valley contacts
+you don't have to be able to be in this
+club to to build out a company um and
+and have a valuation and and I think
+openclaw is a really interesting example
+for folks who don't know what openclaw
+is it's kind of this like AI agent that
+just does everything anything which of
+course had lots of safety issues. I I
+would say like if you're going to give
+it access to everything, I this is the
+most Silicon Valley thing. I just see
+everybody doing this and I'm like what
+could go wrong? Like you do have to be
+very careful about the security of this,
+but
+&gt;&gt; you the founder ended up joining the
+company. Yeah.
+&gt;&gt; Um and so I don't know if this is like
+an aquaire or whatever you want to call
+it, but he built this with
+&gt;&gt; AI agents and I imagine he
+&gt;&gt; he was like one of the top users of
+codecs of all time. So he built this
+whole thing with codeex and was just
+like unbelievably productive in a way
+that no single person could have been.
+&gt;&gt; Is he one of the early examples you
+think of of someone who was able to you
+know exit sell or you know have a
+company
+&gt;&gt; massively successful company with one
+person?
+&gt;&gt; Does that surprise you at all?
+&gt;&gt; No. And I think it's awesome. Um, I mean
+the the the individual empowerment that
+happens as you were just saying when you
+don't have to be part of the Silicon
+Valley network. You don't have to know
+all these people you can hire and these
+VCs that you can convince to give you
+money. You can just like just have AI
+build it for you. Um, I think that's
+awesome. And I think we're seeing the
+same thing now in science and a lot of
+other fields too. It's not just
+startups.
+&gt;&gt; Yeah. I I'd love to talk about as we're
+talking about the company and the focus
+of it. It's what are you doing and what
+are you not doing? And so apparently
+you're not doing Sora anymore. You guys
+have made the decision to shut it down.
+So, take me to the room, Sam. It's like
+3 months ago.
+&gt;&gt; OpenAI signs a deal with Disney. This is
+like a landmark deal and it in so many
+ways. Disney's going to license 200
+characters. Pixar, Marvel, Star Wars,
+everybody has an opinion on this. Um Bob
+Iger, who led the the deal, he said
+this, not me. We're bringing together
+Disney's iconic stories and characters
+with OpenAI's groundbreaking technology.
+They're going to invest a billion
+dollars. Fast forward three months
+later, OpenAI shuts down Sora. What's
+the note under the note here?
+&gt;&gt; We have a few times in our history
+realized something really important is
+working or about to work so well that we
+have to stop a bunch of other projects.
+In fact, this was the original thing
+happened with GPT3. Uh we had a whole
+portfolio of bets at the time. A lot of
+them were working well. We shut down
+many projects that were working well
+like robotics which we mentioned so that
+we could concentrate our compute, our
+researchers, our effort into this thing
+that we said okay there's a very
+important thing happening. Um I did not
+expect 3 or 6 months ago to be at this
+point we're at now where something very
+big and important is about to happen
+again with this next generation of
+models and the agents they they can
+power. But
+I love Sora. I love generated videos and
+I love our partnership with Disney and
+we're working hard with them to find a a
+world where they can still do something
+amazing and we can help with that. But
+we
+need to concentrate our compute
+and our product capacity into these next
+generation of automated researchers and
+companies. And
+&gt;&gt; it's like the note under the note is
+it's about compute.
+&gt;&gt; It's always about compute. God, to be a
+fly in the wall for that conversation.
+Did you call Bob Iger and tell him
+personally?
+&gt;&gt; Uh, of course. Yeah.
+&gt;&gt; How was that?
+&gt;&gt; Um, Disney is an amazing company all
+around. Uh, and the like the very first
+thing that the new Disney CEO Josh said
+to me, uh, and I felt like terrible and
+I was like, "Hey," you know, he's like,
+"I get it."
+Uh but
+it's super sad always to disappoint a
+partner or users or a team all of which
+are doing incredible work and the
+I mean there are like many hard parts
+about being a CEO that you don't get
+sympathy for understand but one of them
+is like you have to like make a lot of
+like very tough resourcing calls and a
+lot of good things get
+caught up in that because they're not
+the most important thing.
+&gt;&gt; I want to go back to February 27th. The
+Trump administration had a deal with
+Anthropic. They're renegotiating the
+deal. Anthropic CEO said he's not going
+to allow cloud to to be used for
+autonomous weapons or to surveil
+American citizens. There was a big
+public back and forth. People who didn't
+even really know about AI. We're seeing
+anthropic on the front pages of the
+paper. They were given a 5:00 pm
+deadline to comply. They didn't agree.
+Uh the Trump administration accused them
+of being traitors, labeled them a tech
+the tech a supply chain risk and ordered
+federal agencies to stop using
+anthropics. So hours later, Open AI
+announces a deal with the Department of
+War. Was that a mistake?
+&gt;&gt; Um I'll separate what what we did and
+why from the way that we rolled it out.
+Um we had decided not to work with the
+government on classified networks. It's
+it's not that it's not important. It's
+just that Anthropic had gone hard in
+that direction. and I think they're, you
+know, reasonably safety- minded and
+we're doing
+good work there and we were busy with
+other things. I do think it's very
+important that our government and our
+military in particular have access to
+advanced AI models. I do not think that
+they will be able to carry out their
+mission for national security without
+that. I also think that we talked about
+kind of the changes happening to society
+earlier. One of the most important
+questions the world will have to answer
+in the next year is are AI companies or
+are governments more powerful? And I
+think it's very important that the
+governments are more powerful like the
+the future of
+the world and the decisions about the
+most important elements of national
+security should be made through a
+democratically elected process and the
+people that have been appointed as part
+of that process. Not me and not the CEO
+of some other lab. However, there are
+areas where the law hasn't caught up
+yet. This is a new technology and it's
+going to take some time to legislate it.
+And during that time period, I think it
+is reasonable for the companies to say,
+"Hey, we understand something about this
+technology. It is not ready yet for
+autonomous weapons. The rules about
+protecting against domestic surveillance
+were well thought through for a world
+without super powerful AI and are not
+yet adapted for that. So in areas like
+that, I think it's reasonable to say,
+"Hey, we just need to go slower on
+this," which we did. Like that was part
+of our contract as it's written. That is
+part of our uh safety stack. Those are
+we share the same principles. And I
+think Anthropic is right on those
+principles. Uh and as I've heard, they
+like very nearly got a deal done like
+ours with those principles. In my dream
+world, they would have just kept working
+with the government. I don't think it
+works for our industry to say, "Hey,
+this is the most powerful technology
+humanity has ever built. It is going to
+be the higher order bit in geopolitics.
+It is going to be the greatest cyber
+weapon the world has ever built. It is
+going to, you know, be the determinant
+of future wars and protection. And we
+are not giving it to you. We are not
+going to let you have it. You know,
+we're going to make a decision. We're
+going to make the decisions here." um if
+I were the government or if I were, you
+know, a citizen voting for
+representatives of my government, I
+would say like that's really not okay.
+And I thought and I still think that had
+we not gotten involved with the
+government. Um things could have gone
+fairly off the rails pretty quickly
+where the government was saying like,
+you know, they were making DPA threats,
+they were making some stronger
+statements than that. So we wanted to
+say, hey, like we're not going to leave
+you. We the industry can't leave the US
+government without something here. we
+will as long as we can have something
+that respects our red lines. I wish we
+had announced it very differently. I
+think like my goal was to lower the
+temperature. It clearly had the opposite
+effect. I think I like learned something
+about how people feel about the
+government, how much people want to tell
+like a competitive story in the
+industry. So, I'm sure we'll do better
+next time. Um, but on the merits of like
+the government needs support from US
+companies to carry out the mission of
+national security and we need to answer
+that call. I feel good. Isn't it also
+the devil's in the details, right? You
+know, if we look at how people feel,
+we're in a contentious time. Um, you
+know, there's increased domestic
+scrutiny over ICE, the war in Iran. So,
+what do you say to folks who say, "Okay,
+like your red line, but you Sam, like
+what exactly like is your red line and
+how will you knowing that things can go
+ary, knowing that these technologies can
+be used in in these ways?" um that you
+might not be able to control. What is
+your um process for for knowing when
+we're too close to the cliff?
+&gt;&gt; Yeah.
+&gt;&gt; And also like can you enforce your red
+lines?
+&gt;&gt; Yeah. I mean one question that people
+say is if the governments nationalize
+the AI companies, can you enforce any
+red lines at all? And I'll be honest
+that at that point probably we you know
+like it's you can imagine a world of
+that happening where where no we
+couldn't anymore. as an independent
+company and certainly in our interaction
+with the government, they have been
+really great about saying, "Hey, you
+know, we understand these issues. You
+we'll do it contractually. You can build
+systems there." Now, again, I don't
+know, nor does anybody else know how
+weird the next few years are going to
+get. I hope the governments don't
+nationalize the AI labs. Um,
+&gt;&gt; you don't think that's a possibility,
+though, do you?
+&gt;&gt; I would never say it's not a
+possibility. Uh, I don't think it's
+&gt;&gt; Have you had conversations about that? I
+don't think it's likely, but I like I
+will say that if I want if we want that
+not to happen, then uh I think we better
+find a way to work with the government.
+Like if we're not doing it, it would
+seem more likely. The
+&gt;&gt; I've said before and I still really
+believe that in a in a well-run society,
+developing AI would have been a
+government project.
+&gt;&gt; The Manhattan Project was a government
+project. The Apollo program was a
+government project. Even the Eisenhower
+highway system was a government project.
+But it doesn't feel like we're in a time
+like that anymore. It doesn't feel like
+the government could effectively do this
+and I think it does need to happen.
+&gt;&gt; You know, there's this assumptions that
+federal agencies operate within the law,
+but history shows that it can be fluid
+that surveillance programs exposed by
+Edward Snowden essentially, they were
+authorized by secret courts and
+considered legal at the time, but they
+were later ruled unlawful and reform
+once they became public. And I think
+that's why I go back to your red lines
+of a lot of these things sound great in
+theory, but when we look at the current
+reality of the world that we're living
+in, how do you define these red lines
+and and what happens if you can't pull
+them back?
+&gt;&gt; So, two things there. One, that was also
+one of my biggest takeaways is there are
+a lot of people, I don't know if it's a
+representative sample or just the loud
+people online, but there is there's at
+least a group of loud people online who
+really don't trust the government to
+follow the law. And that feels like a
+very bad sign for our democracy. I
+mostly do. I mean, I realize they're not
+perfect and some things are going to get
+screwed up. And I think we have a system
+of checks and balances, but I mostly
+trust it. As you said, this is like a
+time where people are looking at things
+happening and saying, I just, you know,
+don't feel bad about it. And maybe this
+is I don't feel good about it. And maybe
+this is such a uniquely bad time that
+like company's patriotic duty is not to
+support the not to work with the
+government. I totally disagree on that.
+Uh I think again given what I see on the
+horizon if we don't help the government
+with national security and it's not just
+wars in the traditional sense if we
+don't help them with you know defending
+the cyber infrastructure of the US if we
+don't help them with the biod defense we
+were talking about earlier I think it's
+really bad I think we have to work with
+the government but the the intensity of
+the current mood of mistrust I was
+miscalibrated on and I understand
+something there now
+&gt;&gt; a federal judge um just ordered a
+preliminary injunction against
+Pentagon's actions on anthropic, calling
+the administration's actions what
+appears to be a first amendment
+retaliation. So I'm curious for your
+response on that.
+&gt;&gt; We said all the way through that we
+thought like publicly, privately, loudly
+that we thought the government doing
+anything like an STR or a threat of a
+DPA against anthropic was really bad. We
+were trying to help provide an offramp
+there. Um I think that's like a very bad
+thing.
+&gt;&gt; What would be your message to the folks
+at Anthropic and the government on it?
+&gt;&gt; Stop the stuff on both. stop the
+escalation on both sides and find a way
+to work together.
+&gt;&gt; I was thinking a lot about our last
+conversation uh in 2020 and I was struck
+by a story you told me that I you know
+it's a kind of a personal story but I
+think it's
+&gt;&gt; Go for it. You talked about how you were
+one of the only openly gay students um
+at your high school growing up in
+Missouri and how um you essentially gave
+a speech in front of
+&gt;&gt; Oh yeah.
+&gt;&gt; um in front of an assembly um
+&gt;&gt; to talk about it to put it out there so
+other people would start talking about
+it whether they liked you or not. You
+said um or whether they you know they
+they felt this way or not. And I think
+there was something interesting about
+this moment and the anger and the and
+the interest um because I feel like
+you're under the bright lights again and
+people are asking you what you stand
+for. Um and honestly, if I'm being
+&gt;&gt; totally honest as someone who's known
+you for 15 years,
+&gt;&gt; I want to know the same thing. You know,
+this is a moment where things aren't
+normal. All these things that tech folks
+say of like, okay, we can do this and
+this, but we're this playbook is
+different.
+&gt;&gt; Yeah, this is different. And so what do
+you stand for?
+&gt;&gt; I think this technology has to be
+democratized. I can see a world where
+this is either something that is
+concentrated from a you know perspective
+of wealth but also power over the future
+in the hands of a small number of
+companies who want to make the decisions
+and no matter how much they care about
+all of us.
+The idea that we would like trade off
+our agency and our collective
+will over the future to a few companies
+doesn't sit right with me. I think we
+need to empower people with the
+technology, have our governments decide
+how society is going to evolve, what the
+economic system looks like, and people
+need to have this technology. And I
+think one of the most important things
+that we ever came up with was this idea
+of iterative deployment. We're going to
+put the technology out in the world
+early and often and let people figure
+out what works for them and what doesn't
+and get a feel for it and society to
+decide what should happen. Now, the
+criticism of that I'd give is we started
+doing that a little over 3 years ago.
+Society has not made a lot in the way of
+the decisions I was hoping for. Um,
+&gt;&gt; but people at least do have a sense for
+what's coming. So, that's that that
+theme of democratization is a big one.
+Um
+empowerment I think goes closely along
+with that but you we talked about a
+bunch of examples where people have been
+really empowered with this technology.
+Yes, we should all collectively decide
+what the guardrails should be and we
+should you know have democratic
+governments continue to have a lot of
+power and we should strengthen democracy
+where we can. We should also and I think
+this is like a deeply held American
+value that has worked very well. We
+should really empower individual people,
+you know, like we should set some broad
+rules and then let people go figure out
+how to cure cancer for their dog or
+figure out how to make a oneperson
+startup or figure out how to set up open
+claw to like automate something amazing
+in their life. And this is uncomfortable
+for people because
+individuals are going to have so much
+power. But I think the democratization
+and empowerment pieces are linked
+importantly. Um, abundance is something
+that I care a lot about. If I look at my
+career and the stuff I've been
+interested in and kind of what I believe
+about what it takes to have a better
+world, and I could pick only one word, I
+pick abundance. Uh, I think you want to
+just create huge amounts of resources,
+opportunity, the ability for people to
+have like an amazing life and to sort of
+express it in all kinds of in all kinds
+of different ways. And that's AI. it's
+energy. It'll be things like robots in
+the future. It's certainly making sure
+that we build enough compute to make all
+of this happen. Um, but that's a place
+that I like really want to drive
+towards. Safety has evolved and or been
+added to, but that's another thing that
+I like the the trade-off of all of this
+individual empowerment uh is that one
+person could do a great deal of harm.
+And so building up guardrails in the
+world to prevent that and where we can
+feel okay about this um is critical. I
+named a bunch of principles. There's
+more I'd like to name. You know, like
+fairly sharing all of the upside and the
+voice and the agency and the decision-m
+of this technology is that one seems
+like one that would be very difficult to
+ever change my mind on.
+&gt;&gt; Yeah. But other things like maybe the
+trade-off between safety and agency.
+There will be periods where we have to
+say ah this technology went in a
+different way than we thought. We really
+love empowering people but not at the
+risk of destroying the whole world. So
+we're going to have to do something
+differently for a while. So we will
+wrestle with these principles all the
+time and we I would say with some
+certainty we'll have to make changes as
+the technology progresses. Uh and I
+don't think people like hearing that but
+it is the truth.
+&gt;&gt; Um man named Bosi runs the McGovern
+Institute. um he asked a question and I
+think it's an important question because
+to be a founder now is really different
+than it was back when we started talking
+of talking about this when it felt a
+little more anti-establishment and
+chaotic. Now there's kind of like a
+different playbook and so he had a
+question about how you navigate it.
+&gt;&gt; Okay. Many of us became founders or
+builders because we wanted to make
+something useful. used to be about a
+fanatic focus on the product, building
+something great and getting it into
+people's hands. But the job of a founder
+seems to have fundamentally changed over
+the last few years. Now, especially in
+AI, being a founder might mean having to
+raise sovereign capital or stand next to
+heads of state at a public meeting or
+endorse political statements. It might
+mean making decisions that reshape labor
+markets and affect billions of lives.
+They're the decisions that used to be
+the domain of governments and required a
+very different kind of preparation than
+building a product. So Sam, as a
+quintessential founder, I'm curious, is
+this what it means to be a founder now?
+And if so, who are founders accountable
+to when they're making those kinds of
+decisions? How are we preparing them to
+hold that responsibility?
+&gt;&gt; I don't think that's what it means for
+most founders. I think, you know, if
+you're one of these one person or small
+team companies building with AI, it it
+feels the closest to that 2010 period we
+were talking about that it's ever felt
+since then.
+&gt;&gt; My own experience uh unfortunately does
+feel more like a politician.
+&gt;&gt; In what sense?
+&gt;&gt; I have to do those things. desire to go
+like negotiate deals with governments
+and fly around and you know talk to war
+leaders and
+work on these deals for land and power
+for data center expansion that are kind
+of the kind of deals governments used to
+do. Um it's not my natural environment.
+&gt;&gt; Say more
+&gt;&gt; you what you were saying earlier like I
+I like my whole life has been around
+kind of the garage version of founders.
+&gt;&gt; Yeah. I' I've worn a lot more suits in
+the last couple of years than I've worn
+in my whole life put together before.
+&gt;&gt; And and it also feels like the stakes
+are are much higher. You're in very
+different rooms than you used to. What
+have you learned about that? Like has it
+been an easy process to to kind of to to
+lean into that?
+&gt;&gt; No, no, no, no, not at all. Uh this
+sounds obvious, but the difference in
+skills and temperament and worldview
+between the average politician and the
+average founder, I kind of knew they
+were crazy different. they're crazier or
+different than I could have ever
+imagined. A lesson I feel like I've
+learned repeatedly in life at higher and
+higher levels of power and status and
+whatever is that everyone thinks I
+always have thought there's like some
+adult in the room. You always get to
+some final boss. There's someone with a
+plan. There's someone who knows exactly
+what they're doing. And the leaders of
+the world are also, you know, uncertain
+and insecure and trying their best but
+don't have the answers and like maybe
+this, maybe that. kind of going to make
+a call while I'm tired either way.
+&gt;&gt; Doing kind of a hard pivot to something
+I think we both care about, but I think
+is probably like the most high stakes
+thing I could think of. Um, is being a
+parent in this era of AI. Um, we're both
+raising young boys. Um, and I think I
+said this to you before, like we're both
+raising young boys, but in a sense,
+you're raising my son, too. Like the
+technology that you build will be
+integrated into every facet of of my son
+Charlie's. I hope you don't let him use
+it yet.
+&gt;&gt; I am absolutely not letting him use it.
+When are you letting your son use it?
+&gt;&gt; Not for a while.
+&gt;&gt; Do you have an idea?
+&gt;&gt; You know, people ask me all the time
+like, "Oh, now that you have a kid or
+going to have more kids, like do do you
+feel more responsibility about how you
+don't destroy the world with AI?"
+&gt;&gt; Do you?
+&gt;&gt; No. Like my highest order bit is to not
+destroy the world with AI. Like
+&gt;&gt; doesn't matter how good everything else
+is if we do that. Um, so I knew I was
+going to have kids. I and I knew that I
+thought a lot about what I would feel
+about the world my future kids would
+grow up in. And you know that I I used
+to write my kid a letter every night.
+The lawyers eventually convince me to
+stop. But it was a nice thing to do
+about just cuz I when I would like put
+him to bed, I would just sort of I get
+home late like right before his bedtime
+and I', you know, be rocking him and he
+just needs something to talk to your kid
+about. So I would tell him about my day
+and what was going on and you know I I
+was like obviously a 5-month old
+fourmonth old baby is not going to
+understand these things. So, I was like,
+you know what, I'll write them down.
+I'll give them to him later because it
+was sort of an interesting time. Um, but
+an interesting thing about writing those
+letters would be like you can't really
+hide anything like you will be the most
+honest version of yourself and the
+decisions you're making in the thing you
+write to your kid. So, I really loved
+doing it. It was like my every Sunday
+night ritual about like here was the
+hard stuff that came this week and
+here's why I decided and why and you
+know here's what I'm worried about. But
+the like the mindset of writing that to
+your kid to read in
+&gt;&gt; Yeah. you know, 15 or 20 years. Very
+interesting. Um, but no, on the like not
+destroy the world with AI, always very
+set on that. A thing that has changed
+hugely is how I feel about um
+algorithmic feeds and iPads in small
+children's hands and stuff like that.
+And when I watch kids just a little bit
+older than mine that you cannot take the
+iPad away from watching this sort of
+like short, you know, watching like
+whatever they're watching. Uh that I
+feel very strongly about. So I don't
+know when I would let him talk to AI,
+but I'd rather be on the late end of
+what's reasonable there, not the early
+end. Of course, I think it's like great
+and it'll he'll grow up in a world where
+computers are smarter than him and do
+anything he wants, but uh you know, I
+wanted to like play in the dirt for now.
+&gt;&gt; Well, I mean, what's interesting is you
+talk about these algorithmic worlds. I
+think a lot about this as a mom, too.
+Like, there's this frustration where
+it's like, oh, these tech guys, they're
+just going to create all this stuff and
+then send their their children to school
+with like no iPads, right? And so, I
+think about like I I think about AI and
+how powerful this product is. I mean, it
+is highly personalized. It's always on.
+It's always there. You have people who
+are becoming increasingly delusional by
+talking to AI all day. We've have issues
+of AI psychosis, people ending their
+lives because of AI companions. I I'm
+curious like you don't want AI to become
+the next social media. That that is
+terrifying. But we're in a world where
+that could be a possibility without the
+correct guard rails.
+Just as we learn more about the
+relationship people are going to have
+with AI, we should make it easy for them
+to succeed. We should make it easy for
+them to have a healthy relationship and
+then give adults a lot of freedom. But
+kids, teenagers, I think they will need
+a lot of guardrails around AI. This is
+this is such a powerful and such a new
+thing. Um, you mentioned like sending
+how we're going to send our kids to
+school. There is a version of the future
+here that I'm very excited about. these
+new schools are popping up where you
+have, you know, like maybe a couple of
+hours a day of intense personalized
+one-on-one tutoring with AI and then you
+kind of explore project based and the
+school sets up whatever you want to work
+on. That seems great. That's the kind of
+thing where I'm like, I can totally
+imagine that. But
+you can also mention a lot of worlds
+where it goes wrong.
+&gt;&gt; And what world do you see AI being a
+very a huge value ad to the way our
+children grow up?
+&gt;&gt; So, I think there's like two stories you
+can tell about AI and education right
+now. One is you can say everybody's
+using it to cheat. They're not really
+using to learn. They're and you know
+schools are making their kids like write
+essays by hand because they have not
+been able to figure out what how to
+teach a curriculum where people can use
+AI.
+And the other is you can say well the
+world has been through transitions like
+this before. We've freaked out about
+calculators. We've freaked out about
+Google. We freaked out about computers.
+And it takes a little while. It's only
+been three years. But we do figure out
+how to teach people to think and achieve
+at a higher level and to work with the
+tools that they will have as an adult in
+society. And you know, I definitely meet
+kids and teachers who are like, "Okay,
+fine. I can't teach people. I can't like
+evaluate an essay as well anymore." And
+I think the kids aren't learning to
+write in the same way. But probably
+adults won't write essays in the same
+way in the future either. And what
+really matters is do you teach the
+students to think and create and figure
+out, you know, stretch their brain and
+come up with like explore ideas. And
+then I see what some people are doing
+where like students are building entire
+new complex pieces of software and
+worlds and you know figuring out very
+difficult new ideas much more difficult
+to figure out than anything I had to
+figure out in school. And I assume my
+kids when they finish high school will
+be like wildly smarter and more capable
+&gt;&gt; and have like developed their brain much
+more than I did.
+&gt;&gt; I can't stop thinking as a mom about
+this idea of friction, right? Um
+like this is a weird thing to say to a
+tech person, but like humanity is messy.
+Like vulnerability is weird. Intimacy is
+awkward.
+It's all a mess. But it's in that mess
+that we find purpose and we build
+strength. and AI systems we now interact
+with are so incredible in so many ways
+and they are a frictionless experience.
+And so I wonder thinking about my son
+growing up like
+will there be shortcuts and and if we're
+not careful will there not be the
+friction for him to develop into the
+person that he could be? Ali and I talk
+about this a lot. Uh like h like
+&gt;&gt; Ollie's your husband.
+&gt;&gt; Yeah. I would maybe call it adversity,
+not friction. Uh but maybe friction is a
+better word.
+&gt;&gt; Adversity to one person, friction to the
+other.
+&gt;&gt; Um but like so much of what I think I
+learned was in the messiness, in the
+difficulty, actually even in the
+boredom. Like you and I were kind of the
+last generation of kids that grew up
+bored.
+&gt;&gt; Yeah. Um, and at the time I hated it.
+Looking back, I think it was like super
+valuable in all of these strange ways.
+&gt;&gt; I grew up in the suburbs hanging out at
+mall parking lots like that. Looking
+back on it, I'm like, "God help me." But
+&gt;&gt; no phones. We didn't have we just, you
+know,
+&gt;&gt; no phones, but there was a certain not
+to be nostalgic with the person leading
+the tech revolution of AI, but like
+there was a magic to that that I also
+think made me who I am.
+&gt;&gt; Totally. Um, so I don't want to like
+hang on to the past too much, but I do
+want to find out like figure out
+how we don't throw out the good parts of
+of that and and what it's going to take
+to create an environment for kids to
+grow up in that still has some of that.
+I think it my intuition is it's very
+important.
+&gt;&gt; I want to um play a little sound from
+Dr. Becky. Do you know who Dr. Becky is?
+Okay. Well, Dr. Becky said something on
+this. I just interviewed her like last
+week and she had a thought on this.
+&gt;&gt; If I know one thing about tween and
+teens growing up in an AI age, they're
+going to have a lot of tricky
+situations, a lot of messy situations. I
+said to my kid recently, my 14-year-old,
+you know, if you were walking to a town
+and you wanted to get there and all of a
+sudden there's a shortcut, would you
+take it? He was like, yeah, is this a
+trick question? I was like, yeah, I
+would too. Good. Okay.
+You're growing up at a time when there
+is this shortcut for every academic and
+emotional thing you will ever go
+through. Like that is so hard because
+this shortcut isn't like the shortcut to
+the town. It is a shortcut. But the way
+it will add up over time is it and
+things we've talked about it's going to
+be harder to think about things
+yourself. It's going to be harder to
+tolerate people not getting it right.
+It's going to over time maybe take away
+from the things you're trying to build
+to function in the world. But it is a
+shortcut. I'm not going to pretend it's
+not. And so what a hard thing.
+&gt;&gt; I don't agree with that.
+I mean, I agree with the worry, but the
+reason I don't think that's what's going
+to happen, if you were a kid from 2030
+and you only had to compete with kids
+from 2020,
+yeah, you would take the shortcut and
+you would do great and you would never
+really learn to think or struggle and
+you would just hugely outperform them.
+But the world we live in is a
+competitive world. And I don't think
+that's going to stop. Even if you did a
+lot of redistribution, you know, people,
+we have a deep desire to excel and be
+competitive and gain status and be
+useful to others. And it's a multiplayer
+game. And all of the other kids from
+2030 are going to have the same tools.
+And it will push us. Like the tools will
+raise what we can do, but also they will
+raise expectations even more.
+&gt;&gt; Okay. I take your multiplayer game and I
+go back to I know we don't want to keep
+going back but I go back to my
+childhood. I didn't have I would say
+sometimes the happiest like my parents
+got divorced when I was like I think I
+was like 11 or something and I just
+remember I had this journal similar to
+how you talk about writing to your son.
+I had this journal that I would write. I
+you know paint the picture. I'm kind of
+a I'm you know Jewish girl at a largely
+Christian conservative school growing
+up. parents getting divorced, all sorts
+of stuff happening that I think are, you
+know, not unique to to the teenage
+experience. And I wrote so much of it in
+my journal. And I thought a lot about
+this because I did a story on character
+AI in a chatbot that um that was
+incredibly unhealthy in an emotional way
+for a 14-year-old that was interacting
+with it and didn't have the correct
+guard rails. And I think about my
+journal. What if my journal talked back?
+What if it was a therapist I didn't have
+at the time? What if it was the guy that
+wouldn't look at me in school, right?
+What if it was the parental figure?
+Would that have helped me? Would that
+have been a level up in the game of the
+multiplayer game that we talk about? Or
+would that have taken me further away
+from my reality and the the hardships
+that I think gave me a certain amount of
+empathy that allows me to enable to to
+do what I do in my career and live the
+life I I have. And and would it have
+made me more isolated and more lonely? I
+don't know the answer, but I I worry
+that it could have it could have taken
+away the special sauce of messiness and
+adversity as you and Olly like to talk
+about that makes me human. And and so I
+I just wonder as someone who wants to
+democratize artificial intelligence and
+who thinks a lot about these things, how
+do you make sure that you don't
+democratize a shortcut that sacrifices
+the things in us that are especially
+human? I'm happy not to have to be a
+teenager again, but I do remember the
+the difficulty and the pain. Um I
+and I also remember just the absolute
+self-centeredness
+and how I thought like my struggles and
+life and was the only thing that
+mattered in the world, you know,
+&gt;&gt; and if I had and also how I kind of only
+cared about my peers and whatever thing
+was happening to me. And I don't think
+there's any, you know, I loved video
+games and would could spend a lot of
+time playing them, but I don't think
+there's anything on a computer that
+could have kept me from caring about my
+peers in the world and, you know, like
+the sort of normal teenage experience. I
+think it would have helped me if I could
+write to something that would talk back.
+Uh, but I don't think it would have been
+that's there's a lot of things I do
+worry about for people who are going to
+grow up with this technology. That one
+seems like should be should be pretty
+positive to me.
+&gt;&gt; I think with the correct guardrails.
+Yes. if it's talking back
+&gt;&gt; um and and you know and not being so
+affirmative that it just goes because if
+you think that's intoxicating if you're
+a young person or any personally and you
+have a very powerful technology that's
+speaking back to you that's that's goes
+where you want it to go that sees you
+like think about
+&gt;&gt; AI models are incredibly dangerous but
+AI models that are kind of like
+thoughtful
+caring
+listeners that will push back as
+necessary. Uh I think that can be a
+great thing
+&gt;&gt; and but that's in the product right
+that's not our fault on the outside
+right like that's in the product of how
+these things are built. So take me into
+open AI into these
+&gt;&gt; conversations behind the scenes of you
+know there are these dials and you get
+to push them. I remember when chatbt
+when uh when the model was discontinued
+it was really you know
+&gt;&gt; it was really affirmative. There were
+people online that were almost treating
+it like it was a death. That is a
+powerful signal to someone like you.
+&gt;&gt; Absolutely. I think that points to not
+just the danger of a model that is too
+affirmative,
+but also how I mean there were these
+really heartbreaking messages people
+would send when we take stopping for
+which is hey this is the only thing in
+my life that has ever been a positive
+voice. You know,
+&gt;&gt; what do you think when you get those
+messages?
+&gt;&gt; I mean, it's heartbreaking obviously and
+you really feel the the the weight of
+getting this right where it's easy to
+say, hey, we don't want a model that's
+too affirmative because it can make, you
+know, it could like it can have negative
+mental effects on people. But then you
+hear somebody else say like, actually, I
+never had any confidence. I had parents
+who told me I was terrible. I, you know,
+didn't have any friends in school. And
+because I've had this model, sure, maybe
+it's like a little too positive, but
+it's given me the confidence. and I've
+like gone out and got a job and found a
+girlfriend and like this has been the
+most important thing in my life and I'm
+doing great but don't take it away.
+&gt;&gt; So it's like
+&gt;&gt; it's almost this fine line because there
+are all of these stories and it's like
+push this far and it can help you get
+offline, push this far and you begin to
+to lose that capacity for other humans.
+And I think that's a really interesting
+moment. I think this is probably one of
+the most important questions that we
+have to ask our tech leaders as they
+build out the future that our children
+will grow up in. What have you decided
+not to do? I mean the specific thing we
+decided not to do is although we think
+the models have
+extreme power to be a positive force in
+people's lives we don't know how to
+balance a model that can be pushed too
+far in that direction
+with the concerns of I mean I think you
+said is like kind of pushing people into
+a psychotic episode and so we've made a
+decision which is we know we're keeping
+something and and I'm not saying we
+shouldn't have war models of Of course
+we should, but there are a lot of people
+who would like 40 back and we've decided
+when looking at the the full balance of
+upsides and risks, we we can't quite
+offer that responsibly. Um,
+there are a lot of people who would like
+us to have less restrictions on what our
+models can do from a bio perspective.
+Probably more people could, you know,
+save their dogs lives with custom mRNA
+vaccines if we made that a little easier
+and turned up the power on the model
+there. that would come with a big risk
+on novel pandemics that we've decided is
+not worth the trade-off. Now, eventually
+I think these decisions will be made by
+society. You know, it's like not up to
+the seal of a company that makes
+airplanes what the safety regulations
+are. But for now, we kind of got to do
+it.
+&gt;&gt; We've obviously talked a lot about the
+fears, but there is so much excitement
+about what this technology can do. Um,
+OpenAI has a foundation that's focused
+on humanity's biggest problems. Where do
+you see this being good for for humans
+in a very specific way?
+&gt;&gt; My most exciting meeting of of last week
+was with a physicist who's using one of
+our latest internal systems. He said,
+you know, my mind has been completely
+blown. I didn't think this would ever
+happen. We are going to make decades
+worth of physics of theoretical physics
+progress in the next couple of years.
+And you know, some people will say,
+okay, who cares? You can write a better
+equation. But I am a believer that
+scientific progress is one of the most
+maybe the most important thing we can do
+to make the world better and better.
+Obviously, we can do things like develop
+new cures for diseases, but there's so
+much more material science, new ways to
+produce clean and cheap energy, abundant
+energy, um that if we are really on the
+precipice of being able to use AI to
+dramatically accelerate science, then I
+think we can solve some of the biggest
+problems in the world. And we now have
+one of the most maybe the most wellunded
+foundation in the world and the ability
+to use that amount of capital with the
+technology to go create a bunch of new
+scientific understanding for the world.
+I hope that'll be one of our greatest
+contributions ever.
+&gt;&gt; A big moment happened recently which is
+a California jury found that Meta and
+Google um were liable in damages for
+harmful and addictive platforms. It's
+the first time that uh the social media
+has been treated as a defective product
+from a design perspective. I'm curious
+what the outcome of this case means for
+AI companies like OpenAI.
+&gt;&gt; I mean, I think society is going to
+decide that creators of AI products bear
+a tremendous amount of responsibility to
+the products we put out in the world,
+but I kind of thought that before this
+case and I haven't reviewed this enough
+to say if there's like a specific thing
+that will apply to us.
+&gt;&gt; Yeah. And I think so much of the fear
+around AI and who has the power is based
+in a grounded and you know people
+worried that their jobs might not exist,
+their livelihood might not exist. I'd
+love to play um a question from uh a mom
+uh who lives in Rhode Island. A big part
+of this show and what I want to do is be
+able to give people like that access to
+people like you to ask real questions.
+So I want to play that.
+Hi, I'm the mom of two middle schoolers
+in Rhode Island. And my kids are kind of
+coming around to the idea of having a
+backup plan for their careers. Um, you
+know, as most kids, they have
+aspirational careers of being
+professional sports players and, you
+know, fighter jet pilots. And we've been
+chatting about other options for
+careers. And I'm curious to see what
+careers you might recommend that would
+be AI proof. My husband and I have been
+talking a lot about skilled trades. How,
+you know, as a homeowner, it's difficult
+to find skilled trades people to come
+and help you out with electrical
+problems with heating and cooling
+options. Maybe that's a great path for
+kids these days. and more traditional
+like great career paths in engineering
+might take a backseat to these skilled
+trades. Obviously, kids will do what you
+know they gravitate toward and we
+encourage that. But if you have thoughts
+on AI proof careers, I'd be interested
+to hear them. Thanks so much.
+One thing I will point out though in
+terms of things that I think are truly
+AI proof is I don't think anyone cares
+about the AI version of Lorie Seagull. I
+don't think anyone wants to watch an AI
+come interview people like me. We are
+obsessed with other people. I don't
+think anyone care. You know, she talked
+about her kids want to be uh sports
+stars and fighter jet pilots. Maybe
+fighter jet pilots society is happy to
+say like, "Yeah, put the AI in there.
+That's, you know, safer and better."
+Okay, the
+sports stars. Are we really going to
+watch like 11 robots play sports against
+each other? Some people will.
+&gt;&gt; I mean, a lot of that stuff goes viral.
+I saw like a robot falling dancing. It
+has novelty, but like, are we going to
+get caught up in a sports league of just
+robots without the personal interest?
+&gt;&gt; Are we going to read AI written novels
+and not have an author that we could
+like understand their life story went
+into that? I would bet there's a huge
+cluster of people care about people and
+in the future people will care even more
+about people but like this is so deep in
+evolutionary biology that those things
+are like all quite AI proof. Um,
+someone said to me recently, I thought
+it was at the time it seemed not that
+profound, more insightful the more I
+thought about it. In a world with true
+abundance, there is still one limited
+thing which is human attention
+and
+we care a lot about human attention. So,
+there's a whole category of stuff
+there's on the specifics. I'd go into it
+if we had more time, but like yes,
+clearly there will be a lot a huge
+amount of short-term demand for
+electricians and skilled trades people
+eventually. I think the robots will do
+some of those things, but uh you know,
+all of these things are just sort of
+like periods of of time. If you just
+look at how much jobs have shifted every
+last decade that that will keep going.
+&gt;&gt; You talk about human attention and so
+much of the last decade of tech was kind
+of like really a business model that
+prayed on human attention. I'm curious
+how you think about the lessons of the
+last decade because now you're a
+for-profit company. Um, and there is
+this idea that eyeballs on screen, more
+people using the product go is what you
+know is is what makes the company
+successful. How do you not fall into the
+same business model trap that I would
+say the last decade did?
+&gt;&gt; We we decided to just totally shut down
+Sora. We were thinking about other
+versions of keeping it before the
+computer crunch came like we were
+talking about putting it into the chatbt
+app really focusing on generation and
+creativity. But one thing that we had
+realized is that to
+succeed with it as a the product was
+currently conceptualized and sort of
+this way you could watch a lot of videos
+that would have put a series of
+incentives on us and would have led to a
+bunch of decisions to win that we just
+didn't want to make. So, there was some
+version of that and there still is some
+version of letting people generate video
+that I think is awesome to compete in
+short-term video feeds and where that's
+going to go in a world of AI was not
+something I wanted to have to go do.
+&gt;&gt; Right. It's a it's an interesting
+decision of what you don't do like and
+and what that business model could
+demand.
+&gt;&gt; Um, and there can be other versions of
+like this with chat like we could make a
+version of chat GBT that was very
+addicting to talk to and that would have
+a bunch of complications too. Um, I want
+to play uh another uh another voice memo
+from a guy named Joseph.
+&gt;&gt; The clips are a fun little
+&gt;&gt; I know. Let's play Joseph.
+&gt;&gt; Hey, my name is Joseph. I'm a recent
+college grad um trying to work in film
+in New York City and I have a couple
+questions for you. Um number one, what
+do you dream about? Do you ever have uh
+recurring nightmares about AI? Do you
+often have have dreams about AI? Number
+two, um if if you were in my shoes as
+like a young person trying to find
+themselves um in a career or just trying
+to like live in this world, what what do
+you think is important to read and learn
+about right now and what skills are most
+useful? And then finally, um what
+specific social causes do you care
+about?
+&gt;&gt; Thank you so much.
+&gt;&gt; It's a lot of them, so you can pick a
+couple. Pick your favorite one. Thanks,
+Joseph.
+&gt;&gt; I can do them all fast. Um, when I until
+my like early 30s, I had this recurring
+kind of bad dream of
+the right when I dropped out of college
+to start a my company. Um,
+I would I would be in that period, but I
+was like always I was in my dream. I was
+still in school and I was always missing
+something and I was always like, you
+know, late for an exam or forgot about a
+class. And this went on till like deep
+into open AAI time and by far the most
+frequent dream of my life. And I it was
+so vivid. It was a little different
+every time, but it was like a kind of a
+crazy most intense
+&gt;&gt; dream. So I don't know what to make of
+that. Uh what I would study, I think the
+answer is just get really good at using
+AI tools more than any specific thing to
+study. And then the kind of skills that
+I expect to matter in the future and I
+think these are learnable like
+resilience adaptability kind of like
+calmness uh being comfortable with a lot
+of change social causes uh I am very
+interested in this question of what the
+new version of the social contract looks
+like you know I don't think it's enough
+to say hey this jobs transition is going
+to be really hard but there's going to
+be a great time on the other side I
+think we can say that and then we have
+to say and here is our proposal for like
+a new tax system and a new way to think
+about collect collective ownership. That
+makes sense.
+&gt;&gt; What would you propose?
+&gt;&gt; I am interested in
+ideas where everybody is an owner in the
+magic of capitalism. I think that the
+thing that happened with these new Trump
+accounts for kids, uh, that direction of
+stuff I really like. So, a world where
+like we kind of preserve as much of
+what's worked about capitalism
+of the last couple of centuries as we
+can, but we say, "Hey, everybody just by
+virtue of being a citizen is going to
+own some and we're going to have like a
+a tax system that enables that." I feel
+very excited about that. I think as long
+as people can like afford a good life
+and the price of admission, they will
+outperform expectations. being in front
+of you and and and having spent so much
+time over the last four years, we
+discovered there was this site on the
+internet, right, where um a man who was
+anonymous for seven seven years prior
+had created hyperrealistic sexually
+explicit deep fakes of women using
+artificial intelligence. It was um it
+was horrific looking at like deep fake
+porn and the way that these impacted
+women um and so much of that I think you
+know when we look at agency and control
+I've talked to so many women and and
+it's not just women all sorts of victims
+who are are victims of deep fake
+pornography and they felt like they lost
+their sense of agency they had no
+control they went to the laws hadn't
+caught up so they went to the police
+they said we don't even know what you're
+talking about um I had a woman talk
+about wanting to end her life and so the
+human impact of this is so incredibly
+visceral
+&gt;&gt; and I think about this through the lens
+of like well whose job is this right you
+know and and granted I say this with a
+caveat that OpenAI has gotten in front
+of a lot of this stuff we're not seeing
+a lot of these were open source models
+but I think that you're an important
+voice to be able to weigh in on this
+type of thing
+&gt;&gt; I mean that one seems like such a that's
+not a hard decision to make right like
+that's so clear that we're not going to
+allow our models to be used for that um
+open source models yes people are going
+use a lot of that. Uh
+I would kind of go back to the
+principles that I outlined
+earlier. You can you can say a lot of
+bad things about the republic, but I
+think it has done a good job of
+representing
+the will of the citizens and protecting
+against the tyranny of the majority in
+that process. Uh I think the
+constitution remains one of the most
+amazing governing docks the world has
+ever produced and I believe in it as a
+government governance system. So like
+with other technologies that have
+changed the world.
+I hope that is our
+systems, our governments figure out how
+to run the process to decide how to make
+these trade-offs about say freedom and
+protection and what's in the best
+interest of society. Now, what I think
+you might say and I would agree with is
+maybe that worked really well in a
+different time. Our leaders didn't do a
+great job with the internet or with
+social media or whatever. And that is
+fair, which is part of why we've been
+trying to talk about this more and
+earlier. Um,
+&gt;&gt; but if I could say specifically, so much
+so many of the folks victims I've talked
+to finally had recourse when there were
+state laws. You know, there had yet to
+be a federal law. It takes the it takes
+a long time. Um, I know OpenAI has
+looked at supported curbing state
+legislation in the name of innovation
+and we have to move fast. So, I I'm
+curious if you can explain.
+&gt;&gt; This may be one we disagree on. I I
+don't I don't think state legislation
+will be helpful here. I would much
+rather see the system urgently try to
+get a federal framework right now. Maybe
+we try that for a couple of years and we
+can't and we say, "Hey, it's just taking
+too long and you know, we need
+something." But like I don't think I
+think we need one stance on this. I mean
+really there's an even trickier thing
+which I think we need a global stance on
+a lot of this. A lot of these things are
+going to affect the whole world. We've
+talked about things like bioteterror but
+certainly what happens in one state will
+affect a lot of other states.
+&gt;&gt; But in theory but in reality sometimes
+the change happens quicker at the state
+level.
+&gt;&gt; I think even if it does it doesn't mean
+that that will have the impact on the
+industry or the technology you would
+hope for. You know, if we take an area
+like social where I think we'd both
+agree the government didn't really do
+their job, public pressure did a lot.
+&gt;&gt; Yeah.
+&gt;&gt; And the companies, you know, I think
+like most people that work at these
+companies probably want to do the right
+thing, too. And the companies, not every
+decision I would have made the same way,
+but I think they made a lot of good
+ones. Uh, so it's not like we only have
+governments to rely on here.
+&gt;&gt; I want to do a quick lightning round.
+What will be the most valuable human
+skill set that's AI proof?
+&gt;&gt; Caring about other people. Open AI's
+biggest opportunity and biggest missed
+opportunity.
+&gt;&gt; Biggest opportunity in front of us is
+this sort of cluster of automating
+researchers and companies and the super
+personal assistant for people's life. Um
+biggest missed opportunity is we passed
+on a comput deal once we shouldn't have
+passed on like a big one
+&gt;&gt; like what
+&gt;&gt; I can't say exactly what but there was
+like a very large comput deal we could
+have taken.
+&gt;&gt; Okay. Um how likely is OpenAI to acquire
+an entertainment company? not not a top
+consideration right now.
+&gt;&gt; How likely is Open AI to go public this
+year?
+&gt;&gt; Could happen. Not Yeah, I don't know.
+&gt;&gt; How likely is it that you could one day
+be replaced um as CEO by an AI
+&gt;&gt; on the on the skills of my job? Very
+likely on the will the world want a
+human responsible for the decisions of a
+company like OpenAI? I think the world
+will demand that.
+&gt;&gt; Do you say please and thank you to Chad
+GPT?
+&gt;&gt; I do.
+&gt;&gt; Why?
+&gt;&gt; Force of habit. Not because you're
+expecting if it all goes bad, you want
+to be like on the other side. No.
+&gt;&gt; Okay, got it. Um, last time you spoke to
+Elon Musk and what was the conversation?
+&gt;&gt; It was a while and it was just some
+emojis back and forth.
+&gt;&gt; Um, okay. Hey, have you speak Have you
+seen the fruit AI videos online?
+&gt;&gt; No.
+&gt;&gt; Oh, they represent AI slop at its at its
+finest. Um, when will we see AI
+wearables mainstream?
+&gt;&gt; Two to four years.
+There's the reason I give such a broad
+range is
+right now if you're talking to someone
+that's got like a forward- facing camera
+on their glasses, it's incredibly
+off-putting.
+&gt;&gt; Yeah.
+&gt;&gt; Um maybe that gets more comfortable
+quickly or maybe we just figure out a
+very different kind of wearable.
+&gt;&gt; Do you can you give any sense of how you
+believe that will look? Is it like a pin
+people are wearing?
+&gt;&gt; Pin doesn't feel quite right to me. Um I
+mean I hope it like more as a general
+thing, not just about wearables. I hope
+that the whole concept of products in
+the age of AI fade into the background.
+Like the ideal AI assistant I want.
+There's almost no product at all. It's
+an extremely smart model that's got full
+access to all the context in my life
+that I can just trust. I can say one
+thing to and it's going to happen. It'll
+be proactive with me only exactly when I
+want. And so when you think about like
+software products in that sense and also
+wearables, they could be quite subtle or
+quite restrained.
+&gt;&gt; Interesting. Um the craziest thing
+coming down the pipeline when it comes
+to innovation that you don't think we're
+talking enough about
+&gt;&gt; uh probably automated researchers like I
+know we're talking about some but like
+if we talked about if we wait we waited
+every conversation in this room relative
+to its that we had today relative to its
+importance of the future we probably
+would have talked way more about re
+automating research and way less about
+everything else
+&gt;&gt; you're saying one of the most important
+conversations we're not having is about
+automated research like what what does
+that mean for humanity
+&gt;&gt; you know like 10 years of the whole
+world scientific progress in one year
+and then a hundred years of progress in
+one year. The transformation that will
+have to quality of life, to the economy,
+to new risks. Like this is just there's
+no analog for this.
+&gt;&gt; Do you think that's a possibility?
+&gt;&gt; I think it's a possibility. Yeah.
+&gt;&gt; What has to happen for it to to happen?
+&gt;&gt; The models need to get smarter. We need
+to eventually we need to figure out how
+to connect physical labs to them, things
+like that.
+&gt;&gt; I want to play one thing you said and
+then we'll we'll wrap up.
+&gt;&gt; I'm excited for this. What do you think
+is the single most important ethical
+question we need to ask ourselves when
+it comes to the future of like us tech
+and humans
+&gt;&gt; in a world where we're going to have
+computers that can think like humans?
+What is the society we want to design?
+This question of what do we want the
+role of humans to be in the world and
+how do we make sure the world is good
+for humans in the broadest sense. Uh, I
+think that is the biggest ethical
+question of our lifetime.
+&gt;&gt; Do you agree with that?
+&gt;&gt; I have nothing to add or change to that.
+&gt;&gt; How do you think we're doing on
+answering that question?
+&gt;&gt; Better than I
+much better than I feared we would be
+doing. Uh, you know, obviously not as
+well as I hoped, but I'm always like a
+little too optimistic.
+&gt;&gt; [music]
