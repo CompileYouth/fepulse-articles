@@ -1,0 +1,154 @@
+原文： https://www.youtube.com/watch?v=HJKjDtehiTo
+
+Is there um examples of the strongest
+engineers you worked with and you what
+made them strong at Netflix?
+&gt;&gt; I'm simply gonna say the absolute best
+engineer, strongest engineer I've ever
+worked with is Giannis Katzanetis. I'm
+generally going to try to avoid names,
+but I I got to put him out. I met him in
+2000 in her video. I brought him in. He
+was he left the industry and was working
+as a professor in Greece teaching signal
+processing. And I brought him in during
+the summer break to to help. I was
+working on this was in 2010. I was
+working on some ideas around parallel
+encoding. Uh and the the work we did
+gave birth to contentbased encoding
+which is now how the entire industry is
+working. The the we wrote an early
+patent on that. He went back to school
+but we convinced him to join us at
+Netflix a couple years later. He took
+that one level further to to um to what
+to now the model for encoding for both
+Meta and Netflix which is called convex
+all encoding which is actually
+mathematically delivering the highest
+possible quality for a given bandwidth
+capability. Um and
+he and I work together at innerv video
+Netflix and meta. He's an engineers
+engineer and one of the most in
+brilliant people I've ever known. He
+actually developed a model for the co
+basically for codec evaluation that's a
+costbenefit model. for this amount of
+energy you get this amount of codec
+efficiency
+and and which is revolutionary because
+he's very much academic and you you know
+and you know you've always heard the
+joke in theory theory and practice are
+the same in practice they're very
+different so his brilliance I think was
+really bringing this academic world and
+forcing it into the practical world
+where we can actually make decisions
+based on not what some hypothetical you
+know you know two videos you compress
+can do. But actually, you know what
+happens when we run this test against
+10,000 videos or a million videos or a
+billion videos.
+&gt;&gt; You've mentioned meta a lot at this
+point. Maybe we should go to that. Um
+I'm kind of curious what's the story
+behind you uh getting recruited to Meta
+or working at Meta.
+&gt;&gt; Sure. So um as I mentioned earlier the
+Netflix culture deck the early one said
+that we really should interview often so
+we understand our market value right and
+I had an outreach from Meta and I don't
+remember who it was um but
+it was like 2018
+I think 2017 late 2017 I think it was
+late 2017
+and I told my wife I said yeah you know
+Facebook it was fa Facebook at the time
+Facebook wants to interview me I said I
+I don't want to work there, but I
+haven't interviewed in like 12 years. I
+I think I need to interview or 10 years,
+whatever. So, I went and interviewed
+and I I kind of went over I I will say
+honestly a bit full of myself cuz like
+you would hear me, we built Netflix, we
+built the highest scale in coding
+platform in the world, whatever. And and
+I got to the interviews and I was um
+whiteboarding everything out. I remember
+one guy these were good interviews but
+this one guy stop said David you have to
+understand Facebook cannot solve their
+video scale problem with CPUs
+and I just I walked away and I emailed
+him back later I was like you floored me
+right I never realized and and so I I I
+turn eventually I got an offer and I I
+turned it down I just wasn't ready at
+the time um but I had I had reached out
+to this guy and I just told him you know
+I thank Thank you for like you know
+letting me know that I was very narrow
+in how I understood the world of video
+because I had no concept and I want to
+talk about this about Facebook's meta
+scale in a little bit. I had no
+understanding or concept. Um shortly
+after that Giannis who was in Netflix
+pulled me aside and said hey I got this
+offer from Facebook and we sat and
+talked about it. He was talking about
+the ASIC. He was talking about all these
+things he was going to work on and I
+I saw a passion in him that I hadn't
+seen in a little while and and he had
+done some really good work at Netflix
+but I don't think that the culture again
+is not built around individual
+contributions. I don't think he ever you
+know was getting the joy and I think the
+reward and recognition. Remember
+recognition is not for an engineer is
+not your name in lights.
+Sometimes it could be as simple as like
+a senior executive saying, "Hey, this is
+really good work this person did." And
+I'm not saying they didn't do that at
+Netflix. I'm just saying it like
+we'll talk about this. Met Meta is very
+intentional about individual credit. So,
+and I think he felt like the problems
+weren't big enough for him and he was he
+just had this look and I was like, "Wow,
+this is amazing." You know, he's like,
+"Aren't you going to try to talk me out
+of it?" I was like, "Yes, you're my
+friend, right? Isn't I, as an employer,
+as your boss, I don't want to lose you,
+but as your friend, I'm like, how can
+you say no? And I'm not even going to
+try because, you know, because I care
+about and I I just I wish I could tell
+you going there would be the wrong
+decision." And
+so through that process, I started with
+a company. I was only interviewing just
+to work on my, you know, interview
+muscle. And in the end,
+I was just looking across the aisle and
+thinking, man, that's freaking hard
+problem. And I had a good solid team
+doing well. I had a leader lined up
+ready to take my place. And just the way
+things kind of worked out in in in 2019.
+Um, I ended up leaving Netflix and word
+got out and Facebook reached out to me
+very quickly. I had to rein because the
+gap had been too long, but I got a job
+offer and and I took it. I was excited
+and I came
