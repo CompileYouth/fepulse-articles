@@ -1,0 +1,931 @@
+原文： https://www.youtube.com/watch?v=5q0VER_rt0Q
+
+The biggest area of impact AI's had thus
+far has been improving individual or
+small team productivity. There's
+trillions of dollars of software
+infrastructure that's been built over
+decades that underpins the US and the
+global economy. AI impacting integrating
+with this whole pool of critical systems
+and [music]
+production environments is going to take
+a long time and new business models to
+do. And those business models are
+debatable across different categories.
+But this big $250 billion plus cut of IT
+and security services, I just think is
+is a cool place to to start that
+pursuit. We have to remember 10 to 15
+years ago, your internal IT team had to
+be standing next to a server to do
+something with it. This model has
+improved over the last 10 to 15 years
+for the most obvious reasons. internet,
+cloud, remote work, software generally
+getting better. As all of these
+technological trends continue and
+evolve, this like next iteration of the
+MSP space can just take on a new form
+where it's very clearly impacting how
+companies operate through well-built
+software systems.
+Today we're joined by Peter Doyle, the
+CEO of Treeeline. Uh, Treeline is a
+modern take on the managed service
+provider space and really the IT
+services space which a lot of people
+don't realize this is a sneaky big
+market. It's a hundred billion dollar
+market and in many respects is the
+backbone of the US software economy and
+technology economy bringing these
+solutions and software providers to uh
+to the small and mid-size business. Uh,
+but that's just the beginning of the
+story. Peter, why don't you tell us a
+little bit more about what Treeine does?
+&gt;&gt; Yeah. Yeah. Thanks, Joe. Glad to uh glad
+to be here with you. Um that was sort of
+the first thing that fascinated me about
+this market is it's probably the biggest
+category in technology generally like
+this whole cut of IT and security and
+now compliance services but it's
+probably the least understood especially
+from the Silicon Valley perspective. Um,
+and so what we're trying to set out to
+do is basically say, well, with modern
+technology, modern tools, and now AI,
+how can we essentially reinvent this
+category, not fully depart from the
+services model, but inject software and
+automation and AI that sits next to
+humans to fundamentally transform this
+market and the model of how we service
+end customers. And like I kind of
+recognize that um the scope and sprawl
+of what's within this category is is
+rather large and that's why it's
+traditionally been a services category.
+And so a traditional managed service
+provider or MSP will offer employee and
+asset life cycle um onboarding and
+offboarding users, help desk support for
+all of your employees who need help,
+insider threat management, endpoint
+security, uh helping you get through
+compliance, observation periods, and
+maintenance periods. SOCK 2, HIPPA,
+CMMC, ISO, Fed Ramp, like the scope is
+huge.
+&gt;&gt; Every acronym you can think of.
+[laughter]
+&gt;&gt; Yeah. Yeah. Yeah, I made sure to start
+out with all the acrony
+but basically you can't
+&gt;&gt; sassify that like you have to have
+people in the loop and you still have to
+have technicians and expertise sitting
+alongside software but instead of those
+technicians just using a bunch of
+software tools, how can software
+fundamentally and and now automation and
+AI be a core part of that product and
+how we service customers and that's what
+we're setting out to build. Yeah, it's
+interesting. You talked a little bit
+about software and SAS and I remember
+when we first talked about this company
+uh you know a couple years ago we were
+on a run through the Presidio and you
+turned to me uh my heart rate was about
+a 178 and you said Joe you know SAS is
+dead um which was a very silly take for
+two uh venture capitalists on run to be
+talking about but you know it was
+interesting you kind of you you talked
+about that you said hey there's a
+misframing here um you know people are
+kind of throwing everything out um with
+the bathwater with that analysis talk to
+me a little bit about the model that you
+settled on and why you think it's
+differentiated at this moment in time
+versus just everything should be an AI
+agent.
+&gt;&gt; Yeah, that was that was definitely meant
+to be provocative, but it's kind of
+&gt;&gt; it was the perfect time to be
+provocative.
+&gt;&gt; Yeah. Yeah. For for everything that's in
+the news now, but it's it's kind of apt
+especially for this category. Like SAS
+has been the predominant business model
+for software delivery uh for a long time
+for obvious reasons. Recurring, high
+margin, near endlessly scalable. Um, but
+in a funny way, a lot of categories,
+most I would argue, and especially the
+one that we're in, uh, has too much SAS
+in a funny way, leverages too much
+software. And what I mean by that is
+when you look underneath the hood of
+these businesses, like even the best
+managed service providers that are um,
+operating right now is very messy, like
+even the best ones. And so you have all
+these customers that all all want the
+same thing from you but have their own
+uniquenesses, their own idiosyncrasies.
+And then on the other side within the
+MSPs, you just have a pool of
+technicians that are kind of waiting to
+help your customers do something in a
+reactive manual way, different
+expertises, different levels of
+expertise. And so to stitch all of that
+together, they need to use they use on
+average 30 to 35 SAS and software tool
+point solutions to communicate with
+customers, monitor environments,
+communicate internally, everything. Um
+the the interesting thing there is that
+like at first when we set out to to
+start Treeeline uh with with my
+co-founder Hussein, um the initial idea
+for only a couple weeks was oh let's
+build a a SAS tool. Um, we think that
+automation and now AI is going to be
+important for this category. Let's sell
+it to the category.
+&gt;&gt; Um, and like the the funny thing with
+that is like very quickly we just
+realized that we didn't want to be the
+the 36th software tool and to actually
+redefine and and try to reinvent this
+space from the ground up with all of
+these modern technologies in mind. we
+kind of needed to go into like the guts
+of the offering and the guts of how
+these technicians operate to actually
+try to build a new model that that
+services customers better.
+&gt;&gt; Yeah. And and say a little bit more
+about that. Like why do you have to go
+into the guts? Why can't you just go and
+offer a software platform to the MSP and
+just say, "Hey, we're going to make this
+all clean for you. We'll sit on top of
+your ConnectWise or whatever their core
+system is and and make it make it
+better." Like what about this system
+makes it such that you need to own those
+workflows yourself? Yeah, this is one of
+my my soap boxes for a long time because
+like it's one thing to buy software and
+for a software company to say we have
+all these customers, but very few
+customers actually implement and
+configure the software the way that you
+as a company even expect them to. And
+that's true in spades in this market.
+Those 35 tools aren't operating and
+firing on all cylinders. They're kind of
+like halfbaked, half configured,
+purchased 10 years ago. Here's a new one
+that's purchased that overlaps with this
+old one. It's just kind of a mess. Um,
+and by extension like these businesses
+are 15, 20, sometimes 30 plus years old.
+They have all of these legacy processes.
+They have data just like spiraling
+everywhere, very siloed. And so it's not
+just like let's implement a new software
+tool, spend a couple weeks doing it. You
+really have to look at the processes of
+how these companies operate, the like
+initial assumptions they have when they
+start using a new tool, but then also
+like question them originally. Why do
+you have these processes? Why do you do
+this? And often times we find that the
+answer is well it's because we've been
+doing it for 15 years and so like change
+management is hard. Why would we change?
+&gt;&gt; Yeah. And as you think about like those
+workflows you're trying to go after and
+you know maybe this is interesting for
+for Treeeline but also for others that
+are kind of going after this like
+automate services work space like how do
+you think about the software that you
+need to build kind of in-house versus
+maybe thirdparty tools and the way to
+kind of go and capture and iterate on
+workflows? Yeah, that's a that's a good
+question because we definitely can't
+build everything especially in this
+world. Like we need to partner with
+Microsoft, Google, Octa, security tools.
+Like maybe there's some part of our
+infrastructure that we just don't want
+to build. Like some some parts of a
+ticketing system. Like we don't need to
+build everything, but we need to make
+sure that the tools that we use and we
+partner with are either best of breed or
+just very extensible to plug into
+everything we're building in a
+customized way. But like even more so,
+the the way that I think about it is
+like you have all of these modern AI
+companies and very quickly they realized
+that they need very strong customer
+support, probably professional services,
+an implementation team or a bunch of
+implementation partners. Like we just um
+onboarded a new ERP system and they
+immediately threw us to like this Zoom
+video of of 10 implementation partners
+from a company that I I'd never heard of
+before, but that's how they do it. And
+so uh like the other way you you look at
+it is like this concept of a forward
+deployed engineer is now very much in
+vogue. Like all of this is an admission
+that AI software as powerful as it is
+it's just as hard to implement and use
+effectively especially in like critical
+systems. And so
+&gt;&gt; we share that view, but we kind of take
+the inverse where
+&gt;&gt; the day one of Treeline was a services
+company, right? We hadn't built or
+written any software, but
+&gt;&gt; over time, if we do this right with
+well-built software, um, automation, AI
+agents, we can continue to pull what
+we're doing more and more towards being
+a software company, right? probably not
+it probably doesn't make sense to like
+go all the way to being a SAS company
+because we need humans and technicians
+in the loop. Um but as close as possible
+to getting there enables scalability and
+just gives a way way better product to
+the customer and we can do that in an
+iterative way. It's not like one big SAS
+app or or software application or one
+big deployment. It's like very iterative
+and compounding.
+&gt;&gt; Yeah. Is that the final kind of, you
+know, bastion of durable, you know,
+defensibility against the, you know, the
+the, you know, it seems like
+all-encompassing, you know, mega labs
+and everything else out there. Is it the
+fact that you have these humans
+delivering the tools? Like how do you
+see this like kind of competitive
+dynamic playing out with other players?
+Um, and and really like where you hang
+your hat from a durability standpoint?
+&gt;&gt; I I think I think so. I mean, you can
+still like there will be a lot of modern
+software and AI companies that can win
+big, but you kind of look at what
+they're doing behind the scenes. It's
+automation software and AI software.
+Like every SAS website you go on,
+there's like a canvas and you drag a
+node on there and that's like an
+integration and you like drag it to
+another node and that's another software
+platform. Like it's all automation and
+workflow builds versus, you know, here
+is a CRM or here is a system of record.
+And so our view is that whatever way
+automation software and AI like fits
+your market, go for it. But these
+services categories, like I just
+fundamentally believe for the most part
+that it's just going to be really hard
+to sell pure play software into these
+categories.
+&gt;&gt; Yeah. Maybe switching gears, like you
+came from like a venture background.
+It's obviously where you and I met. Um,
+&gt;&gt; you know, you evaluated all these
+different markets. what about this
+market made you so excited to go and
+run, you know, leave your very cushy job
+as a venture capitalist um and and
+decide to get into into found founder
+mode?
+&gt;&gt; Yeah. Um there was sort of one core
+insight that um you know, Hussein and I
+continued to have as we would we'd just
+like chop it up and talk about whatever.
+Like Hussein and I have been friends for
+for 15 years. Um, and so we just kind of
+like constantly catch up and talk about
+work, life, gripe, gripe about our jobs,
+whatever it might be. But, um, he had a
+lot of context too on the IT and
+security services space. Just he came
+from originally a security company
+before going to Brex and he just was
+generally familiar with it
+&gt;&gt; and from the venture capital seat. I was
+looking at a lot of software that sold
+into the space and there was I think one
+poor insight that really uh snowballed
+where everything else snowballed from
+and that is this managed service
+provider space how it and security
+services is delivered today is at least
+a decade behind where generally modern
+technology is which is ironic because
+this is a technology category and with
+the pace of AI and just software very
+quickly getting better and better. That
+gap is only widening and we kind of we
+didn't really have like this huge long
+list of workflows we were ready to build
+or AI agents we were ready to build and
+we didn't have everything fleshed out on
+the business model. We kind of just like
+saw this huge gap and realized that
+there was just a lot of white space to
+navigate into building a big company.
+Um, so it was really really from there
+and then you know naturally you just get
+into it and find and navigate to the
+right way. But we don't we we definitely
+didn't start day one with this like
+perfect pristine view of here's the
+two-year road map that we're going to
+execute on and like here's where we want
+to be by 2030.
+&gt;&gt; Yeah. And obviously you started with you
+know kind of a dualprong strategy of
+kind of inorganic growth partnership
+with you know uh MSPs and also alongside
+you know strong kind of organic growth
+and what you want to do there. Yeah.
+&gt;&gt; Why why why even start with the
+inorganic strategy at all? Like what's
+the advantages that come with you know
+partnering with an existing firm um and
+modernizing versus just starting from
+scratch as most technology companies do.
+We very much want to build treeline by
+combining
+strong industry insider expertise with
+like new point of view and perspective
+for lack of better phrase uh industry
+outsider points of view. Um, and so very
+quickly once we incorporated the
+company, we wanted to merge, we did
+merge with a couple select traditional
+service providers, less to tap into
+their revenue and and their cash flows
+and more to
+&gt;&gt; say, well, we need strong industry
+operators, we need experienced
+technicians because the technician team
+is very much a part of of our offering.
+Um, and over time we'll we'll certainly
+continue to opportunistically
+look to merge with and partner with
+additional traditional service providers
+and bring them into the fold of how we
+operate. Um but over time and and and
+starting even now like we're investing
+heavily into organic growth because if
+we're building a scalable offering and
+company and differentiating in an
+otherwise undifferiated category where
+it's essentially commoditized to a very
+low level of service,
+&gt;&gt; why not invest into organic growth and
+just like speak to the end customer
+ourselves? And I think that's kind of
+the like you you hear a lot of talk
+about traditional rollups and now AI
+rollups and that means a lot of
+different things to different people. My
+view is that overindexing too much on um
+let's just call it an inquisitive growth
+strategy implies that you're the crux of
+your business is focused on financial
+engineering and using AI as like yet
+another private equity tool to improve
+margins. And I believe that can work. We
+just want to try to reinvent this
+category. Yeah. And systemically
+innovate versus build a higher margin
+traditional service provider. Like
+there's a much longer compounding
+roadmap we're going after.
+&gt;&gt; Yeah. And maybe like it'd be so
+interesting to tease this out too for
+the customer. Okay. Obviously people
+talk a lot about AI rollups and like you
+know adding you know adding technology
+to traditional services organizations
+but like how does this manifest for your
+customers? like what's how do we change
+the way that they consume kind of IT
+services?
+&gt;&gt; Yeah. Yeah. And again, this is why I
+like this model cuz it's not some
+singular software application. We're
+building in multiple fronts. Where we've
+started is behind the scenes, how can we
+improve how technicians operate and
+respond to any customer request, but
+also be more proactive. And so what that
+looks like is a lot of internal
+technician facing tooling to say well
+any ticket issue alert whatever it might
+be that comes into the system when and
+where can uh automation and AI agents at
+the very least augment and at the most
+replace like the need for a manual
+workflow. The core flow of how
+traditional um service providers operate
+is they have a bunch of customers and
+those customers just throw a bunch of
+issues and tickets and requests to the
+MSP. That can be we're onboarding
+multiple people on Monday. Can you get
+them set up in all of these systems? It
+could be a automated machine generated
+alert from like CrowdStrike or some some
+security tool that says you need to to
+look into this vulnerability or this
+issue. And so the technicians are kind
+of sitting there waiting for one of
+these. Um, and it's rather reactive. Um,
+and so even if it stays reactive, we can
+equip them with a lot of really
+interesting information and context and
+automation and agentic tools to help
+them um, be really efficient with that,
+but then also even more so be way more
+proactive. Like we noticed that this was
+a problem before you submitted a ticket.
+And so that goes to your question like
+customers see right off the bat improved
+service. um and just like a better
+experience like my issue was resolved
+immediately before I had to say
+something or it was resolved in 1 minute
+whereas historically it took 30 that we
+will continue to iterate on forever. Um
+but because of our model we can also
+build towards the customer. what
+interfaces, what information, what
+additional products and services can we
+sell um and equip our customers with to
+give them better visibility into what
+we're doing to help them leverage um AI
+themselves. There's like all these
+ancillary categories and ways that we
+can engage with customers where once we
+quiet as much as we can the like IT and
+security noise like you can never fully
+quiet it but like then where does the
+customer relationship go and how do we
+deepen it uh in in really interesting
+ways.
+&gt;&gt; Yeah. You know, we've talked a lot
+about, you know, the kind of false
+choice that organizations have, right?
+You either to your point on just talking
+to the designation workflow in an
+outsource manner. You have an outsource
+provider providing IT services. Um, or
+you have a big complex internal IT
+infrastructure and you handle these
+tickets on your own and you build all
+these things yourself. Like why has that
+been the choice organizations have to
+make? Is that the right choice or you
+know why why is this the way that's
+operated? There's no generalizable right
+answer, but like the reason why those
+are the only two options is like kind of
+a vestigial trait of where the industry
+came from. Um like we have to remember
+10 to 15 years ago, uh your internal IT
+team had to be standing next to a server
+to do something with it or your
+traditional MSP or the precursor to what
+an MSP is today had to be within driving
+distance. like this model has improved
+over the last 10 to 15 years for the
+most obvious reasons. Internet, cloud,
+yeah,
+&gt;&gt; remote work, software generally getting
+better. Um, but basically it's it's kind
+of stayed the same where it's like still
+this call-in response from the customer
+to the MSP or the customer realizing
+that because of their scale or
+complexity or for whatever reason, they
+want internal people. And so you just
+still have these two options. And our
+view is that as all of these
+technological trends continue and evolve
+and now with with AI progressing as
+rapidly as it is, this like next
+iteration of the MSP space can just take
+on a new form where it's very clearly
+impacting how companies operate through
+well-built software systems. And that's
+what we're trying to offer to the
+category. You know, something else that
+I I found interesting that you talked
+about is like the the biggest kind of,
+you know, hindrance to AI progress and,
+you know, isn't exactly the model
+progress, but it's actually, you know,
+the rate of kind of integration into
+core systems. Um, maybe talk a little
+bit about that and like how the treeline
+model, you know, allows you to take it
+most advantage here. The biggest area of
+impact AI's had thus far has been
+brand new like vibecoded or otherwise
+apps, new applications or these models
+improving individual or small team
+productivity, right? Um, the biggest
+well of impact that I think is is just
+starting to be tapped is there's
+trillions of dollars of software
+infrastructure that's been built over
+decades that underpins the US and the
+global economy. AI impacting,
+integrating with um modernizing and in
+any way like interacting with with this
+whole pool of critical systems and um
+production environments is going to take
+a long time and new business models to
+do. And those business models are
+debatable across different categories.
+But this big $250 billion plus cut of IT
+and security services, I just think is
+is a cool place to to start that pursuit
+with everyone else that's trying to do
+it in different areas. And it again goes
+back to like digging into the to the
+guts of the industry. The way that we
+dig into the guts of the business model
+and say what can we integrate with, what
+should we replace, what software do we
+buy, what do we build, like it's messy
+inherently, which is again why we need
+this unique model.
+&gt;&gt; Yeah. And when it for the customer, does
+this lead to lower costs, better
+service, both?
+&gt;&gt; I think the idea is is both certainly
+over time. Um where as we continue to do
+um uh everything that we we set out to
+do on the core IT and security front,
+like yes, we want to pass on a lot of
+those savings to the customer, but also
+like I mentioned, just evolve the
+relationship. It's not like, oh, we'll
+take down your your per user cost and
+we'll just kind of quiet everything down
+and that's our our business. The hope is
+that we still grow not necessarily in
+like a a dollar value way but just like
+in a relationship depth depth way with
+the customer and the byproduct to that
+is like yeah changing pricing models and
+engagements with businesses. Um but also
+yes along the way like every pursuit
+that we have in the category should be
+what's in it for the customer? Why do
+they care and why are we doing this for
+them? as you're architecting, you know,
+the the platform, how do you think about
+like the right way to do that when
+everything on the kind of underlying
+underlying fundamental side is changing
+so rapidly like as AI models improve or
+as the different providers improved?
+Like how do you think about like the
+right way to structure all of this such
+that you don't have to just rebuild
+everything every six months? Yeah, it's
+it's a good question because the way
+that we're trying to architect
+everything is like yes, if if AI
+progress stopped fully today, we would
+still have a 10 plus year road map to
+execute on. Um but to the the earlier
+imagery I suppose I was giving of
+pulling what we're doing from being a a
+services play to as close to a software
+one as possible. It's basically just
+let's fold in new technology as it comes
+down the pipe and as we can leverage it.
+So maybe today there's a AI agent that
+we can see wanting to build, but perhaps
+the AI models and capabilities aren't
+there yet to reliably allow us to put it
+into production. But maybe in a year
+it'll be very easy to do so. And that's
+kind of how we want to like not only um
+proof ourselves um future proof
+ourselves from whatever happens with
+with AI and just modern technology, but
+like actually be on the forefront of it.
+Yeah.
+&gt;&gt; Day one it comes out adopt it and
+implement it.
+&gt;&gt; Yeah. Do you think um you know these
+kind of AI rollups or these integrating
+strategies like can become venture scale
+outcomes?
+&gt;&gt; My hunch is is no. I do think that to
+build a a compounding business that is
+actually continuously innovating while
+compounding. You can't just rely on that
+that acquisitive growth. But again like
+I said earlier like it's not to say that
+those models can't be successful. Like
+we look at these businesses all day
+long. there's a lot of lowhanging fruit.
+There's a lot within operations and
+within what goes into COGS and operating
+expenses that AI can
+&gt;&gt; um brush away. Um but again, that's just
+not in our view, it's it's a little bit
+more of an incremental approach to
+&gt;&gt; creating equity value versus actually
+creating some outsized opportunity to to
+change the space.
+&gt;&gt; Do you think there will still be a
+traditional MSP in 10 years or 15 years
+time?
+&gt;&gt; I I do. I mean, these industries move so
+slowly. Despite, you know, us being in
+Silicon Valley and watching all of these
+um wild takes of how fast AI is moving,
+however right or wrong they are, these
+industries take a long, long time to
+catch up. The composition of the
+industry will change. I think there will
+be way less fragmentation, bigger
+winners, but that long tail is just
+always going to be there. You still have
+a lot of MSPs out there that are driving
+to their customers and that are
+&gt;&gt; uh you know, like don't even have an
+email address. server racks or whatever.
+&gt;&gt; Yeah, call me. I'll go over. I'll fix
+it. Like advising their customers not to
+move to the cloud if even if it's like
+the most obvious thing from our seat to
+do so.
+&gt;&gt; Yeah. If you fast forward that same time
+frame 10, 15 years or even longer, like
+what's the the biggest version of
+Teline? Is is it an expansion kind of
+across it, outside of it? Like what's
+the business look like in in that? Yeah,
+I mean we we consistently debate
+internally what to even call the future
+of it cuz like we don't want to rely on
+this like MSP or traditional um um
+phrasing because like yes the core way
+that we currently work with businesses
+is within IT and security and now
+compliance but just over time what does
+becoming the most impactful highest
+trust thirdparty partner for end
+businesses look like? What is that? And
+so there's just kind of this huge area
+of
+&gt;&gt; like how these businesses can adopt
+modern software and AI, what they're
+going to need in the future once we
+quiet some of these things. Um, I could
+I could sort of sit here and pontificate
+for a while. But the fun thing is that
+like we don't really need to figure it
+out just yet. It's just let's let's
+continue to be on the forefront of of
+what we'reffecting now within this core
+space. And a nice byproduct of that is
+we're now capturing so much um good like
+information and data around how we
+operate, how we interact with our
+customers and we can do so much with
+that information over time and through
+building trust with with the customers
+we serve.
+&gt;&gt; Okay. So maybe going back to the like
+kind of false choice between like
+internal IT teams and outsourced uh MSPs
+like I find it interesting that you went
+after like this outsourced problem. Um
+why did you pick the outsourced problem?
+um why is it you why do you think this
+is the right answer and like what's the
+what's the biggest issue that we're
+really solving for here with with these
+providers?
+&gt;&gt; There should definitely be next
+generation products that try to replace
+legacy ticketing systems and and tooling
+systems and you of course naturally are
+seeing a lot of that um being invested
+into within Silicon Valley and and Dre's
+made a lot of those investments and we
+can integrate and partner with those no
+problem. Our view is that even for
+modern venture-back tech companies, but
+also for just the rest of the US,
+manufacturing, healthcare, nonprofits,
+everyone needs really strong IT and
+security. And if we have a really shiny
+new modern um point solution or
+ticketing system, like the adoption rate
+outside of Silicon Valley is going to is
+going to be low for a long time. So
+let's meet the industry where they are
+um still in many ways look um like that
+traditional provider but behind the
+scenes and and slowly over time pull
+these customers forward with us and you
+can't just do that I believe by selling
+a software product to them. when you
+were evaluating the market that you went
+after with Treeeline like this MSP IT
+services space was there any like kind
+of like spectrum of you know least
+interesting kind of services you know
+businesses to try to go and bring AI to
+to most interesting like was there some
+sort of framework that you developed
+that helped you kind of pick this market
+or was it just like hey I know this MSP
+market I think there's an opportunity
+here let's go after it it was the former
+but retroactively I I realized a lot of
+reasons why it's a good space because
+there's a spectrum of some services
+categories where technology and software
+can barely move the needle like uh
+someone going to your house and fixing a
+pipe like the HVAC space, but then ones
+on the other end of the spectrum that
+are like really susceptible to AI coming
+in and and wiping it away. Um and I
+think that the MSP space is, you know,
+maybe not squarely in the middle, but
+kind of in this this middle pack where
+there is and will continue to be so much
+complexity to how we we operate within
+the market. Um, but we're not so far
+over on this end of the spectrum where
+in five or 10 years we're at risk of AI
+like wiping this away like it security
+compliance services uh is going to be
+thorny for as far as I can see.
+&gt;&gt; Okay. So you talked a lot about how you
+know treeine can drive adoption within
+you know obviously your company and the
+tools that you're using. Um it's been
+fascinating to kind of observe the big
+labs obviously anthropic you know
+talking about publicly or openai talking
+about publicly about the four deployed
+engineers that they have and how they're
+building different tools for their
+larger enterprise customers like what
+does that kind of tell you about you
+know the way that adoption is working um
+and how you're how these big companies
+are accelerating AI right now I I was
+glad to see it because I really don't
+think businesses should be afraid to
+have people services as a part of their
+offering to the market and even if you
+have these leading frontier labs going
+into Goldman Sachs with a hundred
+people. They're recognizing that yes,
+their their growth rate and their scale
+is is unprecedented, but they're still
+realizing that they need to throw people
+at the problem. And so, we're
+internalizing that, too. But we're not
+reluctantly doing it. And I don't think
+they are either, but it's more just we
+need this and we think that we can um
+still hit scale and act and operate like
+what a traditional software company has
+operated like with people in the loop.
+And I think that that's just like an
+important lesson and realization for a
+lot of companies that are building right
+now to have.
+&gt;&gt; Yeah. Okay. Spicy take time. What
+companies should be most afraid of the
+labs?
+I think that the companies that don't
+have um wide company appeal and usage
+are are are most at risk because to my
+earliest point um and wide company
+appeal and usage in the sense of like
+wide adoption across a large enterprise
+&gt;&gt; wide adoption and just entrenched in how
+a company as a an organism operates.
+That's just really hard to rip out. like
+whether it's a system of record or
+whether it's this or that. Like if
+everyone's got a seat and everyone's
+using it, um that's just innately very
+sticky and very hard for a a model
+company itself to replace those
+companies will probably just use the
+capabilities that the model companies
+have. But individual and team- based
+productivity is skyrocketing with these
+products. Um, I see it within Treeline
+and I just like see it with with my my
+cohort of of um um friends and and
+colleagues like that is a very shaky
+disruptive area. Um, and if you're
+swiping a credit card to buy a few seats
+for your team or or for yourself and and
+it's something that's like not core to
+how your company as a whole operates, I
+think that's where you're going to be in
+trouble.
+&gt;&gt; Yeah. And do you think this uh whole SAS
+is dead thing is overblown? How do you
+how do you kind of see this? I know
+that's where we started our conversation
+with our run and you saying it is. So,
+do you still believe that?
+&gt;&gt; I I do. I I think that like I I believe
+in uh the future and like the overall
+power of of AI and where it's going.
+That's not to be discounted, but just
+how the world slowly moves incrementally
+to adopt this change is just going to be
+the biggest constraint. And that's just
+going to take way way longer. And I do
+think that it's harder to sit um in San
+Francisco and like being on Twitter and
+actually clock that in the right way.
+There's just like a natural constraint
+to humans changing and that's just going
+to be a huge limiting factor.
+&gt;&gt; So it's dead but not dead quite yet.
+It's going to take a while.
+&gt;&gt; Ask me in 20 years.
+&gt;&gt; Yeah. Yeah. Okay. 20 years to [laughter]
+inform my stock picking strategies. Um
+okay, quick uh quick lightning round
+maybe to finish us off here. Um if you
+were in a Harry Potter house, which one
+would it be?
+&gt;&gt; Uh I know it's over said Gryffindor.
+Okay. Best run in San Francisco and best
+trail run in Marin.
+&gt;&gt; The 10mi loop. Uh starting at the east
+side of the panhandle all the way to
+Waterbback. Uh in Marin it'd be the um
+Tennessee Valley 5 mile loop.
+&gt;&gt; What's your shampoo of choice?
+&gt;&gt; Uh I was going to say Dr. Browners, but
+that's the body wash.
+&gt;&gt; Good. So you're using body wash in your
+whole body. Next next question.
+[laughter]
+Um the best book you've read in the last
+12 months.
+&gt;&gt; Count Christo.
+&gt;&gt; Counter Money Cristo again. Um, and your
+favorite song that you've found
+recently?
+&gt;&gt; No song specifically, but that whole new
+Fred Again album.
+&gt;&gt; Yep. Favorite partner in Treason
+Horowitz.
+&gt;&gt; No comment.
+&gt;&gt; And with that, thank you, Peter,
+[laughter] for coming on the FOB.
+&gt;&gt; Thanks. Appreciate it.
+&gt;&gt; Y
+[music]
