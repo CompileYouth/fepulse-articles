@@ -1,0 +1,1153 @@
+原文： https://www.youtube.com/watch?v=rlIy7b-3DC8
+
+They're creating entire features in
+days, not weeks these days. I think
+about the specs that we used to make 6
+months to a year ago and you know be
+like milestone one, we have these P 0,
+we have these P1s. We still do that
+prioritization, but it's usually just
+like a few bullet points. My secret is
+that I actually use co-work for most
+things now. I start every Monday morning
+at 10:00 a.m. with this presentation and
+with like three different product ideas
+that I can use and kick off the week
+for. The UI looked so different just
+like four or five weeks ago and now it's
+like where we're constantly learning
+like what's working and isn't working.
+If you feel like the ground is shifting
+beneath your feet, it's because it is.
+&gt;&gt; Hey everyone, I'm super excited today to
+welcome Jenny, design lead at Anthropic.
+Uh Jenny is going to show us how she
+uses cloud co-work and cloud code to
+design and ship products and give us the
+inside story of co-work and also maybe
+what's next for her product. So welcome
+Janney.
+&gt;&gt; Thanks Peter. So, good to be here.
+&gt;&gt; Yeah. All right. So, um I'm I'm just
+really curious like what is a typical
+day like at work for you? Like what what
+what tasks take up most of your time?
+&gt;&gt; Like is there a typical day? Like I
+don't know if there is a typical typical
+day. Uh but a lot of the things that I
+spend time doing is it's like to get
+product out the door, right? Like so but
+I think that maybe looks different from
+what it looked like a year or two ago.
+Um, and a lot of that is a lot of it is
+just actually just like jamming with
+engineers and product people and whatnot
+in like a less formal way. It's often,
+you know, looking at a prototype
+together and then like pointing out and
+and thinking about the ways that it
+could evolve. Um, it's sometimes just
+like talking about the behavior of
+things and then sometimes it's it's it's
+me like implementing stuff. Um, I think
+there's also still a big portion of the
+time that is like, you know, me
+designing stuff, prototyping and stuff
+like that, but it feels like a lot of
+the way that design works these days is
+kind of loose. Like it is in in the it's
+it sounds so like uh like non-tangible.
+It's like, oh, it's a conversation or
+it's just like jamming with people. Um,
+but that is kind of what I I find a lot
+of the work to do bec to be because it's
+less, you know, I spend less of my time
+just focused on one single project, but
+I feel like I'm like consulting on like,
+you know, five or six different projects
+at any given time.
+&gt;&gt; Interesting. Okay. So, basically, you
+have a bunch of prototypes that generate
+through like clock or something and then
+you just kind of jam with the engineers,
+give some feedback, and then you just
+prompt AI to like improve it, right? Is
+that is that how it works? basically
+like uh so and they're not even often
+prototypes like they're like they're
+they're working prototypes. things that
+are in our internal builds and instances
+of of claude or co-work. Um, and usually
+like I've spent some time using the
+feature, you know, pushing the feature,
+seeing what it's capable of and forming
+opinions and the next step on iterating
+with on them is often like me just
+sitting down with the engineer and be
+like, "Hey, here's what I think. These
+are the things I should change." I think
+part of there is still time where I feel
+like you know being in the in the design
+tools and iterating on it and like
+getting down to polish and to iteration
+is like still really really important.
+Um so that part hasn't like gone away.
+It just I think I think since I'm like
+operating on more projects at any given
+time it
+&gt;&gt; it feels more effective to sort of just
+like do it really casually and and and
+informally.
+&gt;&gt; Okay. Okay. I mean that that's always
+been like the most fun part of just like
+you know being a PM or designer to me
+just like getting designer engineers and
+just like looking at a product and
+iterating. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; So there isn't a lot of um like do you
+guys still make like uh specs and Figmas
+and like you know these planning
+documents or is it just like in the code
+iterating on prototypes?
+&gt;&gt; Uh I mean I still make Figmas. I don't I
+think we haven't we don't make specs as
+often like they're and they're not as
+detailed usually. Yeah. like we still do
+that prioritization and it like exists
+as a document. It's actually really good
+for us to like hand off to security or
+legal and stuff like that so they
+understand what's happening in the
+launch but it's usually just like a few
+bullet points. It's not this like
+beautiful table that's overengineered.
+Um and I think the same thing goes for
+our our Figma files.
+&gt;&gt; Okay. So why don't we get into it? So
+like now anthropic and by the way like I
+I spend my whole life on cloud like I I
+live in cloud these days but like
+&gt;&gt; uh now now you guys have like three
+separate products, right? You have
+cloud, co-work, and cloud code. And
+maybe you can kind of like show us like
+how you use some of these products or
+like how what do you you use each one
+for?
+&gt;&gt; Yeah. Uh I will show you co-work because
+my secret is that I add I actually use
+co-work for most things now aside from
+like the the very uh nitty-gritty
+production code stuff. So like when I'm
+polishing, I will still use like cloud
+code. Um, but I for for all for all
+purposes of chat, I actually fully use
+co-work now. Um, so I will show you some
+things there. Okay, I'm going to show
+you this account that I'm using with
+co-work. There's no there's no tasks
+there because this is sort of like not
+my burner, but it's my uh it's my
+external account. Uh, but trust me, like
+my actual co-work has like many
+different sessions that I'm often like
+running in parallel and whatnot. Um, and
+so one thing that I find co-work really
+helpful for is I I just generally call
+it sort of like garbage in treasure out.
+It's just really good at taking things
+from a lot of different sources and then
+like finding and like picking the gems
+out of it and also making it something
+really productive. Um, so right now I've
+actually like hooked it up with a folder
+of uh they're they're not real user
+interviews. I like actually cut and
+clawed to generate them, but they're
+let's just say they're like a bunch of
+like transcripts from user interviews
+that we've done from UXR. Um, and I
+think a thing that we try to do at least
+on the co-work team is we try to stay
+super close to the ground both through
+like traditional sources of like UXR and
+like talking to people. um but also
+through like internal dog fooding
+through through things like just this
+running Slack channel of all this
+feedback but then also you know social
+and and and people who are using it and
+passionate users there and so um like I
+think that's actually been a big part of
+our like somewhat success so far is that
+we have just been like staying super
+close to that and iterating really
+quickly. So what I will do here is you
+know I will say like cool like I have
+this I have this folder of interviews
+but I also will tell Claude like hey can
+you look on like uh social and all all
+you know like customer reviews and
+whatnot of co-work and tell me what the
+biggest insights are. So, um, look in
+this
+folder of UXR interviews
+and on social like and Reddit
+and other reviews for co-work um or I
+guess I'll say like Claude co-work um,
+tell me what the main insights are
+and I'll have Claude do that. Um it
+might take a little bit of time because
+it's like going it's truly just going
+through so much data um and and and
+processing it. But yeah, it'll do things
+like it'll sometimes like spin off sub
+agents to do that in parallel and it'll
+search the web for a while and do that.
+&gt;&gt; But yeah, it's basically just pulling
+from a wide variety of sources.
+&gt;&gt; This episode is brought to you by
+Replet. Replet's new agent 4 is the best
+way for teams to collaborate with AI
+agents. There's a new infinite canvas
+where you generate design directions,
+compare them, and take your favorite
+straight into a working app. From there,
+you can spin up multiple AI agents in
+parallel to build different features at
+the same time and track them on task
+board where you can review and approve
+what ships. And once your app is built,
+the agent can generate slide decks,
+animations, and more from the same
+project because slides, animations, and
+documents are all just code under the
+hood. Check out Replet via the link in
+the video description and use my code
+pan26 to get three months free. That's p
+y26.
+Now back to our episode. And uh in in
+your real job, do you have some sort of
+a like weekly insight report or
+something that you know gets sent to you
+and your team or something that
+arrogates all the stuff automatically?
+&gt;&gt; I mean we we can make that right now
+through clo through co-work.
+&gt;&gt; So I'll show you the flow for that.
+Yeah, we we do in that I think one of
+our our researchers has one that they'll
+send out and then we have one that sort
+of like pings us in Slack as well that
+we'll send that out. Um, and then we
+just we also just like listen to the
+Slack, like the internal Slack, like we
+have really been relying on our internal
+and like most powerful users to sort of
+like be the people that gives us like
+the the sort of bleeding edge feedback
+because um people internally are really
+willing to be honest with you and
+they're they're often pushing the
+capabilities furthest and it's easiest
+to follow up with them too because they
+are just, you know, so close to you and
+like and willing to participate. So, um
+we rely on internal feedback a lot which
+might be counterintuitive.
+&gt;&gt; I mean that that that's that's what
+should happen like and I I feel like
+most companies like the it's like so
+siloed that like the teams don't talk
+for each other's product
+&gt;&gt; but like it feels like anthropic that
+very much happens right both for cork
+and cloud.
+&gt;&gt; Yeah. Yeah. Like it was a big part I
+think of cloud code success too is just
+like listening to your frontline users.
+Um and I and that was the thing too that
+we did a lot at Figma too was a lot of
+internal dog fooding. Um
+&gt;&gt; yeah because a lot the people will point
+out things that especially when it comes
+to um things like interaction design and
+and polish and whatnot, people
+internally will really poke at that
+stuff versus people externally tend to
+give you feedback often about like the
+you know does it work for their user
+flow. So it's it can just be like a very
+different altitude of feedback.
+&gt;&gt; And let me ask you this while this thing
+is gen generating.
+&gt;&gt; Yeah.
+&gt;&gt; So so I I know anthropic like marketing
+PM everybody was like is basically using
+cloud code to also do stuff now that
+codework is internally available. How
+how do you see different types of
+functions or like how are people using
+this versus cloud code or depends. Yeah,
+I I think we're seeing just like overall
+like wider adoption of of co-work for
+similar use cases that some of like the
+the bleeding what I call like the
+bleeding edge users of uh cloud code
+were like for example when we started
+working on co-work
+um internal sales um sales employees
+just be sort of our inputs into what we
+should build and
+&gt;&gt; there were a few people who were like,
+oh were like they're like die hard um
+cloud code users and they were using it
+to generate like leads lists and help
+them like um come up with scripts and
+whatnot for calls and and and it was
+like it sort of blew my mind when I saw
+it because I I at that point didn't even
+comprehend that you could use cloud code
+for those things and uh those folks um
+they are they're basically all on
+co-work now and then more of their sort
+of like their peers are actually using
+co-work as whereas before those people
+were like the bleeding edge users
+&gt;&gt; just because like it it actually is nice
+to see a UI and
+&gt;&gt; I think soile I think that's that's what
+it that's honestly what it takes and and
+I think also part of it is u it's so
+close to the other work too that they're
+doing um you know if they're already
+using chat um and they can still use
+cloud code too from this desk desktop
+app too so it just I think it it fits
+closer to their existing workflows um
+than opening up the command line does.
+&gt;&gt; Got it. Okay. Looks like it generates
+something. Yeah.
+&gt;&gt; And it's generating stuff. Okay. Um
+Yeah. So, it sounds like there is some
+there's some insights there. Okay. Cool.
+Like I can take these insights um and
+there's like seven different themes
+here. Um they're different every week,
+which is great. But I can I can
+basically tell it and say um you know
+like it's create this it's created this
+doc x for me. um which actually is like
+it will be it's already like stored in a
+folder um on my computer which is great.
+Um and so what I can also do is like I
+can spin off two parallel tasks. So here
+I can say like okay cool like these are
+great insights
+um
+but what are uh product features
+I should actually build from this?
+&gt;&gt; Yeah. And then what I might also do in
+parallel is you know it's already
+attached to this folder that that this
+output has been dropped into. I could
+say okay given the insights
+in this folder from the
+um insights
+doc you made me uh turn this
+into a presentation
+I can share with the team this week at
+our kickoff.
+&gt;&gt; Mhm. So, in one in one thread it's like
+making me an artifact. The other one
+it's starting to actually like figure
+out what to do next. Um, and I think
+this is going to run for a bit too. But
+ultimately what I can do from here is
+like start the design process
+essentially like it will give me options
+for um what the features I can create.
+And from there I can even ask Claude to
+like create some wireframes for me for
+those given features. And that could be
+a really good place where it it just
+shows me a bunch of different options
+and I can take those bring those with me
+to Figma and actually like start to
+flush them out or like or bring them
+with me to uh to cloud code and start to
+make them like real with our like real
+design system components and just like
+get started from there. And then the
+other thing I can also do too is just
+like t take these and like turn them
+both into scheduled tasks.
+&gt;&gt; Yeah.
+&gt;&gt; So exactly
+&gt;&gt; I can say actually I probably wouldn't
+start from here. I would once this is
+done running I would say okay like
+schedule this for me.
+&gt;&gt; Um I don't want to disrupt while it's
+doing this thing. Uh but I would
+probably just like have it structure
+schedule this task for me to do it every
+Monday morning at like 10 a.m. or
+something. And then that way I start
+every Monday morning at 10 am with this
+presentation and with like you know
+three different product ideas that I can
+use um and can kick up kick off the week
+for and it just makes that sort of like
+iteration cycle um between feedback to
+actually creating something that's
+tangible or an idea that the team can
+look at just really it squishes that
+time to be really tight and it helps us
+just iterate on the product quickly and
+make it much better quickly.
+&gt;&gt; Yeah. It's all about iteration. It's all
+about iteration. Yeah.
+&gt;&gt; Yeah. Um,
+&gt;&gt; yeah.
+&gt;&gt; Yeah. And you know what? Like I I've
+also gotten so lazy like I always let AI
+take a first cut everything and then I
+just kind of react to it.
+&gt;&gt; Yeah. So So if you actually want me to
+take those insights and try to draft
+like some sort of a feature priority
+from scratch, it'll take me like way
+longer than it used to take.
+&gt;&gt; Yeah. Yeah. I mean that's how I operate
+too. Like even even when you sent me
+over like uh the notes for this podcast,
+I was just like I you know I I keep a
+folder of like all of my personal notes,
+whether it's like things from one ones
+or things from um just like random
+thoughts and then I was just like cool
+like you know read my personal notes and
+like like come up with with speaking
+points for for this podcast um and and
+and help me think about what I want to
+say here. And it I mean I I'm not going
+to I'm not reading it word for word or
+anything, but it just helped me jog my
+mind in terms of like, oh cool, like
+these are the things that I I care about
+and and and I didn't have to think that
+hard to to to to actually like uh or
+like helped evolve my thinking instead
+of just like being stuck there with the
+blank page problem.
+&gt;&gt; Yeah. Yeah. Yeah.
+&gt;&gt; Yeah. Okay. So, it's doing the thing
+where it's it's specking and telling me
+what the P 0's and P1's are. Um, you
+know, so if I, let's say, like I want to
+build out the step-by-step progress, uh,
+task progress UI, I can just say like,
+uh, I like the step-by-step prog Oh, the
+step-by-step progress UI
+idea. Um, make me an interactive
+prototype of that. um of a few options
+of this and do it in a scratchy
+wireframe style.
+&gt;&gt; Scratchy.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Got it. Okay. Okay. So, so it has
+context of what co-work looks like now
+or
+&gt;&gt; uh this probably doesn't because I
+haven't set it up to have that.
+&gt;&gt; Um but it will just I think based on
+like the context here and whatnot, it
+will it will try its best. And it it
+feels pretty isolated too. So I don't
+think I have to show it like okay this
+is what co-work looks like but I could I
+could upload you know like an image um
+and also uh you know give it this like
+anthropic branded skill that we have um
+to to make it look more on theme.
+&gt;&gt; Do you have any uh yeah like that's my
+next question like what kind of skills
+you use or do you have any personal
+skills
+&gt;&gt; uh for like making these docs and slide
+slides? Yeah. Uh we have a few internal
+skills that we use for some of these
+like docs and slides because um it helps
+brand them. I actually don't have like a
+personal skill like library that I use.
+Um I've been mostly borrowing from the
+ones that we have internally and using
+them for different purposes.
+&gt;&gt; Okay. Okay.
+&gt;&gt; Yeah.
+&gt;&gt; Cuz Yeah. So like for example, I have a
+skill like a writing skill
+&gt;&gt; that just tries to tell them not to like
+make AI slop words like just
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Yeah. you know, so that helps a little
+bit. But yeah.
+&gt;&gt; Yeah. I I've actually found that like
+now with this is probably not like the
+the best practice and the most efficient
+thing to do, but with um with co-work
+like folders I have with all these like
+personal notes and whatnot, it's uh sort
+of like learning about me from those
+folders has been really useful to a in a
+way to me where it's like it I I feel
+the need less for for things like memory
+and for skills because it sort of has
+this knowledge base about me already. Um
+even though I think there's still a
+there's still a time and place for
+skills, but I personally for for the use
+cases that I've had have h felt like
+less of a need for them.
+&gt;&gt; Oh, because it it just updates as a
+memory every day based on what your
+conversations.
+&gt;&gt; Yeah. Or it's it's Yeah. And it's
+basically like that is like a memory
+that almost that I I maintain of it
+because I'm taking notes in it all the
+time.
+&gt;&gt; Yeah.
+&gt;&gt; Got it.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. This is great. It looks like your
+presentation is ready. Just like a
+thought.
+&gt;&gt; My presentation is ready. Let's see if
+it is. Oh, it is. Um, okay, cool. So,
+it's made this presentation. It will
+load a little bit. Um, yeah. So, I think
+you know with this you could take it
+into into Keynote or whatnot. Um, it did
+I didn't ask it to use anthropic skill
+here, so it's sort of generic, but um I
+could. And then yeah, I think from here
+I would take this and I would say like
+like let's schedule uh yeah, do this
+every morning or every Monday morning.
+&gt;&gt; Mhm.
+&gt;&gt; At 10:00 a.m.
+&gt;&gt; Uh and and you can set up in a way where
+can you set up in a way where it
+actually shares with your team too, not
+just you like in Slack?
+&gt;&gt; Yes. Like I could I I I I could set it
+up with my like Slack MCP and have it
+just like send it out. Um, basically, so
+it's like I think I would what? Yeah. So
+I think it I also like how it asks me
+like clarifying questions here. So um it
+will what should this money let's say it
+rebuilds the deck.
+&gt;&gt; Yeah. So it'll it'll do that. Um Yeah.
+And then I could al ask it to um you
+know using the Slack MCP send it to a
+certain channel every every week.
+&gt;&gt; So so when do you bring your team into
+this process or or like you know
+&gt;&gt; like Yeah. When when do you actually
+because you're iterating with AI and
+then you go iterate with your team and
+you kind of go back and forth or how do
+you
+&gt;&gt; Yeah, I mean here like the the the
+actual like UXR interviews are like
+something that I pro I wouldn't you know
+like either the PM or the researcher on
+the team or somebody else would on the
+team would actually do. Um and then we
+would and then through this you probably
+just like share the artifact and bring
+them in. Um and and then and then that
+this actually could become the the thing
+that the team operates off of, you know,
+like it's like, oh, you know, the the
+team, at least our team is pretty
+bottoms up and and like democratic in
+that way. And so giving the way we
+operate is like we just give people the
+insights and the goals and then
+everybody sort of uh like goes off and
+like makes prototypes and try stuff out
+and ideas come from everywhere. And so
+that's what the the handoff point is.
+It's like it's like it's less of like oh
+like me as the designer I will come up
+with all the ideas but it's like hey
+here are you know anybody can do this.
+It doesn't have just have to be the
+designer either. It's like here are the
+insights. Here's what we're trying to do
+this month and
+how can we all get there? Like how can
+we all meet this goal together?
+&gt;&gt; Yeah. Maybe just give like half task to
+to cloud to to create a PR for and then
+with the more complicated ones you can
+like try to handhold it.
+&gt;&gt; Yeah. I mean, yeah. I I I think with
+this we we still wouldn't hand it like
+directly to Claude um to to to do all
+the stuff. Like there a lot of what we
+do is I think we rely on ourselves for a
+lot of our own judgment and our ability
+to like curate and decide what to
+actually build and do
+&gt;&gt; and and like you know people talk about
+taste and stuff and judgement online.
+Like I don't know about you, but like I
+I feel like the way to build this stuff
+is is just to yeah like just just get
+the fire hose of product feedback from
+internally and externally
+&gt;&gt; and then you just kind of develop the
+sense of like what's broken that needs
+to be fixed because just hearing
+feedback all day long. So you kind of
+know.
+&gt;&gt; Yeah. Yeah. Yeah. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; So this one I think Yeah. You know it'll
+have created the these like basically
+kind of wireframey type things and
+&gt;&gt; Got it.
+&gt;&gt; Yeah. And I think it's like it'll show
+you different options and stuff like
+that. And I think I am as a designer, I
+like to just like see a lot of options
+even if they're like not super high
+fidelity um versus like imagine them and
+and that helps me decide like what to
+actually do. So yeah, I think having
+Claude just like come up with the
+options saves me like a step from just
+having to mock them up. Even though from
+here what I would probably do is like
+choose one of these directions and then
+like start to like micro iterate on it
+or even take this and and make a
+prototype of it in code and then iterate
+from there.
+&gt;&gt; Got it. Okay.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Wow. It sounds like a fun job. Yeah.
+&gt;&gt; It's a fun job.
+&gt;&gt; Sounds fun. Let's switch topics a little
+bit and um
+&gt;&gt; let's talk about how co-work came to be,
+you know. So, so like um there there's a
+bunch of stuff out there about how it
+came together in 10 days.
+&gt;&gt; Yeah.
+&gt;&gt; But but I think it's actually there was
+a lot of iteration before that too,
+right? Or like
+&gt;&gt; Yeah, that's a that is one of those
+things that I think got pulled out of a
+quote somewhere on on somebody else's
+like uh uh interview or or press tour
+and I think everyone just anchored onto
+it like oh they made it in 10 days. Um
+and the actual like the actual story is
+that
+co-work or this like direction of
+co-work has been something that uh the
+company has been like thinking about or
+like wanting to do for honestly like
+basically ever since I joined Anthropic
+um about a year ago. like just some way
+to help and and be sort of like a
+thinking partner for not because like
+since we already have this basically for
+code but for like all general knowledge
+workers. Um and I think a lot of it has
+just been like how do we execute on it
+and what is the right you know
+architecture for it and what is the
+right UX for it.
+&gt;&gt; And so even throughout last year like
+there's been like lots of different
+prototypes some more ambitious than
+others. Um there's been a lot of
+different um like technical
+experimentations around like different
+agent harnesses that we've used. A few
+that didn't pan out super well um before
+we landed here. And uh we've seen
+prototypes from people in our sort of
+like labs wing but also like prototypes
+that we built on the product side of the
+house. Um, and I think about like a lot
+of these things it's just about, you
+know, if the idea keeps coming back and
+there's like energy each time, but then
+it's like the execution. Often it is
+just about like timing and execution
+just like the lightning striking really
+well. So, um, when we did decide to ship
+this, it was basically 10 days from
+like, oh yeah, we should ship this to
+like, okay, it's shipped kind of thing.
+Um, and a lot of that was like building
+on the momentum of um, what we were
+seeing with Claude Code um, over the
+holiday break where it feels like over
+the holiday break, you know, everybody
+finally had the time to try out Cloud
+Code because they've been hearing about
+it. They're like, "Okay, it sounds
+great. You know, there's all these AI
+tools. I don't have any time to try it."
+But then for some reason, everybody
+tried it out. And then a lot of also
+like people with nontechnical use cases
+tried it out. like people were using it
+to um like do things like parse their
+podcast transcripts or they were using
+it to um do all these like complex
+analyses and stuff like that. Um, and we
+were starting to see like even like
+early product market fit of like the
+claw code basically like agent harness
+with nontechnical people and so we
+already had this sort of like working
+prototype of that internally um and we
+were slated to la to launch it a bit
+later but I think that gave us the we
+were like this is the moment we need to
+meet it and um even if we don't have the
+perfect product yet um we should get
+something out there because we think
+that like the benefits and the
+usefulness and our our moment to like
+capture this audience. It is right now.
+Um, and so that's that's that that
+ensued a really hectic 10 days. Um, but
+it it got us here and now that it's out
+here, it's been really really helpful
+for us to get the signal from people of
+how to you of how they use it and
+iterate on it and and keep making it
+better for people.
+&gt;&gt; Yeah, you can learn way faster like you
+just I I guess the research preview is
+like the new beta.
+Yeah,
+&gt;&gt; you can learn way faster. Yeah.
+&gt;&gt; Okay. Okay. So basically, so if I
+understand there's even over the past
+year, there's a bunch of like people
+sharing prototypes in Slack internally
+and then
+&gt;&gt; you know people leaving feedback and
+then eventually
+&gt;&gt; you had a working prototype and then
+because the market kind of demanded it,
+you kind of just like rush you kind of
+just like did a sprint
+&gt;&gt; to make it happen.
+&gt;&gt; Yeah, basically. And like I we were
+originally going to launch this a few
+weeks later anyway, but it it felt like
+oh this is the moment and it sort of
+forced us to scope it in a way that was
+a little bit more realistic. um and like
+a and and just like put energy behind it
+and staffing behind it.
+&gt;&gt; And can you can you share some uh early
+iterations or any kind of like work in
+progress stuff?
+&gt;&gt; Yeah. Um yeah, I pulled together a few
+screens of what it actually looks like
+or or some like design iterations to of
+it. There's obviously like a there's a
+lot more but um this is what I can show
+you. Okay. Uh so uh we had like an
+earlier prototype in the year. Um and
+this is actually something that another
+designer and I collaborated on. Um but
+we actually tried to make this sort of
+feel a little bit more like task
+oriented or like workflow oriented. Um,
+and I think also we were really worried
+at that time like oh like claude is or
+people are not going to understand that
+with a product like coowork that they're
+going to be able to you know do certain
+things or like make certain basically
+like outcomes like make a dashboard or
+something and gather sources from a
+bunch of different um places. And so we
+actually made this the uh the um the UI
+much more structured and almost like you
+would like a workflow tool where it's
+like hey add these things like this is
+these are the inputs and these are the
+outputs. Um, and then we made chat sort
+of secondary here. And I think when we
+did this, like one, Claude was like not
+great at sort of following the workflow
+exactly at that point given the the
+technology that we had. And it felt like
+way too structured. Like I think seeing
+this UI on the left where you sort of
+have to fill it out and like add all
+these different sources.
+&gt;&gt; It didn't feel good, you know?
+&gt;&gt; Yeah. Too much work.
+&gt;&gt; And it was just felt like a lot of work.
+And it was like why do we have to do
+this in this day and age in 2025 when we
+can just like ask Claude to do something
+for us.
+&gt;&gt; Got it.
+&gt;&gt; Um and so that was one iteration that
+was actually a part of like a different
+prototype.
+&gt;&gt; Mhm.
+&gt;&gt; Yeah. Got it.
+&gt;&gt; Um and then we originally were just like
+we eventually were like okay cool like
+it's going to be a chat box. Um and we
+tried to do a thing where we guided
+people towards like more specific
+outcomes like whether it was like
+analysis or documents. Um, and we built
+this like this working prototype that I
+wish I had a screenshot of where each of
+these like when you clicked into them,
+they almost had like different dials for
+you to like adjust the length of the
+document or I see or or you know like
+the type of document like memo,
+presentation, whatever. Um, and that
+felt like really overwhelming as well, I
+think. Um, and so a big thing we were
+trying to balance with a lot of these
+explorations was like how prescriptive
+of the use cases are we versus like free
+form like a chat box.
+&gt;&gt; Got it.
+&gt;&gt; Um, and then the the what we actually
+ended up shipping with just a few weeks
+ago, a few months ago, um, was something
+like this, uh, where again we we did
+have this like sort of like almost
+wizard-like experience where you'd click
+through and it' be like, oh, create a
+doc, make it three to five pages, etc.,
+etc. Um, and we also just showed a bunch
+of the UI up front because we wanted it
+to feel like really differentiated from
+chat. Um, but then I think when you come
+here, it just felt like there was a lot
+of competing visual elements. Um, and so
+over time like we we stripped most of
+this back. Um, and and and we went away
+from this actually like really
+opinionated UI because
+uh it was actually like not helpful to
+show all these things. Um, and so yeah,
+it's this constant balance of like how
+much do we tell people how to use what
+to use it for versus like leave it
+really free form for them. Um, and so
+now actually like if you look at the
+current UI, which I'm just going to
+switch if you look at the current UI,
+yeah, like a lot of it is really peeled
+back. Um, we don't have we don't we're
+not showing these like heavy sidebars.
+Um, and it feels more like the
+traditional like sort of chat box, but
+we we sort of have we've reformatted the
+homepage to feel more almost like it's
+Claude's active to-do list. Um, so here
+I only have like one active task, but
+you know, at any given time I could have
+like many more, you know, like if if I'm
+really asking Claude to do stuff or if
+I've like, you know, given Cloud a bunch
+of tasks and come back, I'll have a
+bunch of these where it'll be like,
+okay, there's an extra message. Um, or I
+could review this. And here I can
+actually just like approve and triage
+these tasks. So it's like, yeah, let's
+schedule that. Um, and then I I'll see
+my schedule tasks here. And the idea is
+that it yeah, it just feels much more
+like a shared to-do list between you and
+Claude as opposed to this chat box with
+like a bunch of overwhelming suggestions
+and and UI to sort of show you how to
+use it.
+&gt;&gt; Got it.
+&gt;&gt; Yeah,
+&gt;&gt; that that's awesome. That's awesome. And
+and maybe in the future it can be like
+uh you know like you have like multiple
+agents and they can have like a treddle
+board. You can you can like move tasks
+around and stuff like that. you like.
+&gt;&gt; Yeah. I mean, maybe,
+&gt;&gt; maybe. Yeah. Maybe by the time this
+podcast come out, you have updated the
+UI again.
+&gt;&gt; Yeah. Yeah. Maybe, maybe. Yeah. But I
+think that also shows hopefully that
+shows too like the UI looked so
+different just like, you know, maybe
+like four or five weeks ago and and now
+it's like we're constantly learning like
+what's working and isn't working, but
+we're also learning best about how to
+like display this technology to people.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Yeah, you know, it's really
+interesting like um for clock code like
+I I I've been leaving I've been like
+tweeting some feedback about like
+because there's so many different like
+slash commands and stuff that you can
+just like learn it. It's almost like
+it's almost like uh going to Costco to
+to do like a treasure hunt. Like you
+never know what you find,
+&gt;&gt; but like but like it's not very beginner
+friendly, right? It's it's just like
+it's like a game where you like learn
+more and more and you kind of master it.
+I think maybe for co-workers trying to
+find the middle ground between between
+the regular chat and the clock code so
+that it's not like all the things are
+hidden like but but like you know you
+try to guide people in some way.
+&gt;&gt; Yeah. I mean we you're still able to use
+slash commands in co-work but they're
+not like the primary way in which you
+interact. And I think the way that at
+least I personally think about it is you
+know at least co-work is also a tool for
+professionals and um we sort of see a
+bunch of people use it in very power
+usery ways and there are already power
+users of it. So a lot of people will be
+motivated to learn much more complex
+capabilities right like they will be
+willing to create their own skills share
+them with their team etc. and also want
+shorthand, you know, commands for
+things. But most all these things should
+be possible without having to do that
+learning as well. Um, and and and those
+sort of commands should be a secondary
+way to interact with Claude and and and
+you shouldn't have to know all the
+commands in order to use it.
+&gt;&gt; Yeah, that that makes sense.
+&gt;&gt; Yeah.
+&gt;&gt; Okay. All right. Just a couple closing
+qu questions, I guess. Um, so um how
+does uh planning work at Anthropic? It
+seems like a pretty chaotic place. Like
+do do you guys do um do you guys do like
+annual planning and like you know
+setting goals and stuff or is it more
+just like prototyping and trying it out?
+&gt;&gt; Uh I mean it also changes every time we
+do planning. Like I feel like every time
+we've done it it's been very different.
+&gt;&gt; Um on the team that I am on we do
+monthly planning. We we just we have a
+spreadsheet and it I think it at least
+in in the co-work section there's maybe
+like max like 12 things in that list and
+it's really truly our P zeros and then
+for each of them they just have one
+single DRRi and it's like and then we
+just come back each week and we're like
+are we on track or not? Um there is some
+amount of like quarterly or half
+planning that we'll do where I think
+usually one of the leads will be like
+hey this is like generally where I think
+we should go um and these are the things
+that we should work on but it's not so
+structured where it's like we absolutely
+have to do these things and these are
+the projects. It's sort of like just
+giving everyone a picture of how things
+might fit together. Um
+&gt;&gt; okay.
+&gt;&gt; Yeah. Yeah. So it's pretty loose.
+&gt;&gt; It's pretty loose, right? Yeah, you
+know, you know that that that's the
+funny thing I find because like you
+know, Anthropic is one of the most
+innovative companies, but I find at the
+most innovative companies is less about
+trying to do this annual planning
+theater and more just about like
+iterating and like learning from the
+users like like do do you still make
+like um like at some point in your
+career probably made like a Northstar
+vision deck or something, right? Like
+like do you think that stuff is useful?
+&gt;&gt; Yeah. Yeah. Yeah. Yeah. I mean I like I
+think we did I made a Northstar vision
+deck maybe last year. Um
+&gt;&gt; yeah,
+&gt;&gt; so we
+&gt;&gt; I think there is still room for these
+visions in that
+&gt;&gt; they point people towards something and
+make create clarity around what we're
+going to do. I think given though where
+at least I work, you know, like we this
+technology like literally changes all
+the time and there's new models all the
+time and the the rate at which new
+models is coming out is like just faster
+and faster basically. Um, I think
+there's no such thing as like, yeah, a a
+one-year vision. Um, let alone a two or
+five year vision for us because there's
+so much that's unknown out there. Um,
+but what actually is helpful still is
+like pointing people towards the same
+direction, especially when like anyone
+can build anything. So, what I think
+about as visions now is just more like
+yeah, it's like three maybe maximum six
+months, but a vision can be it can be a
+document. Um, I think it's more helpful
+when it is visual. So, I do think this
+is like where design still has like a
+ton of power is being able to piece
+things together and make it coherent in
+a story for that period of time. But, it
+can also be a prototype. Um, like it
+doesn't need to be like, yeah, this like
+deck that's static. It can be a
+prototype that just sort of helps us. I
+think often what what what it helps us
+do is like we often have, you know, five
+teams working on something like very
+similar or things that collide um or
+might feel duplicative. And what design
+can really do is like curate and help
+bring cohesion to those ideas and show
+us a path towards like making that an
+ideal experience as opposed to five
+disparate ones.
+&gt;&gt; Yeah, that that makes sense. That makes
+sense. And and how about like with um do
+you guys have like reviews of AMI and
+like for folks like that? Like is there
+like formal reviews or they're also like
+playing with the prototypes too?
+&gt;&gt; Uh no we do still have reviews. Uh I we
+don't have them for you know I've been
+at companies where we have them for like
+every single feature and whatnot. Um it
+happens for sort of like bigger you know
+higher priority projects. Okay.
+&gt;&gt; Um but it doesn't feel like it is it is
+a big
+&gt;&gt; sort of like thing you have to prepare
+for and spend so much time on. Um, it's
+mostly for that visibility and for that
+feedback. And if there's things that
+sort of cross are our are big and have
+like big companywide implications, we
+we'll have those reviews. Yeah.
+&gt;&gt; Got it. Okay. Well, I mean, do you have
+any closing words of advice for
+designers who maybe like, you know, they
+kind of feel like the ground is shifting
+under their feet? Like should they start
+like submitting PRs or like what what
+what should designers do?
+&gt;&gt; Yeah. I mean, if you feel like the
+ground is shifting beneath your feet,
+it's because it is, you know, it's
+because it is. Um, and I think at this
+point, you have to just accept that, you
+know, and and then and sort of adapt to
+it and just be really open towards like
+questioning the way that we work
+already. Um I I think it's it's coming
+for it's coming for designers right now
+and I think we're feeling it today a lot
+because a lot of like the roles around
+us have changed already and we're like
+the second tier effect for it. But also
+I think the the tooling for us is also
+changing. Um and whenever I feel sort of
+like sometimes I am like sort of
+threatened. I'm like oh my gosh my job
+is change is changing a lot. Like I I
+people don't value me in the same ways
+that I I used to be valued. But then I
+think about like my engineering peers
+and how much that they have already
+adapted towards how much their job has
+changed and how like valiantly they've
+they've they've gotten through it and
+how much they are still they're they're
+producing even better and more work
+today. And so I look at them as
+inspiration like oh like if if all these
+people that I really respect can do it
+and do it in a way with such humility
+then I can too. Um and and and I sort of
+see them as a model for like what's
+coming next for me.
+&gt;&gt; Yeah. in some ways you get rid of this a
+lot of like mundane and busy work like
+moving boxes around that you don't have
+to do anymore, right? Like hope so you
+can actually focus on higher level
+thinking and you know that kind of work.
+&gt;&gt; Yeah. Or just producing more work too,
+you know, like I I think I I think about
+how much my engineers are capable of of
+right now and I'm like yeah that's
+that's wild. Like they're they're
+they're creating entire features in days
+not weeks these days. So yeah.
+&gt;&gt; Yeah. But the funny thing is you don't
+actually get more free time. You
+actually work harder.
+I mean, like, it's because I think we're
+all really ambitious and we like it's
+like a high. You're like, "Oh my gosh, I
+can get so much done now and I and I
+don't have to do the stuff that I didn't
+like doing before and so
+&gt;&gt; let me do more, you know?"
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. No, that that's good. That makes
+more job more fun.
+&gt;&gt; Okay. Well, well, thanks so much, Jenny.
+This is awesome. Awesome. I feel like
+we've been talking online for a lot and
+uh I finally got to talk to you. Yeah.
+It's been great. It's been great to have
+this conversation.
