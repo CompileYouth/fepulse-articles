@@ -1,0 +1,260 @@
+原文： https://www.youtube.com/watch?v=NwDa4m6sSGw
+
+at unprecedented scale. Next speaker is,
+ladies and gentlemen, Mr. Alexander
+Wong, chief AI officer at Meta, the
+founder of Scale AI. Alexander Wong
+built the data infrastructure that
+powers much of the modern AI industry
+before joining Meta as chief AI officer.
+So, with a round of applause, please
+welcome Mr. Alexander Wong.
+Thank you so much for having me.
+Namaste. Uh, it's fair to say my
+upbringing wasn't typical. My parents
+were physicists in a town called Los
+Alamos in New Mexico. Los Alamos is a
+government lab town where for decades
+scientists have come to push the
+boundaries of what's possible in
+mathematics and supercomputing in human
+genome studies, vaccine research, space
+explorations, and material science. My
+mother studies how plasma behaves inside
+stars. At the dinner table, we talk
+about physics problems, scientific
+trade-offs, the reasoning behind how
+systems work. One kid in my town made
+huge balls of plasma in their garage for
+a science fair project. You know, normal
+high school stuff. Growing up in a place
+like Los Alamos leaves two things deeply
+ingrained in you. A belief that anything
+is possible and that science should
+serve society.
+Those ideas are what led me to study AI
+while I was I was at college at MIT.
+They led me to start my own company,
+Scale AI. And last year they led me to
+Meta where I am now the chief AI
+officer.
+If you believe that anything is
+possible, Meta is one of the few
+companies with the resources, talent,
+and ambition to push the science of AI
+forward at scale.
+If you want to make technology that
+serves society, Meta has an incredible
+opportunity to get this technology into
+people's lives. Three and a half billion
+people use at least one of our apps
+every day. That blows my mind. It's more
+than half a billion people in India
+alone. People are already using our AI
+to do amazing things. Across India,
+creators use our AI to automatically
+translate reels into the language of the
+person watching. Small businesses talk
+to customers through WhatsApp business
+agents that they create in 10 minutes on
+their phones, and they use our Genai
+tools to create ads and reach customers
+way more efficiently than they ever
+could before. And India has world-class
+developers building genius things to
+solve societal challenges.
+For example, there are more than 20
+million people with disabilities in
+India who are locked out of education,
+jobs, and digital services because the
+digital world wasn't designed for them.
+So, I stem built voice first AI powered
+infrastructure that helps people with
+disabilities to learn, discover careers,
+and complete digital tasks
+independently, like converting textbooks
+into usable formats or giving
+personalized career guidance that takes
+into account their disability. In
+healthcare, researchers at Ashoka
+University used our SAM 3 model which is
+trained on billions of natural images to
+speed up the identification and
+segmentation of cancer tumors and at
+risk organs. Their model ENOSAG can help
+radiologists and radiology oncology
+teams do in seconds what it takes to do
+manually.
+The beauty of generalpurpose models is
+the same technology that can segment
+tumors in the brain can segment leaves
+to help farmers assess the health of
+their crops as Agri Point has done.
+We recently open sourced our omnilingual
+models which recognize speech across
+more than 1,600 languages and can
+rapidly adapt to new languages with just
+a few audio samples.
+It's not a fantasy that in a few years
+we'll have real time voicetovoice
+translation for every spoken language on
+earth. Now build that into your glasses.
+Real-time translation in any language
+just for you. That's transformative.
+Perhaps most especially in countries
+like India where so many languages are
+spoken.
+In fact, language is an area where we're
+collaborating with the Indian government
+on through its AI coach platform. We're
+providing data sets in 10 major Indian
+languages so people can build AI models
+that deeply understand Indian languages
+and contexts.
+I'm sure you're used to people from big
+tech world making lots of grand but
+vague assertions about what AI will be
+able to do. But we don't have to be
+vague. People use our AI right here,
+right now. They're getting value from it
+and they're building amazing things with
+it. And that gives us confidence about
+what we're building towards. We're
+releasing new models this year with the
+first coming in the next couple of
+months. These will be deeply integrated
+with our products in a way we're really
+excited about. We're optimistic about
+the trajectory we're on. The first
+models will be good and as the year goes
+on, I think we're going to be pushing
+the frontier.
+Our vision is personal super
+intelligence.
+AI that knows you, your goals, your
+interests, and helps you with whatever
+you're focused on doing. It serves you,
+whoever you are, wherever you are.
+We all lead busy lives. I'm sure you'd
+want to do more if only you had the time
+and head space. That's how I think about
+personal super intelligence. Say you
+want to be healthier. Your personal AI
+could help you see through a personal
+health plan covering diet, exercise, and
+sleep, and your daily routine.
+or you have a project you'd like to get
+done, like putting on an event, it can
+track your progress, reach out to
+venues, arrange invites, remind you of
+things you haven't considered, and more.
+If you love to go fishing or paint or
+want to travel more, it can help free
+you up so you can do more of these
+things. And it can give you advice when
+you need it and or help you show up as a
+better friend or in your community.
+It won't just do your admin. It'll be an
+extension of you so you can be you more.
+I get that some people will worry
+uh what companies that what companies
+like Meta really want is to get you
+hooked and leave you passively staring
+at screens, but the whole point of
+personal super intelligence is the
+opposite. It's about helping you be more
+active in your life, in pursuing your
+goals, and deepening your relationships.
+I know people are going to be skeptical
+when I say we're doing we're going to do
+this work responsibly. But you don't
+have to take us at our word, take us at
+our incentives. This is a competitive
+space, which is why we're seeing so much
+innovation. Given how intimately your
+personal AI will know you, people aren't
+going to hire us for the job if we're
+not doing it responsibly.
+Our AI needs to work the way we say it
+does, as well as we say it does, and as
+safely and as securely as you need it
+to. It needs to help you in your life.
+And if it doesn't, people simply won't
+use it. We'll lose customers. We'll lose
+public trust, and we'll lose out to our
+competitors.
+That's why we're transparent about our
+models. We publish model cards and
+evaluation benchmarks and data so you
+can see how they work, their intended
+use, and how we assess their
+performance. And as they get more
+advanced, we're looking at ways to share
+even more. It's why we invest in the
+science of model evaluation, both
+improving the existing tests and
+building new ones for risks we haven't
+yet confronted.
+And it's why over many years, we've
+developed ways to identify and mitigate
+potential risks before we release a
+model through risk assessments, scaled
+evaluations, red teaming, and
+fine-tuning. And we can monitor
+aggregate trends in how people use AI in
+our apps. So we have a feedback loop
+that can flag potential risks and help
+us improve our models.
+As the models improve, the governance
+around them has to keep pace. So we're
+innovating with how they learn and apply
+principles and how they're tested and
+evaluated using AI to strengthen checks
+and balances.
+Realizing the full promise of AI is as
+much a matter of getting policy right as
+it is investment.
+There are four building blocks for AI.
+Talent, energy, data, and compute.
+Governments and industry need to work
+together
+to make sure there's access to each so
+we can realize AI's potential and do it
+in a way that means you can build for
+your needs, not ours.
+That's in part about having bold
+national AI strategies and policies that
+encourage innovation, not patchworks of
+inconsistent regulations that make it
+harder. But above all, it's about
+collaboration between public and private
+sectors to deliver these four building
+blocks and to design and deploy AI that
+works for your citizens and your
+economies.
+I don't want these amazing technologies
+to be one-sizefits-all. I want them to
+serve your needs designed for the
+challenges and opportunities that are
+unique to India to societies across the
+global south and all over the world. I
+want them to serve you as an individual.
+No matter who you are, where you live,
+what language you speak, or what culture
+you're a part of. That's only going to
+be possible if the public and private
+sector are on the same side. We need to
+be partners working together in a spirit
+of openness and collaboration
+and with a sense of shared ambition. I
+truly believe we're on the cusp of a
+moment where really anything is
+possible.
+We want to work with you to build AI
+that serves our societies. I hope you'll
+work with us. Thank you.
+&gt;&gt; Thank you, Mr. Alexander Wang, our
+heartful gratitude to you for your
+remarks, for sharing your findings as
+well. And well your vision for AI and
+innovation, it does inspire many
