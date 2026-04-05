@@ -1,0 +1,19 @@
+# Link Batch 2026-03-31 10:53:21
+
+- mode: direct
+- lookback_days: 0
+- generated_at: 2026-03-31T10:53:21.683924+08:00
+- since: 2026-03-31T10:53:21.683924+08:00
+
+## Items
+
+| Status | Upload Date | Source | Title | URL |
+| --- | --- | --- | --- | --- |
+| error |  | Direct Input |  | WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107a967b0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x1079f65d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x1079f6d50>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download webpage: <urllib3.connection.HTTPSConnection object at 0x1079f7110>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x1079f7110>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")). Giving up after 3 retries
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x1079f7390>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x1079f6fd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x1079f6c10>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+ERROR: [youtube] lIJelwO8yHQ: Unable to download API page: <urllib3.connection.HTTPSConnection object at 0x1079f6850>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x1079f6850>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")) |

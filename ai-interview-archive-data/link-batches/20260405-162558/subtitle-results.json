@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260405-162558/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "Eric Schmidt on the Robotics Race, Singularity Timeline, and Energy Shortage | 241",
+      "url": "https://www.youtube.com/watch?v=DpwmmXmzvfo",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-eric-schmidt-on-the-robotics-race-singularity-timeline-and-energy-shortage-241.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-dcxxbaj5/DpwmmXmzvfo.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-dcxxbaj5/DpwmmXmzvfo.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260324-eric-schmidt-on-the-robotics-race-singularity-timeline-and-energy-shortage-241.txt",
+      "status": "ok"
+    }
+  ]
+}

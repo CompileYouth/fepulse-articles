@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260331-102644/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "Retired Amazon VP How Corporate Politics Work And How To Win | Ethan Evans",
+      "url": "https://www.youtube.com/watch?v=6WaeGfLnRvc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260330-retired-amazon-vp-how-corporate-politics-work-and-how-to-win-ethan-evans.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-wtlhqq3_/6WaeGfLnRvc.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-wtlhqq3_/6WaeGfLnRvc.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260330-retired-amazon-vp-how-corporate-politics-work-and-how-to-win-ethan-evans.txt",
+      "status": "ok"
+    }
+  ]
+}

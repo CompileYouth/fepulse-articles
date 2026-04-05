@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260330-121649/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler • GOTO 2020",
+      "url": "https://www.youtube.com/watch?v=GBTdnfD6s5Q",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20200903-when-to-use-microservices-and-when-not-to-sam-newman-martin-fowler-goto-2020.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-7zrktlja/GBTdnfD6s5Q.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-7zrktlja/GBTdnfD6s5Q.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20200903-when-to-use-microservices-and-when-not-to-sam-newman-martin-fowler-goto-2020.txt",
+      "status": "ok"
+    }
+  ]
+}

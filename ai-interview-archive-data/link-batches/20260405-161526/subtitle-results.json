@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260405-161526/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "The Power and Responsibility of Sam Altman",
+      "url": "https://www.youtube.com/watch?v=mJSnn0GZmls",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260402-the-power-and-responsibility-of-sam-altman.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nea0pft_/mJSnn0GZmls.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nea0pft_/mJSnn0GZmls.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260402-the-power-and-responsibility-of-sam-altman.txt",
+      "status": "ok"
+    }
+  ]
+}

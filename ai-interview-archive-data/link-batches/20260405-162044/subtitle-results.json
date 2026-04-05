@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260405-162044/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "How AI Agents Are Creating 12X Productivity Gains",
+      "url": "https://www.youtube.com/watch?v=-pZ3vD0r8a0",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260327-how-ai-agents-are-creating-12x-productivity-gains.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-dwqyzvmx/-pZ3vD0r8a0.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-dwqyzvmx/-pZ3vD0r8a0.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260327-how-ai-agents-are-creating-12x-productivity-gains.txt",
+      "status": "ok"
+    }
+  ]
+}

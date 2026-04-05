@@ -1,0 +1,22 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-03-31T10:26:44.752795+08:00",
+  "since": "2026-03-29T10:26:44.752795+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Retired Amazon VP How Corporate Politics Work And How To Win | Ethan Evans",
+      "url": "https://www.youtube.com/watch?v=6WaeGfLnRvc",
+      "upload_date": "20260330",
+      "published_at": "2026-03-30T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260330-retired-amazon-vp-how-corporate-politics-work-and-how-to-win-ethan-evans"
+    }
+  ]
+}

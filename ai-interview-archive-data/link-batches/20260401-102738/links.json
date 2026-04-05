@@ -1,0 +1,38 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-04-01T10:27:38.100509+08:00",
+  "since": "2026-03-30T10:27:38.100509+08:00",
+  "items": [
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T00:00:18+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260401-this-startup-catches-fraud-at-scale"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "AI, Data Centers, and the Infrastructure Needed to Power Them | a16z",
+      "url": "https://www.youtube.com/watch?v=1n5xlfRLw3c",
+      "upload_date": "20260331",
+      "published_at": "2026-03-31T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260331-ai-data-centers-and-the-infrastructure-needed-to-power-them-a16z"
+    }
+  ]
+}

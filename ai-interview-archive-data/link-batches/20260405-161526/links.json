@@ -1,0 +1,19 @@
+{
+  "mode": "direct",
+  "lookback_days": 0,
+  "generated_at": "2026-04-05T16:15:26.066564+08:00",
+  "since": "2026-04-05T16:15:26.066564+08:00",
+  "items": [
+    {
+      "source_id": "direct-input",
+      "source_label": "Direct Input",
+      "source_type": "youtube",
+      "title": "The Power and Responsibility of Sam Altman",
+      "url": "https://www.youtube.com/watch?v=mJSnn0GZmls",
+      "upload_date": "20260402",
+      "published_at": "2026-04-02T20:31:05+08:00",
+      "topic_buckets": [],
+      "slug": "20260402-the-power-and-responsibility-of-sam-altman"
+    }
+  ]
+}

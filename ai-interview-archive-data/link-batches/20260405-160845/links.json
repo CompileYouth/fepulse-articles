@@ -1,0 +1,23 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-04-05T16:08:45.855110+08:00",
+  "since": "2026-04-02T16:08:45.855110+08:00",
+  "items": [
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+      "url": "https://www.youtube.com/watch?v=Oru2Jxr1xHU",
+      "upload_date": "20260403",
+      "published_at": "2026-04-03T18:00:41+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260403-ai-for-atoms-how-periodic-labs-is-revolutionizing-materials-engineering-with-co-founder-liam-fedus"
+    }
+  ]
+}

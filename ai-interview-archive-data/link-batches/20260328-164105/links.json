@@ -1,0 +1,23 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-03-28T16:41:05.438651+08:00",
+  "since": "2026-03-26T16:41:05.438651+08:00",
+  "items": [
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
+      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+      "upload_date": "20260327",
+      "published_at": "2026-03-27T22:00:55+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260327-fran-ois-chollet-why-scaling-alone-isn-t-enough-for-agi"
+    }
+  ]
+}

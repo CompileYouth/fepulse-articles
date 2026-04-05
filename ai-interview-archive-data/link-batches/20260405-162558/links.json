@@ -1,0 +1,19 @@
+{
+  "mode": "direct",
+  "lookback_days": 0,
+  "generated_at": "2026-04-05T16:25:58.041679+08:00",
+  "since": "2026-04-05T16:25:58.041679+08:00",
+  "items": [
+    {
+      "source_id": "direct-input",
+      "source_label": "Direct Input",
+      "source_type": "youtube",
+      "title": "Eric Schmidt on the Robotics Race, Singularity Timeline, and Energy Shortage | 241",
+      "url": "https://www.youtube.com/watch?v=DpwmmXmzvfo",
+      "upload_date": "20260324",
+      "published_at": "2026-03-24T23:47:54+08:00",
+      "topic_buckets": [],
+      "slug": "20260324-eric-schmidt-on-the-robotics-race-singularity-timeline-and-energy-shortage-241"
+    }
+  ]
+}

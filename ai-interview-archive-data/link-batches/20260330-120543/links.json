@@ -1,0 +1,15 @@
+{
+  "mode": "direct",
+  "lookback_days": 0,
+  "generated_at": "2026-03-30T12:05:43.860388+08:00",
+  "since": "2026-03-30T12:05:43.860388+08:00",
+  "items": [
+    {
+      "source_id": "direct-input",
+      "source_label": "Direct Input",
+      "source_type": "youtube",
+      "error": "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube] GBTdnfD6s5Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "url": "https://www.youtube.com/watch?v=GBTdnfD6s5Q&t=1129s"
+    }
+  ]
+}

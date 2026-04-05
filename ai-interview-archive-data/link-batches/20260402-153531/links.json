@@ -1,0 +1,96 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-04-02T15:35:31.996347+08:00",
+  "since": "2026-03-31T15:35:31.996347+08:00",
+  "items": [
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Scaling Uber with Thuan Pham (Uber’s first CTO)",
+      "url": "https://www.youtube.com/watch?v=3jjRNVfm3V4",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260401-scaling-uber-with-thuan-pham-uber-s-first-cto"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "Inside The Industry That Powers Every Business In America | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=5q0VER_rt0Q",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260401-inside-the-industry-that-powers-every-business-in-america-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "If SaaS Is Dead, Linear Didn't Get the Memo",
+      "url": "https://www.youtube.com/watch?v=8QcW9-dal0g",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260401-if-saas-is-dead-linear-didn-t-get-the-memo"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Retired Netflix Eng Director On The Best Engineer He's Ever Worked With",
+      "url": "https://www.youtube.com/watch?v=HJKjDtehiTo",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260401-retired-netflix-eng-director-on-the-best-engineer-he-s-ever-worked-with"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T00:00:18+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260401-this-startup-catches-fraud-at-scale"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Full Tutorial: Build a Beautiful Mobile App with Claude Code in 16 Minutes",
+      "url": "https://www.youtube.com/watch?v=oS53by4Hwvo",
+      "upload_date": "20260401",
+      "published_at": "2026-04-01T21:00:49+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260401-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes"
+    }
+  ]
+}

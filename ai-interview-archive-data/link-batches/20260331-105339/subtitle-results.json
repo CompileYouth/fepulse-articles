@@ -1,0 +1,16 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260331-105339/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "How Fast Will A.I. Agents Rip Through the Economy? | The Ezra Klein Show",
+      "url": "https://www.youtube.com/watch?v=lIJelwO8yHQ",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260224-how-fast-will-a-i-agents-rip-through-the-economy-the-ezra-klein-show.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-jw4b7qdj/lIJelwO8yHQ.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260224-how-fast-will-a-i-agents-rip-through-the-economy-the-ezra-klein-show.txt",
+      "status": "ok"
+    }
+  ]
+}

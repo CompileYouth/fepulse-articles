@@ -1,0 +1,19 @@
+{
+  "mode": "direct",
+  "lookback_days": 0,
+  "generated_at": "2026-04-05T16:23:31.300646+08:00",
+  "since": "2026-04-05T16:23:31.300646+08:00",
+  "items": [
+    {
+      "source_id": "direct-input",
+      "source_label": "Direct Input",
+      "source_type": "youtube",
+      "title": "FULL REMARKS: World’s Youngest AI Billionaire Alexander Wang Reveals How AI Will Amplify Humans|AQ1B",
+      "url": "https://www.youtube.com/watch?v=NwDa4m6sSGw",
+      "upload_date": "20260219",
+      "published_at": "2026-02-19T18:00:59+08:00",
+      "topic_buckets": [],
+      "slug": "20260219-full-remarks-world-s-youngest-ai-billionaire-alexander-wang-reveals-how-ai-will-amplify-humans-aq1b"
+    }
+  ]
+}

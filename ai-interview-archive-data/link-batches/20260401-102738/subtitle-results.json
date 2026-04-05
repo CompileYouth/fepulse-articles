@@ -1,0 +1,29 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260401-102738/links.json",
+  "results": [
+    {
+      "source_id": "y-combinator",
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-this-startup-catches-fraud-at-scale.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-jcxru6ry/JF6XIixstmQ.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-jcxru6ry/JF6XIixstmQ.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-this-startup-catches-fraud-at-scale.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "AI, Data Centers, and the Infrastructure Needed to Power Them | a16z",
+      "url": "https://www.youtube.com/watch?v=1n5xlfRLw3c",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260331-ai-data-centers-and-the-infrastructure-needed-to-power-them-a16z.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9z2dh7wo/1n5xlfRLw3c.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9z2dh7wo/1n5xlfRLw3c.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260331-ai-data-centers-and-the-infrastructure-needed-to-power-them-a16z.txt",
+      "status": "ok"
+    }
+  ]
+}

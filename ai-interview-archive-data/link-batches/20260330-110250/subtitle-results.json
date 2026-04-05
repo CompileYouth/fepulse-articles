@@ -1,0 +1,41 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260330-110250/links.json",
+  "results": [
+    {
+      "source_id": "lennys-podcast",
+      "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+      "url": "https://www.youtube.com/watch?v=DIa0MYJzM5I",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life-claire-vo.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-txky2pch/DIa0MYJzM5I.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-txky2pch/DIa0MYJzM5I.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life-claire-vo.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Chip Huyen: Building when it feels like there's nothing left to build - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=5nMa3p3qw1w",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-chip-huyen-building-when-it-feels-like-there-s-nothing-left-to-build-the-pragmatic-summit.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-_lvmd4dm/5nMa3p3qw1w.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-_lvmd4dm/5nMa3p3qw1w.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-chip-huyen-building-when-it-feels-like-there-s-nothing-left-to-build-the-pragmatic-summit.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen",
+      "url": "https://www.youtube.com/watch?v=rlIy7b-3DC8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-claude-cowork-tutorial-from-cowork-s-design-lead-40-min-jenny-wen.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-1a3tru2_/rlIy7b-3DC8.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-1a3tru2_/rlIy7b-3DC8.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260329-claude-cowork-tutorial-from-cowork-s-design-lead-40-min-jenny-wen.txt",
+      "status": "ok"
+    }
+  ]
+}

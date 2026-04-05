@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260405-161742/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "Jack Dorsey: Every Company Can Now Be a Mini-AGI",
+      "url": "https://www.youtube.com/watch?v=YTVSwOY19Qs",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260402-jack-dorsey-every-company-can-now-be-a-mini-agi.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-rzenfb4f/YTVSwOY19Qs.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-rzenfb4f/YTVSwOY19Qs.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260402-jack-dorsey-every-company-can-now-be-a-mini-agi.txt",
+      "status": "ok"
+    }
+  ]
+}

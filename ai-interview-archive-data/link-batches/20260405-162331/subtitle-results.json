@@ -1,0 +1,17 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260405-162331/links.json",
+  "results": [
+    {
+      "source_id": "direct-input",
+      "title": "FULL REMARKS: World’s Youngest AI Billionaire Alexander Wang Reveals How AI Will Amplify Humans|AQ1B",
+      "url": "https://www.youtube.com/watch?v=NwDa4m6sSGw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260219-full-remarks-world-s-youngest-ai-billionaire-alexander-wang-reveals-how-ai-will-amplify-humans-aq1b.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5l_63_kc/NwDa4m6sSGw.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5l_63_kc/NwDa4m6sSGw.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260219-full-remarks-world-s-youngest-ai-billionaire-alexander-wang-reveals-how-ai-will-amplify-humans-aq1b.txt",
+      "status": "ok"
+    }
+  ]
+}

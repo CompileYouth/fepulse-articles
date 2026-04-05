@@ -1,0 +1,52 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-03-30T11:02:50.595988+08:00",
+  "since": "2026-03-27T11:02:50.595988+08:00",
+  "items": [
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+      "url": "https://www.youtube.com/watch?v=DIa0MYJzM5I",
+      "upload_date": "20260329",
+      "published_at": "2026-03-29T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life-claire-vo"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Chip Huyen: Building when it feels like there's nothing left to build - The Pragmatic Summit",
+      "url": "https://www.youtube.com/watch?v=5nMa3p3qw1w",
+      "upload_date": "20260329",
+      "published_at": "2026-03-29T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260329-chip-huyen-building-when-it-feels-like-there-s-nothing-left-to-build-the-pragmatic-summit"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen",
+      "url": "https://www.youtube.com/watch?v=rlIy7b-3DC8",
+      "upload_date": "20260329",
+      "published_at": "2026-03-29T21:01:04+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260329-claude-cowork-tutorial-from-cowork-s-design-lead-40-min-jenny-wen"
+    }
+  ]
+}

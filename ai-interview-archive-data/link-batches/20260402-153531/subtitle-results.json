@@ -1,0 +1,74 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260402-153531/links.json",
+  "results": [
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "Scaling Uber with Thuan Pham (Uber’s first CTO)",
+      "url": "https://www.youtube.com/watch?v=3jjRNVfm3V4",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-scaling-uber-with-thuan-pham-uber-s-first-cto.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-83o5wmi0/3jjRNVfm3V4.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-83o5wmi0/3jjRNVfm3V4.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-scaling-uber-with-thuan-pham-uber-s-first-cto.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "Inside The Industry That Powers Every Business In America | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=5q0VER_rt0Q",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-inside-the-industry-that-powers-every-business-in-america-deep-dives-with-a16z.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-69wajire/5q0VER_rt0Q.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-69wajire/5q0VER_rt0Q.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-69wajire/5q0VER_rt0Q.zh-Hans.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-inside-the-industry-that-powers-every-business-in-america-deep-dives-with-a16z.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "If SaaS Is Dead, Linear Didn't Get the Memo",
+      "url": "https://www.youtube.com/watch?v=8QcW9-dal0g",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-if-saas-is-dead-linear-didn-t-get-the-memo.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zknu_ycw/8QcW9-dal0g.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zknu_ycw/8QcW9-dal0g.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-if-saas-is-dead-linear-didn-t-get-the-memo.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "title": "Retired Netflix Eng Director On The Best Engineer He's Ever Worked With",
+      "url": "https://www.youtube.com/watch?v=HJKjDtehiTo",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-retired-netflix-eng-director-on-the-best-engineer-he-s-ever-worked-with.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-p_skpsht/HJKjDtehiTo.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-p_skpsht/HJKjDtehiTo.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-retired-netflix-eng-director-on-the-best-engineer-he-s-ever-worked-with.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/briefs/raw/20260401-this-startup-catches-fraud-at-scale.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "Full Tutorial: Build a Beautiful Mobile App with Claude Code in 16 Minutes",
+      "url": "https://www.youtube.com/watch?v=oS53by4Hwvo",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-qzjwx3rx/oS53by4Hwvo.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-qzjwx3rx/oS53by4Hwvo.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260401-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes.txt",
+      "status": "ok"
+    }
+  ]
+}
