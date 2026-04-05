@@ -1,0 +1,1222 @@
+原文： https://www.youtube.com/watch?v=DpwmmXmzvfo
+
+We're living through a historic moment
+right now.
+&gt;&gt; The next thing that's really interesting
+and terrifying also is recursive
+self-improvement, but we don't have it
+yet. What we do have,
+I keep asking my friends, when does the
+asmtote arrive and when does the curve
+slow down? It is actually true that
+there is a limit to our craziness. We
+have not found it yet. And that's the
+great thing, frankly, about America. The
+American competitor, not enemy, but
+competitor, is China. They have lots of
+money. They're very, very smart. Their
+work ethic is equal or stronger than
+ours, and they dominate key industries.
+But at the moment, it sure looks to me
+like the robotic hardware of China is
+the winner. I don't want to lose the
+robotic revolution, in my view, the way
+we lost the electric vehicle revolution,
+at least on the low end. It's possible,
+but it requires.
+&gt;&gt; Now, that's a moonshot, ladies and
+gentlemen.
+&gt;&gt; Eric, do you remember the first time we
+met?
+&gt;&gt; Yes. Larry Paige introduced to me to you
+because he was on your board.
+&gt;&gt; Yes. Yeah. So, I got a call from Eric
+out of the blue, which was a great
+honor, and and said, "Larry
+says I should meet you. When are you
+going to be down here in uh or up here
+in San Francisco?" I was in LA and I
+said, "Uh, how about tomorrow?"
+[laughter]
+&gt;&gt; Typical Peter.
+&gt;&gt; And I remember something which was so I
+love the story. We sat down to lunch at
+Charlie's Cafe. Um, and of course I'm
+running a nonprofit and my mission is
+always raising capital for nonprofit.
+And so we sit down to lunch and before
+we get started, you said, "Uh, Peter, so
+what is your highest level of of giving
+of membership?" And I said, "Well, Eric,
+it's our vision circle for $2.5
+million." And you go, "Okay, I'm in now.
+Let's have a conversation. [laughter]
+&gt;&gt; I'll buy them all."
+&gt;&gt; It was It was crazy.
+[laughter]
+&gt;&gt; Oh, there you go.
+&gt;&gt; But uh you know, somehow you have the
+reason when we spoke the reason I wanted
+to come here is this has become the
+epicenter of the abundance movement and
+the abundance movement is correct.
+&gt;&gt; That's the important thing.
+&gt;&gt; Thank you.
+&gt;&gt; Yeah.
+&gt;&gt; [applause]
+&gt;&gt; Um, I just want to thank you for all the
+support you've given myself, X-P Prize
+all these years. So grateful for that.
+So I'll start with a a question that uh
+I'd love to hear you expand on, which is
+we're living through a historic moment
+right now, right? Um, could you define
+the moment we're in and give us sort of
+a a state of the union of what's going
+on in AI?
+We're 10 or 15% into the impacts of this
+and you can see it, you can feel it
+and some of it will happen, some of it
+will take longer, right? So, for
+example, hardware takes longer than
+software. Sort of robots take longer
+than digital systems on traditional
+hardware, things like that. Um, we've
+not, um, the next thing that's really
+interesting and terrifying also is
+recursive self-improvement.
+&gt;&gt; Mhm.
+&gt;&gt; It's not happening yet. And so, it's
+easy to convince yourself that you're
+going to have human agents, uh, sorry,
+computer agents that are humanlike
+completely within a year or two. We
+don't have the science for that yet.
+People are working on it. I can describe
+how I think it'll play out, but we don't
+have it yet. What we do have is
+reasoning systems that are perfect
+partners for human beings for good and
+bad, right? And that has a lot of
+implications. So if we stop today, which
+we're not, and it's not stoppable or
+controllable by any government or any
+single individual or corporation, we
+would still have advanced humanity
+because of these reasoning agents.
+&gt;&gt; How fast do you imagine this is going to
+accelerate?
+Um the there's a thing which I call the
+San Francisco consensus and the reason I
+call it is because everyone in San
+Francisco believes this uh everyone I
+know anyway which is that it it's easy
+to understand uh this is the year of
+agents which we can discuss why agents
+will take over everything this year
+during this year the scaling of the use
+of agents and reasoning will sort of
+grow at this enormous rate. Everybody's
+out of hardware, everyone's out of
+electricity. It's a real boom, right?
+It's like the biggest boom I've seen and
+I've been through three or four of these
+in my career.
+Um,
+in this thinking, once you have
+recursive self-improvement where the
+system can begin to improve itself, you
+have intelligence learning on its own
+and it will in this argument it will
+learn faster than we can because we're
+biologically limited. And the way this
+is expressed in San Francisco and I'll
+give a simple example. You have a tech
+company with a thousand fantastic AI
+researchers. Um,
+so one day they turn on AI research.
+That is an AI research agent. Well, how
+many AI research agents do you have?
+&gt;&gt; Mhm.
+&gt;&gt; Well, as many as you're limited by
+electricity, right? You don't have to
+feed them. They don't need housing.
+There's no more housing in San
+Francisco. You know, all that kind of
+stuff, right? You don't have those
+problems. You don't have an HR
+department for them, if you will. Uh,
+and you don't have to pay them. you just
+have to feed them electricity. So, how
+many could you have? Well, maybe a maybe
+a million of these agents. Now, in AI,
+the way you determine that you've made
+progress is you have clear metrics that
+the reasoning or testing or whatever the
+evaluation framework is better, right?
+So, that's what happens. So, in that
+scenario, the slope goes like this
+because you're already at this slope.
+Then you add more people. Then you get
+the agents and you go like this. And
+this is essentially a super intelligence
+moment. The belief in San Francisco is
+this occurs within two to three years.
+The evidence in favor
+goes something like this. Um Claude Code
+came out a couple months ago. The the
+latest one, Opus, whatever it is.
+&gt;&gt; 4.6. Yes. Thank you. And everyone I know
+in the Bay Area that's doing software
+says it was 8020, now it's 2080.
+&gt;&gt; The best analysis I can come up with is
+it's not the clawed code part, it's that
+the that the underlying LLM can produce
+more reasoning over time, better quality
+tokens over time. It's a deeper thinker,
+&gt;&gt; right? And all the labs now are
+competing for that. This is not just the
+size of the context window. It's
+actually the reasoning skill and the
+length of which it can think. It can
+just think longer and produce more
+stuff, right? I watched the stuff uh
+when I was I moved to the Bay Area when
+I was 21 and I was a programmer in high
+school way back when and I was pretty
+good programmer and I watch what it does
+and I go my god I'm over you know there
+there's not a thing that I could do that
+it cannot do. So when they wrote a C
+compiler
+in Rust, I got it's over, you know, like
+declare six. So I [laughter] think part
+of this part of this is because the
+people who are building it are also
+seeing the dimmonition of their own
+skill. They're being forced to go from
+programmers, which is what I'm very
+proud to have been, to being the the
+director of a programming system.
+&gt;&gt; Right. And the most likely scenario, by
+the way, there's a lot of implications
+for this. Mhm.
+&gt;&gt; One is that it's always been true,
+speaking as your local arrogant
+programmer, that the very top
+programmers were worth 10 times more
+than the ones right below. There's
+something special about the mathematical
+reasoning skills of programmers. Those
+people will become more valuable, not
+less valuable, because these systems
+need to be controlled by humans at the
+moment. Those people will be capable of
+grasping the parallelization and the
+activities of this. It also means that
+you're going to have, in my view, a
+relatively small number of very large
+companies.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; And this is a big deal.
+&gt;&gt; Yeah.
+&gt;&gt; And a very large number of very small
+companies because you don't need as many
+people. And you're watching that play
+out this month.
+&gt;&gt; I mean, this all happened in the last
+three. I I was in one startup I'm
+involved with. I was talking to the
+programmer who's, you know, perfectly
+perfectly brilliant young man and I
+said, "Well, what's the truth?" He said,
+"Well, here's what I do." Um, he's
+working on UIs of various kinds. And he
+said, "I write the spec of what I want,
+and then I write a test function, an
+evaluation function,
+&gt;&gt; and then I turn it on." I said, "What
+time?" And he goes, "7:00
+in the evening." And I go, "Okay." What
+do you then do? Well, he has dinner with
+his wife, and he goes to sleep. And I
+said, "Do you wake up?" Said, "No, I
+sleep very well. [laughter]
+When does it finish?" "Oh, 4 in the
+morning."
+&gt;&gt; Mhm.
+And then he gets up, has breakfast, you
+know, does whatever he does, and then he
+sees what's been invented. I mean, it's
+mindboggling. And and the stupid example
+I use with this young man, this is what
+the power of these systems are. If you
+can define the evaluation function and
+you can let it run
+&gt;&gt; and if you have enough hardware, you're
+inventing worlds. I mean, this stuff
+would have taken me 6 months and 10
+programmers at Google to do the same
+thing. And this poor guy is sleeping.
+It's so funny you say that because I was
+literally backstage. They said, "Eric
+Schmidt's coming now and I have my lid
+open on my Mac and I'm trying to get the
+jobs onto the cloud so I can close the
+lid because if you close the lid it'll
+break the jobs." So I've got these six
+component open. You can leave it open on
+the you know it's like important what
+you're doing. Don't interrupt for me.
+&gt;&gt; You're important too, you know.
+No, it's it's it's crazy because when we
+got together in Davos just what two
+months ago,
+uh it was in this kind of autocomplete
+mode. You'd write the code and then it
+would help you get it done. You're about
+10 times more efficient, but you're
+still babysitting it. Now, literally,
+it's working right now. When I get off
+stage, it will have solved six problems
+that I launched. and and I appreciate
+the excitement in the industry, but I
+can tell you when I was I I used to work
+on BSD, I basically worked at Berkeley
+on Unix at Bell Labs and at BSD Unix and
+we programmers invent what they need and
+so we invented the first email system
+and the first messaging system and
+nobody thought about it. It was like
+well we just need this thing.
+&gt;&gt; Yeah.
+&gt;&gt; So one key thing to understand about
+digital intelligence is the first
+inventors are the people who are solving
+problems of themselves who are
+programmers. Right? You shouldn't be
+surprised by this. You should have
+expected this. The other thing that's
+interesting about programming is it's um
+it's both scale-free, which means
+there's no no particular limitations
+except electricity. You don't need a lot
+of data and you already have GitHub and
+the equivalents and it's also a fairly
+limited language set. So the number of
+language components, if you will,
+compared to human language is less.
+Smaller language, clear objective
+function, all you need is electricity.
+Yep. Now, how far can this go? It'll get
+to the point where you don't have the
+ability to do completely new things.
+&gt;&gt; Yeah. Isn't it Isn't it really quaint
+and crazy to think that we can sit here
+and say, "Yeah, I wrote a ton of code
+when I was younger." No one will ever do
+that again after the end of this year.
+It'll be like riding a horse, you know,
+be like skills that we all used to have.
+But I do have a proposal for
+universities. Those of you who are
+associated with universities, you should
+stop everything else you're doing in the
+university right now and design a course
+for freshmen, men and women. Uh uh who
+starting in September, which is a prompt
+engineering class.
+&gt;&gt; Why? Why? Why university? Why not high
+school?
+&gt;&gt; God, you're so aggressive, Peter.
+[laughter]
+&gt;&gt; Let's start with university. You can
+improve my idea. I I thought
+18-year-olds would be would be young
+enough. Maybe you think it's younger.
+Here's the most important thing. Spend
+spend spend a quarter or a semester. The
+first thing they learn in university is
+how to use these tools. Universities are
+completely opposed to my idea as usual.
+&gt;&gt; Yeah.
+&gt;&gt; Because it violates every one of their
+tenets. But if you think about the
+student, and I mean every student,
+liberal arts, you know, math, whatever,
+they're going, this platform will be the
+expression platform for their art, their
+music, their writing, and so forth. Why
+wouldn't you teach them immediately,
+Peter, improve my proposal? No, I I just
+I just feel like we're that AI is going
+to impact every student in high school
+today.
+&gt;&gt; Yeah.
+&gt;&gt; And that they're living an unnatural
+life by not engaging with it and when
+they hit universities for those that
+still exist.
+&gt;&gt; Um
+&gt;&gt; well, plus your kids are that age and so
+they're literally right now doing
+exactly what you're describing. So
+&gt;&gt; people here who have teenagers, you know
+what I'm talking about because they're
+all in it already. So, so I think you're
+that's an improvement to my argument
+that there's a problem of age
+restriction. Uh, you really have to
+think about vulnerable teenagers with
+this technology. Um, [clears throat] I
+did some some analysis of where the real
+problems are with this stuff.
+&gt;&gt; Um, a simple summary is that at some
+point there will be jobs impact from
+this stuff. We're seeing it in software
+and we're seeing it in certain customer
+service industries. Not across the
+board. At some point that will happen.
+That's an issue. Another one is how do
+we as a country
+maintain our moral values while we're
+also racing against China. Another one
+is the impact on um
+uh young people. It is not okay for
+13-year-olds to be committing suicide
+because of an LLM. It's just not okay.
+It should it's it's it needs to be
+addressed. It needs to be addressed
+right now
+&gt;&gt; for sure.
+&gt;&gt; Uh and there's all sorts of other
+issues. The other one I came up with was
+in agent orchestration. agents can be
+combined. I I've always been worried
+that when you put the agents together,
+especially if they're from non u
+non-compatible vendors, you get un
+unpredictable effects.
+&gt;&gt; Yeah.
+&gt;&gt; So, so these are problems to be solved.
+So, we herald the future and we solve
+the problems that it brought. So, we're
+we're going to talk about China and
+government and jobs. But before we do
+that, um I want to stay I'm I'm in this
+savor the moments kind of mode right now
+because I feel like the world to a year
+from today will be nothing like the
+world today and all everything we're
+doing right now I've enjoyed so much for
+so long and so I just want to savor the
+moment but
+reminisce for one minute about the fact
+that while you were running Google the
+transformer got invented there the TPU
+got invented there Dennis Hassabis
+solved protein folding which is now
+universally used, you know, does does
+the work in I think it's does the work
+in an hour that used to take a PhD
+student four years. Four years. Yeah.
+It's like 300 million times more
+efficient.
+&gt;&gt; Um all of that and all the diaspora from
+that, all the people working in the
+field in San Francisco, as you
+mentioned, they all were your people.
+&gt;&gt; And so you were there at the creation of
+everything we're experiencing right now.
+Is there anything anything like that
+profoundly strikes you about that
+moment? Did you even realize at the
+time?
+&gt;&gt; I I think when you're making history,
+you typically don't know it. Um I give a
+lot of credit to Larry and Sergey. Um
+because they were ahead of me. I'm I'm
+an operating CEO and they pushed pushed
+and pushed for excellence.
+And I'll give you an example in the
+early years of Google. Larry would um my
+favorite interaction was one day I said
+we need to hire some people use doing
+Java and Larry and Sergey said this is
+the stupidest idea we have ever heard
+and and I could never tell with them
+whether they were being serious or not
+or they were just joking with me but
+their argument was that real programmers
+were programming one level lower. Today
+Google has many thousands of of things
+but they but they were so precise and so
+um driven to excellence in technology
+&gt;&gt; right that I could not uh fool them I
+couldn't market around them I needed to
+have the technical expert and they say
+oh that's boring don't do that that's
+another one of your ideas right we want
+a new idea
+&gt;&gt; and I I give them a lot of credit for it
+&gt;&gt; but what about the TPU in particular
+like that to me cuz I I didn't even hear
+about it until much later and it takes
+years to to build design and build your
+own internal chips and now it's it's
+about to explode. I don't know how much
+is public or not but it's it's just
+&gt;&gt; so the TV version one was essentially a
+matrix multiplier of a particular kind.
+When they went to version two, they
+changed the algorithm in a complicated
+way and it's particularly good for
+inference.
+Whether it's brilliance or just luck,
+those decisions made 10 years ago set up
+the TPU as the perfect inference engine.
+And for everybody's benefit, inference
+is what the reasoning tech steps that
+I'm describing on. So Google is
+particularly well positioned. As you
+know, Nvidia purchased Grock um for the
+reason of getting that
+&gt;&gt; integ.
+And what's interesting about Nvidia, if
+you look at them, I was looking at the
+Reubin architecture.
+They managed to do Nvidia managed to do
+what Intel could never do. Intel could
+never get control of the complete server
+architecture. And they tried. Nvidia has
+managed to build real supercomputers
+that you can really buy with enough time
+and money and so forth. and it will
+really be delivered to your to your and
+and it just do the whole thing. These
+are major industrial achievements and
+that's why both companies will do
+incredibly well right for that reason.
+&gt;&gt; Eric, in the in the AI exponential
+growth right now, [clears throat] talk
+to me about where the constraints are.
+You were in Congress talking about
+energy,
+&gt;&gt; uh, chips, um, people, capital. Where
+are the constraints right now?
+&gt;&gt; Well, it's interesting. I started a data
+center company with my friends. Um,
+there's a
+Uh the
+in my testimony I said there was an
+estimated 92 gawatt shortage of power in
+America in the NE between now and 2030
+and uh by reference a nuclear power
+plant is about 1.5 gawatt so that's
+about 60 nuclear plants and we're doing
+essentially zero or one right depending
+on how you count. Um so I got interested
+in the question of what's the real
+resource constraint in in America and
+it's electricity.
+&gt;&gt; We have the universities, we have the
+smart people, we have the economics and
+we have these amazing finance people who
+will give all of us billions and
+billions of dollars on a wing and a
+prayer. I mean there's no country where
+the finance people are sufficiently
+crazy to do that. It's not true in
+China. It's not it's certainly not true
+in Europe. And these guys are incredibly
+jealous of the American financial
+system. So I always start, thank you to
+the finance people for funding our
+dreams whether they work or not, right?
+[laughter] Thank you. Um [applause] so
+so the
+there there's usually a retort at this
+point where people say well the
+algorithms will ultimately require less
+energy. I am sure that that is true.
+There is this property that as the pro
+as the power um as the power of the
+hardware goes up as the algorithms
+become more efficient you don't need
+less power you need even more power and
+even more computers because we discover
+new uses you know
+&gt;&gt; Jeans paradox
+&gt;&gt; called Jevans paradox
+&gt;&gt; and so I think that u
+because humans have trouble with
+exponentials everyone says oh well in 6
+to9 months it'll be the bubble and you
+know so forth and so on there's no sign
+of This we've been I I and a team have
+been working on this for years. The the
+ultimate law the ultimate essentially
+scaling laws are not done yet. I keep
+asking my friends when does the asmtote
+arrive and when does the curve slow
+down? We've not seen it. Yes. Yet there
+will be one right. It is actually true
+that there is a limit to our craziness.
+We have not found it yet and we're
+running to the wall and that's the great
+thing frankly about America.
+&gt;&gt; You think you think it's a limit to the
+capital or a limit to if you just add
+more and more and more scale and
+parameters something just doesn't work.
+&gt;&gt; Um well the first question is is there a
+limit to the capital available?
+Um, a gigawatt of power corresponds to
+about $50 billion
+of hardware software data centers on the
+order of depending on what numbers you
+use.
+&gt;&gt; Okay. So 100 gawatt is do the math.
+&gt;&gt; Yeah.
+&gt;&gt; Um, can we raise $5 trillion over 5
+years? Yeah. That's a strength of
+American. Could we double that? M you
+know we're we're getting the data center
+buildout is 1% of the GDP of America
+growth right now.
+&gt;&gt; Back to Apollo program.
+&gt;&gt; Thank you. And the current estimate of
+electricity use u in America is that
+electricity 10% of the electricity in
+the United States will be used in the
+data centers. And these data centers
+these are not the data centers I used to
+build at Google which seemed tiny by
+comparison. They were immense at the
+time. the the standard data center
+that's being built is on the order of
+400 megawatt. These things are plus or
+minus and they're about um a half a mile
+long and about 500 ft wide, right? And
+they're essentially airflow machines.
+Take the air, send the air out, cool it
+in the middle uh using typically air
+cooling and then they have a water
+system inside to keep the chips. Using
+Nvidia as an example, the um the chips
+are water cooled and also the HPM 3E and
+now the four memories put out so much
+heat that they have to be water cooled.
+The chips are 2 kow. I mean this is
+insane. These things will kill you. You
+want to hear something truly astounding
+and funny in hindsight when you bought
+Deep Mind.
+&gt;&gt; Yeah. Everybody thought it was like 800
+million bucks or something.
+&gt;&gt; 600 million.
+&gt;&gt; 600 million bargain. Everyone thought
+why on earth would you waste $600
+million on this zero revenue AI? All it
+does is play go.
+&gt;&gt; Yeah.
+&gt;&gt; And then years later it came out that
+the acquisition paid for itself just by
+controlling the air conditioning more
+efficiently in the data centers. The
+entire acquisition price was paid off.
+And that became the AI that's changing
+the world.
+&gt;&gt; And that one go the credit of that one
+actually goes to Larry Paige. Larry had
+studied AI when he was at Stanford
+graduate student. And he we always
+deferred to him in this thing. And he
+said this is the best team. Um and I
+think Elon and Larry competed over it.
+there was some complicated kurfuffle
+there.
+&gt;&gt; Yeah.
+&gt;&gt; And so, um, Jeff Dean, who's the chief
+scientist, went over and then he and I
+basically, you know, finished the deal.
+&gt;&gt; And I still remember, you know, there in
+one floor, you know, these sort of
+British people
+&gt;&gt; and u led by a sort of Greek British
+person, Demis
+&gt;&gt; and they were smart, but Google's full
+of other smart people. To give you an
+example, in 2016, um, so Demis announces
+that we're going to win the game of go.
+And I figured, well, and by the way,
+they're at this point they're a separate
+group. We've we've let them alone cuz
+they have to grow and figure out what
+they're doing and all that. Okay.
+&gt;&gt; And this is the patience of capital. We
+could let them do that. We didn't
+require that they do anything. And so he
+goes, um, I'm going to go. And I said,
+well, I'm going to come too. And I said,
+okay. So I fly to Korea and it's all one
+floor. And I go and I meet the team
+that's winning the game. And of course
+there's all of these Koreans and they're
+all very excited about this because they
+know they're going to beat the computer.
+&gt;&gt; And so the the Koreans are in one room,
+I'm in another. I go to the Korean room
+and they're all saying, you know, we're
+going to beat beat the crap out of this
+Google Google room. And I go into the
+Google room and it's very quiet and
+there's a monitor and there's an
+basically what I now understand is an RL
+prediction mechanism of whether we're
+winning or not. Yeah, cool. Okay. And it
+starts at 50/50.
+So I watch I go listen to the Koreans
+talk for a while and then I go watch the
+screen and it goes to 51%.
+Okay. And then it goes to 52%.
+And then David, who is the guy who's the
+architect, says, "Well, we just plan for
+it to get to infinity." Said, [laughter]
+"Okay." So basically, it's it's the
+abundance theory. So it's just boom.
+and [laughter] and everyone is all the
+humans are crushed. They're all crying.
+&gt;&gt; Deep minded people say, "Yeah, yeah,
+&gt;&gt; did what they were supposed to."
+&gt;&gt; Yeah. [laughter]
+Welcome. And and then I understood the
+genius of the deep mind people. And you
+can see this today with Gemini. Gemini 3
+is probably the broadest of the um of
+the non-Chinese systems in terms of its
+depth and because it's multilingual,
+multimodal, and so forth. I mean so much
+so many moments in your life are just
+turning points in history and I don't
+know if you realize them in in the
+moment but that was one of the last
+moments where you know we humans used to
+look for challenges where the computer
+could try to catch up like chess and
+then I think go was the end point
+&gt;&gt; and we knew that by the way we
+understood that go the game of go was
+sort of incomputable by normal
+algorithms right there was lots of math
+that said you couldn't solve it and so
+it was the combin they they came up with
+a twotree model with two different RL
+trees. So, one of the other thing I
+learned about these these things is it's
+not just write me a go program that will
+win the game. You actually have to
+understand the game and so forth. So,
+they took the same team they they got
+bored with go having one. So, then they
+took the same team and had them work on
+protein folding. Yeah.
+&gt;&gt; And in protein folding, they took a
+protein a whole bunch of protein
+scientists which I know.
+&gt;&gt; We just think about the genius of that
+like nobody would ever connect the game
+of go solving all of biology. But but
+Demis Demis had always wanted to work on
+this. Larry and Sergey were very
+interested in this and protein folding
+is the perfect problem because you had
+um you had a
+&gt;&gt; defined end point.
+&gt;&gt; You had a defined endpoint.
+&gt;&gt; So what happens is people get excited
+about AI but you need to have a
+validation function because these things
+don't have common sense yet,
+&gt;&gt; right? You have to show them what it's
+going ultimately they produce this thing
+called alpha zero which essentially
+self-learns.
+&gt;&gt; Let's talk about data centers in space.
+Um,
+&gt;&gt; I'm in favor of
+&gt;&gt; eight eight nine months ago, no one was
+discussing this.
+&gt;&gt; I mean, all of a sudden,
+&gt;&gt; do you know why I'm in favor of them?
+&gt;&gt; I do, but [laughter] you you can mention
+it as you wish.
+&gt;&gt; Um, but all of a sudden, everybody's
+talking about them. What are your
+thoughts?
+&gt;&gt; Um, I'm a part owner of a rocket company
+and we need
+&gt;&gt; which I love. I love having you come
+into the space community. It's
+&gt;&gt; you understand this far far better than
+&gt;&gt; it's uh rocket science is named that for
+a reason. Um, rocket science is really
+really hard. Um, what I and I don't know
+that much about rockets, although I
+certainly know how to manage tech
+people.
+&gt;&gt; Um, but but I I I think that the
+opportunity is is large and interesting.
+There are challenges. There's an issue
+of getting heat off of again, you know
+much better than I do, getting heat off
+of it because you don't have oxygen and
+you also have radiation issues.
+&gt;&gt; Yeah,
+&gt;&gt; those have to get addressed.
+&gt;&gt; But it makes the business plan for every
+rocket company that's large enough,
+right? the small guys aren't going to
+launch it, but Relativity Space and uh
+and you know, Blue Origin and SpaceX. I
+mean, you know, Elon's predictions were,
+you know, I think a launch per hour to
+populate the constellation he wanted.
+Um, but do you think technically we're
+going to get there?
+&gt;&gt; Well, the technology is understood.
+What's
+&gt;&gt; interesting about technically for the
+for the data centers in space for heat
+dissipation?
+&gt;&gt; Yeah, the technology is understood. To
+me it's a business question. Um and the
+question is what where where should the
+data center be? Should it be in space
+with these other issues but it has other
+benefits including infinite power and so
+forth versus on the ground where you
+have fiber and you know it's not shaking
+too much.
+&gt;&gt; Yeah. I mean the energy argument says
+space wins by far and I think the the
+cooling is a very big challenge but I
+think it's largely figured out now. But
+then the politics of space, you know,
+one of the turning points in AI history
+also is you getting in front of Congress
+and saying, "Hey, we need to find almost
+100 gigawatts." And at the time it
+seemed outrageous. And now, of course,
+it's mainstream. And it looks like, you
+know, the crazy investors are solving
+the problem, the unleashing of the
+money.
+&gt;&gt; Welcome to American capitalism, tech
+industry. I mean, we have another set of
+problems. Well, if the next frontier is
+space, then but there's no there's no
+investment community in space, but
+there's also no military jurisdiction in
+space. Or maybe there is. I
+&gt;&gt; I would have never thought my childhood
+dreams of going to the moon and Mars
+would be fueled by data centers.
+&gt;&gt; Um,
+&gt;&gt; never.
+&gt;&gt; Well, mine can't carry you at the
+moment, but it can in the future, maybe.
+&gt;&gt; Yeah.
+&gt;&gt; All the way.
+&gt;&gt; I read a Time OpEd piece you wrote last
+night. um China can dominate the
+physical AI future or uh what did you
+can you summarize that for us? It was an
+important comment
+&gt;&gt; in in the geopolitical context. Um the
+and I've said this many times I'll say
+it again. The American competitor, not
+enemy but competitor is China.
+&gt;&gt; I think it's by the way I think it's an
+important distinction for you to make.
+So thank you.
+&gt;&gt; Not not enemy competitor.
+um and how to understand them as a
+competitor. They have lots of money.
+They're very very smart. Their work
+ethic is equal or stronger than ours.
+And they dominate key industries,
+right? With respect to robotics, we
+somehow decided it was okay for them to
+dominate the electric vehicle industry.
+This was an error. To be very clear,
+it's an error. Why do you not
+understand? It's an error because we
+don't allow their cars in. Spend some
+time outside of this country in Chinese
+cars. Trust me, they are real
+competitors. They've done a great job.
+As I understand it, China is capable of
+vertical integration and build these
+these gigafactories at a scale that we
+can't for all sorts of reasons. That's
+got to get addressed.
+&gt;&gt; Mhm.
+&gt;&gt; So, if you want to compete and I want to
+compete and win with China and and I
+compete not enemy, I want us to have the
+same kind of system. So in robotics, it
+turns out robotics um you can understand
+robots as essentially actuators. These
+little stepper motors click click click
+click click and a brain. Ignoring the
+appearance and the googly, you know,
+eyes and all that kind of stuff. It
+turns out that the industry of the
+electric vehicle produces the same kind
+of motors and the same kind of systems.
+They have an expertise that we don't. My
+own view is that at least for very low
+cost,
+China is going to win that and that was
+what I was trying to say in that piece.
+&gt;&gt; And I worry about that. Now, today these
+are not particularly useful. You know,
+they're they're fun toys. They're a
+replacement for the dog. If you get mad
+at your dog, sorry, I love dogs, but you
+get the idea. Um, so so we we need to
+address this. But at the moment, it sure
+looks to me like the robotic hardware of
+China is the winner at the low end. I'm
+not talking about the high end. I'm not
+talking about the expensive stuff. I'm
+not talking about industrial robots. And
+if you're confused, watch the Unit um uh
+robot dance with the humans.
+&gt;&gt; Yeah.
+&gt;&gt; That came out about a month ago.
+&gt;&gt; We have Unitry here in the tech hub and
+the co-founder will be on stage with us
+later today.
+&gt;&gt; Pay pay attention to them. They're
+they're very very impressive. Uh, and I
+spent some time with them last time I
+was in China and they're one of many.
+And the way China works is that they
+have brutal competition. Um, brutal,
+brutal. It's like unbelievable. I was
+talking to my friend, we teach at
+Stanford, and he said, you know, in
+China, we don't have the board dinner.
+We have a 2-hour meeting. We get back to
+work and there's no preamble. We're not,
+you know, we don't say, "Hello, how are
+you? How's the family?" That kind of
+stuff. We're boom boom. Right. Uh, it's
+just cultural.
+&gt;&gt; Yeah. Yeah. And the workahol the the the
+work ethic, the precision and the scale
+that is possible in China is a real
+competitor. Um I don't want to lose the
+robotic revolution in my view the way we
+lost the electric vehicle revolution at
+least on the low end. Interesting
+because the Chinese model very much has
+a a well-built out supply chain with
+many vendors in the loop. So, you know,
+we've been on a worldwide tour of all of
+the humanoid robotics companies and just
+by coincidence, I guess. But when you
+look at the Gigafactory and look at
+Elon's vertical integration and also Red
+Adcock at Figure, same thing. It's all
+vertically integrated. Why? Well,
+because there's no vendor.
+&gt;&gt; Yeah.
+&gt;&gt; I have no choice.
+&gt;&gt; So, so it appears that to get to again,
+we're in this is the abundance group,
+the abundance club.
+&gt;&gt; The way you get to abundance is you
+drive prices down and you get vertically
+integrated. And Elon in our country
+pioneered that to his credit,
+&gt;&gt; right? You know, the old joke about
+Google was we would build anything
+including the buildings. Well, Elon is
+actually doing that, right? You know,
+he's And why? Not because he's insane,
+but because he actually that's how you
+drive cost down.
+&gt;&gt; Yeah.
+&gt;&gt; He he truly believes, and I'd love to
+get your your take on this. He truly
+believes that the the robot building the
+robot is imminent.
+&gt;&gt; And I didn't get it until we toured the
+Gigafactory. And I realized that almost
+all of it's automated already. It's just
+the the last piece is the human
+controlling a few knobs and that you
+know the humanoid robot can actually do.
+&gt;&gt; Let me define the boundary because it's
+important. Let's use batteries for
+example. Batteries are predictable uh
+straightforward manufacturing processes
+at huge scale right things like that
+will have gigafactories. Uh one of the
+questions and I of course used uh LLMs
+to do my deep research as a new person
+in the rocket company was how much of
+the human labor to build a rocket could
+be replaced by robots.
+&gt;&gt; The current limit which of course will
+change is in our company we have these
+extraordinarily talented um essentially
+assembly people and they're they're
+they're more than welders and they're
+more than you know mechanics. They
+understand precisely how the little the
+tubes and so forth and so on uh go
+together and they use precise
+tolerances. That kind of assembly is
+beyond current robots.
+&gt;&gt; Mhm.
+&gt;&gt; It I'm sure it will eventually show up
+but not for a long time.
+&gt;&gt; People don't realize the majority cost
+of a rocket is labor.
+&gt;&gt; It's not material. Fuel is
+&gt;&gt; and furthermore when they get inside the
+rocket they understand what they're
+doing and they see what's wrong and they
+use human judgment. We don't have those
+systems yet.
+&gt;&gt; Yeah.
+&gt;&gt; Now, perhaps we will in the future or
+perhaps this will be one of the last
+things to go, right? But at the moment,
+highskilled mechanical labor is very
+important. Lowskilled labor of any kind
+gets swept up.
+&gt;&gt; Well, so both of those, there's AI
+self-improvement and then there's
+robotics building robots building robots
+self-improvement. Both of those loops
+and we we talk a lot about closed loops
+being
+&gt;&gt; if I can interrupt you.
+&gt;&gt; Yeah, please. The term I like to use is
+learning loops. In a business, try to
+figure out all the different learning
+loops and then try to accelerate the
+learning. Fastest learner wins.
+&gt;&gt; Sorry. Well, I'm going to lead the
+witness here a little bit, but if you if
+you asked Danielle Larus over at Seale a
+year ago, Eric Bolson at Stanford a year
+ago, do we need one more big
+breakthrough in AI core science or will
+scaling what we've already got lead to
+self-improvement and then that will be
+all we need
+&gt;&gt; to get to AGI
+&gt;&gt; to get to AGI and then self-improvement
+that that
+&gt;&gt; I spent the last week doing RSI reviews,
+recursive self-improvement uh reviews.
+the the scientists do not agree on the
+exact approach to work yet. So I think
+it's too early to know that question.
+There's evidence that it will work.
+There are tests in the lab that show it,
+but they show it in limited cases that
+are kind of demos, right? Real recursive
+self-improvement is the following. Start
+now, learn everything, discover things,
+and tell me what you learned.
+&gt;&gt; Yeah,
+&gt;&gt; that query doesn't work yet.
+We're seeing all of the frontier labs
+sort of constantly leaprog each other,
+right? I mean, literally every week it's
+the new model. Unbelievable.
+&gt;&gt; And it's it's extraordinary.
+&gt;&gt; Do you imagine they're all converging
+towards the same end point or is anybody
+going to pull ahead?
+&gt;&gt; So, if you go back to this question of
+capital, how many how much room is there
+in the world for these companies? How
+many can there be? I'm going to make
+some numbers up and these are made up. I
+think there's at least 10 in the world
+at this scale. I think there'll be a few
+in in China. I think the majority will
+be in the United States. The usual
+suspects most likely. I think there'll
+be a there might be one or two in Europe
+&gt;&gt; depending their electricity costs are a
+problem. There might be one in India,
+right?
+&gt;&gt; Um there's not going to be one in Russia
+because of the the war and so forth and
+so on. So can the world accommodate 10?
+Yes. Do they track together? I don't
+think so. One of the key things to
+understand about China is China's
+approach which has produced Deepseek V4,
+Quen, Kimmy 2, Kimmy version 3, um, etc.
+and more coming is it's all open source,
+open ways. They've managed to do this
+with our chip limitations against them,
+which annoy them no end. Shows you how
+clever they are. Mhm.
+&gt;&gt; They're also the Chinese strategy is a
+bit different. It's less central
+computing and much more edge computing
+which has to do with enveloping their
+Chinese customers with AI around them
+all all the time. We're much more AGI
+ASI sens uh centered which is fine. It's
+so that the patterns are diverging
+within the companies. Um it's it's it's
+a jumble now. Uh but fundamentally
+Microsoft and Google have these large
+cash flow streams from enterprise. So
+they can fund that. Anthropic has done a
+fantastic job of raising money from
+those other companies to and they use as
+you know Google TPUs and they've become
+uh the sort of leading player in this
+sort of um clawed API within the
+enterprise agent system. Um and and
+OpenI is now shifting a bit of its
+strategy to include the the new things
+it's doing. I don't think we can predict
+but the key thing to understand is that
+they need so much money, right? I mean,
+you look at what Sam is trying to raise.
+They need so much money that they're
+forced into these situations where they
+have to win those battles and they're
+busy winning them. I mean, this is all
+good. I think it's that it's we in a
+year we'll know better the answer to
+your question.
+&gt;&gt; I have two questions I want to close us
+out with that I think are important. Um,
+you made a a statement a couple of
+times, once in our podcast, once uh
+elsewhere that regarding AI safety, the
+world may need to have a modest
+Chernobyl like death event in order for
+us to wake up.
+Uh, do you still believe that's the
+case?
+&gt;&gt; Yeah. And by the way, I'm not endorsing
+that. I'm I'm doing it as a descriptive,
+not as a as a prescriptive. Um,
+what are the real dangers of this? There
+are biological dangers. I mean, there's
+obviously the dangers of of um kids and
+democracies and so forth, but like let's
+think about like a biological attack, a
+nuclear attack that's spawned by these
+things.
+It may take such a tragedy, hopefully a
+small one,
+&gt;&gt; to awaken the world to understand that
+these things are they do have negative
+power.
+&gt;&gt; And so I can imagine I'm making this up
+that there's some bad thing that happens
+and then all of the leaders,
+China, the US, we all have a meeting and
+we basically say like, what are we going
+to do? You know, we're in brutal
+competition. We hate each other. You
+know, I don't like you. you know you
+don't speak the same language blah blah
+blah but we are all in it together right
+over this issue and my sense is that
+will happen but I don't know when
+&gt;&gt; we had a congressperson on this stage
+last year and one of the crowd asked how
+much time do you spend talking about AI
+in Congress
+&gt;&gt; well it's definitely way less than 1%
+&gt;&gt; and so without that wakeup call I don't
+see how you
+&gt;&gt; look I mean governments I spend lots of
+time with governments are super busy
+right and they're and they're driven by
+political things. They're driven by uh
+by um in at least in democracies by by
+political sentiment.
+&gt;&gt; Mhm.
+&gt;&gt; Uh I'd like us as a nation to focus on
+the following. I want to win the AI
+race. I want us to do whatever it takes
+to do that. This government is doing a
+very good job of making energy
+permitting more accessible. The the rate
+at which data centers um are getting
+built is now accelerated, solving the
+grid problems. I also want lots of
+immigrants in our country because those
+immigrants, at least the high stakes,
+high skills immigration is what we need
+because we need the the smartest people
+in the world on our side to build these
+systems. This is a unique moment in
+history, right? Yeah. [applause]
+I would take us home on a positive note.
+So you know you said we're going to get
+to ASI at some point whether it's 2
+years out 5 years out someplace in this
+next decade. So the questions is what
+steps can we take to steer artificial
+super intelligence towards abundance
+towards uplifting and in alignment with
+humanity you know to make this abundance
+thesis materialize what's your advice to
+us companies governments
+&gt;&gt; there's an overreiance in our society on
+people like me
+to work on
+Why don't we have the smartest people in
+politics, history,
+human psychology, governance, ethics
+working together to make sure this stuff
+stays in human values and human
+alignment.
+I want the system that we build in
+America to reflect American values. the
+values of freedom and freedom of speech
+and freedom of association, all those
+things you learned in college and excuse
+me in elementary school and high school,
+they're still important to our nation.
+They're the enablers for the next
+generation of our children and
+grandchildren. Um I I desperately want
+that and I don't want America to ever
+get on the wrong side of that battle. Um
+there's lots of people working on this,
+lots of people understand the technical
+details. I happen to run an informal
+group that discusses this every week. M
+&gt;&gt; um so it's possible but it requires
+political will and it requires an
+understanding that this can be done
+without screwing up the genius of
+America. Right? In other words, I'm not
+suggesting slowing anything down. And
+you said it so well, shaping it, making
+sure we don't cross lines like I already
+mentioned the the teenage sorry the
+underage kids problem. That's a line we
+can't cross. We got to solve that
+problem. There are others.
