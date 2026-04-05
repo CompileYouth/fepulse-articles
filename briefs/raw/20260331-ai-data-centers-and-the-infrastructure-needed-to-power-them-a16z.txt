@@ -1,0 +1,1445 @@
+原文： https://www.youtube.com/watch?v=1n5xlfRLw3c
+
+The grid is breaking. We're so
+bottlenecked today on the lines that run
+crisscross across the country. I mean,
+it's this very complicated giant organic
+machine. New power is not the problem.
+Delivery is the problem. The energy
+services were growing over time in the
+United States. The net electricity
+delivered to accomplish those energy
+services stayed basically flat. we can
+take that momentum and bring it into a
+[music] new problem statement which is
+power for data centers, power for
+industrialization, power for economic
+growth and prosperity and and for
+sustainable energy.
+&gt;&gt; The idea that the [music] grid can grow
+and move from the edge is just not
+something that we've really been able to
+process for the last 50 years in the US.
+&gt;&gt; The grid itself is civilization, right?
+Electric power is civilization. [music]
+You can metamorphosize the entire grid.
+Civilization can regrow off of a new
+architecture of moving power, right? and
+use all of the free energy that's out
+there. The sunlight is free. You put up
+a panel, you're getting it. It's very
+cool. But also, uranium is free. It's in
+[music] the ground. It's there. You take
+it and we use it before it just goes
+away. And it makes this like completely
+new way, I think, of thinking about
+nuclear power. It's just it's in the
+options list. And it it wasn't even
+before.
+&gt;&gt; Hey everybody, we're here to talk about
+energy and and and how your companies
+are playing a role in the sector. But
+first, let's start with how do you guys
+know each other?
+&gt;&gt; Yeah. So, I'm Doug Bernau. Uh,
+&gt;&gt; Drew Begley now.
+&gt;&gt; Uh, and so we know each other. We were
+both working for Elon
+&gt;&gt; about 10 years ago, but at two different
+companies. Uh, and so I was at SpaceX
+and Elon was really excited. He wanted
+to build Hyperloop. He wanted to put he
+wanted to put little cars in a vacuum
+tube and go super fast. Um, and Drew was
+a VP of R&amp;D at Tesla at the time. And I
+called him up and was like, Elon says we
+need battery packs. We need Model S
+motor. we need to operate these things
+in a never-before operated condition and
+we're and Drew was like, "Do we really?"
+And I was like, "Yeah, we kind of do."
+[laughter]
+Um, but it was kind of like that. Uh,
+and then from there we did a boring
+company also. There was an idea to do
+like 30 tons of batteries or something
+on a trailer to power an entire tunnel
+boring machine like one and a half
+megawws.
+&gt;&gt; So, it was a story of power actually.
+&gt;&gt; Yeah, there was a lot of back and forth
+on what was possible and could we reuse
+this or that. Um and also a big part of
+the Hyperloop uh story cuz we published
+a big white paper was actually like
+assessing all the technologies required
+to deliver the the the concept, right?
+&gt;&gt; Um including you know for my team it
+meant like looking at like slingshot
+linear motors that would accelerate the
+capsule into the in the vacuum. Uh it
+was all kinds of fun you know never
+explored physics for our team before. I
+don't know if you were had similar
+&gt;&gt; I I yeah I wasn't roped in that really
+early stuff. It was more like when it
+was for real. We're going to do it. And
+you had to build it really fast. That's
+when I got put into it.
+&gt;&gt; Like and just take the voters from
+&gt;&gt; just eight months from now have like 20,
+you know, people from 23 different
+countries or whatever it was come and
+fun event.
+&gt;&gt; It was pretty wild. But
+&gt;&gt; yeah. And the and the and the college
+students like they really ran with it
+and and it I mean it still happens,
+right? Every year they
+&gt;&gt; I think they did it three or maybe it
+was four times and then they stopped it.
+&gt;&gt; Uhhuh.
+&gt;&gt; Which is good. It's for the best. It was
+exciting. It led to some companies.
+There are some startups in like uh I
+think it was one really good one in the
+based out of the Netherlands
+&gt;&gt; and a couple of others also.
+&gt;&gt; It's also fun to see which universities
+did the best. It totally
+&gt;&gt; mostly the Europeans to be honest.
+&gt;&gt; Yeah,
+&gt;&gt; they crushed it.
+&gt;&gt; Well, cut that out there. [laughter]
+&gt;&gt; No, but I mean you should know your
+competition. The good thing is like MIT
+was doing amazing. Delft did really
+awesome as well though. And I mean we
+should learn as much as we can from
+that.
+&gt;&gt; Del is Yeah. Incredible engineers going
+to Delft.
+&gt;&gt; Yeah. Speaking of things that haven't
+been achieved before, let's use that to
+segue into your respective companies,
+talk about the the moment, the insight,
+the why now that led you to start your
+respective companies. Doug, let's start
+with you,
+&gt;&gt; oh man. Uh, yeah, it's a great it's a
+fun story. So, I was at SpaceX for 12
+years. I joined in 2007. So, I joined
+when they had two failed rockets, no
+successful rockets, [snorts] and so I
+got to work on the first ones that
+worked.
+&gt;&gt; And you're like, this this is the
+company to be at.
+&gt;&gt; Yeah. I I just wanted to work on an
+important mission and I didn't I I
+really just cared can I like polish one
+stone of this like great big pyramid
+that is like some lifetime achievement
+for someone else even right that's what
+I wanted so um so yeah I joined I did
+that I did the first uh two Falcon 9 did
+the ground system for it entirely which
+involved all the permitting also so this
+is like launching a rocket from a
+military base there's a lot of like
+regulatory stuff there this
+&gt;&gt; your first fora
+&gt;&gt; yeah into All right. Wilderness.
+&gt;&gt; Totally. Uh, and not to eat up all the
+time, you know, I I I worked on like the
+first Rocket with Legs called
+Grasshopper back in 2011. It was a
+fourperson team really designing and
+building the whole thing, the whole
+thing.
+&gt;&gt; And we were reporting directly to Elon,
+like just Elon, to us four, and then
+building the whole thing. Uh,
+&gt;&gt; and it was awesome because we did really
+well. We got lucky a lot of times, but
+we made a rocket that flew and landed on
+legs. And then I did all the weird Elon
+side projects and ideas. So, Hyperloop
+when he got really serious, I got tapped
+into that and into the Boring Company
+and then Mars colony design. Um, and in
+doing the Mars colony design, I I was
+looking at how do you take Starship
+there, make fuel from what's on Mars,
+make make fuel from the ice that's
+there. And if you do that, you need
+megawatts of power. And I was trying to
+do it with solar and getting totally
+stuck. And showing Elon these plans that
+were like four miracles in we need on a
+single mission. And it was just
+ridiculous. And so Elon was like, "You
+probably should look at nuclear." And
+that's really the jumping off point
+where I started to learn and then three
+years later I left to to go run I
+founded Radiant and left to go run it
+and really trying to make mass
+producible portable micro reactors. Um
+not for space but you know currently
+we're focused on a traileriz thing but
+also
+&gt;&gt; needed in space
+&gt;&gt; right. Yeah. So uh I I do eventually
+want to do products for space but we got
+to have customers we got to have funds
+that are actually there.
+Uh yeah. Um so a similar story I guess
+uh in that for me it goes back to a
+similar time. So I joined Tesla in 2006
+and the reason why I even went there in
+the first place was because I had done
+this undergraduate thesis in uh how to
+have produce a how to enable New Zealand
+to meet their Kyoto commitments. If you
+remember the Kyoto protocol
+&gt;&gt; um and they're an island nation so it's
+almost like a microg study in disguise.
+So what are all the resources there? Uh
+how can you reduce the the carbon
+emissions from all these different
+sources? Um and I was focused on
+transportation in particular. And I
+became convinced that electrification of
+transport was not just like a way to
+solve a carbon problem but actually just
+the best thing to do from an economics
+perspective. And that motivated me to
+come to to Tesla. And then over the the
+the almost two decades that I was there,
+you know, I I I be the all the
+technologies progressed over those two
+decades, right? like the power
+electronics became cheaper, the
+batteries became cheaper, what you can
+apply these problem statements to just
+grew in scope, right? We, you know,
+proved that electric vehicles could not
+just be the best vehicles but also
+affordable vehicles. Um that uh
+renewables can come with really
+affordable storage to help decarbonize
+the electricity sector. And and towards
+the end of my time at Tesla, I had the
+opportunity to work on this project
+called the master plan part three
+project where we were effectively
+studying, okay, now let's do it for the
+whole globe. Can we have a sustainable
+all all electric or largely all electric
+sustainable energy future? Um is it is
+it feasible? Are the resources there?
+Like is the investment reasonable? And
+the answer was like yes, resounding yes
+in many ways. And so I I got I got
+further commitment that not only was
+electrification coming to transport but
+to like everything. And so the
+electricity grid needs to grow immensely
+um you know 3 to 5x depending on how you
+how you calculate and how much
+intelligence we need to electricity. We
+need a lot. A lot for sure. [laughter]
+&gt;&gt; Everything can't just be like little
+intelligent generators and micro grids
+that like mesh together whenever however
+they're needed.
+&gt;&gt; All of the above.
+&gt;&gt; Well, we don't have that already.
+&gt;&gt; Yeah. Right. [laughter]
+&gt;&gt; Yeah.
+&gt;&gt; Which planet is this?
+&gt;&gt; Yeah. Like maybe humans are that I'm not
+sure. Um
+&gt;&gt; we're very energy efficient.
+&gt;&gt; So, um so yeah, I I got convinced that
+we needed a massive scale up of
+electricity generation, you know,
+production, distribution, transmission,
+and stuff. Um, and I had seen at the
+same time that while there's so much
+innovation happening on one side of the
+wire, there's really been almost no
+innovation on the grid side of the wire.
+And that's where I got the conviction to
+go after power electronics for
+accelerating electrification. Really
+increasing the scalability and
+affordability of of doing everything
+that's required to enable electric uh
+generation and use. Um, that's how I
+founded her. Yeah.
+&gt;&gt; [snorts]
+&gt;&gt; And what feels structurally different
+about um the energ the increase or the
+rise of energy demand you know across AI
+defense manufacturing whereas previous
+eras you had more um flat growth in
+demand feels structurally different.
+&gt;&gt; Yeah. high level. We benefited from
+energy efficiency from the 70s really or
+really the 80s until like the 2010s, you
+know, and you saw efficiency everywhere
+like in industry with variable speed
+drives, uh with lighting, with heating
+and cooling, uh you know, progressively
+more efficient refrigerators and air
+conditioners. Um and all of that energy
+efficiency more or less negated like the
+growth in energy services cuz they
+absolutely like the energy services were
+growing uh over time in the United
+States but like the net electricity
+delivered to accomplish those energy
+services uh stayed basically flat and
+the same thing even happened in data
+centers which is is actually really
+interesting if you like look at the
+efficiency of compute even with all the
+AI things that are going on in terms of
+like flops per watt like it's really
+gone up immense amount from like the
+first data centers to today
+&gt;&gt; and that has allowed you know more and
+more compute capability for the same
+percentage of GDP electricity uh
+production now it's changing it's
+changing now that we can find more
+applications I think for AI than ever
+before and so we're going to see we are
+seeing you know electricity growth out
+outpacing well higher than it's ever
+been before and that's not just because
+the benefits of energy efficiency are
+tailing off but it's It's because we're
+seeing like broad-based demand for more
+electricity compute, transportation,
+uh, industrial electrification. Um, it's
+an exciting time, I think, because
+electricity as a carrier is like
+incredibly flexible and as a pathway to
+a sustainable energy future, whether
+it's for intelligence or for heating. I
+I see it as a great thing and want to
+accelerate it.
+&gt;&gt; Yeah. Yeah, I think though, you know, on
+the flip side of this, the last you
+40ish years of efficiency gains we've
+gotten, which have been sup super
+important, it it's allowed us to kind of
+look the other way.
+&gt;&gt; Yeah.
+&gt;&gt; Uh about
+the the real bottleneck in uh energy
+generation on the grid, which is just
+which is delivery. Um and we're so
+bottlenecked today on the lines that run
+crisscross across the country. I mean,
+it's this very complicated giant organic
+machine. Um yeah, we we probably don't
+have to talk long about that. Everyone's
+talked about that plenty. U but the grid
+the grid is breaking. Um you know, so
+when we think about just, you know, from
+an investment perspective, the types of
+things that we're interested in, it's
+like how do we actually go about kind of
+solving that really complicated
+transmission and delivery challenge with
+technology?
+&gt;&gt; Yeah. decades of not a lot of change
+means like the brightest and most
+talented people are like I got to go do
+something else more impactful with my
+life and a lot of those folks actually
+like for example a lot of the talent in
+GE went to Korea right or Japan because
+those were the growth markets and so you
+got this almost like hollowing out or
+China right hollowing out of of the
+knowledge base and so yeah we need to
+reinvest because we're growing again
+it's exciting I mean it's opportunities
+for both of us and others to come to to
+make it happen
+&gt;&gt; yeah why don't you flesh our uh energy
+investing thesis a little bit more in
+terms of what are the types of
+opportunities we we've been involved
+with or interested in uh the the why now
+you know is it technical breakthrough is
+it is it regulatory is it some
+combination why don't you flesh out a
+little bit more
+&gt;&gt; yeah I mean um you know a this sort of
+AI moment in time is is uh it's a good
+it's a really good forcing function I'm
+actually I'm very I'm very grateful for
+AI for lots of reasons but it's just
+it's bringing to a a head a lot of
+things that have sort of been brewing
+under the surface for a long time. Um,
+and uh, it's kind of forcing us to
+remember how to build large scale
+infrastructure in the US again and
+reminding us that actually energy energy
+is really important, electricity is
+really important, getting it to the
+place where it needs to be is really
+important. Um so whether it's data
+center compute or you know the broads
+broad-based re-industrialization of um
+sort of the industrial base of the US
+whether it's defense use cases on the
+edge or more centrally you know all of
+these technologies that we're investing
+in at A16Z are kind of demanding access
+to power and it's not strictly access to
+power on the grid. I think what we're
+seeing is the importance of having lots
+and lots of different types of power
+generation and a lot more resiliency in
+the overall system and network. So I
+think you know we all take for granted
+that when we turn our lights on in the
+office you know when you boot up your
+computer there's sort of like a
+unidirectional line of electrons that go
+from some sort of massive central power
+generation station to you know your
+power outlet. And what we're seeing and
+what seems to be necessary with much
+more spiky, much more complicated loads
+on the grid and off the grid is that
+resiliency, decentralization, and
+softwaredriven workflows really matter.
+And it's going to be impossible to build
+out the grid for sort of the max power
+capacity that we could need even at the,
+you know, most remote edge use case like
+on an army base or something like that.
+So when we think about our energy
+thesis, it's, you know, how do we turn
+this network into a much more
+softwaredefined, much more resilient,
+much more decentralized,
+um, you know, much more decentralized
+thing. And so, you know, I think both of
+your both both of what you're building
+sort of feeds into that sort of micro
+grid, behind the meter, on-rid,
+off-grid, um, hybrid. We just need to be
+a lot more flexible and a lot more
+adaptable to a variety of changing
+conditions. Doug, uh, it seems like the
+the tide turned on nuclear a few years
+ago in that, you know, more and more
+people started to realize the the, you
+know, the boring criticality of it. What
+is sort of the progress that we've made
+as a as an industry? You know, what what
+have we achieved and and, you know, what
+are the biggest bottlenecks remaining in
+terms of, you know, really making
+progress as a country?
+&gt;&gt; Yeah. Um,
+it's a good question. I think there's a
+bunch of fun ways to answer it. I mean,
+the the one thing I like to say, it
+sounds a little sensationalist, is that
+there is no nuclear industry.
+But it's really true. Um, you know,
+we're kind of, it's almost like we're
+getting excited about flight before
+Kittyhawk,
+&gt;&gt; right? Uh, to a certain degree, there's
+a really, uh, coming very soon deadline.
+A lot of companies, a lot of little
+nuclear startups have actually been
+given access to fuel and facilities um,
+and, uh, just expedited support from the
+subject matter experts required to
+regulate to make sure that these are
+going to be safe tests. Um and so by
+July 4th, um several companies will have
+reactors built that go critical that are
+fundamentally new designs, completely
+new and from scratch. Uh but it hasn't
+happened yet. So it just feels like a
+little bit of cart before the horse.
+&gt;&gt; Are you does that worry you at all? Like
+&gt;&gt; uh not too much. Uh, you know, I've been
+doing nuclear, well, thinking about it
+since 2016, but I founded Radiant in
+2019 and then for a year just learned
+how to do reactor design and then raised
+money in 2020 and just I I never founded
+a company before, never intended to
+really do that and I kind of slow rolled
+into it. I could have tried to go much
+faster. Um, but I've stayed totally
+committed to just building. And actually
+the the funny thing is like in 2020 in I
+said in 2026 I will put a full scale
+reactor and and get it critical and get
+it up to full power. Um, and we're on
+schedule to do that which is kind of
+wild. Um, and it's not like that was
+really the actual plan, but it was just
+I was resilient to all the challenges
+that were put in the way. We are now the
+only reactor permitted to of these new
+reactors to go to full power. So a lot
+of others are getting to critical u
+which doesn't mean you get to high
+temperatures or high power and those
+things are very challenging on all the
+parts in the system uh right and they
+require careful consideration of the
+thermal gradients and the alloys right
+we need high strength uh materials to do
+that so that's really exciting but we're
+like not quite there yet and uh I think
+if we're doing the same discussion next
+year it's going to be dramatically
+different because we're going to be able
+to point at all these different designs
+what you could do with them and I think
+the products like uh nuclear reactors as
+products has never been seen before.
+&gt;&gt; All right. They're always usually these
+giant mega projects where you dig a huge
+hole in the ground and you take 5 to 10
+years or up to 15 for the the slower the
+bad projects out there. But reactors
+that can just come ours, you know, we're
+targeting one per week coming off of a
+production line um from our Tennessee
+facility, which is a 80 acre site we
+just signed for in October, not even a
+year ago. But I want to tie back into
+the grid because I I I was just uh I had
+some interesting thoughts and we really
+our product is for off the grid.
+&gt;&gt; All right. So megawatt reactor on a
+trailer and you can we build in our
+factory. We drive it or fly it to where
+the customer wants it to go and then
+turn it on within like 48 hours. We go
+it, you know, wheels stop moving and
+then we go to power on your site in that
+amount of time and then it lasts 5 years
+which is like a full oil tanker worth of
+diesel equivalent. It's 2 million gallon
+diesel equivalent. Uh so it's sort of an
+unbelievable thing where you can grow
+the grid or put a put a micro grid
+anywhere. Uh but it's like a it's a
+totally different problem I think from
+the grid itself is civilization, right?
+Electric power is civilization.
+&gt;&gt; If you go and there's sockets and you
+pop something into them, you just get
+power. That's very well-developed.
+That's uh civilization and that's uh
+using electricity to do what you could
+otherwise only do with human muscle or
+animal muscle. Um, and uh, I'm excited
+about um, Drew's product and company,
+what it can do for the grid, but also
+for micro grids, and it'd be fun to hear
+your thoughts on how these things mesh
+together actually, cuz we had talked
+about like where do our products
+actually go together.
+&gt;&gt; Yeah.
+&gt;&gt; So, maybe uh, and talk talk about your
+product. I know you have like a power
+building block of a certain size.
+&gt;&gt; Yeah, for sure. We're we're building our
+first product is heron link and it's a
+uh it's a 5 megawatt uh birectional uh
+solid state transformer that goes from
+DC anywhere from 800 to 1500 volts DC to
+34,000 volt AC which is effectively that
+that AC voltage is is the
+subtransmission voltage of data centers
+of large you know battery power plants
+of of solar facilities really it is the
+highest distribution voltage voltage on
+the on the grid around us. So, if you
+look at the wires on top of a pole, you
+know, specifically the ones that are way
+up top, you know, the highest voltage
+those will ever be is 34,000 volts. So,
+we're going after all of the
+distribution
+um voltages in in the world. Uh Europe
+is the same, so is Asia. And our first
+product is DC because that that's about
+a 500 gawatt market growing quickly uh
+of you know data center solars and
+battery solar and batteries. But future
+products will be AC to AC. Um, and that
+allows you you to do, you know, all the
+utility use cases and and use cases
+inside of, you know, commercial
+buildings like this building we're in
+right now. They can all benefit from AC
+to AC. And what what is what is a solid
+transfer? What is it actually doing?
+Right? It's it's um
+power semiconductors and software. And
+instead of converting voltage at line
+frequency using large coils of wire
+around like magnetic steel in a bucket
+of oil, which is how transformers
+generally are done, you're doing it at
+really high frequency with much much
+smaller simpler magnetic materials to
+produce called like you know ferites um
+using switching devices and and you've
+you've charged a smartphone before like
+that little object, that little power
+brick that you have in your hand, you
+know, it's doing conversion from 120 or
+240 volts AC to 5 volts uh DC to charge
+your phone and it's switching at uh
+million times a second. There's like
+tiny little GAN gallium nitride device
+switching a million times a second uh
+voltage across a transformer that's
+smaller than a pencil eraser. Um, and
+you know, if you remember back to maybe
+you had a laptop in the '9s or something
+like that, or you did, I don't know. Um,
+and the giant power brick that you were
+carrying around that was really hot when
+you stuck it in your backpack after
+charging your your your computer, like
+just in a couple decades, you know,
+you've seen more than an order of
+magnitude power density improvement
+there and efficiency improvement. Um,
+now you can do like multiple outputs and
+the seven different voltages. And you
+know we're trying to do the same thing
+but not for commercial electronics but
+for industrial scale electronics. And
+our building block as you said it's a
+modular architecture. So that 5 megawatt
+heron link it's got 3065 kowatt you know
+modules inside the the product itself is
+fail operational. If one of those fails
+we just keep operating.
+&gt;&gt; So oriented at at rugged
+&gt;&gt; the whole building could power off of
+one of those blocks. Right. You can
+switch your distribution to some modern
+&gt;&gt; I like control. Yeah. I like to think of
+it as though like if if the grid is
+civilization itself and everything is
+routed in AC and there's some much much
+better way
+&gt;&gt; you can like you know met metamorphosize
+the entire grid like have civilization
+can regrow off of a new architecture of
+moving power
+&gt;&gt; and I of course like to think about the
+first power that you put on another
+world like if you put a megawatt on the
+moon or on Mars.
+&gt;&gt; Yes. distributing that will like set the
+precedent for how you do like what what
+the technology type will be. Will you
+plug into a DC thing or will you plug in
+the the two the two prongs that we're
+used to in the US at least?
+&gt;&gt; Well, either way, cuz I'm not going to
+take a big stance one way or the other.
+It it's like you should be using
+software and semiconductors, you know,
+which are higher efficiency, you know,
+much less mass and size, especially that
+matters when you're going to space. Like
+you don't want to scale if this thing
+can weigh more.
+&gt;&gt; I think there's less oil. I think the
+big can of oil, the big bucket of oil
+thing for the transformer is hard on
+Mars. Yeah, it's limiting. So, it's
+really
+&gt;&gt; of steel and oil.
+&gt;&gt; It's just the leap frog thing, right?
+Like, let's use software and electronics
+rather than like mechanical systems to
+accomplish our power distribution.
+&gt;&gt; We went like super nerdy on this, which
+is perfect. But I uh our reactor like
+fundamentally makes DC power because we
+actually run a really compact power
+generator.
+&gt;&gt; Perfect marriage.
+&gt;&gt; And and it run Yeah. Exactly. Uh and
+&gt;&gt; so the the greatest civilization you you
+are pushing civilization that inch
+forward.
+&gt;&gt; Yeah. It's civilization a new right and
+and and it can grow from the edges where
+our system makes sense
+&gt;&gt; for people with a critical need for
+power for resilient energy at a military
+base or hospital or for disaster relief.
+&gt;&gt; Yeah. Yeah,
+&gt;&gt; the reason you have to use AC actually
+as the way to move that power
+&gt;&gt; and the that the idea that the grid can
+grow and move from the edge is just not
+something that we've really been able to
+process for the last 50 years in the US.
+Like the grid is a you know has been a
+very top down project and if you want to
+attach back into the grid as all these
+data center people are realizing now
+it's a huge nightmare. It's a nightmare.
+Um, and so how do you like make it
+easier to do that kind of organic?
+&gt;&gt; Part of that is because the underpinning
+of the grid is these mechanical systems
+that are not fast responding that don't
+have a lot of telemetry.
+&gt;&gt; No software.
+&gt;&gt; Yeah. Well, if there is software, it's
+very slow to respond. And so you don't
+it's it is harder in a world like that
+to imagine a birectional grid, right?
+like it's the central planning from
+inside out you know when you're thinking
+about protection and like you know uh
+can I stay within the the load ratings
+of these lines
+&gt;&gt; uh when you don't have the
+infrastructure to dynamically control it
+the way you want like you you you're
+stuck so I think we're it's an enabling
+alternative
+&gt;&gt; I think one of the things that it could
+do for people is you you have a DC
+battery we go DC to AC right on these
+all these to attach some like large
+battery system
+&gt;&gt; um and then Maybe, you know, you have a
+solar grid, but that's on some different
+DC voltage, and that also needs to get
+converted to AC to then put on a grid to
+use it. But you you could have little
+cells like these things that we grow at
+the edge. It could be like megawatt hour
+battery packs, a few megawatts of solar
+for during the day, and a reactor for at
+night. And all those things actually
+merge and work perfectly on a DC grid,
+like a DC micro grid. That's
+&gt;&gt; that's sort of what it I think what it
+what it could do, right? It's
+interesting for people to think about
+this.
+&gt;&gt; Yeah. Uh, I think it could be
+demonstrated at uh some military
+installation or some other place. And so
+it's like a fun thing that Drew and I
+have chatted about a little bit, but
+there's no We don't know when we'll be
+able to do Exactly.
+&gt;&gt; soon. Soon. [clears throat] Let's get
+critical. [laughter]
+&gt;&gt; That's right.
+&gt;&gt; Get to power.
+&gt;&gt; The other thing to consider is is
+compute also is natively DC. So it, you
+know, you're in this interest of
+&gt;&gt; Exactly. Compute, batteries, solar,
+&gt;&gt; all the new technologies.
+&gt;&gt; Micronuclear actually all DC.
+&gt;&gt; Micronuclear.
+&gt;&gt; Yeah.
+&gt;&gt; I like it. I think it's I think I've
+talked to other folks about like what is
+uh what is a modular reactor, right?
+Like you hear SMRs and it's like this is
+this in my mind is abs is like the
+definition of of SMR 1 megawatt versus
+like you've heard about this 100
+megawatt SMR.
+&gt;&gt; Yeah. Micronuclear is a term no one's
+using I think. Well, I think it's new
+right now. Like we just said it
+&gt;&gt; and someone else said it and as soon as
+two people say it it's that's it. It's
+creation. It's done. It's anvil and
+hammer.
+&gt;&gt; [laughter]
+&gt;&gt; It's it's in stone now.
+&gt;&gt; It's like mainframe verse PC but applied
+nuclear
+&gt;&gt; and the PC1 like the data centers look
+like PCs that don't look like main
+frames and there's a reason why.
+&gt;&gt; Yeah. Well, SMR can represent like a 100
+megawatt thing. Building it digging a
+big hole in the ground. It's not
+necessarily going to run. It has to run
+faster than 60 Hz for it to be DC
+source, right? I actually I make AC
+because every heat engine you spin
+something.
+&gt;&gt; But we do it at such a high speed that
+we then use active rectifiers to convert
+to DC as the first step. Yeah.
+&gt;&gt; So, I think what you know, one thing
+that's interesting about both of your
+approaches, and I'm curious how much of
+this comes back to your time at Tesla,
+SpaceX, respectively, but you're both
+like very focused on manufacturability
+um and modularity and modularity of
+design. Um yeah, maybe you should talk I
+would hear be curious hear both of your
+thoughts about that.
+&gt;&gt; I find that there there's this sweet
+spot between like capital investment and
+like manufacturing cost of goods sold.
+Um, and you're always trying to find
+that with any with any product, right?
+And if you just compare stick building a
+power plant in the in the field, um,
+versus, you know, fully integrating like
+a on a highly automated line, that same
+function, the total cost will always win
+if you can uh uh do it on a on a highly
+automated line. And so, you know, we're
+building for our first factory, we're
+building a 40 gawatt factory. And people
+like, wow, that's a lot.
+&gt;&gt; Well, what contextualize what is 40
+gawatt? Yeah, 40 g a year. So it's about
+um it's about 10 to 15% of the exchina
+market for our product category. Um and
+it's equivalent to half the state of
+Texas in peak power if you want to think
+about it in that term. It's kind of
+useful.
+&gt;&gt; That's like 4% of the whole country's
+electric power, isn't it?
+&gt;&gt; Uh yeah, the yeah something like that
+&gt;&gt; between 500 gawatts and and a terowatt
+depending on how you think about it. So
+yeah, 40 gawatts a year is I mean it's
+significant in this the overall US.
+&gt;&gt; Um and why 40 gigawatts? One, you know,
+looking at it from a market sizing
+perspective, but the other is hey like
+right around 60cond tac time is where
+you maximize that like capital
+efficiency of building a factory. And if
+you look at our module size and you look
+at 60second tac time, it sort of works
+out to 40 gawatt uh spot. And you know I
+we're going to ramp that factory. I hope
+I expect us to exceed the demand for
+that factory. But um you get so much
+quality and cost benefits uh going for
+full as much automation as you can. Not
+too much but as much automation as you
+can that yeah it's more than just that
+but that's those are the first two
+things that come to my mind quality and
+cost.
+&gt;&gt; Yeah. Um I mean you think at such a huge
+scale um I definitely 100% agree with
+the less like I think you said stick
+building and it's like the opposite of
+that is mass production right thinking
+about doing it all in a factory and
+that's our entire approach is like a
+nuclear reactor
+&gt;&gt; it was pretty radical for a nuclear
+reactor the idea that you would build it
+in a factory
+&gt;&gt; absolutely yeah so it's really we're
+doing nuclear reactors as products for
+the first time ever and it's so that you
+can just you can say yeah I want nuclear
+power and we deliver it it operates And
+then when it's done operating, we take
+it away and there's no waste or other
+tricky consideration you have to make.
+It's totally safe on the customer's
+site. We actually use a meltdown proof
+fuel.
+&gt;&gt; Um, and it makes this like completely
+new way I think of thinking about
+nuclear power. It's just it's in the
+options list and and I think it's it
+wasn't even before. Not only is it
+there, but it can look better than
+almost every other form of power. And I
+and I don't like to, you know, imagine
+that it's the only thing you want to do.
+I really like the idea of like solar and
+battery and nuclear and like put that
+that whole that whole block somewhere.
+Yeah.
+&gt;&gt; Right. And use all of the free energy
+that's out there because the the
+sunlight is free. You put up a panel,
+you're getting it. It's very cool. But
+also uranium is free. It's in the
+ground. It's not flying through the air.
+It's there. If we we take it and we use
+it before it spontaneously under goes
+fision, it just goes away, which it's
+been doing. So like when the Earth
+formed a few bill 4 billion years ago,
+we had like 128 times as much uranium
+235. So, we better get a lot of it.
+Yeah. The same way as like you put up a
+panel and catch some sun. Like, take it
+out of the ground, use it.
+&gt;&gt; Don't let it turn into radon and other
+stuff that is actually harmful to
+someone's health. It's like it's more
+dangerous
+&gt;&gt; from health perspective. Leave it in the
+ground. And it's a total waste of the
+power. Um, and there's a bunch of cool
+like ideas like this and a new way of
+like really seeing nuclear that I've
+written a thing called Adams for
+Prosperity that's on our website. I
+released it about a year ago, but it has
+this and like how how should you think
+about radiation and waste and reactors
+and what's possible.
+&gt;&gt; Yeah. I think there's another thing that
+you're not stressing enough about um
+that infield work content being really
+low. Um so, you know, when I was at
+Tesla, I was responsible for the mega
+pack product development and then mass
+manufacturing and and and the business
+of selling them. And the the the less
+involved the on-site project is just the
+faster everything about it will go like
+show up.
+&gt;&gt; Yeah. The per
+&gt;&gt; racks of batteries.
+&gt;&gt; Yeah. Just like land land the cabinet,
+you know. In fact, we even work work
+past the pad like we got rid of the
+concrete wherever the seismic would
+allow. Awesome. And just did soil nails
+because again, it's you're disturbing
+less dirt. you know, there's less
+concern about like uh you know, how much
+you need to grade or what are you going
+to do with you know, civil and
+architectural type scope. Um the the
+local community, especially in your
+case, if it's like a temporary
+installation, they're going to feel less
+concerned about it. And the fact that
+you can just pick it up and and remove
+it if if for whatever reason it needs to
+be, which we you can also do with mega
+packs, it it eases this trans this
+transition into these new technologies.
+and and consider that compare that to
+like a giant nuclear cooling tower
+visible for miles around. Yeah. Such a
+different approach. Um and and and in
+today's world where like not everybody
+is a Yimi. Yes. In my backyard having a
+you know rapidly deployable let's say
+&gt;&gt; I thought Nimi meant nuclear in my
+backyard. [laughter]
+&gt;&gt; Nimi. You thought Nimi. So we should
+rebrand.
+&gt;&gt; Rebrand Nimi. Let's bring it back.
+Dang it. I got a problem here.
+&gt;&gt; I love it. I love it. [laughter]
+&gt;&gt; Sorry. No, I mean I think I think that's
+what you get with that modular approach.
+You get logistics simplification, you
+get quick install, and you get simpler
+permit um uh and access to
+&gt;&gt; no skyline. It's really infrastructure
+free, just clean power wherever you want
+it over a weekend.
+&gt;&gt; Well, but so I mean you built you helped
+build factories that made rocket ships.
+How it seems like building a factory
+that builds a nuclear reactor, that's
+pretty hard. Um what's that you know
+what's the experience then like so
+you're just getting
+&gt;&gt; everything is a factory uh we we're
+building a nuclear director in our first
+building that that we had uh and it's
+like a 70,000 square foot uh
+&gt;&gt; that's very cool
+&gt;&gt; that we have right now we have two
+buildings we had to get a second one in
+November uh because we filled up the
+first building because we start doing a
+little bit more vertical integration a
+little more of the machining inhouse and
+all that's happened to us already but
+we'll be able to build up to 10 reactors
+in those facilities that we have. We
+both know Elon operate out of a tent.
+So, right, this is like quite a bit
+fancier to have real walls.
+&gt;&gt; Um, but in Tennessee, we have an 80 acre
+site. We have the first building going
+up, which is made for just fuel handling
+cuz that's the the tricky bit. And so,
+we're working the regulatory permit path
+right now on that. Uh, we should be able
+to put fuel and reactors there. And so,
+we'll initially be building everywhere
+we can possibly find like a building
+with enough power, right? um and then
+moving all the parts to Tennessee to
+then get the fuel loaded there to then
+take it up to the customer site. It's
+nice that it's mobile so we can actually
+do all of that. But the factory itself
+is a bunch of other buildings on that
+site and most of it is like normal
+assembly work like you've got big
+structures that you're welding, bolting
+things together, right? Putting wire
+harnesses and things on on the unit. Um
+but the factory will have to evolve
+multiple times also,
+&gt;&gt; right? So a factory before Gigafactory,
+right, is a different thing. You you
+know the process,
+&gt;&gt; right? Automate is last.
+&gt;&gt; Yeah. Yeah. After you've tried to delete
+the steps and done all the other Yeah.
+all the other smart stuff.
+&gt;&gt; Exactly.
+&gt;&gt; Of course.
+&gt;&gt; So, we're So, yeah, we're just building
+and learning what is actually the
+factory look like.
+&gt;&gt; But parts of the production line that
+can be automated and should be will then
+go in those newer buildings that
+&gt;&gt; we're doing the same thing, right? Like
+we're building our first prototypes
+largely by hand, you know, in our
+engineering facilities. Uh we're doing
+about 10 of those this year. uh we'll
+we'll do another like 30 to 50 prototype
+systems this time in our factory
+location which we hope to announce uh
+next quarter and then and then only from
+the learnings of those two builds will
+we go and and and and automate uh from
+there and that that's the you just got
+to get the reps. How should we think
+about how micro reactors fit within the
+broader energy landscape? Do they
+compete with large centralized plants?
+Do they complement them? Are they
+serving in different categories of
+demand? How should we think about it?
+Yeah. So, they're they're definitely an
+off-grid product. So, they they don't at
+all compete with larger reactors really.
+Um, if you can build if you have time to
+dig a big hole in the ground and put a
+reactor in in that way, then you can do
+a larger reactor, maybe five or 10 times
+as big as the 1 megawatt size that we're
+looking at and it's going to win on
+economics. It definitely should. U,
+we're already using like one of the
+fanciest forms of fuel and it's so that
+we can set it up anywhere um and have it
+not be a risk, right, to people or
+facilities nearby. And so we're we don't
+compete at all with those things. Uh one
+of the ways I like to to talk about this
+is um you could run a diesel generator
+or you could run a nuclear reactor. And
+you're really deciding between those two
+things. Um and we don't beat like super
+cheap diesel. Like we beat diesel at
+like 650 a gallon, that kind of a
+number. So that's where our initial
+customers need to be. Um, but if you go
+start looking at what people pay for
+diesel and what they pay on the edges,
+not on like the center of the bell
+curve, the average for like a country or
+an area, like you look at the tough uh
+regions, they're paying a lot. And so
+there's plenty of customers out there.
+Um, and when
+&gt;&gt; some examples I think would
+&gt;&gt; oh like $10 a gallon is the average in
+Hong Kong. Uh I think like uh Iceland
+and Scandinavia, Northern Europe, those
+regions are like 78 $9 per gallon for a
+whole country actually. So like it's
+very easy to see the market is massive
+&gt;&gt; and islands.
+&gt;&gt; Yeah. Yeah. Islands. Uh absolutely. Um I
+mean Hawaii's Hawaii is pretty high
+electricity cost and it's I think 80%
+diesel powered actually. It's got like
+it's got wind and solar that make up the
+the remainder. Um but yeah, you could
+have a cleaner form of power, right? No
+emissions. The nuclear reactor operates
+and then rain it takes it and we handle
+the all the complexity. But the amount
+of power people need, right? uh need
+they need in the gigawatts for the grid
+and so we don't really do that. We have
+the the niche customers on the edge and
+uh we don't want to make right thousands
+and thousands of reactors. At 50 a year
+we'll have something in the range of
+like a thousand or two at the most but
+we don't consider we don't look at it
+and go hey could we make it work for
+10,000. There's different products and
+we can do it at better economies. Um and
+there's a couple of ways to do it. Um
+but we're Raiden doesn't want to dig a
+hole in the ground and solve that other
+miracle. It's too many miracles. I
+[clears throat] think it's important to
+be able to do it again, but it's not on
+us to fix it right away.
+&gt;&gt; Yeah. Serious miracles. You don't want
+to have too many in a startup.
+&gt;&gt; Yeah.
+&gt;&gt; You need some
+&gt;&gt; Yeah.
+&gt;&gt; But
+&gt;&gt; well, one miracle that leads to then a
+product and and revenue and Right. That
+that should that's the way. And then you
+can then you have time to think about
+another miracle.
+&gt;&gt; Totally.
+&gt;&gt; So you mentioned that uh we're very
+early in the nuclear industry. You know,
+we're even pre the nuclear industry in
+some sense. So what is the milestone or
+or the KPI or what would need to be true
+for us to say we as a country you know
+the nuclear industry is here and
+flourishing.
+&gt;&gt; Um I think a couple of things. So we we
+could have uh access to nuclear fuel and
+enrichment that are like incompletely
+competitive free markets where there are
+innovative startups fixing and solving
+those challenges.
+Um, we should have a waste storage
+facility that's some centralized
+repository which is way safer for the
+existing nuclear fleet that's operated
+since the 60s. That's an unsolved
+problem. And that would those things
+alone would cause everything else to
+flourish because we already have this
+like middle layer of me and a bunch of
+other startups trying to get fuel and
+operate reactors. And then if we're able
+to as a country really have a better
+system to deal with nuclear waste u
+which actually radian doesn't need like
+our uniquely at this really small size
+we can just put it into dry cask on
+about 10 acres of our 80acre site and
+that works for like 60 years worth of
+reactors and we can always expand and do
+more and uh you know the the nuclear
+waste has got high reactivity elements
+that last like a hundred years and after
+that it's pretty benign but Um, we
+already have uh a waste isolation pilot
+plant in New Mexico, which is like this
+deep bore hole down inside of a salt
+structure. So, it's like a salt dome.
+Um, this is where defense waste already
+goes. And they just said they were going
+to build it and they built it. Um, and
+meanwhile, we struggle still on the DOE
+side to build a repository for
+&gt;&gt; for big nuclear plants.
+You know, because of that, these
+gigawatt scale plants are operating
+generating nuclear waste on and they
+have to store it at the same site where
+they're making power. And in California,
+this is like coastal regions that like
+are risky where like you can have a
+tsunami or something instead of taking
+it and putting it in a salt dome
+structure in the high desert where
+there's no water, no risk of like
+certain natural disasters.
+&gt;&gt; So, it's just a smarter, safer, better
+idea. And we don't do it.
+&gt;&gt; Yeah.
+&gt;&gt; Uh and actually, it's a huge cost. It's
+a commitment as well. Like you got to
+demonstrate that commitment.
+&gt;&gt; It's the And it's also the the the nimi
+transition that not in my backyard to
+&gt;&gt; nuclear in my backyard.
+&gt;&gt; Nuclear in my backyard. Yeah. We need
+that.
+&gt;&gt; Well, you I I mean I think the you
+mentioned also the sort of nuclear fuel
+supply chain. It's something Drew you
+and I have talked about on the um on the
+power electronic side, how important the
+supply chain is, how focused you are on
+it as well. I think you're lucky that
+your biggest silicon carbide supplier is
+a US company. It's a technology
+developed in the US. Mhm.
+&gt;&gt; Um but you what other parts of your
+supply chain and are you worried about?
+&gt;&gt; Um yeah
+&gt;&gt; thinking about
+&gt;&gt; Yeah, for sure. Uh so I mentioned uh
+there's fite is a a pretty important
+ingredient in these high frequency
+transformers. Uh it's only it's
+basically just iron oxide. So it doesn't
+have with maybe a little sprinkling of
+maganesees. So it's it's not there's no
+rare earth in in the fite, but the
+world's largest fite companies are in
+Asia, right? It's like every other, you
+know, uh, complex supplied good. Now,
+there have been ferret manufacturing
+facilities in the US before. I'm working
+to bring them back. In fact, one of them
+is nearby and and uh in Georgia and
+could be brought back with some coaxing
+and I'm working on it uh with the with
+the with the parent company. Um, another
+another is is uh thin film caps uh
+capacitors. There's a decent amount of
+they call power electronics but they
+should really call it like power
+capacitors because the things you mostly
+see are the capacitors and the same sort
+of thing you know supply based largely
+in Asia. Uh working with those same
+vendors to uh bring it closer. No rare
+earth materials there you know mostly
+polymers and and and you know thin uh
+copper or thin aluminum conductors. Uh
+we already have a pretty well
+established like copper and aluminum
+supply chain. You're just saying like
+like a small wire gauge.
+&gt;&gt; I mean it's like it's like micron thin
+&gt;&gt; sheets.
+&gt;&gt; Sheets. Yeah. Okay. Yeah. Copper
+aluminum foil. They're really foils.
+&gt;&gt; Um and then that's that's what's in a a
+thin film uh got it.
+&gt;&gt; Um
+&gt;&gt; so yeah, those are I think the critical
+aspects of power electronics. Everything
+else is already like very abundant uh
+and easily disourced in the United
+States. Um so you know your your
+plastics, your sheet metals, your
+aluminum castings, um boss bars and
+things. So I you know because of that we
+can really focus on those three key
+commodities and we we do have plans for
+each um to both nearshore and onshore if
+they're not already. Um, and like I'm
+excited about that because I see power
+electronics really moving from the like
+device scale I was describing of of you
+know charging your your laptop uh or
+where it's largely been stuck uh more
+recently like in EVs and and and solar
+and storage to the grid itself. And when
+you do that, it, you know, you're like,
+"Oh, 40 gawatts, that's the state of
+Texas." But it's actually not like that
+because you have power conversion all
+the way along the way, right? You have
+it, you have some power conversion going
+on at the generating facility to go from
+some lower voltage to immediate voltage
+like 34,000 volts, and then you have
+another power conversion system going
+from that intermediate voltage, 34 KV,
+let's say, to the main transmission
+voltage, hundreds of kilovolts. And then
+you have to do it again on the other
+side when you get into the community. So
+you might have an 80 gawatt peak grid in
+Texas, but you actually have like
+probably 800 gawatts of power
+electronics actually supporting that
+grid. Um so uh so I'm excited. I guess
+what I'm saying is is is while and this
+is a useful piece of context. Last year
+about three terowatts and these are big
+numbers of power semiconductors went
+into electric vehicles and the peak grid
+power is less than a terowatt in the US.
+So these are really like on the same
+scale kind of opportunities.
+&gt;&gt; I think this is solvable.
+&gt;&gt; It's a solvable one. Yeah. and and uh
+and I'm I'm like really motivated by
+these how much these supply chains have
+scaled up to support electric vehicles
+and electric vehicle growth is slowing
+down which means we can take that
+momentum and bring it into a new problem
+statement which is power for data
+centers, power for industrialization,
+um power for economic growth and
+prosperity and and for sustainable
+energy. So I'm yeah it's it's an
+exciting time I would say.
+&gt;&gt; Let's talk a bit about data centers.
+There's a lot of sort of controversy
+about them. How should we think about
+what is what is the impact? are they
+causing problems on the grid, etc.
+&gt;&gt; Yeah, it's it's a there's two sides to
+this one. Um u but I think in general,
+like if you zoom out, data centers are
+overall going to be really good for the
+grid. And I I'll kind of explain maybe
+why they get a bad rap and how that's
+going to change. So
+just I think yesterday I saw a headline
+about uh 2 gawatts of data centers
+turning off instantaneously in Virginia
+uh over the weekend or last week or
+something like that. That is the reason
+I see why there's a lot of concern about
+about data centers on the grid like but
+from the grid operator perspective and
+and they are designed to date they have
+been designed to do that right they want
+to keep their compute up they want their
+69s so anytime there's anything funky on
+the grid they isolate and and run off of
+their backup generation or or UPS's and
+then ultimately backup generation and
+when a data center is 10 megawatts in a
+grid that's hundreds of megawatt watts
+or gigawatts that doesn't matter. But
+when you're building gigawatt data
+centers, uh it starts to really matter
+and the grid stability is at risk. And
+so that is very solvable with software,
+modern power electronics, you know,
+dynamic grid forming um controls in your
+rectifiers and in the data centers. They
+can stay online through those cases uh
+with a little bit of energy storage and
+and and actually stabilize the grid
+rather than destabilize it. So that is
+like a solvable one but it is it is a
+problem that is real like it happened in
+Washington state it just happened in
+Virginia and needs to be resolved as
+these data centers keep becoming bigger
+and larger percentages of the grid
+&gt;&gt; and I think it's it's a it's a function
+both of the data center design up until
+now and how they are able to connect to
+the grid which today is you know very
+dumb systems
+&gt;&gt; it needs to be more interactive
+absolutely
+&gt;&gt; and it can be so much more interactive
+uh with with better software and with
+more understanding of the capability
+&gt;&gt; but then there's this other commentary
+about how data centers are going to
+increase rates which I I I think if
+doesn't make sense to me on big picture
+and and and it's it's really simple like
+physics of electricity rates right
+electricity rates are cost to maintain
+the electricity grid or the to deliver
+electricity altogether divided by total
+kilowatt hours delivered right and the
+data center customer is like the ideal
+customer they're consuming like near
+their maximum power almost all the time
+compared to like your house where you
+you're like maybe at 10% of the maximum
+power of your house like an hour a day,
+right? So they are the best customer to
+serve in terms of delivering more
+kilowatt hours and then and then the way
+utilities generally do is they like take
+all the kilowatt hours in and they look
+at all of their costs and they you know
+spread it across everybody. So the more
+data center load like more loads we have
+like data centers like factories uh that
+are steady constant loads the the cost
+of serving electricity to everybody will
+go down because they are the they are
+increasing that numerator the
+denominator right like yeah the
+utilization is going up right um
+&gt;&gt; so the average is getting better for
+everybody
+&gt;&gt; yeah and and I think you know there's
+concern about the power side oh will
+there be enough power but I think what
+we've seen and actually last here, US
+had had one of the highest power
+additions to the to the grid ever. And
+this year, it's by far going to be the
+highest uh capacity addition to the grid
+ever. So, new power is not the problem.
+Delivery is the problem. And and uh data
+centers by increasing the utilization of
+the delivery system make delivery more
+affordable. So, I I think net net they
+will actually drive rates down.
+&gt;&gt; Cool. Well, I think that's a good place
+to to wrap. Drew, thanks so much for
+coming to the podcast. Thank you. Thank
+you. Thank you so much. Great.
