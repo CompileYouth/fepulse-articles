@@ -1,0 +1,559 @@
+原文： https://www.youtube.com/watch?v=5nMa3p3qw1w
+
+Okay.
+See, it's very uplifting. Um,
+[laughter]
+who here thinks that the job won't be
+automated by AI in the next five years?
+Wow. What do you do? How do I get a job?
+So, who here thinks that your job will
+be automated in the last in the next
+five years? Okay. Okay. So, how about
+the rest of you? Like you you like don't
+have a job or something like [laughter]
+Yeah. So, so I just did this um question
+yesterday. It was just curious like what
+people online would think and it seems
+like a lot of people think that the jobs
+are going to be automated.
+So, don't despair. I think I think I was
+trying to end the talk on a very
+uplifting note. Uh but I think like
+recently I I launched something as a
+side project. It's small. I'm happy
+about it. Uh it got like some some eyes
+on it, right? It's like a week. It's
+like 300,000 views. And um within a day,
+I got an email from someone saying like,
+"Hey, I love what you you built." So I
+use Clico to recreate exactly that and
+here's a link. And I'm just like I'm
+flattered, but also like what? like
+[laughter]
+so so so and so like made me realize
+that
+whatever exists can be replicated.
+So I think like it's it makes me feel
+weird because at the same time like I
+just fluctuate between excitement and
+despair because on on one hand right I
+feel like now I can build anything I
+want but at the same time anyone can
+build anything I want. So what is the
+incentive structure for me to do
+anything right? Like I think I have
+stopped using a lot of what I call like
+SAS light like some some products I feel
+like s a very small problem and charge
+me like a lot of money like per se for
+example like I don't know $50 per seat
+per month for single like and I feel
+like why should I keep paying for you
+when I could just recreate exactly that
+um like with with AI um and of course
+people can tell me that like okay it's
+not quite the same there are things
+that's like harder to build right you
+can't just get AI to do like a Google
+like in a day. Of course, it takes
+longer, but I also noticed that like um
+AI just get better and better over time.
+Maybe it cannot create recreate Google
+in a day, but maybe like over time it
+can. And I think there about research by
+um people showing that AI can accomplish
+tasks like expo exponentially more
+complex. So what AI can do today is
+already way way more powerful than what
+I imagined it could do like just a year
+ago or like way way more than three
+years ago. Uh so so maybe it's just a
+matter of time and people used to tell
+me that like okay there are like
+different modes like data is a mode but
+it turns out that like data is not a
+mode it's just like expensive like you
+have seen how easy it is for people to
+replicate dips or like GBD5 it's just
+it's not it's not it's not really a mode
+if somebody can just throw money at it
+and acquire data and build it then what
+exactly a mode here like why should I
+continue building uh so sometime I call
+it like I call it like the deeply moment
+of software
+Uh so the idea is that like a few years
+ago like everyone was excited about hey
+you can use AI Jared pictures in any
+star and somehow the Gibly studio star
+became the star that people really like
+and I think was by that point I realized
+that if you can describe a star AI can
+generate it and just sending software if
+you can describe a software then AI can
+build it for you and the more you build
+like the more put things out there you
+remove the need for imagin ation you can
+say okay now I like that website do that
+for me uh and and this is quite weird so
+the question I want you to understand is
+like so why should I continue building
+so um I'm curious here like why why do
+you think that we should continue
+building if whatever we build can be
+copied in like very very short amount of
+time
+&gt;&gt; learning process
+&gt;&gt; learning process that's great and then
+what
+&gt;&gt; sense of purpose
+So is this make you feel like he has
+purpose but if I don't do it somebody
+else will do it you know like it's
+somehow not needed anymore.
+&gt;&gt; It feels great.
+&gt;&gt; It feels great. Okay you stole my punch
+line. It was supposed to be like the end
+of the talk. [laughter]
+Um but I do think that's one thing
+that's like make me want to build is
+that I built because I want to s problem
+right build you create a product and it
+doesn't exist in a vacuum. The product
+you build is your son a problem. So that
+like the more you do that the better you
+become at problem solving. And one thing
+I do believe that it will never change
+that there wouldn't always be problems
+to solve. I don't think AI will just
+instantly makes me a happy person or h
+like I don't think AI will like
+magically make me stop being annoyed at
+like customer support agents like I
+don't think it's going to go away ever.
+Um so I think there a lot of problems to
+solve and when I look at the world of
+like problem I do believe that problems
+like follows a longtail distributions
+and just by how AI is trained it's it
+will be able to do a lot of things that
+like see a lot right so I think of them
+as the top of the long long tail problem
+like something very common issues that a
+lot of people experience AI wouldn't get
+really good at it and over time AI would
+cover more and more edge cases but the
+edge cases this would never go away. So
+there are a lot of things I consider
+longtail problem. Um by the way anyone
+here into prediction market
+&gt;&gt; prediction market like anyone into
+betting gambling
+it will never go away.
+&gt;&gt; Huh?
+&gt;&gt; Other than without.
+[laughter]
+&gt;&gt; Yeah. So so I'm thinking so it was so so
+it was thinking about so so I I did
+build a bot to do trading. Everyone has
+some of my friend was like I'm shocked
+that your trading phase comes so late in
+life because I feel like if you're into
+engineering and math at some point in
+your 20ies you just have to get into
+trading. Um so so I got into trading and
+I realized it's like the the bigger the
+market like if some higher trading
+volume the more efficient it is. Like if
+you get into sport um prediction, it's
+almost like impossible to compete with
+like all the sport um uh trading firm or
+if you get into like I don't know like
+um um you cannot compete with like hedge
+funds because anything when when it
+becomes big enough so people with a lot
+of money and amazing investors get in.
+So I found out like the sweet spot it
+was something that's like that is a
+market that is big enough to make some
+profit but not too big that like the
+sharks are you know ready. So, so I
+think of it as the same thing as a
+problem that I want to solve, right?
+Like if it's a big problem like everyone
+can see then only this big companies
+would get into it but where is this like
+there are a lot of problems it's like
+smaller then maybe open AI won't be
+motivated to solve it but maybe I can
+like a lot of people can and I think
+like what what what do these problems
+look like and I think it's like human
+preference is one thing I don't think
+that human preference is just an
+equations that people can just like
+package nicely and like hey ask people
+hey which of these two answers
+people would prefer. It's very very
+personal, very culturally dependent,
+geographically dependent, age dependent.
+So, uh I'm from Vietnam and recently I
+came to I went back to Vietnam and talk
+with a bunch of people doing AI there
+and I noticed something very
+interesting. So, here when a lot of
+companies deploy customer support
+chatbot agent stuff, right? They usually
+go the text route first. Like you do
+text and be and and text is easier and
+then they do voice bots because like
+voice is like so much more complicated.
+Like instead of having like text uh in
+and then text out, you first have like
+transcribe from like speech to voice and
+then oh sorry voice to speak oh sorry
+speech to text and then you input the
+text the question from users into the LM
+get back the answers and then synthesize
+into the voice and then get back to the
+people. So it's a lot more complicated.
+So it's natural that people here do tax
+first. But in Vietnam and also in a lot
+of other Asian countries, people are on
+the move all the time. Like people are
+on the motorbike all the time. So
+actually really don't like typing. So
+the voice like a lot of the companies in
+Vietnams actually deploy voice bots
+before they do uh do chatbot. And then I
+talk to them and there a lot of like
+cultural nuances. Uh so for example like
+the response time. Uh, so I was like
+just showing um so so I have a niece and
+nephew who's like very young and then I
+have like my godp parents here who like
+a lot older and then I put them on the
+call. I feel like it's a disaster when
+you get like a 60 years old American
+grandparents who like 10 years old
+Vietnamese boys and girls and and and my
+god my godmother right because she want
+to avoid awkwardness she just kept on
+talking and when she asked a question
+didn't answer she just kept on asking a
+lot of questions try to get conversion
+going and then after that I told her
+it's like do you know that there's a
+research that show that um in the US
+people expect you to respond instantly
+so like when you finish sentence people
+only give like 80 second 80 milliseconds
+for the other person to respond
+otherwise you need to continue whereas
+in Asian culture like our respect like
+you we actually wait a lot longer more
+like 200 millisecond or like 300
+millisecond to make sure the person
+finish so if you just keep on throwing
+to erase awkwardness it will become
+awkward because the app was like wait I
+can never get my voice in so the same
+with being chatbot uh voice bot right
+because like voice bot you want to like
+balance our latency and also like
+humanness of it, right? You need to like
+wait for the human to rest to like
+finish. But then you if you wait too
+long, it would be too slow because now
+you had to generate all this like
+process of like parsing and then
+generating. So like all of that is very
+hard to solve. You have to understand
+all these nuances and all the examples
+that I show are just like um they like
+very obvious like cultural differences
+but they are a lot more things that only
+when we go into like specific use cases
+and specific demographics we're
+targeting that we can understand.
+Another thing I think is very important
+is the way humans interact with AI. So I
+I think there's a lot of thing we're
+still trying to imagine what would be an
+AIdriven world look like, right? I think
+people are trying to like retrofit
+whatever exist to fit what they think is
+a new workflow. So for example, um like
+the IDE and the terminal. So who here is
+using a lot of coding in the terminal?
+So who here only started using the
+terminal because of coding?
+Nobody. I guess you are more
+engineering. But I think saw someone
+here. Thank you. Appreciate. [laughter]
+Uh I I have friends who a lot of them
+are like PMs or doing more of like a
+product. They never use terminal before
+but now because of AI they they actually
+like beame like wow what is this like I
+have to do this now and it's terrible
+because like you cannot copy and paste
+you cannot like upload a a file into it.
+It's just like very annoying to use but
+people use it right because that is what
+what we have and people was like okay
+can we have a different terminal like
+why is there separation between like a
+terminal and a VS code for example right
+like why is there's a debate what they
+do is that use they take an instruction
+and they produce code like or like or
+like product like why should there be
+difference what's a fundamentally
+difference between a terminal and and
+and and an IDE so I think like a lot of
+that is still like ongoing questions um
+that we need to figure Wow. Another
+things that I think is so very important
+is the human to human collaborations
+because I do think that AI is getting
+really good at solving like problems for
+each persons but I do think that like to
+build things that are meaningful right
+we need to work together and now the
+human to human collaboration with a
+makes actually very complicated so
+here's an example um so who uses GitHub
+a lot right so who here like collaborate
+with your team on GitHub like via PR,
+right? So who here is still review every
+single PR lie by lie. [laughter]
+So so so like so PR or like the way it's
+like it should go rail the human to
+human collaboration. So the idea that
+somebody could review some like your
+coworker work to make sure that it meets
+the standard before merging. So I talked
+to a team recently and and one of the
+most senior people person on the team
+told me that he still does that live by
+line. Now he does not review his AI
+record code live by line but he reviews
+his team members AIG record live by
+line. And the [snorts] reason he said oh
+it's not just for code quality control
+but also for education like he's
+mentoring his team. So he want to give
+feedback so your team can get better. Uh
+and then I asked his team member like
+okay do you read his feedback and they
+were like no. Um because the reason is
+that like it's not actionable right like
+because those junior members are not the
+people who write the code like if you
+say okay instead of writing code like
+this write like this they were like yeah
+but I'm not writing the code like how do
+I give that feedback to my AI so you can
+write code like that. So I think that
+the whole workflow of like reviewing
+code is very outdated like I don't think
+the I think the senior member instead of
+like giving feedback on the code they
+should be giving feedback on like how
+you give instruction to AI to produce
+better. So I'm just like another example
+of like how the humanto human
+collaboration is going to be very
+different and another things that is I
+think it's very exciting is to AI
+interaction with the environment. So
+right now we interact with AI mostly uh
+on the computer. So think like we're
+just giving AI more and more access to
+different things right first is a leak
+code on the IDE and then terminal which
+terminal is already getting a bit more
+dangerous because recently for example
+like just two days ago cl just wipe out
+my my postgress locally and the reason
+is that it was trying to create a new
+app and I already have another post
+running locally and was like wait a
+second this port is taken let me just
+remove it so to create this new I was
+like dude like um yeah so so so it's
+it's very scary but luckily I have a
+local backup because I'm not stupid. Uh
+but but yeah, so it was fine. Uh but I
+think like that made me think about like
+a lot of the environments that AI
+currently operate in are reversible. You
+can be they can be snapshot, right? Like
+code if AI mess up, you can revert back
+to the last comet. Like if the even if
+you have a database, okay, you can just
+go back to like the previous backup. But
+like there are a lot of environments
+where the like they where the action
+cannot be reversible by us. So let's say
+that we have like an agent that we
+usually fill a form for us, right? Maybe
+it go to a website, enter a form and
+click submit. Now as a user we cannot
+reverse that action because now it
+belongs to somebody else computer and we
+cannot do that. Or like if we give AI
+like more access outside the digital
+wall like in the real world, right?
+Let's take an example of like a car, it
+runs over a pedestrian, you cannot
+reverse reverse that, right? It's just
+not working. So I do think that we need
+to build out the whole guard rails for
+the reversible actions because that
+actually where things get really really
+scary. Um and another thing that could
+be very interesting is that um I do
+things like AI to environment
+interaction is two-way street on the one
+hand we have also foundation models
+function labs that are making models
+better at interacting with the world but
+who is making the world more agent ready
+right like for example like a lot of the
+website I I do things for the book like
+I I write books and as much I wish that
+books as a format will be like will
+survive I do think that people don't
+read books the same way anymore more
+right like I mean I don't think people
+like read books and I wish they did to
+my book if someone told me that I was
+like you're lying you probably jump
+around a little so so I do think that
+like um the world is changing and we
+need to come up with format like the
+websites is easier for agents or like I
+was reading something else like so a lot
+of the world nowadays is or like digital
+world is control rate limit right and a
+lot of time it makes sense because as
+humans we don't do things that fast
+Right. But with AI now AI can just
+interact with like AI to AI can be
+really really fast. So also whole
+concept of rate limit is quite
+irrelevant to AI like it's can become
+bottlenecket also the whole concept of
+search. So recently I spent a lot of
+time looking into how AI do web search
+and it bother me. So, so when I sent a
+search as uh like uh so I did a bunch of
+benchmark between grock and um Gemini
+and um claude and open and GPT model to
+do web search and I asked a query and I
+saw that for query um some of them do
+like 900 and a thousand URLs visit and
+like that is so much burning my credits
+like crazy um and and then I look at
+like how many of this URLs are unique
+and
+Oh shoot. Yes, [laughter]
+I think that's five. How's already done?
+So, so, so and it's like it was like how
+many of these a thousand URLs are like
+unique, right? And it turned out it's
+like only 20 of them. So the AI kept
+visiting all of these LL's like again
+and again and to me that's stupid and
+then I realized what happened because
+like it first it visited LL it took the
+citations it took the part that relevant
+and then it do another query it found
+the parts that relevant and I feel like
+it's a very human way of doing web
+search right because we enter things in
+the Google and we see all the like
+citations the quotations part but like
+why would we limit AI to that if AI only
+visit a page why just p the entire page
+out why do you keep on doing that again
+and again. It's just stupid to me. So I
+feel like or maybe not stupid, I'm sure
+the people who build that are smarter
+than me. I'm just saying that like my
+mental model is just seem off and I I
+feel like there I think there must be a
+more efficient way of doing things that
+are less humanentric and more AIcentric
+and I think like I hope that somebody
+will do that. So I do think that um
+there are a lot of things you build and
+the question nowadays is usually less
+about like how to build because if you
+can describe the problem and the
+solution you want usually AI can do it
+maybe not today but maybe like two or
+three years from now on they can do a
+lot of those. The question is like what
+you build because we talk about like yes
+if something exists right AI can
+replicate it but like who's going to
+build the things that don't exist yet?
+Who should be like imagining it? like do
+we want AI to be able to like just
+create this solution or like imagine a
+future of how humans should live or like
+we can also propose this idea like think
+about we want to build um and going back
+to like what you said about previously
+like why should we why should I
+contributing is I do think this is like
+because fundamentally I I enjoy building
+like it just bring me joy and I do
+things that um I do think that I hope
+that we can normalize like building
+things for fun because before I found
+out that I spend a lot of energy in
+doing things just like just to get to
+the part of building. But now it's just
+so much more fun. It's so much easier. I
+can do a lot more things. Um and I think
+it's like if you look at our uh a lot of
+economic or like industrial progress uh
+so in early day for example right
+clothes like we did everything by hands
+and then we have like all the mass
+manufacturer clothes which is great
+because like people can access to
+clothes cheaply like anyone can have
+like fast fast fashion but then when
+people have like higher like disposable
+income they start looking oh actually I
+don't want mass-produced stuff I want
+something that's like custom made for
+me. Um, I don't think we would have a
+future where when where like artisan has
+software. I don't think I'm not sure
+people would actually be interested
+like, oh, I like this app more because
+it's built by hand versus like this app,
+right? Um, so I'm not sure if we'll get
+there, but for now, I do actually enjoy
+building apps as a gift for my friends.
+So, for their birthday, instead of like
+buying them something, I'm like I'm
+going to spend like a weekend build them
+like an app because first of all, they
+like tea. I'm going to build them a t
+tracking app, you know, like it's just
+like very very simple and it's a lot of
+fun. So yeah, so I do enjoy building and
+AI does make my life for now happier
+except when I'm feeling very very
+depressed because I'm don't know like
+why should I continue building but I
+think like we can figure it out. Um but
+thank you so much everyone that is that
+is my talk. Um, [applause]
