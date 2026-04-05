@@ -1,0 +1,1894 @@
+原文： https://www.youtube.com/watch?v=-pZ3vD0r8a0
+
+You're really only limited to your ideas
+and to your imagination where you can
+kind of just turn things into reality.
+&gt;&gt; You were the three-time gold medalist of
+the II, a top programming competition in
+the world. Now you're running one of the
+top AI companies here.
+&gt;&gt; When we launched Devon in March of 24,
+it was the first autonomous agent. One
+hour of human time spent managing Devon
+was worth like 6 to 12 hours of that
+human time doing the work themselves.
+Elon had this phrase that he really
+drilled into us, which is everyone is
+chief engineer.
+&gt;&gt; Let's talk about this new era of
+software abundance. For us at Cognition,
+for example, our engineers don't type
+code anymore. You really can just
+[music] turn your ideas into reality.
+&gt;&gt; The engineer and the designer and the
+product manager all look at each other
+and say, "I don't need you guys
+anymore."
+&gt;&gt; CEO and Cole Brown
+here. [music]
+Scott Woo was a three-time global gold
+medalist in programming. I worked with
+him in the past. He's now running one of
+the fastest growing AI companies in the
+world, helping to usher in this era of
+software abundance. He and Russell,
+co-founders, met up with us. We played
+some games. Not going to tell you who
+won. These [music] are pretty smart
+guys. But it's always really interesting
+to hear from Scott and Russell about the
+cutting edge of AI, how [music] the
+world's changing, and what we can create
+in this new era of abundance. Scott and
+Russell built Devon, who was the very
+first AI programming agent two years
+ago. They're already launching in all
+sorts of other areas. They're now
+transforming how governments work as
+well. Excited to see where they're
+headed next. Welcome to American
+Optimist. We have back Scott Woo, the
+CEO and founder of Cognition, and your
+co-founder Russell. And to remind
+people, Scott, you were the three-time
+uh gold medalist of the II, a top
+programming competition in the world. I
+think you were the onetime world
+champion at 17, and we worked together
+at Adapar after that. And now you're
+running one of the top AI companies here
+in the world. Russell, I think you
+started your career at Tesla as an ML
+engineer. You sold a company to scale.
+You guys are you guys are both in your
+20s still, right?
+&gt;&gt; No, I'm I'm aged out now. I'm 30.
+[laughter]
+&gt;&gt; You're 30. Oh,
+&gt;&gt; I turned 30 this year. So, it's So,
+you're turning 30. Okay. Well, that's
+okay. You're getting old like me.
+[laughter] So, you're still right in the
+heart of it here. Is what's the average
+age on the team? Actually, I'm curious.
+&gt;&gt; I think it's probably So, so on
+engineering, it's about 25. Um, and then
+obviously on go to markets a little bit
+older, but but yeah. Yeah. Well, go to
+markets are different. That's fair.
+You're running you're running more go to
+market stuff.
+&gt;&gt; Yeah, we uh I think you know the the
+engineering team we have we have 17 year
+olds, we have 18 year olds, we have we
+have really young folks and then uh but
+we'll take anyone at any age as long as
+they're ready to grind and and ready to
+have a big impact.
+&gt;&gt; And you guys have like huge numbers of
+people who have won gold medal globally
+in programming. This is a very advanced
+technical team here at Cutting Edge of
+AI. Yeah, I mean some some of our some
+of our favorite people I would say are
+people who are like you know 17 or 18
+like finishing a high school but they
+had already played around with a ton of
+building agents themselves like working
+with AI training models and so on. Um
+and it's it's obviously I mean it's
+&gt;&gt; actually actually want to ask you about
+this really briefly because so you were
+you were gold medalist in the world at
+15 world champion at 17. It's obvious
+people can be really really good at
+these things at a young age. Is there
+something about AI where like a young
+person's brain that kind of grows up in
+forms using it could somehow like be
+more ahead of anyone who doesn't or
+something? How do how do you think about
+that?
+&gt;&gt; It's a good question. Um yeah know I
+mean it's so funny enough so I I went to
+what's called the USACO the USA which is
+like the the USA computing olympiad. Um
+and from there that's that's like the
+training camps and all the selection
+camps that choose the the national team
+that go represent um at at the the
+international Olympiad. And every year
+there were about 20 kids.
+&gt;&gt; It was just like the top 20 kids around
+the US. I was from Louisiana. Most
+people were from like you know
+California or like New York or or like
+you know around like Massachusetts like
+around around MIT and Harvard and stuff
+like that. Um but um but in my year
+actually there were a ton of others who
+all kind of went into AI and so
+obviously Stephen and Andrew who who
+started the company um um you know who
+who started cognition with us um but but
+but also a ton of others and so
+Alexander Wang who started scale um Demi
+Gu who started pika um the um let's see
+who else um Daniel Ziggler who's one of
+the co-inventors of RLHF um Alex We who
+is like now running a lot of the the
+reasoning efforts at OpenAI. Um Johnny
+Hoe who started Proplexity. So we were
+all the same year actually out out of
+that like group of 20 people. Um and it
+was kind of an interesting one. I mean I
+I think there are a few things there. I
+think for one obviously I think
+entrepreneurship is infectious you know
+and I think um I mean Alexander was I
+would say the first to really start a
+company and to to see real success with
+the company. He he left freshman year
+from college to to start start scale
+&gt;&gt; and he sold skill obviously for like 16
+billion to Facebook or what some funny
+structure but but huge success
+[laughter] but that probably inspired
+other people who were say wait I'm that
+smart too I could do this too.
+&gt;&gt; Yeah. So I think that was that was a big
+motiv and you know we all kind of like
+came up together and kind of got to go
+through some of these things together
+and I think that was a big deal. Um I
+think the other thing I would say about
+AI particularly is I think in AI what
+you see is
+that really excelling on the technical
+aspect just matters much more I think in
+AI than some of these other fields and I
+think there's been lots and lots of
+businesses in the past that have been
+very I'll say like very intense
+logistics businesses or very tough kind
+of like marketplaces to get started or
+for example um businesses where a lot of
+your edge is just like how you figure
+out keyword distribution or how you kind
+of like you know make the right little
+like addicting loop and so on. Um and AI
+has a ton of these too obviously and and
+you know I think all of those same
+skills are still necessary. However, I
+think in AI in a lot of factors in a lot
+of these verticals you know what you see
+is that obviously pure technical
+execution it's like for for every level
+that you push push it there's still like
+another level to go and hit. Um, and a
+lot of the best companies that we see in
+in in the valley are the ones that are
+just able to to to roll out like
+technology pushes or breakthroughs that
+that others have not.
+&gt;&gt; And to push you guys on this though,
+like is a 17-year-old today who's like
+the Scott Woo of today who's a world
+champion, who's maybe you're maybe
+you're hiring, do they have some special
+edge having grown up in this world where
+where AI is already possible, where
+they're using it like like is
+accelerating things further or
+&gt;&gt; Yeah, I mean everyone starts with the
+same level of experience with AI for
+software engineering, right? Which is
+basically none. I mean, every three
+months you have to throw out your
+previous experience and and build new
+experience because the tools get so much
+better.
+&gt;&gt; This is probably harder for someone
+who's my age, I'm 43, than someone who's
+like 18 and still learning or no?
+&gt;&gt; Yes. Because some people say, "Oh, you
+know, it's going to be really hard for
+junior engineers now because, you know,
+the entry level the entry- level tasks
+are being done automatically by AI." But
+I think a lot of what we see internally,
+it's kind of the opposite in some way
+where if you're coming in with no
+preconceptions about how things are
+supposed to be done or how things are
+supposed to work, then you can just go
+all in just really embracing this
+completely new way of working. Um, but I
+think the AI technical depth piece is um
+it's actually not just in the sort of
+modern generative AI era. You know, when
+I was at uh autopilot, I was a machine
+learning scientist working on the sort
+of the visional network and Elon had
+this phrase that he really drilled into
+us, which is, you know, everyone is
+chief engineer. you know, everyone on
+the autopilot team has to understand how
+the full stack worked. And this is
+actually extra important in AI because
+what happens is the abstraction
+boundaries between different teams start
+to break down. You know, the sort of
+classical way that the self-driving
+system worked, but you had a, you know,
+a perception team, you had a planning
+team, you had a controls team, and they
+had these like thin interface boundaries
+between them. But the nice thing about
+AI is you can optimize systems end to
+end. So, if you want to actually
+optimize systems end to end, you have to
+have an accurate mental model of how
+each of those pieces work. And so I
+think more sort of technical breadth and
+depth across the entire stack is
+becoming increasingly relevant.
+&gt;&gt; That is an interesting kind of way Elon
+does things which I've seen a lot of
+really top people, not too many but some
+top people do things is in order to
+really be the best you have to
+understand everything going on. So it's
+really breath and depth in a way. And so
+you're saying yeah it makes that a lot
+easier to do that because it can give
+you some of that breath you wouldn't
+have otherwise.
+&gt;&gt; Yeah. I mean like the way we onboard
+onto our own codebase new people you
+just ask Devon all the all the questions
+of what's going on why is this done this
+way? What's the historical context? Do
+you tell them they're also like
+equivalent of like the chief engineer
+where they have to learn everything or
+it seems like it's take a while to
+learn. I mean there's a big code base
+now.
+&gt;&gt; Yeah. I mean I think in practice it's so
+much of it is is all obviously very
+connected and so I mean simple example
+of this is like we bought Windsor you
+know seven eight months ago at this
+point but like we don't have a
+distinction of like oh this person is an
+engineer working on Devon or this person
+is an engineer working on Windsor. Like
+a lot of the same people should be
+people who are kind of you know working
+across both of these. So, catch us up
+since we last talked. Uh, like like what
+what what's the state of cognition?
+Where are we now? You're probably not
+giving out revenue numbers, but you're
+you've grown a lot. Like, what can you
+tell us?
+&gt;&gt; Yeah. No, it's it's I mean, it's we've
+had a ton of growth over the last I
+guess it's just under a year since we
+last talked. Um, and obviously, you
+know, back in July, we bought Windsurf,
+but but I I I think over the last
+several months, I think both Devon and
+Windsurf have grown uh exponentially.
+One of the fun stats actually is uh
+today is March 9th and we actually at
+this point have already done more Devon
+sessions uh in our customers in 2026
+than we had in 2025. And so basically
+over the last like two months and
+change, we've already done more Devon uh
+usage in total than than we had in all
+of 2025.
+&gt;&gt; So it's more more than like sixx or
+something. Yeah.
+&gt;&gt; Yeah. Yeah. And obviously, you know,
+we're we're we're working on making sure
+that that that growth trend continues
+and so we'll see how that goes. But but
+uh but no I mean I I think the business
+has grown a lot. We've been working with
+um a lot of the the biggest companies in
+the world you know City Bank, Santandere
+um and so on um on figuring out how we
+really you know transform their
+engineering efforts.
+&gt;&gt; Yeah. One of the one of the interesting
+developments since last year is um you
+know when we launched Devon in March of
+24 it was the first autonomous agent,
+right? It was like very early for the
+form factor. Um and it was I would
+describe it as kind of like just at the
+edge of possible then in terms of doing
+in terms of doing real useful work.
+&gt;&gt; It made a lot more mistakes back then
+obviously.
+&gt;&gt; Yeah. Yeah. It was much less reliable.
+You know our infrastructure around it
+the connectivity with the rest of the
+codebase was a lot less mature. I mean
+it took us until summer of 2024 for
+Devon to become the number one
+contributor to its own codebase like
+which was like the first real milestone
+and then towards the sort of the end of
+2024 um to really get deployed in
+production at large scale at meaningful
+companies. But one of the things we
+learned is that if you look at sort of
+where the technology was in 2024, it was
+not it was not reliable enough to to be
+used as the primary source of software
+engineering for most tasks, right? You
+actually still need a tighter feedback
+loop in that year between AI and humans
+for most things. And so one of the sort
+of first niches we found where this was
+actually already really useful back then
+was in these very large code bases that
+just have tons of existing technical
+debt or complexity and you want to do a
+large scale refactor across you know
+10,000 services. If you're if you're
+doing it this sort of normal way as a
+human engineer you might have to define
+some new architecture and then manually
+go implement thousands and thousands of
+changes. And these changes would be
+complex enough that you couldn't just
+write a reax but um you know not so
+complex that AI with you know couldn't
+help. And so that's kind of one of the
+earliest places I think we got to real
+strong like product market fit is inside
+these like very large complex code
+bases. And that's one of the reasons now
+if you look at the state of our business
+we're deployed at a lot of the largest
+most complex organizations in the world.
+You know like most of the top health
+insurers, retailers, banks, government
+agencies and these places with large
+complex amounts of code have been
+actually surprisingly early adopters of
+Gentle. These guys just have like
+massive amounts of code that has been
+doing the same thing for 30 years on a
+very old architecture and you can go in
+there and pretty easily accurately fix
+that I guess. Huh.
+&gt;&gt; Totally. It's actually it's like to your
+point on is this a new skill for
+engineering. It's, you know, the the
+mindset of an architect inside one of
+those organizations has become, you
+know, you're almost like a CTO of an
+agent fleet now. You you you define the
+problem space of what you want to go
+solve and then you just spin up your
+army of devans to actually go do the
+implementation work and then you kind of
+review the results. It's like a very
+different way of programming. There's
+all these memes in San Francisco where
+like nerdy guys are on dates but they're
+too distracted watching their fleet of
+agents and to talk to the girl. It's
+like it's a problem.
+&gt;&gt; I have I have gotten in trouble with my
+wife for that. [laughter]
+&gt;&gt; Let's let's talk about this new era of
+software abundance as you call it. What
+does software abundance mean? What's
+what's cognition's role there? Yeah, you
+know, I think the simple way to put it
+is is I mean to to Russell's point, all
+of these traditional industries, you
+know, it's you you in Silicon Valley,
+the way we think about software
+engineers is is, you know, obviously
+these tech startups or these tech
+companies that are building. The reality
+is every company in the world has
+software, right? I mean software is in
+many ways I think the the the premier
+knowledge work job of this century. Um,
+and so you know, you you're you're
+talking about like CVS or you're talking
+about Walmart or you're talking about
+UHG or you're talking about, you know,
+Goldman Sachs, like all of these places
+have so many so many software engineers
+and they have so much software that
+they're building. Um, because obviously
+so much of what we do in the world now
+happens, you know, over the web or um
+yeah, with with computers, right? Um,
+and I think what we what we kind of
+think of when we think of software
+abundance is just getting to a point
+where
+&gt;&gt; you really can just turn your ideas into
+reality and build what you want to
+build. Um and and one way that I like to
+think about this is you know you can
+kind of think about software products on
+a scale of like let's say a log scale
+based on how much reach they have or how
+many users they have right you think
+about the best products in the world and
+the products that everybody uses all the
+time and this is like you know YouTube
+or Instagram or Tik Tok or something
+like that and it's you know these are
+incredibly good products u and it makes
+sense I mean they have billions of users
+and so they have you know a hundred
+thousand software engineers or tens of
+thousands of software engineers that are
+working on them right and you feel it in
+the product you know it's it's The
+experience is perfect. Like there's
+never bugs. It doesn't go down. It's
+streaming you like gigabytes of data. Um
+the algorithm is super addicting. Right.
+Like they they they've really like
+perfected themselves.
+&gt;&gt; I myself used two the three you
+mentioned. They're too addictive
+actually.
+&gt;&gt; Yeah. They're too addictive. Right. And
+then you go to the next tier of like
+okay instead of billions of users let's
+talk about the products that have
+hundreds of millions of users, right?
+and you're thinking about like you know
+banks or you're thinking about like you
+know apps like Uber or Door Dash or
+you're thinking about like um you know a
+lot of these various other kind of
+services and products that we all use
+right um and it's similarly it's like
+you know you feel the software and it's
+it's obviously built quite well but it's
+already you know I think you notice a
+different level of of like how much
+execution there is and then there's a
+next level and a next level and next
+level and it goes all the way down to
+you know your your like you know your
+your your kid's website a school website
+which is from like 2001 or something and
+it's like an elementary and it has like
+a picture that's like super outdated and
+has no other information about that,
+right? And and so like maybe one way to
+put this is, you know, I think software
+abundance means making it much easier
+for everyone with every idea or every
+product or use case that they want to
+serve to be able to climb that ladder
+and build products as well as the best
+products in the world are built right
+now.
+&gt;&gt; And and for someone for a lot of our
+listeners are not as in the AI world,
+they might be CEOs of of a bank or
+something or running other businesses
+like like what is AI actually changing
+about how engineers work, right? like
+what does a great engineer's workflow
+look like now?
+&gt;&gt; Yeah, it's a great question and and the
+simple way that I put this is that for
+us at Cognition for example, our
+engineers don't type code anymore. Like
+that's that's just reality
+&gt;&gt; and this is as of the last several
+months. This is within the last yeah 3
+to 6 months honestly when this shift has
+really happened and and there are other
+steps to be clear obviously but but I
+think at this point you know you you you
+used to maybe one way to put it is like
+I mean you used to work with punch cards
+for example and you used to work and and
+now in in many ways the medium has
+shifted away from code and a lot more of
+it has become basically English right
+and so so you know we we obviously use a
+ton of Devon internally uh we use you
+know windsurf and the and the agents
+inside windsurf internally as well but
+at this point either way what whatever
+tools you're using. You know, it's not
+really you typing out the lines of code
+yourself. It's it's you looking,
+understanding what it is that you want
+to do, thinking about, okay, how do I
+want to handle this case or this
+behavior, and you just tell the agent
+what you want it to do in English,
+right? And it goes and build.
+&gt;&gt; Yeah. And in terms of then like what the
+impact of that is especially you know if
+it's like a CEO level uh objective what
+we're seeing across the board across the
+customer base is people are just getting
+more ambitious you know like it used to
+be the case that uh you have this entire
+software development life cycle and
+every step of that cycle is oriented
+around not wasting the super precious
+time of engineers writing code and now
+you have suddenly this overflowing
+abundance of the ability to generate
+code from ideas from prompts
+&gt;&gt; you can iterate faster on ideas you can
+just try stuff you can try stuff a lot
+faster. You know, you don't necessarily
+need to spend three weeks on design
+before you then hand it off to
+engineering because engineering is so
+fast that the turn, you know, the cycle
+time is much tighter. Um, and so, you
+know, increasingly, especially at the
+executive level, it's like, oh, do we
+have to choose between A or B? Let's
+just try both.
+&gt;&gt; I mean, could could the product people
+themselves create some things now or how
+does I mean, we see it every there's
+like a joke where it's sort of, you
+know, the the the engineer and the
+designer and the product manager all
+look at each other and say, I don't need
+you guys anymore. Uh, because they're
+all they're all just doing it all
+themselves, right? It's like every
+person is empowered to to do the other
+aspects of the product development life
+cycle and and I think it's really
+rewarding people who are you know
+actually personally highly agentic and
+thinking about okay what's the impact I
+can go have um and and be sort of like
+self-reliant in that way and I know you
+know with Devon a lot of product
+managers one of the very first things
+they they started using Devon for was
+actually to not bother the engineers
+with questions with silly question you
+know how often have you know you're a
+new employee at a company you don't
+understand what's going on somewhere and
+you're a little nervous to say hey Can
+you explain this to me? You know,
+everyone Devon is very non-judgmental.
+You know, you'll ask a question, you get
+the answer.
+&gt;&gt; I actually ask it a lot of dumb
+questions, too. It's like cuz I'm the
+boss. I'm supposed to know something.
+I'm like, crap, what does that acronym
+mean again? But you no one judges you.
+You just do it right away.
+&gt;&gt; Totally. Yeah. You you know, and you'll
+cite the it will sort of actually cite
+the source code alongside it too. And
+and you know, give it kind of puts
+everyone actually more on the same
+playing field in a way where everyone
+has the same context.
+&gt;&gt; And by the way, agency is something I'm
+thinking a lot about for society
+recently. It seems like highly agentic
+people is like a big advantage for
+everyone, right? But but along those
+lines, like what are the habits or
+instincts of someone who's going to be
+particularly good at leveraging Devon?
+Like like are there certain things
+you're seeing?
+&gt;&gt; Yeah. Yeah, for sure. No, I I mean, one
+way to put it um is, you know, I think
+software engineering for for people who
+who've grown up doing programming and so
+on and have been through all these
+previous eras. You know, usually what
+software engineering has looked like is
+like why why do people who love coding
+love coding, right? And I think the
+answer is like 10% of that job is
+basically this really fun part of just
+pure problem solving thinking about what
+you want to build being creative like
+understanding the different solutions
+deciding okay what architecture makes
+sense here how exactly am I going to you
+know achieve my goals here what do I
+want to build right and then 90% of the
+job is once you have figured out all
+those parts just doing all the dirty
+work of the implementation to go make
+that happen right and there's like a
+million bugs that your customers have
+reported for you and you have to deal
+with this messy migration or this
+upgrade to to make your stuff still work
+or like you have to go implement all the
+little cases and all the little details
+and like write all the you know the
+front-end code that that serves this
+thing that you just built, right? And I
+think what we're seeing is that the best
+engineers are just doing 10 times more
+of the first part because you don't have
+to do that 90%, right? You have an
+agent, you have dev that's going to go
+and do that for you. Um, and I think to
+your point that obviously means that,
+you know, having high agency is is
+really really important. Um, we think
+about this ourselves internally. It's
+it's one of the jokes is is like, you
+know, we're we're we're a reasoning lab
+building agents. And so the things that
+we really value are agency and reason.
+Um, and I and I think it's to to your
+point like a lot of the skills that
+really matter are, you know, are you the
+kind of person that's going to think
+about, okay, this should be this way
+instead of that way or like what is the
+right way to solve this problem or what
+what do we want to do here?
+&gt;&gt; And also and also just like internally
+embracing the abundance mindset too
+where you know a lot of times you might
+be in your head, oh should we do it this
+way or that way? I think a lot of our
+best engineers they just rip it all of
+the ways at the same time and then you
+know you get a bunch of devons come back
+and then you can sort of analyze the
+results and try it in parallel. It
+reminds me again, it's kind of like the
+mindset of actually being a good machine
+learning researcher is now relevant for
+every type of software engineering. You
+know, if you look back a few years ago,
+what were machine learning researchers
+doing? So, you know, at Tesla, we had
+one mantra which was uh you know, never
+go to sleep while the GPUs are idling.
+&gt;&gt; You know, if you let your cluster idle
+overnight, that's just a huge waste of
+resources. Just just kick off some
+experiments, you know, before you go to
+bed so you can wake up, you get some
+more data. And it's it's the same for
+all of software now. Like, why would you
+go to sleep while the devs are idling,
+right? You could just be ripping a ton
+you could be ripping a ton of working
+while you're sleeping.
+&gt;&gt; Exactly. Exactly. And so I think um
+there's actually a lot of parallels in
+my head where it's not just about that.
+It's also um some comfort with
+non-determinism. You know, a lot of a
+lot of engineering, it's it's an
+incredibly precise craft and there's
+it's sort of naturally uncomfortable and
+natural to not have full control over
+everything that's going on. But if you
+if you get a little bit more willing to
+embrace the non-determinism and okay,
+exactly how should this be implemented
+as long as we can validate system
+performance end to end and I can
+actually understand the results. Um I
+think machine learning went through that
+lesson years ago and now we're going
+through it for the rest of software.
+&gt;&gt; So I mean every once in a long while
+someone would probably check the machine
+learning to machine sorry someone check
+like the machine assembly code actually
+on something if they're really trying to
+optimize something. Do people are there
+still people checking the actual regular
+code on things that they really have to
+these days is like how do you think
+about that? Yeah, for sure. And for what
+it's worth, you know, I I think we are
+we are still in the midst of a lot of
+this change. And so, you know, I think
+while people are producing code with
+just English, you know, often you do
+come back and you're still reviewing
+that code, you're making sure that it
+looks right or or you're looking at the
+code as it is to understand what's going
+on. Um, and I think to your point, it is
+kind of like in the right cases when you
+want to peel back the layer of
+abstraction. Um and and I think what
+we'll see over the next, you know, 12 18
+months is is that we will continue to
+get further and further to this point
+where you use English for for almost
+everything.
+&gt;&gt; You don't have to do it anymore. And and
+and what does this mean? So So obviously
+a lot's happening a lot faster. We just
+we just we've covered this. This is and
+this is this is money movement. This is
+military stuff. This is this is health
+care. It's flights. It's maintenance.
+It's scheduling. Building new things,
+permitting. Like like everything in the
+world, a lot more people realize is
+software. And and we're going now what?
+five times faster, 10 times faster soon
+on software. It's almost like we're
+getting multiple years done in one year,
+right? So, what what does what does that
+mean for society? How do you think about
+that?
+&gt;&gt; I um yeah, I think about this a lot. Um
+you have you ever seen the graph of
+inflation by different sectors and you
+can see, you know, the sort of highly
+regulated constraint sectors at the top,
+you know, like tuition, healthcare
+spending,
+&gt;&gt; the cost of these sectors are broken and
+everything else gets
+&gt;&gt; right and then the plasma screen TVs are
+just way down.
+&gt;&gt; Japanese taught us what to do. Yeah, I I
+kind of think that's that chart is going
+to happen for like all of society
+basically. And in particular, if you
+think about where is software,
+&gt;&gt; it's we're going to enter this like
+hyperdelationary cycle of software where
+it's it's so easy to build. It's so
+abundant. That doesn't mean that people
+are going to, you know, stop producing
+software. They're actually going to
+produce thousands of times more
+software, right? And so you're going to
+have this total software abundance, but
+basically any problem that's kind of
+solvable in the digital realm should
+just get solved in the digital realm.
+And so I think what you're left behind
+with is um you know now how do we direct
+a lot of this new energy to going
+improving the physical world going
+improving everything else.
+&gt;&gt; You actually have to do things with real
+operations with real people in the real
+world. Now I guess robots could change
+that too but but for now anyway with to
+put robots aside the returns to actually
+doing things in the real world should go
+up by comparison because it's harder to
+make those cheaper right.
+&gt;&gt; Yeah we think about that a lot at
+cognition of how do we how do we not
+just improve things improve software for
+software's sake but how do those
+improvements basically translate into
+real world benefits for everyone. Um
+ultimately these things are tools in
+service of of our own lives, our
+companies, our our businesses um and our
+livelihood.
+&gt;&gt; The real world is messy and you have to
+interact.
+&gt;&gt; It's super messy. It's super messy. And
+I think a lot of engineers uh fall into
+the into the trap of I want to solve
+this very pure problem, you know. Um and
+there's nothing wrong. It's actually
+really fun to solve pre you know a lot
+of our team they spend their entire
+programming careers just optimizing
+their ability to solve you know the
+purest algorithmic programming problems
+in the world. But it's an interesting
+contrast to you know one of the things
+that really different differentiates
+cognition in the market right now. What
+what we keep hearing from customers is
+you know we have this this for deployed
+engineering team that will go partner
+really deeply with large organizations
+and say hey it's not just about the
+tools we're delivering but how do we get
+into the weeds together to actually go
+drive like big structural changes like
+&gt;&gt; tell me a bit more about that. You guys
+have obviously deployed with a lot of
+the biggest companies in the world. What
+are some of the more impressive results
+you guys have seen in the wild? Yeah. So
+the earliest results that we where we
+where we saw we were like oh there's
+there's something here where they
+started with um basically like
+modernization programs. So people that
+had large legacy existing things they
+needed to transform. And if you sort of
+did the math to scope out how long it
+would take maybe it would be like a
+two-year project. And you know
+relatively quickly by like late 2024 we
+were measuring you know somewhere
+between a 6 to 12x productivity gain for
+those types of projects. meaning that
+you know one hour of human time spent
+managing Devon was worth like 6 to 12
+hours of that human time doing the work
+themselves. Um and so that was a big
+that was like a big early result and we
+started doing lots of lots of
+engagements where uh our customers would
+use you would use Devon to just refactor
+migrate modernize these large systems.
+Now the interesting trend that we're
+seeing is um a shift from really uh
+reactive to proactive engineering work.
+So you know if you think of the early
+days of the internet most of the packets
+that were sent on the internet u it was
+like a human clicking a button or or
+visiting a link or initiating some
+requests and then at some point it it
+totally flipped and now most of the
+packets are initiated by machines
+talking to other machines and I think
+we're now seeing the sort of the
+flipping there uh for software itself
+which is um the process of deciding what
+code to write uh it used to be entirely
+a human scoped thing. Now we have
+people, you know, we have people wiring
+up Devon to all sorts of um events and
+alerts inside their organizations to
+say, "Hey, let's just start the
+engineering work right away when
+something happens." I'll give you one
+example. uh one of the largest uh
+regulated firms in the world. They they
+they do very um thorough sort of
+security vulnerability scanning on their
+code and they make sure to understand is
+this potentially insecure here or there.
+And there's great existing tools for
+scanning that you know sonar cube,
+veraric code, sneak there's this whole
+there's this whole market of of tools
+and what they did was they hooked up all
+of those alerts they were getting from
+those tools and they just started piping
+them to Devon saying Devon can you take
+the first pass triage because if you're
+a human engineer at a company you're
+drowning in these alerts. It's not it's
+honestly not a really fun part of your
+job. And they're remediating 70% of
+these automatically now in production
+with with Devon. And so it's really
+flipping the you know kind of flipping
+the
+&gt;&gt; I've been thinking a little bit about
+the pyramids with regard to this lately
+where it's like almost impossible to see
+how people with like no tools at all
+built the pyramids. And it does seem
+amazing if you look at the software that
+we have built up until like a couple
+years ago that all this exists all by
+people when you and then I feel like
+that would be like something you'd look
+at 20 years from now when everyone just
+uses uses all that by hand. How do you
+imagine that? seems like totally
+impossible.
+&gt;&gt; Yeah. Yeah. No, I think to your point
+too, I mean, I I think there's sometimes
+a question about u you know, we're
+talking about, okay, this is going to
+get way easier to build. It's going to
+be way cheaper to build these things.
+And so then what happens? And I think
+the reality is like we have so much more
+to I mean, I was thinking about this
+even like today, you know, it's it's
+like you wake up, you're like uh you
+know, you're you're like let's say
+you're like logging in to check your
+medical records and it's like not a very
+good experience. You're like logging
+into your bank, it's like not a very
+good experience. There's so much to fix.
+There's so much to fix. So so many of
+these things and to your point I think
+the reality is just there's so much more
+that we can do with software. I mean I
+think some of the things that people
+have started talking more about which is
+I think what we're going to get to over
+the next little bit are things like even
+like generative UIs or like single-use
+software right if you get to a point
+where you know so so much of the work
+that you want to do is it can be done in
+code. It just doesn't make sense to like
+write code for a single you know for for
+something that you're only going to do
+one time or even something that you're
+only going to do like 10 or 20 times.
+Right. I love that the AI could actually
+write code for this instance coming up
+and give you the right UI for what's
+going on.
+&gt;&gt; Gives you exactly the right thing and
+builds that. Yeah. And so this is I mean
+people talk about Jevans paradox and I
+think I mean in in in software it is
+perhaps I I think there's nowhere that
+it is more true than in software right
+as we have produced more and more and as
+we it's gotten easier the reality is
+that actually demand has only gone up.
+That's actually a really fun idea. Like
+right now luxury is like it's like
+funia. It's really nice. The stitching
+is right. But what if luxury was like
+it's a perfect UI for you just for this
+instance in your life or you happen to
+need it, right? It's kind of funny.
+&gt;&gt; No, either that or actually luxury might
+flip the other side because um artisal
+handcrafted software is [laughter] going
+to be so rare. It's like you know the in
+the early days of the industrial
+revolution was like oh great mechanized
+mechanized labor for goods like that was
+the higher status good because of course
+the machines were more precise. the the
+bags were more, you know, were more
+perfectly made and now it's totally
+flipped. If something's handmade, that's
+um that's obviously much higher status
+because it's so rare and like how could
+you expend the resources for that?
+&gt;&gt; This website was handmade. You can tell
+because of all the little bugs in
+&gt;&gt; I think we're going to I think we're
+actually I think we're going to
+[laughter] see that in in software.
+Yeah, this is like handcrafted artal
+code.
+&gt;&gt; It's like it's like the Amish except
+that they're doing software.
+&gt;&gt; Yeah. Yeah. [laughter]
+&gt;&gt; Hands. It's like a 2020 society frozen
+in time. people making you handmade
+goods and that's very silly. So speaking
+of speaking of like things that are
+broken and that there's like infinite
+need to fix like government to me is
+like one of those areas where I think if
+you like were to graph everything in
+terms of getting better or worse and
+efficient or less efficient it's like
+probably unfortunately comes off as like
+really really messed up and I'm already
+starting to hear some pretty interesting
+things in government. Um my friend Jared
+Kushner who's obviously you know been
+involved in these administrations he
+worked with Qatar with El and I and they
+built something where the permits only
+take uh 120 minutes there. So if you
+want a permit to build something it'll
+get back to you in two hours which is
+pretty cool right so there's like that
+was like there's all these ways
+government could do things better with
+software. Uh you guys just launched
+cognition for government like what's
+what's the goal with that? What's going
+on? Yeah, I mean I think at a high level
+I mean we talk about places where where
+there has so much more software to
+build, so many things to fix and I mean
+I government is is is an obvious example
+of that and all of these departments
+similarly you know things that we used
+to do by hand not even that long ago
+honestly I mean 20 30 years ago like
+lots of these things were done by hand
+at the treasury. Now so much of that is
+software and yet so much of that
+software obviously still has such a such
+a long way to go. Um, and I think from
+our perspective, you know, when we think
+about how do we make sure that the US
+stays in pace with what it needs to be,
+how do we make sure that, you know, that
+the the breakthroughs that are coming
+through in AI in the private sector are
+also coming through in the public
+sector. Um, it's it's it's something
+that's that's a really important problem
+for us to work.
+&gt;&gt; I also think there's there's something
+poetic about it because I think people
+don't appreciate this, but the
+government is really responsible for a
+lot of modern technical innovation, you
+know, going back decades and centuries.
+Uh, Scott drew the analogy earlier to,
+you know, punch cards. And I think I
+think people don't appreciate this, but
+really the first widescale production
+use of punch cards was the 1890 census.
+Okay, in the in the 1880s they did the
+census by hand. They tallied it took
+like seven years and they were doing the
+math and they realized that 1890 if they
+did the census the same way it was it
+was going to be longer than 10 years and
+the census is every 10 years. So they
+were screwed. [snorts] And so the
+government basically put out this call
+for call for technology help uh you know
+can we can we solve this problem with
+technology and uh there was a there was
+a a guy by the name of Hollerith who he
+invented what later became the Hollerith
+machine to use punch cards for actually
+running the 1890 census and it was on
+time. it was under budget uh and and it
+kind of kickstarted actually a lot of a
+lot of modern uh software you know where
+uh where I where I studied at at
+Stanford a lot of that the Silicon
+Valley ecosystem was actually really
+invested in by the by the government um
+back you know decades ago um partially
+for for defense and now we're in this
+we're sort of this flipping point even
+even by the way self-driving I mean
+DARPA doesn't get enough credit I think
+for for really kickstarting the
+self-driving revolution with the DARPA
+grand challenge and and now we're kind
+of in this state of the world where the
+government spends hundred billion
+dollars a year on just IT modernization.
+Um we have huge amounts of government
+still written in cobalt uh with people
+who you know have left or no longer
+understand how how the code works and
+it's really holding us back and I mean
+you feel it as a citizen dayto-day.
+Think about you know your interaction
+with the DMV or or trying to pay your
+taxes um
+&gt;&gt; or waiting for a permit to come for
+&gt;&gt; or waiting for a permit. Yeah. I mean
+these things have real world
+consequences. Um and that's one of the
+things I'm personally really excited for
+is is you know if you can bring
+technology like this um across the
+private and public sector it's like a
+great equalizer for for entering work.
+&gt;&gt; Can you deal with the cobalt stuff? Is
+that something Devon?
+&gt;&gt; Cobalt is a cobalt's actually a massive
+use case for us. Yeah. Yeah. One of the
+early bets and investments we made was
+in what we call codebase intelligence.
+So you know if you think about a like a
+modern language model there's a limited
+context window right. um uh but a lot of
+the largest organizations in the world,
+they have very very complex code bases
+that do not fit inside a single uh
+inside a single context window. We've
+done a lot of work both on the model
+training and RL side, but also um on the
+sort of harness engineering around that
+and the indexing around that to figure
+out how do you work with really messy
+custom languages. And so Cobalt, it's
+actually not even the hardest one for
+us. One one of the examples I like is
+Goldman Sachs has invented some of their
+own programming languages. People don't
+know this, but Goldman has a pretty
+insane internal engineering team and
+they've they've literally written their
+own programming languages and they've
+been able to sort of customize and tune
+to work on those internal languages. Um,
+so Cobalt is actually easier in some
+sense than that.
+&gt;&gt; So when the government, I mean, they
+spend 100 billion a year in it. It's
+ironic because you're right, sometimes
+government in the past, especially when
+innovation was really expensive, they
+they pushed some new things that they
+otherwise wouldn't have happened. Uh,
+today most of that hundred billion
+dollars is spent by on special interests
+that don't seem to be using the money
+well. So, so it's a giant mess. What are
+the types of projects you're working on?
+&gt;&gt; Totally. I mean, the the incentives are
+obviously super screwed up for a bunch
+of reasons that your listeners are are
+probably familiar to. One of the less
+one of the less known ones that I think
+we actually might be able to just
+sidestep is the government is a really
+unique buyer of software for a bunch of
+reasons, but one of them is that a lot
+of times they want to own the IP of the
+software they're using. And this is a
+this has a really big implications for
+most SAS businesses. You know, if you
+make scheduling software and your
+business is a SAS business, you you
+don't want the government to own your
+IP. You want them to have a license to
+it to use it for scheduling. And
+actually, that desire is literally
+incompatible with how a lot of
+government contracting has worked and
+happened historically. So, you end up in
+this situation where the government
+says, "Oh, you know, this scheduling
+provider, this is a real example. This
+scheduling provider that has great SAS
+that can do scheduling. I can't use it
+because I wouldn't own the IP, so I have
+to go work with the systems integrator
+and completely custom build my own."
+Right? Insane. Now, now what we could
+could we lobby and go try to convince
+the government to change their policies?
+Yes. But actually, I think easier for us
+to just sidestep the problem and say,
+"Look, Devon can just write this thing
+for you." You know, just build it for
+you. We're actually because of AI
+agents, you know, you're in the you're
+in the regime where actually now
+everyone can own their own own their own
+IP um more easily than before. So, I
+think that's one of the ways we're sort
+of trying to sidestep some of this
+stuff.
+&gt;&gt; Can you can you be your own government
+contractor? Are you going to have your
+own government contract doing this then?
+Are you just going to power others? How
+are you thinking about?
+&gt;&gt; Yeah, I mean right now we have dozens of
+of kind of fed ramped deployments of
+cognition uh both with agencies and with
+primes. You know, we work with uh US
+Army, US Navy, the the Treasury, uh we
+work with folks like Palunteer, with
+Androl uh and other primes. And so we
+just want to build sort of the most
+capable, most useful Agentic software
+engineering platform and then and then
+work like heck to kind of get in the
+hands of people to make it useful.
+&gt;&gt; And in cognition for government, this is
+a fast growing business for you then.
+Now,
+&gt;&gt; I would say government is one of those
+things that it it really takes some time
+to kind of build and and be compliant
+and work in the way that people want to
+work. And then once you're there, uh
+once you're there, it's it's much easier
+to be helpful. And so, we've over the
+past year, we've really done a lot of
+the leg work to, you know, how do you
+get your Fed Ramp certification? How do
+you um understand the needs of these
+agencies, which are actually pretty
+different in a lot of ways again just in
+the think just in the civilian sector,
+these they're operating under completely
+different trade-offs, right? A lot of
+the software they use is actually by
+statute not allowed for them to write
+themselves. Talk about regulatory
+capture and interest. You know, there
+are literally laws saying you government
+agency are not allowed to maintain your
+own website. You have to bid this out to
+a to to a contractor. And and so it kind
+of sounds insane, but you know, that's
+the way the system works. And I guess my
+experience working on AI with technology
+is that a lot of times it's actually
+easier to solve like a frontier science
+or engineering problem
+&gt;&gt; than it is to sort of change the
+molasses of the existing world, right?
+Uh when we work on self-driving at
+Tesla, a lot of folks would ask us, hey,
+like why don't you make the cars talk to
+each other? Wouldn't that be way easier
+for self-driving if all the cars could
+talk to themselves? And the answer is,
+yeah, it totally would if you got every
+car talking to itself. But until then,
+you're going to have to deal with human
+driven cars. And so then you have to
+actually solve the much harder science
+problem of predicting the motion of all
+those human cars. I think it's the same
+for our work with government. So yeah, I
+mean right now we have dozens of these
+deployments. Um you know I think folks
+are are giving us really good feedback
+on how much it's accelerating their work
+and and some of the some of the missions
+are are really exciting. You know think
+of an organization like NASA JPL. Um you
+know who doesn't want to help us get
+back to space faster?
+&gt;&gt; I love it. Yeah. We just actually
+interviewed Jared Isaacman who's running
+NASA. So it's a great guy to partner
+with. It it is true in government a lot
+of times people say, "Well, this
+solution would work if we just put this
+thing in the middle and made everything
+talk to it." And I'm like, "Sure, that's
+what everyone always tries to do in
+government, but but these guys are never
+going to all work together. They're all
+going to debate." And so, you actually
+have to design it knowing it's
+distributed. It's a very interesting
+like the real world's messy and you deal
+with it as it is, not as
+&gt;&gt; Yeah. It's like the XKCD comic like we
+have a dozen standards. Like, this is a
+mess. We need one more. Now, you you
+know, now you have one more. Yeah.
+&gt;&gt; Exactly. So, so well, I it's very
+honorable to go work in government.
+America needs that. You're fixing it.
+Obviously, you're growing even faster in
+the enterprise in general. So, these are
+both big businesses. This is obviously a
+very competitive time right now. There's
+a lot of the smartest people in the
+world. You have a lot of them here.
+There's some of them at other places as
+well. I think very famously some of the
+big labs like Enthropic have been I
+think they've doubled into the tens of
+billions in the last few months. It's
+obviously the highest growth thing right
+now in in the general area. You guys are
+obviously, you know, don't say your
+exact revenue, but you're likely to get
+into the billions soon if you're not
+already there. What's the competition
+like? Do people use that with you? Is it
+help you when they do well? like how do
+you think about these things?
+&gt;&gt; Yeah. Yeah, for sure. So, no, I mean
+it's it's an exciting one obviously and
+and software engineering and code is
+just so big that I think there's there's
+there's a ton to do. I mean, we've seen
+a ton of growth as well. I mean, our our
+usage for example of Devon in in our
+customers has I think roughly tripled
+already since the start of this year. Um
+&gt;&gt; well, so just the C inside the customers
+alone
+&gt;&gt; inside the customers alone. That's
+right. But but but what I would say I I
+think a couple thoughts here. one again
+there's so much different work to go do
+in code and so you'll see a lot of
+others who are for example um building
+products that will help you make a quick
+little website or something like that or
+you know build something like fun um
+which is you know you can use Devon for
+that but I think that's not necessarily
+what we specialize in on the other hand
+a lot of what we really really focus on
+&gt;&gt; to Russell's point is is is working with
+um enterprises governments you know
+regulated industries working with
+massive massive code bases and trying to
+make sense of that and and work in all
+of those systems right and so a A lot of
+the problems that you have to go deal
+with and work on are how do you, you
+know, absorb all of the messy context
+and the knowledge of this codebase? How
+do you work with a massive, you know,
+something that has hundreds of thousands
+of different files and work across that?
+How do you test and iterate against
+your, you know, your your existing unit
+testing framework or how do you uh, you
+know, click around and use these
+products yourself and make sure that the
+the edits that you made were good. Um,
+and that's a lot of what we've always
+focused on with cognition. And so you
+know some some I mean basically all the
+guys that that that you mentioned here
+in terms like the foundation labs and so
+on we actually partner with them and we
+work very closely with them. I think
+what we tend to find is that um you know
+for for obviously their kind of like
+base research and and the work that they
+do with models there's there's a ton of
+interesting work for us to do together.
+Um whereas I think for for a lot of this
+work with really enterprise
+transformation um you know we we want we
+we want to be like on the ground working
+very deeply with folks and and and
+figuring out with them how h how we use
+software to to help them achieve their
+goals. So Palanteer uh originally we
+created this thing called for deployed
+engineers which uh didn't really make
+sense to people uh 10 or 15 years ago
+and it turns out there was like certain
+types of workflows where where you could
+build a product to do a lot but then the
+forward deployed engineer would actually
+have to understand the business value
+and and kind of connect the dots and and
+then and then take things that they
+created that oftentimes go back to the
+core so the core gets better so the core
+could do it next time. Like do you have
+you sound like you have something
+similar to this? Do you have a lot of
+these? Is that it's a big part of the
+value you're providing?
+&gt;&gt; It's Yeah. So it's interesting there's
+there's some similarities and some
+differences for us with sort of the
+Palanteer model. So um one of the one of
+the interesting differences is that a
+lot of times you know our customers they
+just use our product on their own even
+without us talking to them or without us
+discovering them. You know people bring
+in our tools and they just start using
+them immediately. But once once Devon is
+inside an organization you know the
+ceiling of what you can accomplish if
+you're a worldclass agent manager you
+know versus like a you know a new
+engineer who's just sort of learning the
+tools. It's an enormous delta. And so um
+a lot of the there's kind of some
+parallels to our business that are more
+like a you know kind of a data bricks or
+snowflake type thing where you just kind
+of get in and then and then people start
+using your products more and consuming
+more. On the other hand, if you actually
+want to go drive major outcomes like
+real business change that results in
+like structural you know oh I can launch
+this entire product line that I wouldn't
+have had the capacity to you know
+otherwise like that that type of
+outcomes. um you know our four deployed
+engineers are among the best in the
+world at managing agents at really high
+scale because that's like exactly what
+they they sort of focus on and do every
+day. So at Palanteer we had these
+frameworks of like like building an
+ontology of all the data making it talk
+to each other ontology of the processes
+and we had all sorts of different
+frameworks over time that are conceptual
+frameworks would use when you go in. Do
+you guys have like your own conceptual
+frameworks for business value and do you
+have something called ontologies like
+how like not to not to get the secret
+sauce but other things like this you can
+&gt;&gt; we we really look at it from the
+perspective of the software development
+life cycle. So we go inside an
+organization um they they have a way of
+doing things right of of developing
+software starting from planning and
+deciding what they even want to write
+understanding all of their existing code
+and process to then maybe scoping it out
+and and maybe writing some code testing
+it fixing it when it's wrong iterating
+on it deploying it in production
+monitoring it you know there's a pretty
+standardized software development life
+cycle at this point and what's happening
+is agents are just eating more and more
+of the cycle and it kind of started with
+the writing of the code and now we're
+like well past that right and so in fact
+one of the more recent products we
+shipped is called debon review. It's
+because we observe that there's this
+totally new bottleneck in the software
+development uh in the software
+development life cycle that wasn't the
+case previously which is there's this
+abundance of code being written by AI
+now. How can humans even keep up with it
+all to understand what's going on?
+Again, we work with you know a lot of
+like regulated large complex
+organizations that are they're running
+mission critical systems and you can't
+just sort of vibe code you know your way
+and like yolo merge uh
+&gt;&gt; the treasury shouldn't be vibe coded.
+[laughter]
+No, it's like actually really important
+and and eventually, you know, are we
+going to like have English as a source
+of truth and and people are just going
+to be collaborating on specs? Yes. I
+think, you know, March 2026, no, you
+still need to understand the code that
+you're merging. And so we, you know, a
+big a big thing we care about at
+Cognition is we're building tools that
+are like future looking but still still
+meet people where they are, right? We
+still want to meet people where they
+are. And so Dev and Review, it's uh it's
+it's not just having like an AI auto
+comment on every PR and say, "Oh, this
+was good or not good." It's actually
+tools for humans to really deeply
+understand huge quantities of AI
+generated code.
+&gt;&gt; Is there some sense that at some point
+one of the AI models if it gets a little
+too tricky could like sneak something in
+to the things that are being built to
+like do something we didn't want it to
+do?
+&gt;&gt; Yeah. So it's a great question.
+Obviously, I I think with a lot of these
+things, the the the simple answer in
+software is you want to be working with
+the same review process and the same QA
+processes that we all have, right? And
+so any any big enough engineering
+organization frankly already has to
+think about this with their humans, you
+know, and and it doesn't have to be on
+purpose, obviously. Maybe you
+accidentally introduced a security risk
+or so on, right? And that's why you have
+review and that's why you have QA and
+that's why you have user testing and
+that's why you have release cycles and
+all these other things. And I think um
+you know I I I do think this is one of
+the one of the things that often comes
+up which is like how do you make sure
+that um that your agent behaves
+correctly which of course is like a very
+important problem. The reality is I
+think in software
+&gt;&gt; we have actually a lot easier or or
+maybe at least a lot more grounded uh of
+of a path to do that because we have the
+same thing already with all of our
+humans, right? And so when you work with
+Devon for example, Devon is is is making
+commits is submitting you know code
+diffs and so on. Devon is not allowed to
+go and deploy your code to production by
+itself or anything like that, right? It
+works in all those same systems and has
+the same guard rails.
+&gt;&gt; And so let's let's just fast forward for
+fun a few years in the future. When I
+talked to some of the people running the
+top labs, they're pretty convinced
+things are going to keep getting better
+at a pretty high pace for at least two
+or three years. It's like kind of like
+with Mors law, you can't really see out
+what's going to get there five years,
+but but see it feels like things are
+going to change a lot. Like so so so
+tell us about 2028, 2029. Like is there
+certain things that just look very
+different? There are certain things that
+are that are like we have to do now. We
+don't have to do it all there. Like what
+are the unsolved problems for Devon to
+just be be like doing massive projects
+on itself in three years?
+&gt;&gt; Yeah, I think a couple shifts. I mean,
+one of the obvious ones which I'll just
+call out is just much more widespread
+usage of all of this and and just good
+knowledge on how to use these things. I
+think right now, you know, you have this
+core group of we'll call it like
+agentforward engineers, right? Or agent
+forward companies that understand how to
+use this and they are seeing these, you
+know, 5x 10x productivity gains as a
+result. I mean, obviously, you know, all
+of these big organizations or these
+these companies or governments or things
+like that are are seeing those same
+results and realizing, wait, we can't
+just sit here and be five times slower
+and, you know, we have to go learn how
+to do this right now. Um, and so that's
+really happening. I mean, even this
+year, I would say, um, in terms of the
+the the continued capabilities gains
+that we're going to see, yeah, I mean, I
+think there's, um,
+&gt;&gt; I think I think the models are going to
+get better and better. You know, one of
+the stats that people talk about a lot
+is this MER report, which basically says
+for um each different model that comes
+out, roughly how much human work can it
+do uh in an automated fashion before you
+have to go interrupt it and say, "Oh,
+that was wrong. Let's go do this."
+Right? And so it's like, you know, just
+two or three years ago, the answer was
+like 10 seconds or something. You know,
+you would have it write one line and
+it's like, "All right, the next line is
+already wrong. Let's stop here." Right?
+And at this point it's already gotten to
+the point where it's um in the scale of
+you know 10 20 hours um is what the
+latest one uh has been. I think opus 4.6
+for example I think was around 18 hours.
+&gt;&gt; This is always very weird to me because
+it's implying that models work in human
+time though right which is so weird. Why
+do they faster?
+&gt;&gt; Yeah. So so so the answer they do
+typically do the tasks in less time than
+a human would and then the 18 hours is
+basically this is how long it would take
+a human to do that amount of work. Okay.
+&gt;&gt; Uh in in between each of the
+interruption points, right? and the the
+ai might be doing that in in one hour or
+two hours or something like that, right?
+Um and and the thing that's really crazy
+about this stat is
+&gt;&gt; you just see it very consistently
+double. And I think for the last few
+years, it's doubled about four or five
+times every year, you know, which is
+insane, which means, you know, you wait
+two or three months and it's already
+doing twice as much work.
+&gt;&gt; So the whole world is changing every two
+or three months in terms of what's
+possible.
+&gt;&gt; Yeah. And this is this is what we've
+what we've kind of seen as well. And I
+think we're gonna we're going to see
+even more of that. And to to some of
+Russell's previous points, the thing
+that's kind of interesting for us is
+that the form factor of what you want to
+deliver or how you want to work with the
+AI changes a lot as you're going through
+that, right? And so when we're saying,
+okay, you do 10 seconds of work,
+obviously the answer is you as a human
+need to be staring at your file of code
+and like shephering it and handholding
+it with every single step, right? If
+you're talking about it's doing days of
+work or weeks of work, now you're
+actually giving it whole, you know,
+output level tasks of like, hey, you
+know, we we really need to go make this
+app much faster. Can you go and run this
+whole thing and then, you know, do a
+smoke test and make sure all the changes
+look right and it's going to go off and
+do that entire project, right? Versus or
+or you know, even even bigger
+initiatives of like, yeah, can you
+autorespond to all of the um you know,
+the upgrades or the potential
+vulnerabilities that are coming in with
+our reporting and just make sure all of
+that, right? Um, so you're gonna see a
+lot more, I think, proactive work. Um,
+you're gonna see a lot more basically
+like event driven kickoff work where
+it's it doesn't have to be human that's
+that's moderating it every step of the
+way.
+&gt;&gt; And then and then in terms of like what
+does that mean for society or where does
+it go? I actually think one thing I'll
+go on the record on is I think there's
+going to be an explosion in small
+businesses. Um, I think AI is actually
+like an extremely small business
+enabling technology in particular where
+you think about what's hard about about
+building or starting a small business.
+It's you know you don't have the
+resources of a large company.
+specialization of labor in each part of
+the part of the process. And I think AI
+it's extraordinarily enabling right
+think about you know the quality of
+quick legal gut check you can get from
+you know from a chatbot from a frontier
+lab the quality of you know analysis of
+your financials the quality of software
+that you build right it's like it's all
+coming together to empower each
+individual person again if you exercise
+that agency to just do so much more on
+their own
+&gt;&gt; I actually I love this I actually have a
+a small thing on the side where I'm
+trying to help create tens of thousands
+of small business owners so so I'm
+totally in line with this this is a
+really good theme right right now for us
+for us to do what one last thing I want
+to ask you guys about the business that
+I'm just so impressed by. So I I hired a
+lot of the first 200 people of
+Palunteer. I spent a lot of time on
+talent. Obviously I even hired Scott at
+one point a long time ago with one of my
+companies with with Vod's help.
+&gt;&gt; How did he do how did he do in his very
+very very impressive but I did not I did
+not see him at the time as someone who
+was like a CEO person. So he really grew
+a lot which is good. I mean you know
+he's like he's learning and growing as
+he goes and definitely see him as a CEO
+and founder now. Um, but one thing you
+guys have done is like a significant
+percent of the cognition hires are
+actually former founders. So, not only
+are you hiring the best people in the
+world, you're hiring a ton of former
+founders like like why are you doing
+that? How are you doing that? Tell us a
+little bit about the talent stuff here.
+&gt;&gt; Yeah. Yeah, for sure. No, I mean I I I
+think the um I I I think the reality is
+we we just have such a massive problem
+that we're going after. We're just, you
+know, solving all of code. And I think
+the way we even started this company is,
+you know, Russell was a founder before
+this. I was a founder before this. all
+of us were, you know, I think of our of
+our kind of like initial crew and and
+and the idea for us, I think, was
+let's make this one the big one, you
+know, we're going to go for it all.
+We're going to go for the most ambitious
+and even I mean the the the play of
+solving software engineering feels like
+a big enough one, you know, that that we
+can all do that together. And and I
+think that's a lot of what it comes down
+to honestly is just like um yeah are we
+working on something and doing something
+that's that's that's exciting for for
+folks who to your point are are you know
+I think a ton of the folks at Cognition
+are could could very very easily go off
+and start their own companies and get
+funded and build their teams and so on
+and and and the question I think for us
+always has been about um how how do we
+make this the place that that that makes
+more sense for them to do that
+&gt;&gt; and it's it's honestly easier to do that
+now than ever before also as a as a
+company like I'm thinking you know we
+have one team at the company. Uh they're
+called special projects engineers and
+basically every person on that team is a
+former founder like every single one.
+And and they they do they do uh you know
+a really interesting mix of engineering
+work of product work of talking to
+customers of driving commercial outcomes
+you know the problem space to to your
+point is so big that actually if you're
+again a high agency person going to take
+initiative and you're working at a small
+fast growing company with with a you
+know with the problem space so big that
+you know your only constraint is like
+your own ambition. Well, it does seem
+like there's this renaissance or
+revolution going on in the world where
+the capabilities are doubling every two
+or three months and like this is a place
+you can come and be around some of the
+other smartest people in the world who
+are part of growing something with that
+which I guess is pretty fun for people.
+&gt;&gt; We had a good time.
+&gt;&gt; One one thing about the the interview
+process or the selection process to your
+point which I think is kind of
+interesting to call out is I think um
+you know one or two years ago I think a
+lot of people had this mentality in
+terms of how you interview of like okay
+there's all these AI tools. How do we
+interview people in a way that um you
+know how do we make sure that people
+aren't using AI while we're interviewing
+them because we're and I think
+&gt;&gt; that has totally flipped honestly I
+think that was wrong right and and I
+think if if you're asking the question
+of like how do we evaluate people on
+exactly the thing that AI can already do
+that's kind of the wrong and and and so
+so so you know I think for for us and
+this has always been the case for us you
+know our interview process has always
+been you can use as much AI as you want
+to use you know it's just like we're
+going to give you a few hours, just
+build build your whole own product
+surface, right? And build build your own
+um a lot of these are projects that
+frankly is like if you were trying to do
+this by hand, you would not be able to
+get done in a few hours. So, you kind of
+have to use AI for this, right? But but
+in reality, what we actually want to
+test is in addition to to kind of how
+familiar you are with these tools, what
+we actually want to test is is yeah,
+what what do you think is the right
+thing to build or how do you make these
+product decisions? How do you make these
+trade-offs? How do you decide or collect
+information about what you should be
+doing? Um and and and so we found that
+that's that's helped us a lot.
+&gt;&gt; I love it. Well, we started the American
+Optimist podcast to try to push back on
+cynicism and pessimism in our country.
+What's the best case for an optimistic
+AI future? What what inspires you about
+what you're seeing?
+&gt;&gt; Yeah. No, it's a great question. You
+know, so so funny enough, I think
+recently we had this whole catrini piece
+come out u which I thought was frankly
+ridiculous of of I mean I think it's
+it's I think it gets a lot of the the
+basic economics wrong is maybe a simple
+way to put it. And and it's it's I think
+it it goes off of some of the same
+things that we are calling out which is
+it's going to be easier to build things,
+it's going to be cheaper and so on and
+then somehow concludes that that you
+know the outcome is going to be much
+worse for all of us. And I think maybe
+that that you know from from a from an
+economics perspective there's a
+distinction between what is um real
+versus nominal you know deflation which
+I think is maybe one one thing to call
+out here which is of course prices are
+going to get cheaper but why should that
+mean that we're all worse off right? Um
+but but but I I I think the simple thing
+that I'd call out about AI is I think we
+right now are at a point where so many
+of the things that we want to build and
+so many of the things that we want to do
+are just hard bottlenecks by pure
+execution, right? And I think we're
+pretty quickly getting to a point where
+that's not the case. Um and my my
+favorite line on this is uh you know our
+co-founder Walden says this, which is
+for so long we've all been living in
+Minecraft survival mode and now we're
+going to be in creative mode. Um, and
+and I think that's really I I I think
+that's what we're going to see over the
+next honestly the next 5 or 10 years is
+getting to a point where you're really
+only limited to your ideas and to your
+imagination where you can kind of just
+turn things into reality and and I think
+that's going to be a great future.
+&gt;&gt; Awesome. Well, that inspire not to leave
+it on. Thanks, guys. Cool. Thanks for
+having us. Thanks for having us. Yeah.
