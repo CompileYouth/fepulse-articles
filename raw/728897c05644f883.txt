@@ -1,0 +1,1266 @@
+原文： https://www.youtube.com/watch?v=eyobeqMdbeI
+
+Today on No Prior, we have Jeremy Olair,
+the co-founder and CEO of Circle. We'll
+be talking about cryptocurrency, AI,
+agentic payments, AI evolving on the
+blockchain, and a variety of other
+topics. Great. Well, thank you so much
+for joining us today. It's a pleasure to
+have you.
+&gt;&gt; It's great to be here. Thank you. So
+maybe we can start with you just giving
+a quick overview of Circle, what you do,
+how you approach the world because I
+think we're going to be talking a lot
+about stable coins, crypto, AI, and how
+all these things tie into sort of the
+agentic future. But I'd love to just
+start with sort of origins of the
+company, what you all are up to, and we
+can go from there.
+&gt;&gt; Yeah, for sure. So um yeah, Circle's
+been around for a while. Uh I co-ounded
+the company uh over, yeah, 13 years ago
+or so, 2013. And um you know really at
+at inception I was really excited about
+this idea that we could create a
+protocol for dollars on the internet and
+I had been really excited about uh what
+was happening with technologies like
+Bitcoin. um and uh had been you know
+working on kind of internet
+infrastructure for a long time and got
+really excited like if we had like a
+protocol for dollars on the internet um
+that you know potentially we could have
+a way to store and move value you know
+instantly globally frictionlessly at at
+no cost ultimately. Um the other idea
+that we were really excited about back
+then was this idea of programmable money
+and the idea that um eventually these
+these networks blockchains would become
+like operating systems and you could
+actually have machines that intermediate
+economic activity and financial activity
+on the internet and including like
+autonomous software machines and um back
+then we didn't have generative AI or
+anything like that but this sort of idea
+of kind of commoditizing the kind of
+payment utility layer um with like very
+safe digital dollar digital currencies
+and then having like programmability of
+that with machines that are kind of
+tamper resistant can run on the
+internet. That's what kind of drove the
+founding of the company and and the view
+was like if we could do that like we
+could actually improve the financial
+system make it safer make it more
+accessible um make it more efficient um
+and and kind of derive new utility for
+money that we haven't had before. And so
+that was sort of where
+&gt;&gt; why is the dollar aspect of that
+important? So if you look at a lot of
+the things that happened in
+cryptocurrency in the early days, it was
+really about creating things that were
+divorced from the traditional financial
+system if possible or were not
+dollar-centric. So for example, Bitcoin
+was in part a response to the great
+financial crisis. Yeah. And the view
+that all sorts of weird bailouts
+happened there and therefore we needed
+some alternative sort of financial
+infrastructure for the world.
+&gt;&gt; Yeah. So I think um so I actually it's
+what's very interesting is like I I I
+had you know I believe in kind of
+Austrian economic thought. uh I was you
+know studying uh Austrian economic
+thought like in the early 1990s uh for
+for a very long time. Um and so I've
+been interested in sound money theory
+and actually it was studying the the
+kind of impact of the global financial
+crisis that that drew me into this
+because my view is like there has to be
+a way to build like a safer
+&gt;&gt; uh financial system. And the key issue
+there was um I was interested in this
+idea of full reserve money. And in some
+ways, Bitcoin is full reserve money
+because you you you know, you you kind
+of there is no way to fractionally lend
+Bitcoin, per se.
+&gt;&gt; Full reserve money means currency that's
+backed by something hard behind it, some
+asset.
+&gt;&gt; Doesn't necessarily mean it's a hard
+hard back. Full reserve money is
+different than say fractional full
+reserve banking, I should say, is
+different than fractional reserve
+banking. And so,
+&gt;&gt; um you know, back in in there was
+another uh major uh economic collapse
+which was the Great Depression, the run
+on all the banks and all that fun. And
+in the 1930s there was a really big
+debate about like what's the right
+construct for the banking system and the
+financial system and um there was a a
+proposal from a group of economists uh
+called the Chicago plan and uh the kind
+of ring leader was a Chicago economist
+actually it might have been a Yale
+economist or Princeton at the time but
+uh Irving Fischer who wrote a a book
+called 100% money
+&gt;&gt; and that idea was that full reserve
+money was essentially um you know
+government obligation money. It's so
+it's still the obligation of the
+government like the US government in
+that instance. Um but that essentially
+um you can have that and you can hold
+that but you can't take that and then um
+uh fractionally lend against it. So you
+have kind of a full reserve but you can
+only lend full reserve money. And so
+that um was a a big proposal for how to
+structure the the way the financial
+system worked. And it was actually um
+lobbied very very hard uh against it by
+the banks and the banks really liked
+fractional reserve. They liked to be
+able to have the inherent kind of
+leverage and risk-taking and instead
+convinced the government to establish or
+they collectively with the government
+sanction established a a insurance
+company uh called the Federal Depository
+Insurance Company Corporation. Um and so
+that was a kind of corporate uh
+insurance model, but the risk-taking
+still existed. And so we've continued to
+kind of face those issues. The great
+financial crisis was an example of 30x
+leverage, 12x leverage, 14x leverage
+against against these sort of base
+layer. And so my philosophy has been
+well um right now in terms of general
+utility um our our existing uh economic
+system like it it does depend on um
+really major reserve currencies like the
+dollar. And my view is like that's going
+to continue for a while. Uh maybe 30,
+40, 50 years. It'll continue for a
+while. But what we want to do is
+construct a system that is in fact
+safer. So a full reserve form of money.
+And that's what stable coins are. That's
+what dollar stable coins are. And in
+fact with the Genius Act that passed
+last year, it's sort of codified in law.
+Like you can't do anything with this.
+It's like this very narrowly bound
+narrow money kind of model. And so I
+think in some ways like that original
+vision we've now got established in laws
+around the world. Um and and now we have
+to do more with it. We have to make it
+extraordinarily useful. We need you can
+you can lend that form of money as well.
+But it's just that you can't do
+fractional reserve.
+&gt;&gt; So what what what are stable coins uh
+currently backed by? My understanding is
+for example there uh the stable coin
+companies are big buyers of treasuries
+uh or US treasuries and other sort of
+instruments like that. Could you explain
+a bit more sort of what tends to back
+these things?
+&gt;&gt; Yeah. So, um, up up up until really the
+last couple of years, um, you know,
+stable stable coins like USDC were were,
+um, had to be always one for one
+redeemable against, um, you know, very
+safe liquid assets. Uh, and we couldn't
+take risk outside of what was permitted
+under the kind of payment system laws
+that regulated us. And so that was
+circle. There are other people who
+didn't take that approach. uh um and you
+know but you know sort of fiat stable
+coins in this way were back that way.
+Now laws have now come into play in
+major jurisdictions whether it's in
+Europe or Japan or the US um etc. and
+we've been following the whatever laws
+apply to us, you know, whenever they
+apply to us obviously. But um what
+that's really led to is an architecture
+which is basically what's now federal
+law which is um really holding only
+short duration US government treasuries
+um or uh treasury collateral that is
+overnight with with like global banks.
+Uh so that's you know very safe
+overnight treasury collateral for cash.
+uh and then you know some amount in cash
+that is for kind of immediate liquidity
+um but in that case it's sort of holding
+it in these sort of big custodial
+institutions like bank of New York that
+holds hundreds of trillions of dollars
+etc so of assets and so um that is
+essentially the architecture of USDC and
+and we're very transparent we have daily
+transparency onto most of it through a
+system we set up with black rockck but
+um so USDC is like a crypto token that
+anybody can effectively purchase And in
+exchange for $1, you'd get one USDC. And
+that USDC continues to be backed by a
+government treasury, like a short-term
+T- bell or some cash or some.
+&gt;&gt; That's right. It's it's backed by
+treasuries, repos, and and and short
+duration T bills. The average duration
+tends to be of like the of the T bills
+and and that portfolio tends to be
+around like 13 days. So, it's super
+super liquid and kind of it sort of
+allows it to be treated as like a cash
+instrument. What do people do with it?
+What are the main use cases of USDC? The
+the conception of this obviously is like
+a general protocol for dollars on the
+internet and in fact the whole design is
+this is like a general purpose general
+architecture money and we actually see
+it used you know from at the very
+smallest end like someone who's paying
+you know 25 cents for a digital object
+in a digital game that's built on a
+blockchain that would be like one end or
+even now we're starting to see and we'll
+come back to this topic I'm sure you
+know AI agents that are paying for uh
+the output of essentially the AI tokens
+of another AI agent and they're you know
+spending again just you know uh a dollar
+50 cents 20 cents etc. So super tiny
+transactions at one end all the way to
+the largest electronic trading firms in
+the world that do huge amounts of of
+capital markets activity who are you
+know settling multiund million dollar
+transactions and the powerful thing is
+it's all the same just like you know if
+I send you an email uh you know the and
+my emails like hey this is what I had
+for breakfast the payload of that is the
+same as if I sent you an email that had
+like a CIA dossier attached to it like
+USDC doesn't care you know so as a as a
+general architecture. It can be used
+across a huge range of things and we
+have everything from merchants in Stripe
+and Shopify that are using it to Visa
+actually using it themselves to actually
+move money on their own internal network
+instead of using the legacy banking
+system to lots and lots of kind of neo
+banks remittance companies that are
+using it as a way to move value. You
+know, a great uh uh kind of B2B uh uh
+fintech uh ramp just yesterday launched
+you know USDC as like core to their
+treasury system. You can use it to pay
+invoices, pay anywhere.
+&gt;&gt; My sense is some of the reasons people
+do this is number one um you can do it
+at any time. So for example, if I send a
+wire, I know a lot of crypto companies
+for example that when they raise money,
+they ask you to send USDC because
+instead of hitting a wiring deadline in
+the afternoon, you can wire them money
+on the weekend. You can send money
+anytime.
+&gt;&gt; It just works the way the internet
+works, right? I mean, our expectation is
+like I can pick up, you know, my
+WhatsApp or I can pick up my WeChat and
+I can just communicate in video with
+anyone anywhere and it just works,
+right? And my expectation is like, hey,
+if I make a piece of software like and I
+put it on the internet, like billions of
+people can access it. I don't need to do
+something special. And and and I think
+that's, you know, basically this is just
+internet native and it runs on internet
+protocols. And so it behaves the way
+that any piece of data or content or
+behaves on the internet, which is what
+our expectations are, you know, most
+people's expectations are.
+&gt;&gt; Yeah. I was just trying to uh enumerate
+a little bit of like what makes it a
+superior instrument for all sorts of
+purposes. And one is 24/7 accessibility.
+two maybe some form of transaction fees
+relative to the volume and then three is
+um my sense is it's also a way for
+people to participate in US dollars who
+often would not have access directly and
+so they use crypto as almost a proxy to
+&gt;&gt; yeah for sure I mean I I think um store
+of value is a really big thing and we
+see that and and in fact like the the
+law that was passed last year the Genius
+Act like a big motivation for the
+administration and this something that
+we've been proposing and and kind of
+pushing for a long time is that this is
+a way to um continue to export the
+dollar and so we're now exporting
+digital dollars and we're doing that all
+around the world and that's like
+strategically important uh to the United
+States and and from a geopolitical
+geoeconomic perspective. Um but you know
+there's other things too which is this
+comes from my own background uh as well
+which is these are this is programmable
+money. Um there's never been
+programmable money like you actually
+have essentially like our stablecoin
+network is just a public API on the
+public internet that anyone can plug
+into and use. And so if I'm a developer
+and I want like global dollar settlement
+and I want to provide that as a
+capability to my users I don't have to
+ask permission. I can just go connect to
+that smart contract, connect to that uh
+public API and boom,
+&gt;&gt; I have now an application with global
+digital dollar utility. And so that's
+really different.
+&gt;&gt; Yeah. And smart contracts is basically a
+way
+&gt;&gt; to write code that's wrapped around this
+money that allows you to effectively
+have a virtual contract online. So you
+can say under XYZ conditions, pay this
+out. We're going to generate a financial
+instrument off of this. And it's just
+kind of based on this other layer that
+you can plug into effectively.
+&gt;&gt; Yeah, that is definitely the case. And I
+think like um yeah, you know, the the
+idea of programmable money was like
+again this early idea that we had and
+smart contracts um was sort of the
+original expression. But when I looked
+at that 13 years ago, my view was that
+blockchain networks are operating
+systems. They're going to be operating
+systems. And so when we think about
+operating systems, we have lots of
+paradigms for that. We have mobile
+operating systems. The web was itself
+kind of an operating system with a
+runtime and a language model and an
+object model. And you know clouds became
+kind of like these big virtual operating
+system environments. AI foundation
+models are now essentially operating
+systems that execute tasks and and other
+things. Blockchains are operating
+systems and they have compute engines.
+They have virtual machines and you can
+write turning complete code. You can
+write software that runs on these. But
+there's some really key attributes that
+make them different. So the the first is
+that the code is is sort of tamper
+resistant. it once it's published it's
+sort of like out as like a machine
+that's tamper resistant. The second is
+it's perfectly auditable. You can audit
+every single input and output of that
+machine of that code in real time
+&gt;&gt; because it's all on a public blockchain
+so anybody in the world can look up. So
+it's like all the compute is public
+accessible. It's open source by nature
+and um and and that's really powerful as
+well. And um and you know it also has
+these sort of um uh essentially um kind
+of transaction and compute integrity
+asurances and this is really key and it
+ties back to AI as well which is like
+you want asurances that the machine is
+doing what it said it's going to do and
+you want kind of the inputs and outputs
+to be provable to and the state of the
+machine to be provable and these are
+these these are things that um it it was
+not easy to do uh in the past and so
+these these network computers um these
+operating systems now provide for that
+and as we're moving into the AIdriven
+economic system right having those
+mechanisms becomes even more important
+it happened to be important for
+financial transactions where you know
+integrity proof audibility verifiability
+are like intrinsic in a fiduciary
+apparatus that was like really key but
+now when we're dealing with uh you know
+kind of autonomous uh actions in the
+economy that also becomes extremely
+important
+&gt;&gt; it would be great to talk about that
+because you know uh gez probably seven
+eight years ago me and my friends used
+to speculate that the most likely place
+maybe the AGI would emerge which again I
+don't think is going to be the case in
+the future would be off of the
+blockchain because you had these
+effectively a uh agents or very simple
+agents even running back then in some
+sense in terms of doing transactions on
+the blockchain and you had these
+economic games that were multi-turn
+economic games to some extent that these
+actors could play and so we said isn't
+that a great place to basically evolve
+intelligence right because you have
+these multi-turn games you have economic
+incentives, you have game theory, you
+learn all sorts of lessons off of that.
+Obviously, there's a very different
+world now with sort of generative AI and
+foundation models, but I'd love to hear
+your view of where is uh where are
+agentic payments going?
+&gt;&gt; Yeah.
+&gt;&gt; And is it going to be crypto? Is it
+going to be more just traditional
+banking systems? Is it a hybrid? Like
+what do you think are the drivers of
+that?
+&gt;&gt; I mean, there's there's a lot in there.
+There's a lot we could talk about. Um so
+so maybe first like I think um you know
+my my own view is that uh you know we're
+going we're going through a pretty steep
+kind of curve right now. We're like in
+in the you know about 3 months into a
+pretty dramatic uh shift in kind of the
+fundamental capabilities of technology.
+Um probably the most dramatic that I've
+ever seen in my own time in in
+technology. And I think um you know that
+shift is is effectively going to mean
+that um a couple things in my view. So
+the first is that um more and more of
+the actual work that is done in the real
+economy um especially in uh in in you
+know kind of the what we call the white
+collar economy but but in in many many
+areas of service and delivery and and
+and so on like so much of that is going
+to be conducted by AI agents and so AI
+agents conducting the work AI agents
+collaborating with each other AI agents
+you know consuming services from each
+other and and kind of you know
+purchasing effectively specialized
+intelligence or output etc. Like this is
+we're on a really interesting curve
+there and so the kind of agentic economy
+is being born as we speak
+&gt;&gt; and in that world um we need a different
+infrastructure for the financial
+intermediation layer.
+&gt;&gt; Why?
+&gt;&gt; Um well we don't have an infrastructure
+that can support that. We don't have an
+infrastructure that can um work globally
+interoperably instantly that can be uh
+uh programmed uh through software layers
+by arbitrary pieces of software that
+doesn't exist. We need an infrastructure
+where the agents themselves can uh
+dynamically create and spin up uh
+different kind of uh uh financial
+endpoints themselves. We need
+transactions that can scale potentially
+into the you know you know billions or
+trillions of transactions. We don't have
+that. Uh we also need um we need the
+ability to kind of um handle
+transactions at micro scale as well. So
+uh you know for example consuming uh a
+certain amount of intelligence might be
+5 cents or 10 cents as it is with these.
+And so we need we need that to work. We
+need that to work in real time again
+between any piece of hardware software
+anywhere in the world. Isn't it all that
+though stuff that people have been
+talking about for a long time in terms
+of just crypto like the benefits? It
+hasn't really become possible until
+really just the last couple of years. So
+you it really took kind of third
+generation blockchains to actually
+deliver on this. So now today like um
+you know you actually can look at like
+transaction volumes of USDC which is by
+far the most transacted digital currency
+in the world way more than anything else
+and um transaction volumes have grown
+incredibly and um off of like a a
+monetary base that's also growing but
+the transaction volumes are growing way
+faster and that's because money velocity
+has picked up. the the cost to transact
+is now subsent uh reliably and so when
+you take out the cost you can do more
+transactions and so with ARC which we
+can come back to you know we we now have
+an infrastructure where we can conduct
+transactions for a millionth of a penny
+uh which just was never feasible before
+so
+&gt;&gt; yeah tell us more about ARC because I
+know you folks are rolling this out as
+your own blockchain etc I would just
+love to learn more about what it is what
+are the use cases what differentiates it
+&gt;&gt; um I I would love I would love to talk
+about that I want to finish one other
+thought on this sort uh the the sort of
+agentic piece which is I think um uh in
+addition to the sort of like financial
+infrastructure that's needed in in this
+world and and and the role that will
+play and it ties back to your your
+actual kind of question and stuff that
+you were thinking about before is um my
+own view is that uh you know a agents um
+and and you know seeing what happened
+with openclaw and moltbook and all this
+stuff is all really interesting because
+it showed that you could actually see
+emergent forms of of cooperation of of
+interaction of of uh of of engagement
+amongst AIs. Uh and that's pretty
+powerful and clearly like we're at the
+front edge of that. Like there's going
+to be a lot more of that. And so um if
+you have AI agents that are from around
+the world, they could be generated from
+lots of different models and LLMs and
+the like. Um and and they need to kind
+of coordinate. They need a medium a
+trust a trust a trustworthy medium where
+they can do that where they can
+instantiate an entity where they can
+store value in that entity. they can
+execute and arrange contracts uh that
+intermediate the work and the tasks and
+that where all of it is real time
+mathematically uh and computationally
+provable and so blockchain
+infrastructure now actually gives us the
+building blocks for when I say agentic
+economic activity most people think oh
+that's e-commerce or payment that's not
+agentic economic activity is actually
+how does the organization of of what we
+used to talk think of as labor and
+capital but essenti like kind of how
+does this organization of kind of
+compute work uh happen and and what
+kinds of kind of corporate forms might
+emerge uh in in that world to do that.
+So I I'm actually quite interested in
+that. that does tie to ARC because
+that's a a design surface that we care
+about which is basically um we we
+describe ARC as an economic operating
+system and this goes back to a comment I
+made earlier which is these networks are
+operating systems and um we're we're
+moving now from the kind of like early
+adopter era which you're very familiar
+with which was mostly around like you
+know speculation on different things
+there were some interesting things like
+NFTTS or whatever but like we're now
+moving very squarely because of stable
+coins into like the real economic
+activity side of this. And um and and I
+think my view is that um as we go
+forward, the the the substance of what
+we think of as contracts, the substance
+of what we think of as corporations are
+going to be software machines
+themselves. And so we're we're going to
+see this progression. And so ARC as an
+economic operating system is conceived
+of as a compute environment for laying
+down all of the building blocks of
+economic activity, whether that's
+storing value, moving money, uh, or
+instantiating a corporate form or
+manifesting and intermediating complex
+contracts. Like a lot of this stuff
+which was conceptual a long time ago is
+now like real and we have a legal basis
+for it. We have a regulatory clarity for
+it increasingly. Uh and it's interesting
+is is that the drivers of this machine
+economy are actually machines. Uh and so
+you know our our view is um uh you know
+ARC is designed for this moment which is
+a moment when machines are going to play
+a larger and larger role in all of the
+output of of of uh of the economic
+system. So if I look at a lot of the
+blockchains that um have people have
+found exciting over the last few years
+um obviously there's Bitcoin which you
+know was almost purposefully designed in
+a certain way to make it a little bit
+less adaptable to all these new things
+that are happening now.
+&gt;&gt; Uh you know Salana, Ethereum etc have
+been the in the past the traditional
+places that people have thought about
+ways to build smart contracts to build a
+lot of the types of things you just
+described. What do you think is a
+difference between some of these more
+traditional L1s or blockchain and sort
+of what you're doing at Arc? Yeah. So, a
+a few big things. I think the the first
+is that um you know, as as as I think
+you were sharing or we were talking
+about before we started recording, but
+like um you know, I think a lot of the
+designs on blockchains um from from
+let's call it the early adopter phase, a
+lot of it was sort of like hey, we're
+going to build something that is
+completely um you know, censorship
+resistant or outside of the reach of
+governments. it's sort of like we're
+building an alternative universe and um
+and that's like the goal. Um and and I
+think you know decentralization is
+itself a good goal but I think as we
+move from early adopter to sort of
+mainstream scaling where you know
+whether it's you know a major company
+like Walmart or or it's you know a
+household that's thinking about like how
+they store their wealth the the the
+intermediaries and there will continue
+to be intermediaries. We're not all
+going to be your own bank. um the
+intermediaries um have obligations in
+terms of the the the the kind of like
+robustness of the infrastructure that
+they have to run and so ARC is actually
+set up with a number of features. one is
+that it's actually a known validator set
+and so um the the infrastructure
+operators of ARC are major financial
+infrastructure companies and so and and
+those are companies that are held to
+these very high standards for infosc
+compliance reliability availability
+&gt;&gt; some examples of some of the validators
+on your network
+&gt;&gt; so we haven't announced uh the
+validators yet um uh but that will come
+in in due course um but um you know the
+the the the model uh at a at a high
+level is that you have financial
+companies uh financial infrastructure
+companies including possibly like large
+technology companies that are
+responsible for running the
+infrastructure. So it's a distributed
+infrastructure but because of that we're
+able to provide asurances. We're able to
+provide asurances that like the bad guys
+aren't running your transactions. Um,
+and we can also run assurances that
+transactions actually have settlement
+finality. Like they can't be hardforked,
+they can't be reorged. Um, and so you
+can get what's called deterministic
+settlement finality. And that's really
+important whether it's a security or a
+piece of cash or whatever it is in, you
+know, in essentially hundreds of
+milliseconds. And that's really
+important. The the other piece is that
+it's sort of designed with real money uh
+as the foundation. So there's not like a
+volatile gas token. USDC is actually the
+default native token which is now under
+the law essentially like a legal form of
+electronic money. So you have real
+dollars as the way that people
+understand and so to a company that's
+like doing this it's like I pay AWS
+credits uh I understand how to budget
+for that my treasury my operations my
+compliance etc. So this allows basically
+for like actual usage to be make sense
+both to the user to the developer to the
+corporations the FIS that that deal with
+this. So, so that's really important.
+And then I think the other is like um
+we've been building in a lot of of uh
+primitives that are important to like
+the way that payment systems work, the
+way that capital markets work, uh the
+way that you know the privacy
+requirements that are needed in some of
+these cases, but still allowing for like
+compliance to happen. So, we've kind of
+purpose-built this for a different uh
+kind of set of participants who need to
+run on it. And we've had the advantage
+as Circle of working with many of the
+leading financial institutions that are
+getting into this space over the last
+couple years, whether it's the Visas or
+the Black Rocks or the Bank of New York
+Melons or all these types of companies.
+So we've had we've been able to work
+with them and we've been able to work
+with governments around the world to
+hear like hey like central bankers all
+over the world like what's important as
+you think about like allowing this
+internet infrastructure to run the
+financial system and we're kind of
+trying to incorporate in a lot of the
+kind of requirements in the sense that
+they have and so that's that's very
+different I think it's a different
+design space and I think um you know
+these new distributed network operating
+systems will will need to support like
+the real econ economy's activity not a
+kind of shadow economy and so that's
+just uh substantively different there
+lot of other technical things I could
+talk about which um that that are part
+of it but those are I think helpful just
+in terms of framing this what else do
+you think is interesting that's
+happening in the crypto world today
+outside of stable coins and sort of
+related infrastructure because I know
+that there was a whole wave of things
+that people were doing um on the
+infrastructure side there was e roll-ups
+there's a variety of approaches over the
+last few years besides stable coins is
+there anything that you think was
+especially
+um interesting or they will be impactful
+or a lot of these things kind of
+infrastructure looking for solutions or
+I'm sort of curious how you think about
+crypto at large right now. Yeah, I mean
+look, I think um um there's a lot of
+attention that has gone into kind of um
+what I'll broadly call kind of scaling
+models. And so if you if you take as
+your as your uh kind of design center
+that these are network computers and
+these network computers are really good
+at establishing uh recordkeeping that is
+kind of public and available to all and
+to perform computing on those records
+that's public and available to all.
+That's a as a as a general utility space
+that's like super super interesting. Um
+and so a lot of the a lot of this has
+been like okay well how do we make sure
+that that can scale and so as an example
+right in a in a world of like billions
+of AI agents that are swarming and doing
+other things like scaling this is
+actually extremely important. So ZK, you
+know, rollups as an example or zero
+knowledge proofs more broadly as a way
+for um proving compute which allows you
+to do compute off offchain and then
+prove it to the onchain. That's actually
+really important. So these sort of
+off-chain or trusted execution
+environments and other things that
+provide cryptographic proofs of compute
+or or or uh other kind of uh assertions
+becomes really key. So that actually a
+lot of that research is now becoming
+extremely valuable. Um the same thing
+goes for a lot of that research um and
+development is critical to um enabling
+privacy and so we want you know we want
+all the benefits of of kind of open
+interoperable kind of permissionless
+infrastructure but we also want to be
+able to have privacy um like
+corporations don't want everyone to see
+what they do or we don't want to be
+doxed and like all this kind of stuff
+and so the that's now coming into into
+uh real production that was like
+researchy for a long time like arc day
+one is shipping with like built-in
+privacy primitives uh which is which is
+again the result of a lot of work for a
+long time um and so those are those are
+important pieces and then um you know I
+think as kind of more largecale
+financial infrastructure comes over to
+this as we move you know where the New
+York Stock Exchange or the the biggest
+derivatives clearing houses are like
+yeah we're going to move to an onchain
+world like the scaling stuff becomes
+really really critical and so um I I
+actually feel like now more than ever
+like those big work streams uh are are
+are coming online. And you know if I use
+as a reference point like you know I
+spent a long time building on the early
+internet and the early '9s and the early
+web and like all this stuff all the way
+up until like 2001 for like you know for
+me it was like 10 years
+&gt;&gt; and it was still it was like awful still
+like it just like you kept grinding and
+it was like how do we make this useful?
+How do we make this useful? How do we
+make this useful? And then you had, you
+know, a whole bunch of things happened
+that were in the background like, you
+know, Wi-Fi, broadband, you know, uh you
+finally got like usable um other
+internet connected devices and you could
+actually really start to do stuff. So
+you could actually actually deliver
+software over the internet. You could
+actually deliver media over the
+internet. You could actually do
+communications like real-time
+communications over the internet. But it
+was like 10 years in the desert or
+longer before you could even get there.
+And I kind of feel that way about the
+blockchain space. like it's been a dozen
+years or so and and now we're kind of
+having like the broadband moment and the
+demands of society and the financial
+system, the agentic economy, all of that
+is sort of coming together at a really
+interesting time.
+&gt;&gt; I guess one thing that people have been
+talking about for a long time in the
+crypto world is securization of other
+assets on the blockchain.
+&gt;&gt; Yeah.
+&gt;&gt; And so that would be stocks. So should
+you be able to buy fractions of Birkshar
+Haway?
+&gt;&gt; Yep.
+&gt;&gt; Um using crypto.
+&gt;&gt; Yeah. uh and should that be globally
+available given the success of USDC and
+other stable coins that's made it even
+more interesting in terms of approvable
+model
+&gt;&gt; when do you think that stuff will happen
+and what approach do you think will be
+taken and how does that tie into the
+agentic world
+&gt;&gt; it's totally happening um there's a
+great site if people are interested
+called RWA.xyz XYZ, real world assets is
+sort of what that refers to. RWXYZ. I'm
+very proud because uh there there are
+tokenized uh stocks that are out there
+and the most uh uh active tokenized
+stock today is not Tesla. It's it's not
+the S&amp;P index. It's actually circled.
+&gt;&gt; Um so that was cool to see. Um we also
+uh you know have seen this growth in
+like tokenized money markets. So
+basically like onchain treasury bills.
+We actually operate the largest
+tokenized treasury uh product called
+USYC, like US fieldcoin. Um that's uh
+that's grown quite fast as well. Um and
+we we run the largest tokenized euro as
+well, uh EURC. And so we're we're
+definitely like looking at this this
+broading out. I think um there's a huge
+effort right now at every layer of the
+whole financial system stack to go into
+tokenization. So all the way down at the
+layer of like the people that keep the
+records of the stock which is like you
+know if if you're familiar like the
+computer shares of the worldities of the
+world up to like the the layers that
+like are the depository clearing systems
+like the DTCC which you know most people
+don't know but it's actually like the
+back plane of how all securities work
+like they're moving to tokenize and then
+the actual like brokers and exchanges
+want to take those and support those
+tokens and and trading on those tokens
+and distribution of those tokens. So
+NASDAQ, New York Stock Exchange, all of
+them, they're all doing this as we
+speak. And as we speak, the SEC has been
+providing clear guidelines on how to do
+that. And so they actually issued
+guidance just about a month or so ago
+that basically said, here's what you do
+in all these layers. Here's, you know,
+here's your obligations. And so we're at
+a point where like technology and then
+the market's desire is creating that.
+And right now the interesting thing
+about things like tokenized stocks is um
+mostly it's interesting to enable people
+not in the US to access these. Um that's
+where a lot of the growth has happened
+because not everyone has access uh you
+know
+&gt;&gt; used to go the the other way right there
+used to be Chinese stocks that were
+basically held in uh third party
+instruments that you could purchase
+Yeah.
+&gt;&gt; on stock exchanges so you could
+participate in some of the Chinese
+listed.
+&gt;&gt; Yeah. There's I mean that's definitely
+uh some of the packagers like of like
+ETFs and funds and stuff have kind of
+mirroring um for sure. Um but um you
+know I think like uh this is similar to
+like you know when when we went through
+like the web becoming available or
+broadband really hitting uh the scale a
+lot of times people just think oh I have
+this existing product I can now put it
+over here like here's the TV show I'm
+going to put the TV show over here. I
+think um what becomes a lot more
+interesting or here's the game. It's
+this game that used to be on a CD and
+now I can you can download it or
+whatever. I think the really interesting
+thing is like what can you do that you
+couldn't do before what kind of utility
+gets unlocked whether it's
+fractionalization or how you can how you
+can borrow and lend on these things or
+um how you could package them together
+in different ways and and enable and AI
+could play a pretty significant role in
+that as well. seems like it could really
+tie into some of the prediction market
+stuff as well that's been happening
+because to some extent the world's
+biggest prediction markets are actually
+stock markets and so or financial
+markets I should say more broadly.
+&gt;&gt; Yeah. And and and prediction markets
+themselves are becoming kind of um a
+kind of parallel infrastructure for
+people who participate in stock markets.
+Right. In fact, the biggest adopters, it
+seems, of the market makers of
+prediction markets are actually the
+people who are trying to figure out the
+what is reality and what does that mean
+for companies and equities and stuff and
+the interplayer or or or whatnot. Um and
+uh and yeah, I mean we're we're seeing
+that I mean USDC powers polyarket for
+example. Um and uh and and so the same
+guys that are, you know, trading
+derivatives over here on on, you know,
+oil or Bitcoin over here are also like
+I'm moving my money quickly using USDC
+over here to like figure out what's
+going to happen in some uh event. Let's
+call the one other thing that I think
+has been happening a little bit recently
+is there's been a couple papers that
+have been focused on um basically tying
+proof of work into just generic
+inference work.
+&gt;&gt; Yes.
+&gt;&gt; In other words, can you tie those two
+things? say you're being very um GPU
+efficient in terms of what you're doing,
+but also you can effectively generate
+&gt;&gt; incremental revenue through GPU usage
+while you're using it for inference or
+other purposes.
+&gt;&gt; I'm really interested in that. Uh and
+and and I think um again a little
+conversation we were having before we
+recorded like you know proof of work
+obviously um was itself an innovation
+and and sort of um essentially like the
+exhaust of the proof of work of Bitcoin
+is is just like the exhaust of energy
+consumption and so it doesn't actually
+in some ways it's waste in a sense the
+the energy is is waste and and so I
+think the idea of uh essentially like
+inference compute uh uh as GPU uh
+inference compute as proof of work and
+so the work itself is the inference and
+uh that as the underlying basis for
+proofof work uh cryptocurrency is pretty
+interesting um and uh would would be you
+know potentially something that could
+align with the kind of monetary
+principles of something like Bitcoin
+&gt;&gt; but actually uh be productive uh
+productive proof of work that's really
+interesting and so you know I I my my
+own view and this is like you know I
+think goes back a long time is like the
+you know people have kind of
+axiomatically sort of assumed like well
+Bitcoin is the the the the the
+thing it got the network effects it has
+all this um and I've always said like I
+don't know what we're going to be using
+in 10 years like we don't know now um
+Bitcoin has lasted a really long time um
+but I think like the paradigm shift that
+we're seeing in in um in energy
+infrastru structure in the performance
+of of you know the conversion of energy
+into intelligence and the compute layers
+and that it certainly opens up a new
+avenue to think about this that wasn't
+readily available you know 15 years ago
+so if you were to give one piece of
+advice to agents it would not be by
+bitcoin
+&gt;&gt; I'm just joking I have a better question
+um so in terms of um say we were to
+think out 10 years
+&gt;&gt; um what does that world look like in
+your mind and obviously we're going
+through a period of intense change.
+&gt;&gt; Yeah,
+&gt;&gt; I'm finding it incredibly hard to
+predict the future right now in terms of
+just what's going to happen in AI, much
+less AI plus crypto plus the global
+economic system plus everything else.
+&gt;&gt; So given all that and putting that
+aside, yeah, exactly. Um, what is your
+vision of the future?
+&gt;&gt; Yeah.
+&gt;&gt; Well, I mean a couple things I I would
+say uh the the the first is is sort of
+the the thing that everyone is debating
+right now is the pace of AI diffusion,
+right? So what is the pace of AI
+diffusion and and what does that then
+imply in terms of the the kind of amount
+of change that we're going to have to
+deal with? And so that's all debatable,
+right? You you hear Daario debating that
+versus others and and so on. But like it
+definitely feels like, you know, the
+diffusion limiters are are um in in in
+some cases bureaucratic, in some cases
+legal, in some cases human risk or other
+things, right? But we have we have these
+limiters that are there. Um but it does
+seem like um the the pace of diffusion
+is accelerating and will continue to
+accelerate and um and and that's pretty
+dramatic and and so I guess like my own
+view um it's it's very rooted in my own
+like political and economic philosophy
+is is that um we we have a real
+opportunity to uh create um essentially
+new new social, political and economic
+organizational structures um And and in
+in many ways like we have to there's a a
+kind of um you know in these periods
+whether it's the the enlightenment and
+and the industrial revolution and other
+things like there's these periods where
+um there's like a a new definition of
+the social contract and and that new
+definition of the social contract is
+then in turn reflected in social
+political and economic ordering and the
+mechanisms that we use for those things.
+And I it feels like to me like we're
+going to be we're going to be forced
+through that. And um and I think you
+know that's simultaneously like
+terrifying and exciting etc. And and and
+I am of the view that we are going to
+have a a a kind of lag effect between
+the disruption and the establishment of
+those new institutional forms. Um but at
+the same time I actually believe like
+new institutional forms are going to be
+emergent out of this. And so as I talked
+about earlier like the formation of
+these kind of onchain organizations that
+have different forms of of governance
+and contracting and uh and and a mixture
+of human and and agentic uh actors like
+that seems like we're going to have a
+lot more of that. we're going to
+probably have huge proliferation of that
+and it may be that those corporate forms
+um are like the most productive
+corporate forms that we've ever seen in
+economic history and and then you know
+they'll they'll need to be kind of like
+an overlay into the governance systems
+of of uh you know political uh or
+organizations and and systems as well
+and it um yeah so you like my view is uh
+we're going to have simultaneously all
+around the called um a renegotiation of
+the social contract and it's going to be
+uh it it is going to require um new
+systems of participation in economics
+and governance that we haven't had. Um
+that's like very high level mumbo jumboy
+but it's also um you know sort of how
+how I think about it at a high level.
+&gt;&gt; That's super interesting. Have you ever
+read a book called Lady Amazes?
+&gt;&gt; No. It's like a sci-fi book from I don't
+know 15 years ago about the post-hi
+world and part of it is um as a big
+enough block or demographic emerges in
+human society. Uh an overlay AI agent
+that's observing everything spawns a
+specific agent that represents that
+viewpoint that then is part of this sort
+of virtual senate of agents negotiating
+policy. So it's kind of this interesting
+view of how can you spontaneously spawn
+these sorts of systems from a governance
+perspective which is kind of cool.
+&gt;&gt; I would love to read that. what is your
+prediction um in so if you look at a lot
+of p ways of technology their actual
+impact to GDP has been difficult to
+tease out
+&gt;&gt; right so the productivity gains of the
+internet versus actual GDP growth or
+things like that have been notorious and
+there's all sorts of reasons for that it
+could be measurement
+&gt;&gt; it could be deflationary aspects of some
+of these things that could be a variety
+of things how do you think about the GDP
+impact of AI so if you think ahead
+&gt;&gt; five years
+&gt;&gt; and you know what what do you think the
+global economy is
+&gt;&gt; 10% bigger 50% % bigger, three times the
+size. Does that even matter as a metric
+anymore? Like,
+&gt;&gt; yeah, I mean, um, like I I I see this
+debated all the time and Kathy Woods
+talking about, you know, we're going to
+have 10% GDP growth for the 2030s and,
+you know, etc. Um,
+&gt;&gt; I I I don't quite know what to think. I
+mean I think um you know it it's it's
+quite plausible that the um the the kind
+of giant leaps that we see in kind of
+productive output in a huge range of of
+industrial to other commercial services
+uh etc like really drives a very
+significant discontinuous jump in in in
+in GDP at an absolute level. it'll have
+in many ways probably less meaning than
+we've historically had with GDP. Um and
+you know the kind of uh economic
+well-being indexes that we think about
+like GDP uh will be you know the risk
+here is that GDP uh effectively like the
+GDP growth is a sort of capital
+capturing more capital uh at the at the
+expense of of humans like that's the
+real risk. Um and so like GDP growth
+generally has been like a really great
+thing. Um uh and and so the the question
+is is like is will it remain a great
+thing? Do we have the new social
+contract to to to deal with that yet? Um
+but I guess my my general view just sort
+of as a technologist talking about you
+know seeing what we see with diffusion
+and and kind of other other changes like
+um it does it does feel like uh we have
+the potential for double digit GDP
+numbers in the 2030s like that's that
+seems not unrealistic to me. Not that
+that's going to be uniform all around
+the world but certainly um in large
+large parts of the world that seems very
+uh you know achievable. uh based on what
+I see.
+&gt;&gt; Mhm. Amazing. Thank you so much for
+joining us today at No Prior. Super
+interesting conversation. Thank you.
+&gt;&gt; Find us on Twitter at no prior pod.
+Subscribe to our YouTube channel if you
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. That way you get a new
+episode every week. And sign up for
+emails or find transcripts for every
+episode at no-briers.com.

@@ -1,0 +1,1135 @@
+原文： https://www.youtube.com/watch?v=0UnZnonMN9o
+
+It's very hard to hit a million per
+month. I never expected to reach that
+level. I'm convinced right now that just
+one person can do the job of 20 compared
+to like 5 years ago. During full month,
+we were shipping one new product per
+week until something stick. Nine product
+failed and the 10th one just took off.
+It's so easy to just lie to yourself to
+be convinced that you have a successful
+product because you have like very tiny
+validation moments. But the truth is if
+there is no revenue, there's no
+stickiness in the revenue, it's going to
+be very hard to build a successful
+business. When you have a product that
+is made for one thing and people are
+actually twisting it to turn into this
+other thing, that's usually a very
+strong signal that you have to follow.
+All right, welcome everyone. My guest
+today is Tibo, uh, a founder who's
+making over a million dollars a month
+from five separate online businesses.
+You know, I've been following Table's
+journey for a long time and excited to
+get him to review all his secrets to
+share his step-by-step playbook, watch
+him build with AI live and hear his take
+on what separates AI products that stick
+around versus the ones that just die.
+So, welcome, sir.
+&gt;&gt; Thank you, Peter. Like, it's it's so
+awesome to talk to you. Like, it's been
+years that we've been talking on X and
+like finally meeting you for real. So,
+nice.
+&gt;&gt; I feel like I have so much to learn from
+you. So, um why don't we get right into
+it? Let me actually uh share something
+real quick. So this is your revenue
+chart, right? And may maybe you can
+start by kind of walking through each of
+these products. OB obviously Red Revit
+and some of the other ones are doing
+extremely well. Maybe you can give like
+a super high level overview of each of
+your five businesses.
+&gt;&gt; Pretty much everything here is related
+to AI. Um I I basically started like two
+years ago, a little bit more than two
+years ago. I acquired a small product
+called Typrame. It was about making
+project videos and it took some time for
+me to uh notice about that. That's
+making product video is something that
+you rarely do and so I went through huge
+churn these products and so I eventually
+pivoted this product from time frame
+product video to Revid which is a tool
+to make viral shorts on social media and
+it was right at the beginning of AI
+videos and so it took off multiple times
+like at every new model increasing the
+capabilities of AI videos it just got
+way better and so it's uh doing a little
+bit more than 600,000 per month right
+now which is uh insane with a team of
+like four people I guess.
+&gt;&gt; Wow.
+&gt;&gt; I start thinking that outrank which is
+like the green line here can um go
+beyond Revit and just maybe uh uh maybe
+the product alone can reach like a
+million per month on its own. Outrank is
+an SEO product that was initially just
+about publishing blog post for you every
+day, but it it evolved into much more
+than this is like a full SEO solution
+for you. Um it be thanks to this
+backlink exchange marketplace. It's um
+it's the most convenient way to grow the
+domain authority for a new domain and to
+start ranking in on on Google. And I
+don't know if you know about that, but
+like that's that's the best way to get
+mentioned by AI right now. If you want
+to mention about your products, you just
+need to be to appear on search results.
+&gt;&gt; Oh, also SEO still matters. Yeah,
+&gt;&gt; totally. Like uh I think SEO is the
+number one acquisition channel for
+Revit. So it's it's totally something
+that I still spend days working like
+tons of people are calling SEO to be
+totally dead. It's really not the case
+for me.
+&gt;&gt; But what what like what you what you
+said and what I noticed on this graph is
+like Super X is doing very well. That's
+the yellow curve there. It's doing very
+well. it just crossed 30k per month but
+you you barely notice the the trend
+because of like how how the other
+project are like getting huge. So
+something that people ask me is like how
+why
+&gt;&gt; am I starting new project where I can
+just focus on the bigger ones. My hope
+is that the little project that have
+right now can totally get bigger than
+than the biggest I have right now. It
+happened to me in the past already.
+&gt;&gt; Yeah. I guess you want to have a more
+diversified portfolio, right? It's like
+you don't want to put all your money in
+one one stock,
+you know? Have a diversified portfolio.
+Yeah.
+&gt;&gt; Yeah. AI is killing so many products
+right now, you know?
+&gt;&gt; Yeah. Okay. So, why don't we get into
+it, dude? Let's get into your most
+successful product, which is Revid.
+&gt;&gt; Um, and I you share like 14 steps. I
+just kind of consolidate into five. So
+uh I guess the steps are like find your
+problem, validate fast, build with AI
+and ship, do your own support, talk to
+users, compound distribution and obsess
+over retention and say no to almost
+everything. So that that's kind of the
+high level summary. Maybe you can share
+Revit's landing page and kind of show us
+what it's about and then we can talk
+about how kind of you you grew grew this
+thing to such such a huge scale. The the
+first item that you mentioned uh which
+is I think way underestimated is when I
+acquired time frame it was doing like
+one or 2K per month. what I was
+initially doing is like I I I spent
+money on this product. Like I I just
+wanted not to be wrong. And and that's I
+think that's the typical mistake that
+most people do that it's more important
+for them to not be wrong than being
+successful.
+&gt;&gt; And so what you do in this case is
+you're trying to force sell your your
+primary objective is to sell and and not
+to validate. And I think that's the
+number one mistake. If you force the
+selling of your products,
+&gt;&gt; you are not listening to people telling
+you that there is another opportunity
+that might be bigger there. And this is
+eventually what I noticed with Revit. Uh
+products doing product videos was
+amazing. I really think that you can
+build a 10K product per month. U it's
+it's totally something that's worth
+doing and that there's just that ton of
+people doing that. U but I noticed this
+other trend and I just pivoted the
+product completely. I rebranded uh
+bought a new domain and it it has been
+very successful. Sometimes it's not but
+the simple facts that I did it multiple
+time gave me multiple shots at uh at
+winning. I guess
+&gt;&gt; this episode is brought to you by
+Oceans. I recently hired an executive
+assistant through Oceans to help with
+podcast post-production and it's been
+one of the best decisions that I've
+made. He's proactive, picks up new tools
+fast. What makes Oceans different is
+they do all the recruiting and matching
+for you. They source from Sri Lanka
+where the talent pool has strong English
+fluency and experience at top companies.
+They reject 99% of applicants. So by the
+time someone lands on your team, they're
+ready to go. Whether you need help with
+marketing, operations, finance, or
+executive assistant, give Oceans a try.
+Check it out at oceansalent.com/
+Peter. Now, back to our episode. Can you
+show us how the product works? Is it's
+just making short clips, right? Like
+bureau and stuff. Uh
+&gt;&gt; yeah,
+&gt;&gt; product is is um is getting quite uh
+complicated right now uh in the way that
+&gt;&gt; we have like more than 100 tools
+available to create videos which I find
+it insane. One of the most uh successful
+use case is music videos. So you you
+basically drop a Spotify link or upload
+your uh music and if you select AI
+videos
+will create out of the box a full video
+ready to share on social media which
+which can even like you can select a
+character like you can you can upload
+yourself there. Uh, I think I I did it
+with uh like I did so many times like
+you can you can drop yourself like like
+this and you can have the singer singing
+the music like this uh on the video.
+&gt;&gt; Okay. So basically I can just upload my
+music and then it'll just make a music
+video like a short clip for me
+&gt;&gt; with the characters.
+&gt;&gt; Yeah, that's one of the use case. But
+like you have you can have avatars, you
+can have like a YouTube short uh like
+you have long video, you want just a
+short video. Uh but something that is
+starting to work very well is the auto
+mode where you will basically I will
+show it there. You'll basically drop
+like channels, blogs, uh I don't like
+everything that where you have new
+content coming out on a regular basis
+and Rev will automatically turn those
+like blog posts into videos.
+&gt;&gt; Wow. It's it's like super easy to use
+and like it's it's an engine to create
+new videos automatically.
+&gt;&gt; Yeah, I I I can see how this has product
+market fit because like um when I talk
+to video editors and I want them to make
+shorts for my interviews, like they
+charge like a couple hundred bucks per
+short. So, so yeah, being able to get AI
+to do this automatically would be a
+dream. Yeah.
+&gt;&gt; Yeah. And and even even if the money is
+not a problem for you, you still have to
+think about that. Uh here with Revit,
+you just plug your main channel and
+Revit will do the work for you
+&gt;&gt; automatically.
+&gt;&gt; Got it. Okay. So, let let's go back in
+time to when you had the product v video
+product. I I actually remember that
+product pretty pretty well. It's it's
+basically just like a bunch of text that
+animates onto the screen as a v video,
+right? Like that that's that's basically
+what the old product was. And and how
+did you how did you go from that? Like
+I'm I'm sure the first version of Revit
+did not have all these features, right?
+like what what what was the primary use
+case of the first version of this?
+&gt;&gt; The the primary use case is like the the
+basic thing is that at the time when I
+did this pivot in 2024 all video all AI
+video models were doing just the
+5-second videos and and it was hard for
+people to just clip those 5-second
+videos together to get something
+consistent. The entire idea of Revit is
+we will do this automatically for you.
+Like we will we'll split a long video
+into multiple scenes and make it
+coherence with consistent characters
+uh with all our engine by just plugging
+multiple 5-second videos together.
+&gt;&gt; Got it. Okay. So that was a pretty
+different value prop from like making
+music videos and making this stuff now,
+right? Yeah. It's more about stitching
+stuff together. Exactly. completely. But
+that's that's still by the way like the
+the core engine like the the core thing
+behind it is like the plugging together
+many many very small sequence and making
+sure that the characters the scenes like
+the environment is consistent between
+all the all the scenes.
+&gt;&gt; Okay. So so so basically Okay. So you
+had this other product and I I guess the
+other product uh for product videos was
+more targeting like founders and product
+people right like like um and it was
+making like maybe one or two a month.
+Yeah.
+&gt;&gt; Uh, so how did you go about like trying
+to value this new stitching videos
+together opportunity? Like you just
+tweeted a lot of stuff out and just like
+try to find customers or how did you
+how' you do it? Yeah,
+&gt;&gt; I think the the number one the number
+one answer to that is like maintaining a
+constant communication channel with your
+users. It's
+&gt;&gt; it's super hard to do. Uh, and like let
+me give you an example with with Tweet
+Hunter, my first successful product.
+What I did was um the support button
+inside the app was redirecting user to
+my uh Twitter DMs.
+&gt;&gt; And so it it was a little bit
+overwhelming like I had all those DMs
+coming about people telling me that
+there was a bug there or there was an
+issue here. They would they would
+request new features. But I was the guy
+building the product and I was the guy
+hearing all days about the problems, the
+pains and the little friction that the
+had the the the product had. And that
+that was pretty much the the same thing
+with time frame when I got it. Like I
+just maintaining the the communication
+with the users is the one thing you need
+to like truly understand the core
+problem behind behind the product.
+&gt;&gt; Yeah. So like you kind of got got like a
+fire hose of feedback from the users and
+then eventually realized that the
+product video thing was not the primary
+use case like people actually just
+wanted because because like like you
+said all the AI models were generating
+5second stuff. So people just wanted a
+longer videos without having to system
+together themselves that kind of
+&gt;&gt; yeah completely and when you have when
+you have a product that is made for one
+thing and people are actually twisting
+it to to turn into this other thing
+that's usually a very strong signal that
+you have to follow.
+&gt;&gt; Got it. And and the other tip that you
+shared is like you want to charge for
+the product on day one, right? Like you
+don't want to give it out for free.
+&gt;&gt; Yeah.
+&gt;&gt; Just to kind of value. Yeah.
+&gt;&gt; Yeah. That that's because like I of like
+very big mistakes that I did like I
+think like 10 years ago. Uh like when I
+got out of college uh the first thing
+that I did was creating my first startup
+and and I think at that time it was much
+more important to me to appear important
+at like family dinner. And so saying
+things like I'm managing a team of 10
+people. Uh I just raised 200K.
+Uh it would make me appear as a
+successful person. Okay.
+&gt;&gt; But it has like no no strong foundation
+about the successful products,
+&gt;&gt; you know,
+&gt;&gt; and so if you if you reverse thing and
+you only rely on on revenue, um you
+ensure that you have validation. And
+what the number one thing that I wanted
+to avoid is like spending two years on a
+product and at the end having nothing.
+&gt;&gt; Yeah, dude. I I I think uh for a lot of
+people like you know there's a lot of
+things on Twitter about like I raised X
+million dollars and like my AR is Y or
+something and a lot of it just kind of
+man like like you raised so
+much money but do you have part of
+market fit? Like you don't have part of
+market fit, you know?
+&gt;&gt; Yeah. It's it's it's so easy to to just
+lie to yourself like to to to lie about
+&gt;&gt; to to be convinced that you have a
+successful product because you have like
+very tiny validation uh moments from
+from time to time. Uh but the truth is
+if there is no revenue, there's no
+stickiness in the revenue, it's going to
+be very hard to build a successful
+business. Mhm. Um, so basically when
+when you start this thing, you just want
+to spin up a landing page and then have
+like a payw wall and then have like a
+product that's focused on a core use
+case which is like stitching videos
+together like the initial ver version,
+right?
+&gt;&gt; Yeah.
+&gt;&gt; Um, do you want to show us like um the
+landing page?
+&gt;&gt; I can show you.
+&gt;&gt; I think that something that might make
+sense is something like this like uh so
+I built this uh AI ready humanizer.
+It's incredibly simple. Like it's a
+onepage feature. You just plug contents
+and and analyze it.
+&gt;&gt; Um, but it's it's enough to notice if
+people use it. It's enough to start
+ranking on SEO. Uh it's it's it's enough
+to to start like um distributionbased
+product developments which means
+&gt;&gt; I see
+&gt;&gt; is is it is it enough to like start a
+little thing that can that can grow like
+is it is there usage behind it? Is it
+enough to like start a conversation with
+user about what did they like and uh
+what should they improve or what would
+what would they rather use. I I had like
+I I build a ton like this honestly like
+tons of small experiments. Uh this is a
+a way to rewrite and validate your
+tweets. Yeah. I
+&gt;&gt; I I just built a ton.
+&gt;&gt; Okay. Okay. Okay. So basically Okay. Got
+it. And and and the landing page um like
+can can you just pull up a landing page
+because dude you you built so many
+landing pages that like I feel like you
+have a lot to share about landing pages
+too. So So like the landing page is like
+Yeah. like maybe walk us through this
+landing page and why it works at high
+level.
+&gt;&gt; So the the entire purpose of the landing
+page is to drive people from a simple
+visit to a signup. Uh that's that's
+basically it. So social proof like right
+right now we are running into like a a
+lot of trust issues especially with AI.
+So social proof might be the most
+important components of of your landing
+page. So that's why I always like try to
+have those kind of thing like
+testimonials from users
+number of users like number of basically
+numbers that validates the product.
+&gt;&gt; Got it.
+What what we did on Outrank and and
+because the product is quite successful
+is uh we built a few success stories
+like with from real users who had huge
+business impact from the usage of
+outrank and we're very happy to showcase
+them on on the landing page.
+&gt;&gt; I see. And and then talk about the
+product. Yeah.
+&gt;&gt; Yeah. And and and by the way like most
+people just jump on the product I think
+a little bit too soon. talking about the
+product the problem itself and how it's
+hard to overcome it is I think it's it's
+always uh forgotten.
+&gt;&gt; Yeah. Got it. Okay. And and and and then
+for this product you let people try out
+for free and then eventually you kind of
+pay them, right? To to get more usage.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Something that's uh might not be
+obvious for many many people and in
+including myself like until a few until
+a few weeks I didn't know this was
+possible. But I just want to show you
+something like uh so this animation that
+I showed earlier,
+&gt;&gt; it was one shot on cursor by Jiminy Pro
+3.1 and it's it's insane to me that
+those beautiful animation.
+It's just a prompt that you can put on
+cursor and it's going to do the work and
+you can just ship it. And so we're we're
+going from a world where you had this
+huge neverending backlog of IDs to right
+now my backlog is is totally empty. I
+have no idea what to build and the the
+one thing that get into my backlog. I
+just give it to AI and it's it's done in
+like 10 minutes. It's it's insane.
+&gt;&gt; Well, you still have to do the work to
+promote it, right? Like AI can build it
+pretty quick quickly, but you got you
+got to promote it and try to get you
+users.
+&gt;&gt; Yeah.
+&gt;&gt; Totally. Yeah. Yeah, that's that's the
+hardest part and earning trust of people
+is is incredibly hard today.
+&gt;&gt; And just to understand like you have all
+these ideas you you you wrote that uh
+you should just pick a problem that you
+personally have. Is that kind of how you
+come up with all these ideas or do you
+like do some research?
+&gt;&gt; Yeah, totally. Like it's
+&gt;&gt; Yeah. So the the the one thing that um I
+think people should do more is look at
+the product that you are already paying
+for
+&gt;&gt; and look for a way to pick one, replace
+it with your with your own products and
+try to build something that better fit
+your use case. um because your use case
+might be a little bit more specific
+&gt;&gt; to the more like broad use case that the
+tool you are paying for is trying to to
+fix. So by by going a little bit more
+specific into your own situation, it's
+very likely that many other people have
+the same uh weirdest situation as as
+you.
+&gt;&gt; Yeah. And there's like a lot of SAS
+products out there that are like, you
+know, just they're like really expensive
+and like you don't have to pay that
+much. can just pick a more niche use
+case and just try to completely disrupt
+them.
+&gt;&gt; Yeah.
+&gt;&gt; And I don't I don't think you should uh
+like it's it's it's very hard to hit a
+million per month. I I never expected to
+to to reach that level. Uh it's
+completely fine to get like 10k per
+month. Uh you have like a huge it's it's
+huge success already and you can totally
+live with that. And so
+&gt;&gt; by just trying to copy an existing
+product and to niche down to specific
+type of people, you can totally get this
+milestone of 10K per month and live uh
+be free like be completely free, no boss
+uh and enjoy life.
+&gt;&gt; Well, the only boss you have is a lot of
+people DMing you with their feedback.
+That's the only boss you have.
+&gt;&gt; True. Yeah.
+&gt;&gt; Truth.
+&gt;&gt; Yeah. Before we get into the AI part, I
+have some more questions. So, so you
+have a pretty big audience on social
+now. You can just like tweet something
+out. Hey, I built this free tool or
+like, hey, I I built this landing page.
+Check it out. Right. But you mentioned
+that your primary channel is still SEO
+for a lot of these products. So, like
+how does someone think about SEO? Like,
+you know, beyond the basic stuff like,
+you know, try to try to put a keyword in
+the title or something like how do you
+think about
+&gt;&gt; having an audience is is giving you a
+shot. Um but it doesn't make an excess
+unsuccessful product successful. Like I
+I'm I'm not convinced of that. Like I I
+have so many failed project right now
+that I'm I'm convinced that you cannot
+force a product to work or or it will
+work for like two weeks and then that's
+that is that's the end.
+&gt;&gt; Um got it. So
+you can like you can hack your way to 5k
+or 10k per month but if you want to grow
+beyond that that's uh you need a more
+sustainable way to grow and and that's
+why like SEO is my favorite uh
+acquisition channel
+&gt;&gt; because it's very it's very recurring
+like by by by default. It's it's a
+constant flow of of new users that are
+really interested in what you are doing.
+The way
+&gt;&gt; I think about SEO especially right now
+is like two main components. Um
+&gt;&gt; the number one component is domain
+domain rating domain authority. It's
+very hard to rank for anything with a
+very new domain with a domain rating
+below 20 basically. So that's that's why
+uh outrank is so valuable. It it just it
+can take any domain and by giving you
+some back links uh without spending too
+much money you can get this uh uh this
+domain rating quite high.
+&gt;&gt; The second component is that AI snippet
+on Google is going to make hard to to
+have your blog post to rank. But what AI
+snippet cannot replace is tools.
+And and by building tools which answers
+specific queries, you can you can rank
+and give like a small um preview of what
+your product is.
+&gt;&gt; Okay.
+&gt;&gt; Uh let me give you about like so so here
+are my tools. Uh for Revit, I have a
+specific page for every single one of my
+tools. Like if you want to you have an
+audio file and you want to turn it into
+video, I have a tool for that. You just
+you just drop your audio file and we'll
+create a video.
+&gt;&gt; Got it.
+&gt;&gt; But that means that every single one of
+those tools, it's an opportunity
+to rank on search engines.
+&gt;&gt; Yeah. Like every use case, right? Like
+&gt;&gt; Mhm.
+&gt;&gt; And Yeah. And for every single one of
+them, it's very hard for Google to give
+an AI snippet that would correctly
+answer to the request of a of a user if
+he types like audio to video.
+&gt;&gt; I see.
+&gt;&gt; It's very AI resilient, you know.
+&gt;&gt; Yeah. Yeah. Because this is not just
+content. It's actually like something
+you have to use. Yeah.
+&gt;&gt; If you if you look at like a uh let let
+me show you like photo AI from Peter
+Level.
+&gt;&gt; Yeah. Uh, so I I I hate his landing, but
+he's doing pretty much the same. If you
+look at like,
+&gt;&gt; oh, there's so much content, man,
+&gt;&gt; here.
+&gt;&gt; Wow.
+&gt;&gt; All all of that, they are like very
+specific tools or very specific landing
+pages that that aim at ranking at like
+AI Easter photo.
+&gt;&gt; I see. So he's he's like
+&gt;&gt; this guy is very famous for having a
+huge audience but still he's spending a
+lot of time on trying to get SEO traffic
+with those specific pages.
+&gt;&gt; Do you see what I mean?
+&gt;&gt; And okay so so you can you just kind of
+do keyword research about like what are
+the popular terms that people search for
+and then try to rank trying to make this
+dedicated landing pages
+&gt;&gt; for the keyword. What one way to do it
+is let's go to Google and let's search
+for uh AI video tools for and just look
+at everything here like every single
+thing that comes up here is a good
+keyword to try to rank for.
+&gt;&gt; Got it?
+&gt;&gt; If you are on to SEO, you can do the
+same SEO tool for all of those are like
+good landing pages to build. How
+important is it for the domain to be
+like the same keyword, you know, like
+because he has photo AI but your Revit
+is not like video AI or something like
+how how important is the domain?
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. I have
+it is it is important I think like it it
+matters. Um I have I have competitors
+who which have like a very relevant uh
+domain name like regarding AI videos. So
+it's easier for them to rank. But so I I
+gave up on ranking for like AI video.
+Like I totally gave up on that because
+it's way too competitive. I'm going
+after the like nicher keywords
+&gt;&gt; and and I'm doing a pretty good job at
+that.
+&gt;&gt; Got it. Got it. And and and like with
+with AI, it's like very easy to just
+spin up these individual use case
+landing pages, right? Like you can you
+can probably just tell AI to look at all
+your code and and like list all the
+landing pages you just spin up and just
+go do do it.
+&gt;&gt; Yeah. Yeah. totally which which by the
+way will make it harder and harder for
+uh to like differentiate. So if you if
+you want to rank right now given all the
+competition that you're going to have
+&gt;&gt; you're going to need like amazing
+content you're going to need like uh
+awesome performance like the the website
+loads instantly back links. Yeah, you
+you're going to need a lot of things
+&gt;&gt; and like uh just real just real real
+quick. What what tool do you use to
+monitor like where you're ranking for
+different keywords? Just just like the
+Google tools or you have some special
+&gt;&gt; I'm um No, I'm using a ref. It's pretty
+classic. Uh
+&gt;&gt; okay.
+&gt;&gt; It's it's expensive but I think it's
+worth it.
+&gt;&gt; Got it. Okay. All right. All right,
+dude. Well, why don't we get into the
+building part? So now, uh yeah, I would
+love to understand how you as one person
+run five businesses. like maybe you can
+share the slack first like how how you
+talk to your team or
+yeah
+&gt;&gt; so I have all the channels related to
+feather I have all the channels related
+to outrank everything related to Revit
+&gt;&gt; but how many people do you work work
+with because there that there's like a
+lot of channels dude I I think you have
+more channels than I have in my in my
+company Slack
+&gt;&gt; yeah how many people do you work with
+&gt;&gt; I don't know it's
+&gt;&gt; it's hard to answer like to to be honest
+like I have like five projects uh with
+revenue right now and it's it's hard for
+me to imagine going much further than
+that. Uh so of course I have like some
+secret things going on uh that I I
+cannot reveal like maybe new new project
+coming. Uh but I don't see a way right
+now where I could go from five project
+to like 20. Uh I I'm I'm in this process
+by the way like I'm I'm trying to to to
+see like how can I just put myself out
+of the equation to like scale a little
+bit more? Uh should should this go
+through like more hiring? I don't know.
+&gt;&gt; Do do you have like full-time employees
+or you have like contractors building
+this stuff or because you gota do a lot
+of marketing, right? You got to do a lot
+of
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, I have I have contractors. Uh not
+a lot to be honest. I'm I'm trying to
+keep the team very lean, very very very
+lean. Like I'm I'm convinced right now
+that just one person can do the job of
+like 20 compared to like five years ago.
+And so it's much easier for me to have
+less people to talk to um ask ask them
+to use the latest AI tools and so that
+way we are very fast to adapt to
+something new and if we need to pivot
+it's it's way easier.
+&gt;&gt; Got it. Like I in in in the past I had
+like I used to have a 20% team for one
+product and if you want to shift
+direction the the insane energy that you
+need to spend to like convince one
+person one by one that the new direction
+is the correct one
+&gt;&gt; is just insane. like you you instantly
+you go from the nice boss to the guy who
+has no vision and has no idea about what
+what he's doing with his company. I I
+don't want to go through that again.
+&gt;&gt; Got it. Got it. Yeah. Yeah. Yeah.
+Imagine a couple thousand people
+company, dude. That that that that's why
+it's so hard for these big companies to
+turn around. Yeah.
+&gt;&gt; Um
+&gt;&gt; Yeah, totally. And
+&gt;&gt; Okay. So, and and for like the in terms
+of actual development, you just use like
+cursor or like you know, codeex. It's
+pretty straightforward.
+&gt;&gt; Honestly, I have a have a very basic
+setup. Uh so I'm using cursor. I'm
+constantly experimenting with the best
+models. Like right now my my go-to
+models are GPT uh 5.4
+for um like all the like the complex
+stuff. Everything that does not comes
+down to UI. And for UI stuff, I would
+switch to GI Gemini uh 3.1 Pro. I think
+it's it's much better when it comes to
+UI stuff.
+&gt;&gt; So that's that's it. And it's crazy like
+two weeks ago it was a completely
+different set of models like with Opus
+being being my favorites.
+&gt;&gt; So it's it's changing so fast. Insane.
+&gt;&gt; Um and like in terms of how you build
+new features, you just like get to plan
+a little bit, make a spec, and then just
+go just build. Is that how it works?
+Yeah.
+&gt;&gt; Yeah. Basically I so it's I I ask the AI
+to come up with the spec like I I
+usually I have an ID I will u talk with
+the AI directly on cursor uh it will
+come up with specs
+one time I was like 50%
+there's a 50% chance that I will just
+discard the specs like I I don't like
+the feature like the the way it was
+specs I just don't like it so I I will
+not even try to um to modify it is I I
+find it very complex to make the AI
+change roots and so I would just start
+over. I will just go back to my ID,
+twist it a little bit and uh and read it
+again. And I will do that until it comes
+up with specs that um I'm comfortable
+with like it seems legit. I want I would
+want to use this feature and then I will
+run it and uh and sometimes I'm very
+surprised by uh by the outputs.
+Something that I did very recently it
+was it was quite new to me is it came up
+with a spec but it was hard for me to
+understand like what it would be. So I
+asked the AI to come up with a prompt
+that would generate an image preview of
+what the feature would look like. And so
+it generated this prompt. I I uh took
+that prompt and put it on Gemini Nanovan
+2 and it generated this awesome image of
+a dashboard showing me exactly what uh
+the city would look like and and and
+that made me realize that okay this part
+I really like it this part I don't like
+it and and that was like just just the
+way to visualize it like visualization
+with AI it's very hard and that that was
+a nice way that I found.
+&gt;&gt; Yeah, it's the same. Uh yeah, it's way
+easier to look at the designs and figure
+out what's about than like some words.
+Yeah. So you dude, you you should try
+this tool called uh pencil.dev.
+Like it it generates designs directly in
+cursor. Check it out. Yeah, pencil.dev.
+Yeah, I I I interviewed the founder too,
+&gt;&gt; but it's like a visual way to generate
+the designs. Yeah,
+&gt;&gt; nice. Yeah, I like it. I would.
+&gt;&gt; Okay. So, so I guess like just running
+running your companies like um the
+building part is not that hard anymore,
+right? Because you have all all these
+tools like to ship stuff for you. Yeah.
+Well, it it used to be, but yeah, it's
+it's definitely not anymore. Uh the
+hardest part is to come up with uh with
+new ideas like right now I think we are
+really coming from a world where ideas
+were not very valuable to like right now
+it's getting very very valuable to have
+a good ideas. Yeah, just have a couple
+questions like do you since you have
+five products like even just running my
+little new newsletter like I get these
+like people sending me emails like hey
+you know I want a refund and like hey I
+I want this and that. So I'm I'm just
+wondering how much of that how time that
+takes up like doing support like or did
+you find a way to automate that too?
+Yeah.
+&gt;&gt; Yeah. So I have two answer for that. Uh
+so first of all I have a like I have
+tons of shortcuts like I will I will
+type um slashrefound on my keyboard and
+uh that will automatically generate a
+full text uh saying that I have refunded
+you and uh uh the money is going to be
+back on your account in like five days
+and that will forward the request to the
+correct person on the team and so
+&gt;&gt; uh the refund will happen. So like
+automation is something that you can you
+can like you can do so many things uh if
+you if you spend time on that and like
+my basic rule is like if I start doing
+the same thing twice or more I will find
+a way to automate it
+&gt;&gt; like like you're just typing in Slack
+and like use some sort of scale to do it
+or something.
+&gt;&gt; Yeah. Yeah. Some some kind of that's
+like Yeah. And the second the second
+piece of of information is that I I just
+I just hire people
+&gt;&gt; like uh for customer support on Revit
+and Outrank the product got so big that
+we just hire people to to do that and so
+uh it it doesn't take me that much time
+right now.
+&gt;&gt; I I really often get uh DMs about those
+product but I actually enjoy that
+because just it keeps me inside the loop
+a little bit. Uh, and so I I keep
+hearing people talking about that.
+&gt;&gt; Yeah. Yeah. You want to have like Yeah.
+You want to have the constant stream of
+feedback. Yeah. Just to recap the
+playbook, right? You you have an idea,
+you want to solve a problem for
+yourself, and then you spin up a landing
+page and like maybe like one specific
+use case like a product for one specific
+use case and then like um how do you
+decide like how much to charge or or
+something? Like you just do some re
+research or you just ask people how much
+I want to pay for this.
+&gt;&gt; I do it. It's fun because I I do it the
+other way like I it's it's it's more
+like
+I want to find an ID where I know that I
+will be able to charge people from 50 to
+100 per month.
+&gt;&gt; Okay.
+&gt;&gt; And so I change the ID. I change the AI
+usage. I change like I I adapt the
+products to this amount because and then
+so you you you like you may ask why this
+amount but I feel that's the perfect
+amount from 50 to 100 per month because
+it's not too much. So people do not ask
+me for calls before signing up
+subscribing.
+&gt;&gt; Mhm.
+&gt;&gt; But it's high enough so um you have high
+quality customers and lower. Yeah. Yeah.
+If you charge like 20 per month, a lot
+of people just like it's people who are
+just like churning all the time. It's
+like pretty annoying. Ask for refunds
+and churning. Yeah.
+&gt;&gt; I see. Like so many people are charging
+like nine per month and and it's good,
+but like it's it it puts you into the
+position of a cheap product, you know,
+and I want to be the premium product. I
+I want to be the the product that uh you
+enjoy paying a little bit more for
+because it's going to be high quality.
+It's I find it much more enjoyable
+compared to like being the cheap product
+and having like tons of of uh DMs about
+the shitty product that you have like
+it's it's it's
+&gt;&gt; Yeah, it doesn't sound very fun. Doesn't
+sound very fun. I mean, and they're only
+paying you $10 a month. Like, is it
+really worth
+&gt;&gt; responding to each each of them? Yeah.
+&gt;&gt; Um but but dude, like how how do you
+know if a product has like what when
+what is your bar for good monthly
+retention? Or I guess it depends on the
+use case, right? Like it depends on the
+use case, but like is it like you know
+50% come back every month or like keep
+paying or how do you know if you have
+traction versus you just give up you
+know
+&gt;&gt; I would consider everything um better
+than than 20% churn like monthly churn
+if your turn is better than 20%
+um I would consider that there is
+something to do
+&gt;&gt; if if your like if your turn is 40%
+And so basically basically a subscriber
+is going to stay like uh just two
+months. Uh it it means that your product
+is really not sticky and it's going to
+be very hard for you to get to get
+successful product because like you you
+you don't really realize that at first
+but there is there is a metric called
+max max uh monthly recurring revenue
+like max MR
+which basically computes your churn and
+your acquisition and tells you that
+you're going to have the scurve until a
+certain joint and you will not be able
+to go higher that this monthly revenue
+because of that churn. And so if you
+want to improve your revenue uh with
+that very high level churn, you will
+have you will need crazy high amount of
+acquisition which is definitely not
+sustainable.
+&gt;&gt; Got So I find it like way better to
+pivot iterate until you get something
+which is like below the 20% marion level
+and then start thinking about
+acquisition and and honestly I say 20%
+because we are in the AI world and so
+people are going from one product to
+another but like five years ago people
+would only consider product with below
+below 5% sure.
+&gt;&gt; Got it. But uh okay I guess last
+question about this. If you keep
+pivoting your product what what about
+your existing paying customers like you
+know like for example if I pay for the
+product demo video product and then you
+pivoted to revid like that that does
+that impact your reputation or you just
+tell tell them like you say hey I my
+product you if you want a refund you can
+have a refund. Yeah, I try I try to
+treat them nicely but I like I I don't I
+don't consider them in the decision like
+I I I don't I really try to avoid
+uh considering them as a blocker to take
+the decision about pivoting but then
+yeah of course I just lock them out of
+the platform and just do a full refund
+without question asked like I I try to
+anticipate the the reform. Do you also
+like sometimes just like build a landing
+page with other product and try to
+validate demand or you always have some
+sort of product behind it even like an
+MVP?
+&gt;&gt; Yeah, I I I did that a lot like uh so
+before before I started Tweet Hunter
+like the product that got acquired. Um
+&gt;&gt; yeah,
+&gt;&gt; we we had this crazy phase where during
+four months we were shipping one new
+product per per week uh until something
+stick and so we were just printing the
+landing page uh tweeting about it. see
+the traction that we had. If no
+traction, we would just go to the next
+product. If traction, we just build a
+product, try to board the people who
+sign up on the landing page and and and
+repeats and like
+&gt;&gt; got it.
+&gt;&gt; Nine product failed that way. Like got
+just no attention. Um and the 10th one
+just took off.
+&gt;&gt; Got it. That's great, dude. D I I love
+this conversation. You you you've
+inspired me a lot. I'm going to be
+building all kinds of shitty products on
+the week weekend now. and see if it I
+mean the thing is I have a big audience
+so even it's a shitty product maybe
+people would just try try it
+&gt;&gt; but you know what like it's it's insane
+because
+&gt;&gt; um so I used to think that the quality
+was above everything else and
+&gt;&gt; so by by building more and more I I
+really realized that that building
+focusing on quantity instead of quality
+leads in the end to better quality like
+the the highest quality products
+on a series of like many many products
+is going to be higher quality than the
+products where you will be only focusing
+on one product and try to achieve higher
+quality.
+&gt;&gt; Wow.
+&gt;&gt; That was actually the result of an
+experiment that I think Harvard did like
+this guy splits a classroom into two.
+One was just doing one essay and and he
+told them focus on quality and the other
+group uh do like a 10 essay each focus
+on quantity and the best essays were
+coming from the quantity group. It was
+it was insane.
+&gt;&gt; Is that because you just get more reps
+or like you actually are you can
+validate your ideas faster? I think it's
+because you never know like you never
+know what's actually interesting and and
+like I had no idea like I would not have
+bets on my successful products in
+advance.
+&gt;&gt; Yeah,
+&gt;&gt; they were surprised to me too.
+&gt;&gt; Even after doing all this is you get so
+surprised by what is uh successful?
+Yeah, I'm I'm I'm still very surprised
+like I constantly it's you need you need
+to I think you need to change your
+mindset and see every product release
+and as an experiment and it's totally
+okay if it if it's a success but it can
+totally fails and that's okay. You just
+go to the next experiments and continue.
+&gt;&gt; Yeah. Same thing for like YouTube and
+content too. Like some some things I
+think are going to be super successful
+like don't take off and some random
+video I make take off. It's It's like
+very rand random. Yeah,
+&gt;&gt; completely.
+&gt;&gt; All right, man. Well, this is super
+helpful. I think this is awesome. Like I
+think it's going to inspire a lot of
+people watching this.
+&gt;&gt; Um, where can people follow you? You
+have a newsletter, right?
+&gt;&gt; Yeah, I think that the best place to
+find me is uh t-maker.io.
+&gt;&gt; It's like your personal website.
+&gt;&gt; Um,
+&gt;&gt; yeah, that's my personal website. That's
+where uh has my newsletter. Uh, I have
+my project here and ways to find me on
+on X and LinkedIn. Uh, that's my place.
+&gt;&gt; Incredible, man. Incredible. You're
+you're you're free. You're making a
+million dollars a month and uh living in
+France. It sounds like a pretty good
+life. So hopefully other people can join
+you. Yeah.
+&gt;&gt; Thank you very much for having me,
+Peter. That was amazing.
+&gt;&gt; Yeah. Text.

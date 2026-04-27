@@ -1,237 +1,143 @@
 # fepulse-articles
 
-这个仓库现在有一条更明确的四层流程：
-
-1. 新扫描内容先进入 `ai-interview-archive-data/`
-2. 初筛后分流到 `selected/raw/` 或 `briefs/raw/`
-3. `selected/raw/` 生成正式文章到 `selected/`
-4. `briefs/raw/` 生成约 500 字简报到 `briefs/`
-
-原始内容采集由独立 skill `ai-interview-archive` 完成，但采集结果可以直接落到当前仓库下。
+这个仓库现在不再围绕公众号发布流转，而是围绕“先读简报，再决定是否详读”的阅读流转。
 
 ## 目录结构
 
-- `PROMPT_TEMPLATE.md`
-  正式写作提示词。
-  对 `selected/raw/` 中选中的字幕文件，默认使用这个提示词生成文章。
-
-- `FEPulse-reader-profile.md`
-  读者画像。
-  用于判断哪些 raw 字幕应该进入长文主线。
-
-- `BRIEF_PROMPT_TEMPLATE.md`
-  500 字左右的快速概览提示词。
-  用于把非精选内容整理成可快速阅读的简报。
-
 - `ai-interview-archive-data/`
-  由 `ai-interview-archive` 生成的新扫描结果目录。
-  这是扫描入口，不是长期堆积区。
-  其中包括：
-  - `link-batches/`：每次扫描的批次结果
+  - 只负责扫描批次和去重索引
+  - `link-batches/` 记录每次扫描结果
+  - `subtitle-index.json` 记录哪些来源已经拉取过，避免重复下载
 
-- `selected/`
-  最终可发布长文目录。
-  第一层存放正式长文。
-  `selected/raw/` 存放这些长文对应的 raw 字幕。
+- `raw/`
+  - 所有原始字幕统一放这里
+  - 文件名是基于 `source_url` 生成的稳定 hash
+  - 一旦写入就只读，不再移动或改名
 
 - `briefs/`
-  非精选内容的简报目录。
-  第一层只保留你还没读完的简报。
-  `briefs/raw/` 存放这些简报对应的原始字幕。
-  `briefs/archived/` 存放你已经看过的简报。
+  - 所有简报成品
+  - 文件名统一为 `<hash>.md`
+  - `index.json` 记录标题、来源、是否已读、已读时间、是否加入详读候选
 
-- `skills/`
-  当前仓库内维护的 skill 镜像。
+- `deep-reads/`
+  - 所有详读成品
+  - 文件名统一为 `<hash>.md`
+  - `index.json` 记录标题、来源、是否已读、已读时间
+  - 内容形态不是观点长文，而是按原始字幕整理出的中文全文稿
+
+- `selected/`
+  - 历史遗留的旧长文目录
+  - 已废弃，不再参与任何新流程，只保留已有内容
 
 - `publisher-site/`
-  本地发布助手网站。
-  作用：
-  - 列出 `selected/` 里的文章
-  - 按“待分配时间 / 已分配时间”分组显示
-  - 点击后直接加载 markdown
-  - 渲染预览
-  - 一键复制带内联样式的内容到公众号编辑器
+  - 本地阅读站点
+  - 只展示 `briefs/` 和 `deep-reads/`
+
+- `scripts/`
+  - `sync_reading_pipeline.py`
+    - 把扫描到的原始字幕同步进 `raw/`
+    - 默认全部生成简报到 `briefs/`
+    - 迁移历史 `briefs/raw`
+  - `generate_deep_reads.py`
+    - 读取 `briefs/index.json` 里已加入“详读候选”的内容
+    - 生成 `deep-reads/<hash>.md`
 
 ## 当前工作流
 
-### 1. 采集
+### 1. 扫描
 
-使用 `ai-interview-archive`：
-
-- 扫过去 1 天：
-  `python3 /Users/bytedance/Documents/my-projects/ai-interview-archive/scripts/run_collection.py --mode daily --workspace-root /Users/bytedance/Documents/my-projects/fepulse-articles`
-
-- 扫过去 2 天：
-  `python3 /Users/bytedance/Documents/my-projects/ai-interview-archive/scripts/run_collection.py --mode manual --days 2 --workspace-root /Users/bytedance/Documents/my-projects/fepulse-articles`
-
-- 扫过去 7 天：
-  `python3 /Users/bytedance/Documents/my-projects/ai-interview-archive/scripts/run_collection.py --mode weekly --workspace-root /Users/bytedance/Documents/my-projects/fepulse-articles`
-
-采集结果默认写到：
+采集仍由 `$ai-interview-archive` 完成，扫描结果先进入：
 
 - `ai-interview-archive-data/link-batches/`
-- `ai-interview-archive-data/`
+- `ai-interview-archive-data/subtitle-index.json`
 
-扫描完成后，默认继续执行，不停在“只下载字幕”这一步：
+### 2. 同步到阅读结构
 
-- 先按 `FEPulse-reader-profile.md` 自动筛选
-- 适合长文的 raw 字幕移动到 `selected/raw/`
-- 其余需要快速了解的 raw 字幕移动到 `briefs/raw/`
-- `selected/raw/` 自动整理为正式文章，输出到 `selected/`
-- `briefs/raw/` 自动整理为 500 字左右简报，输出到 `briefs/`
+扫描完成后，默认继续执行：
 
-这是默认执行链路，不需要再额外提醒。
-只要已经完成扫描并成功落下字幕，就必须继续完成：
+```bash
+python3 scripts/sync_reading_pipeline.py
+```
 
-- 分流到 `selected/raw/` 或 `briefs/raw/`
-- 生成 `selected/` 下的正式文章
-- 生成 `briefs/` 下的简报
+这一步会做：
 
-除非用户明确要求“只采集，不做后续处理”，否则不能停在采集结果。
-
-### 2. 初筛
-
-新内容扫描完成后，不要长期留在 `ai-interview-archive-data/` 根目录。
-
-需要立刻做一次分流，并继续完成后续生成：
-
-- 如果适合 FEPulse 主线读者：
-  移到 `selected/raw/`
-
-- 如果不适合长文，但仍值得快速了解：
-  移到 `briefs/raw/`
-
-- 如果没有字幕或价值很低：
-  可以直接忽略
-
-### 3. 处理精选内容
-
-写作正式文章时优先读取：
-
-1. `PROMPT_TEMPLATE.md`
-2. `selected/raw/` 中已筛选出的字幕文件
-
-处理 YouTube 来源时，参与者信息不能偷懒写成“分享者”“设计者”这类泛称。
+- 把原始字幕统一整理到 `raw/<hash>.txt`
+- 默认为每条内容生成简报到 `briefs/<hash>.md`
+- 更新 `briefs/index.json`
+- 同步 `ai-interview-archive-data/subtitle-index.json` 里的 `subtitle_path`
 
 默认规则：
 
-- 先用视频公开元数据确认人物信息
-- 优先读取 `channel`、`uploader`、`description`
-- 能确认真实姓名时，使用“真实姓名（身份）”
-- 如果不能确认，就保守描述身份，不使用含糊占位词
+- 每篇扫描出来的内容只先生成简报
+- 不再自动生成长文
+- 只有进入“详读候选”的内容，后面才会生成详读文章
 
-最终文章输出到：
+### 3. 生成详读文章
 
-- `selected/`
+网站里点击“详读”后，会把对应内容标记为详读候选。
 
-### 4. 处理非精选内容
+执行：
 
-对 `briefs/raw/` 中的字幕：
+```bash
+python3 scripts/generate_deep_reads.py --all
+```
 
-1. 使用 `BRIEF_PROMPT_TEMPLATE.md`
-2. 生成约 500 字简报
-3. 输出到 `briefs/` 第一层
-4. 你看完之后手动移到 `briefs/archived/`
+脚本会读取 `briefs/index.json` 中 `queued_for_deep_read=true` 且尚未生成详读的内容，生成到：
 
-### 5. 公众号排期
+- `deep-reads/<hash>.md`
 
-当你告诉我某篇正式文章的发布日期时：
+说明：
 
-- 我会把 `selected/` 里的文件名从：
-  `标题.md`
-- 改成：
-  `YYYY-MM-DD 标题.md`
+- 详读一律从 `raw/` 生成
+- `selected/` 不再作为详读输入
+- 详读默认按“接近原文的中文整理稿”处理：
+  - 翻译成简体中文
+  - 把字幕断裂的句子自然衔接
+  - 按内容重新分段
+  - 尽量遵循原文，不改写成公众号文章
 
-例如：
+### 4. 已读状态
 
-- `2026-03-03 AI时代最值钱的程序员，已经不再只盯着代码.md`
+- `briefs/index.json` 维护简报的已读时间
+- `deep-reads/index.json` 维护详读文章的已读时间
+- 网站按“未读 / 已读”展示
+- 已读列表按已读时间倒序排列
 
-### 6. 筛选标准
-
-每次 `ai-interview-archive` 扫描完成后，都需要再做一层 FEPulse 读者偏好筛选。
-
-筛选标准以：
-
-- `FEPulse-reader-profile.md`
-
-为准。
-
-### 7. 公众号复制网站
+## 网站
 
 启动方式：
 
-- `python3 publisher-site/server.py`
+```bash
+python3 publisher-site/server.py
+```
 
-默认地址：
+地址：
 
 - `http://127.0.0.1:8008`
 
-工作方式：
+固定顺序：
 
-- 左侧有 `精选` 和 `简报` 两个 Tab
-- `精选` 会直接读取 `selected/` 里的 markdown 文件
-- 文件名如果是 `YYYY-MM-DD 标题.md`，会归到“已分配时间”
-- 文件名如果只有 `标题.md`，会归到“待分配时间”
-- `简报` 会展示 `briefs/` 第一层未读内容，以及 `briefs/archived/` 中的已读内容
-- `简报` 里的未读内容支持一键“精选”，会直接移动到 `selected/`
-- 点击文章后直接渲染 markdown，并可一键复制带样式内容
-- 复制时不会预先生成单独的 html 文件
+- 先探活 `127.0.0.1:8008`
+- 端口被死进程占用时先清理
+- 再启动 `python3 publisher-site/server.py`
+- 确认首页或 API 返回正常后再打开浏览器
 
-打开网站时的固定顺序：
+网站行为：
 
-- 不能只执行浏览器打开。
-- 必须先探活：检查 `127.0.0.1:8008` 是否真的可访问。
-- 如果端口未监听，先启动 `python3 publisher-site/server.py`。
-- 如果端口已监听但 `curl http://127.0.0.1:8008` 不通，视为死进程占端口。
-- 遇到死进程占端口时，先清掉旧进程，再重新启动站点。
-- 只有在确认首页或 `/api/selected` 已正常返回后，才打开浏览器。
-- 正确顺序固定为：探活 -> 清理死进程 -> 启动服务 -> 再打开浏览器。
+- `简报` tab
+  - `未读`
+  - `已读`
+  - 未读内容支持 `详读`
+  - 简报支持 `标记已读`
 
-### 8. 飞书群发送
+- `详读` tab
+  - `未读`
+  - `已读`
+  - 详读支持 `标记已读`
 
-如果你已经在 `selected/` 里把文章文件名改成：
+## 约定
 
-- `YYYY-MM-DD 标题.md`
-
-那么每天 `08:00` 的发送脚本会自动查找当天日期前缀的文章，并发送到飞书群机器人。
-
-发送时区默认按：
-
-- `Asia/Shanghai`
-
-本地配置：
-
-- `.local/feishu-bot.env`
-- `.local/feishu-app.env`（可选，优先级更高）
-
-需要包含：
-
-- `FEISHU_BOT_WEBHOOK=...`
-- `FEISHU_BOT_SECRET=...`
-- `FEISHU_APP_ID=...`
-- `FEISHU_APP_SECRET=...`
-- `FEISHU_CHAT_ID=...`
-
-发送脚本：
-
-- `python3 scripts/send_scheduled_feishu_posts.py --workspace-root /Users/bytedance/Documents/my-projects/fepulse-articles`
-
-默认规则：
-
-- 优先使用飞书应用发送：`FEISHU_APP_ID + FEISHU_APP_SECRET + FEISHU_CHAT_ID`
-- 如果没有配置飞书应用，则退回群 webhook 发送
-- 只发送 `selected/` 第一层里文件名前缀等于当天日期的文章
-- 如果同一天有多篇，会按文件名字典序依次发送
-- 发送成功后记录到 `.local/feishu-sent-log.json`
-- 已发送过的同名文件不会重复发送
-- 优先使用飞书 `interactive card` 发送；webhook 兜底时也尽量保留标题、分段和小节结构
-
-## 备注
-
-- 这个仓库本身不负责抓取 YouTube 频道列表，抓取逻辑由 `ai-interview-archive` 提供。
-- 如果 YouTube 返回 `Sign in to confirm you’re not a bot`，通常需要给 `yt-dlp` 配置 cookies 后重试字幕下载。
-- 默认分流顺序是：`ai-interview-archive-data/` -> `selected/raw/` / `briefs/raw/`
-- 默认长文顺序是：`selected/raw/` -> `PROMPT_TEMPLATE.md` -> `selected/`
-- 默认简报顺序是：`briefs/raw/` -> `BRIEF_PROMPT_TEMPLATE.md` -> `briefs/`
-- 本仓库的 git 提交信息默认使用中文。
-- 在这个仓库里，如果你只说“提交”，默认执行“提交 + 推送到远程”。
+- 内容的唯一标识统一使用基于 `source_url` 的稳定 hash
+- 后续任何状态变化都只改 `index.json`，不改 `raw/` 中文件
+- 本仓库的 git 提交信息默认使用中文
+- 在这个仓库里，如果你只说“提交”，默认执行“提交 + 推送到远程”

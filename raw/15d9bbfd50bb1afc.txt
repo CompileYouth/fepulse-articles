@@ -1,0 +1,1472 @@
+原文： https://www.youtube.com/watch?v=Q-i8ZSUCtIc
+
+Can you define EBM for us? EBM's are
+naturally non-autoregressive. There are
+no sequences of tokens and that's what
+makes it fundamentally different.
+[music] Like imagine you're trying to
+navigate the map and you have a left
+brain. To navigate, you're sort of
+allowed to choose one direction at a
+time and sometimes [music] you take the
+wrong turns just because you
+hallucinate. Like there might be a hole
+in the road and you're just going to
+fall. And you might see this hole, but
+you cannot turn back because you
+autoregressive LLM. EBM going to have
+the first view all the time. So if you
+[music] see there's a hole, you're going
+to choose a different route.
+&gt;&gt; [music]
+[music]
+&gt;&gt; Yee, welcome to the show.
+Hi, thanks for having me. Great to have
+you on. For people who don't know, you
+are the founder and CEO of Logical
+Intelligence. Tell us what Logical
+Intelligence does.
+So Logical Intelligence does uh a few
+things. First of all, we see ourselves
+as a foundational AI company. So we
+working both with EBMs and LLMs.
+So everything that built in-house, we
+prototyped on LLM initially and we
+building EBM at the same time and that
+sort of gets plugged in in a long term.
+Um
+we focused on correctness of software
+and hardware
+as a product.
+Um because I believe there is a lot of
+issues with
+AI being placed in mission-critical
+systems today. Like, you know, can we do
+the code gen? Can we do the chip design?
+And the answer is yes, yes, people use
+LLMs today. Um but very few actually
+questioning of like how this results are
+actually like correct? Does it make
+sense what it produce?
+And it seems like there's a big gap on
+market today um having deterministic AI,
+verifiable AI. So we trying to fill that
+gap.
+Mhm. Uh
+I I the the place my my brain goes first
+is why does correctness or whether
+something makes sense,
+why does that matter if it works?
+Um actually let me ask you a question
+back. So speaking of correctness,
+um
+I don't know. Well, imagine there's AI
+driving a car and you're in that car and
+that car is an LLM and someone tells you
+like, you know, 20% of the time it's
+going to hallucinate and you might end
+up like in in like a wrong place.
+Uh how would you feel about it? Well, I
+think it in my in my case I'd be like,
+"Wow, that's kind of interesting. I'm
+I'm curious where it takes me." Um
+Oh, okay.
+&gt;&gt; [laughter]
+&gt;&gt; Okay, let me give you another example.
+How about the plane? How about the
+plane? You take a plane from yourself to
+New York and someone says, "You know,
+like 20% of the time it might just like
+the next word not going to match and
+it's going to go down." So how would you
+feel about it?
+&gt;&gt; Yeah, my my my my feeling about that is
+planes are currently run very well by
+deterministic systems. So I don't know
+why I would need an AI for that.
+Um I feel like we just cannot avoid AI
+anywhere. Like next 10 years people
+going to try to place AI everywhere.
+Automate systems with AI and you know,
+technically you might not need. We we
+survived somewhat without AI up to this
+moment, but now it's just like a next
+step of evolution that people just want
+AI everywhere.
+Like for the banking, you don't need AI
+initially, but we learn it's really
+helpful to automate like certain
+processes and decision-making.
+And it's going to save us a lot of time
+and allow us space to be creative
+instead of like debugging and fixing
+things.
+Um
+so I just feel like it's unavoidable
+future.
+I think maybe what I'm getting at is
+um
+what am I getting at?
+It seems like
+if you want a guarantee of certainty,
+using
+um
+the only way to sort of guarantee
+certainty is to use something that
+you can express in code or logic.
+Mhm.
+That's a part of it. So the certainty
+comes from internal verifiers and
+external verifiers, at least for us.
+Um so for example, if you take LLM,
+um obviously it's a language-based model
+and architecture doesn't allow you to do
+internal verifiers. So you you like it's
+like a black box for you. You don't have
+access to what's inside until it's all
+processed.
+Um but you have access to the output and
+many people and companies sort of take
+LLM, uh train it for certain tasks and
+if it requires logic, they attach the
+external verifiers to it such as
+languages like Lean 4, which is a proof
+uh I mean, machine-verifiable language,
+proof language, um which allows you to
+check this output using mathematical uh
+frameworks.
+Um however, you know, it doesn't solve
+the problem of things being
+um
+just so expensive because what's
+expensive is your architecture, which is
+still playing a guessing game out here.
+And even if you attach external
+verifier, even you fine-tune this LLM
+specifically for the task you're trying
+to create, you're still not solving the
+problems of tokens being expensive. It
+takes compute for you to play a guessing
+game.
+&gt;&gt; [clears throat]
+&gt;&gt; So this problem is solved by the EBMs,
+but we're talking about LLMs for now. Um
+so here we have the situation when there
+is, right, internal absence of verifier,
+but there's external one. Um so now
+about the EBMs. EBMs don't have tokens.
+It's token-free model. There's no
+guessing game of this kind. So
+essentially um
+you could oversee all the possible
+scenarios.
+Can you define EBM for us? Yeah, I'll
+define in a second. So for now just
+think of it as something which doesn't
+play a guessing game and something which
+has architecture which is essentially
+allow you to self-align itself as a
+processing the information and it's no
+longer black box for you. So as it's
+performing, you can open it anytime
+during the training and you could see
+what's happening in there. So you cannot
+do this with LLMs. Just nature of
+architecture is different. So you have
+for verification tasks, you have this
+notion of self-alignment because of the
+EBM architecture and the absence of
+token makes it cheap, but also you have
+external verifier on top of it. So you
+have verification sort of on both sides,
+inside and outside.
+Um
+hopefully that makes sense. I think so.
+Let me let me play it back to you and
+you tell me if if if I'm getting you. So
+basically I think what you're saying is
+we're living in this in this world which
+is really cool with LLMs, which is we
+can generate lots of output with them.
+And the output is um really useful for
+for a lot of different things, but in
+order to tell if the output is right,
+the the best we can do is sort of guess
+and check. We generate the output and
+then, for example, if it's code, then we
+go and check the check the code with
+integration tests or manual tests or
+whatever just to see if it works. And
+that totally works, but it is expensive
+and time-consuming.
+Um and
+one of the problems is it's very hard
+for us to know, "Okay, how did the LLM
+get to this answer?" We can't like go
+look inside of it.
+&gt;&gt; Exactly.
+And I think what you're saying is there
+are other types of models that are a
+little bit more inspectable.
+And that give us a sense before we even
+try the um
+before we even try the output to
+understand, "Does this work? Does the
+output work?" We can get a sense from
+the model by looking at its internals.
+So sort of like, "How good is this
+solution? How good does this model think
+this solution is?" Um
+uh and it's sort of like being able to
+ask someone like, "Are you sure about
+this? Like how how how good is this?"
+before you like go check their work. And
+a language model can answer that
+question, but a language model's answers
+are working at a at a different level
+when it answers that question than than
+this models uh than these EMB models are
+working. And the the answers from EMB
+models are more likely to be correct.
+Mhm.
+Yeah, so you always have an opportunity
+to see what's inside with the EBMs.
+And you control the training.
+&gt;&gt; Yeah.
+&gt;&gt; [gasps and laughter]
+&gt;&gt; So the the EBMs, you control the
+training. It's no longer black box for
+you. You control sort of how the
+training goes. Well, you do some extent
+with the LLMs, but you need to wait
+until the training is done before like
+you actually go and like see what's
+inside. In here you could do like a real
+time. Um yeah, and also you can attach
+the same external verifiers which works
+for LLMs. So you have sort of double
+double verification things.
+Um
+yeah, so you asked me what is a EBM?
+Um I just want to give like a historical
+many terms today and just people
+throwing those terms without defining
+it.
+Um so EBM just simply means energy-based
+model.
+What is energy? Energy-based um
+it comes from
+physics.
+It's a very popular term when you're
+trying to minimize the energy.
+And if you're doing theoretical physics,
+like your full-time job is just to write
+Lagrangians, which sort of correspond to
+uh terms associated with the energy in
+your system. Like, "Hey, this is my
+kinetic energy. This is my potential
+energy."
+And then you're trying to derive
+equations of motion of it.
+And the way you derive the equations of
+motions is you're doing the
+minimization.
+So, that's pretty much how how
+theoretical physics works. And it just
+start with the energy terms, then you
+minimize this energy, and you derive
+equations of motions, and equations of
+motions going to give you conservation
+laws. So, you're going to know exactly
+what are your laws about your system.
+And this principle is fundamental
+principle. Like, everything wants to
+minimize energy around us.
+Um
+Yeah, so like even us, we talking to
+each other, we sitting on the chairs,
+we're not like jumping and running
+around because it's a natural state when
+we minimize the energy.
+So,
+we're just using this minimization
+energy principle as AI is processing
+information in a high-level terms.
+So, the term
+energy-based minimization doesn't really
+mean anything
+specifically to AI. It's just the whole
+like
+idea of like, "Hey, let's take some
+energy and try to minimize it and
+discover what's the laws about it."
+Um so, our model is called official name
+of that model, uh even though we call it
+Kona just because we like big fans of
+coffee culture, and Kona is one of our
+favorite kind.
+So, we decided to start with that. Uh
+the formal name of the model is called
+energy-based reasoning model with latent
+variables.
+And I'm going to like describe exactly
+what those words means. So, we already
+understand what the energy minimization
+is. Can I actually pause you because I
+want to make sure that we do understand
+what the energy energy-based
+minimization is? Okay. Yeah. It It just
+for now think of it is just something
+which minimizes the energy. It It means
+this AI architecture has a framework
+which allows you to construct the energy
+function of your system and minimize it.
+I get it. I I just think that um so, I
+just want to make sure for for people
+listening, they understand what it means
+to minimize energy, what what energy is,
+and what it means to minimize it. So,
+I'm curious, um give me a give me a uh
+uh
+tell me if this concrete example is is
+about what you're like sort of a like
+close to what you're talking about.
+So, if I'm going to let's say uh I'm
+going to go lie on the couch behind me,
+and um and I'm trying to I'm trying to
+predict or understand how is my body
+going to be lying on that couch
+um
+given the laws of gravity.
+Uh the the couch is uneven, my body's
+uneven, and so I'm trying to like sort
+of understand the fit of like how my
+body is going to end up settling onto
+that couch.
+Um
+I'm going to end up sitting onto the
+couch in a way that minimizes energy, so
+there's going to be like a a good fit
+between my body and the couch
+versus like me being sort of like jerky
+like this and and having lots of
+different spaces. Is that the sort of
+the sort of energy mini- minimization
+that you're talking about? Yeah. Yeah,
+you just you It It's all about your body
+finding
+the most comfortable configuration for
+you,
+which going to correspond to
+the like the lowest potential of your
+body.
+&gt;&gt; [laughter]
+&gt;&gt; I would even tell the like even more
+high-level of this. Like, you know, um
+you then you just like imagine you're
+tired, you like done thousands of
+podcasts, and you just came home, and
+someone is asking like, "Okay,
+Dan is a variable here. Uh let's try to
+figure out what's his equations of
+motion in the house, and what where he's
+going to most likely to end up." So,
+you're probably going to end up on the
+couch.
+&gt;&gt; [laughter]
+&gt;&gt; With like a nice show and uh probably
+some drink. Yeah.
+&gt;&gt; Um yeah, so that's going to be a a law.
+Like, "Okay, when Dan is tired, he's
+going to go and sit on the couch and
+just relax."
+Um but to get there, we're going to look
+at all your possible states. Like, you
+washing the dishes, you know, walking
+around the house. So, those are going to
+be different states,
+but your most probable scenario is going
+to be on the couch.
+So, essentially all of this picture can
+be mapped into something we call energy
+landscape when
+the the high It's going to have like
+it's going to look like a map. So,
+you're going to have highest points,
+you're going to have lowest points. The
+highest points we can associate less
+probable scenarios. So, probably if
+you're tired, you're not going to dance
+around, although I don't know.
+But, you know, typically people assume
+that if you're tired, you're probably
+going to want to relax. So, that's going
+to be the lowest point.
+And as we're trying to figure out where
+you are during the training, we're going
+to observe you multiple times
+um uh during different days, and um
+you know, how much of the workload you
+have, it's going to be a variable, your
+internal state is going to be a
+variable, how your body feels.
+And eventually we're going to train this
+landscape to be, you know, based on what
+we see in real world, right? The lowest
+point is going to be you on the couch.
+We've all been there. You're sitting in
+an important meeting, and you're trying
+to pay attention, you're trying to stay
+present, but you have this lingering
+underlying anxiety that you're going to
+forget everything, that you're going to
+miss [music] the important detail,
+forget the decision, forget the action
+item, let something important slip
+through the cracks. That's why I love
+Granola. It's an AI-powered notepad that
+works in the background [music] while
+you're in your meetings. It takes notes
+on everything that gets said,
+transcribes action items, and helps get
+rid of that feeling. You don't have to
+worry about whether you're going to miss
+something because Granola has you
+covered. Granola lets you stay present
+in meetings. I've been using Granola for
+a long time, almost since they came out,
+and it's amazing for this. It doesn't
+join the meeting like some of those
+other clunky meeting note-takers. The UI
+is really fast and well considered,
+[music]
+and it feels like it's sort of just
+transcribing all the important moments
+in my work [music] life. And that gives
+me the confidence to get great work
+done. And what's even cooler is you can
+chat with your notes afterwards. You can
+run detailed research reports on how
+your [music] week was, how you act as a
+leader, how you performed in particular
+difficult conversations, and how you can
+do better. It's really a power tool for
+anyone who cares about their meetings,
+and also cares about how they show up in
+those meetings.
+&gt;&gt; [music]
+&gt;&gt; It also has these things called recipes,
+which are pre-made prompts for common
+tasks like negotiating, coaching, or
+summarizing. I even have a recipe that I
+made [music] that's in Granola that you
+should check out. Once you try it on one
+meeting, it's really really hard to go
+back. The notes are always better than
+what you can do manually, and it helps
+me be much more present instead of
+frantically [music] typing all the time.
+Head to granola.ai/every
+for 3 months free with the code every, e
+v e r y. That's granola.ai/every
+[music] for 3 months free. And now, back
+to the episode.
+Okay. I I That makes total sense. Now, I
+want to relate this to LLMs for a second
+because you can imagine that there's an
+LLM that's trained to predict where I
+end up after a long day of podcasts.
+Um
+and you can imagine it probably would
+also end up predicting that I would end
+up on a couch. What are the differences
+in the ways that it makes those
+predictions
+that make um energy-based models better
+for this scenario?
+Okay. Uh that's a good thought exercise.
+Um
+so, okay, now you're LLM. So, they Okay,
+let's talk about back to EBM because
+what we described is very natural about
+EBMs. EBMs are all about constructing
+energy landscapes and how we navigate
+those energy landscapes. And energy
+landscapes is sort of the maps of your
+states based on the data we observe.
+So, in your case, we're just going to
+look at you in all possible scenarios.
+All of these possible scenarios going to
+map into energy landscape, highest
+points uh less probable scenario, lowest
+point is more probable. So, you'll
+probably end up on the couch. Yeah.
+Yeah. Yeah. So,
+&gt;&gt; [laughter]
+&gt;&gt; um there might be some other additional
+low points. Like, sometimes you might go
+to gym, which actually counteracts like
+you [laughter] feel tired, and you might
+go to gym. So, it's going to be, you
+know, lowest points compared to
+everything else, but some of them are
+going to be lower. Yeah.
+Yeah. So, that's the situation. So, this
+is how energy-based model actually would
+think.
+It just takes a data and map it directly
+to this energy landscape, and then we
+use certain algorithms to navigate this.
+But, there are different kinds of energy
+uh based models today. So, I'm going to
+talk about it a little bit later. But,
+the whole idea is just, "Hey, let's map
+it into the structure and navigate the
+structure."
+&gt;&gt; [clears throat]
+&gt;&gt; And
+as you see, as we like map into this,
+there are no tokens. We don't predict
+any tokens, and so on. So, that's
+already a crucial difference.
+Uh how would LLM think? Um LLM
+Yes, it's going to rely on the training
+data, and there's going to be a lot of
+training data.
+Like, a lot and a lot of observations of
+how you behave.
+And
+to figure out where you would end up,
+it's going to be attached to
+probabilities of your next token,
+if that makes sense. And those tokens
+going to come from words.
+And what usually bothers me about LLMs,
+it's intelligence which is
+language-dependent.
+Like, our brains, we are intelligent.
+I'm relatively intelligent. So, like, I
+speak different languages, and none of
+my thoughts processes really depend on
+any language. Like, I can just think in
+an abstract way, and then I speak
+different languages and decode the
+information in other channels.
+And with the LLMs, it's like if you're
+searching for the next token in certain
+words,
+like
+intelligent
+process I I would say that information
+processes
+in French going to be different from
+what's in English just because like
+words naturally going to be end up
+mixing to each other.
+So see what I'm saying? It's like and
+then we have so many languages in the
+entire world and you have so many LLMs
+trained on different languages. So
+you're going to end up
+reasoning
+you're going to end up having reasoning
+processes different for each of the
+language which feels really wrong.
+So in this case
+observing you walking around the house
+has nothing to do with language then.
+It's a pure visual spatial reasoning
+task. Just looking at your body
+navigating the space-time
+and geometry of your house.
+So we need to map that information in
+the language space,
+find the right words and embeddings,
+and then we start
+associating those tokens with the
+probabilities based on what the data we
+see from you.
+So we trying to map something absolutely
+has nothing to do with language into
+language space and think about it in
+that space,
+which feels really wrong.
+And
+I don't know I I just realizing that
+for many people
+it's counterintuitive just because LLMs
+is the first form of AI we sort of know
+and it's the most popular form of AI
+today.
+Like for for many people it's by default
+like oh yeah, we just going to use
+language to navigate the world to drive
+a car. But and I'm like every time I'm
+speaking I'm like well, let's wake up.
+Let's like actually see when you drive a
+car, when you walk around your house,
+how much language you actually use. Are
+you trying to predict next word as you
+navigate yourself around the house?
+Probably not.
+You just use your visual data,
+your state of the body and you know, you
+just move your body, right? Without
+speaking.
+Uh there's a lot here. I I'm really into
+this conversation. So I want to start
+with
+A, it seems absolutely right to me that
+um
+there are many different ways in which
+we
+um
+process information or many different
+ways in which intelligence can occur and
+and only a few of them are verbal.
+Uh but there's
+there's certain things that come up for
+me when I when I think of this. One is
+language models happen to work with
+languages as their primary
+way of working, but really they just
+work with sequences of tokens that have
+um weak correlations, many thousands of
+weak correlations between each token
+that helps us to know which comes next.
+So even though it might be unintuitive
+to model my behavior inside of my
+apartment with like specifically with
+language, although I'm going to I think
+there is some interesting things there
+that it might be related to language, we
+we could model it as just like a
+sequence of movements, right? That were
+um
+one one movement is weakly correlated to
+the next one that we sort of
+have a trajectory of movements that tell
+us where where I'm going. Why is that
+not a good way to model things?
+It's a good way to model things and you
+don't need LLM for it. You need
+a form of AI which is not attached to
+language,
+but
+it can be compatible with language if
+you want it to. And that's what our
+model is about.
+Right, I guess what I'm saying is um
+uh
+forgetting about the the language part
+of it just like modeling my movements as
+this string of
+uh correlated events like an event
+stream where each token is like one next
+thing I do.
+Yeah, you you could do it and people do
+it today, right? People even do image
+recognition using language models.
+Uh you could be really creative, but
+it's like that's what makes it expensive
+and super slow because you're trying to
+play a guessing game what my next token
+could be and this is what makes it
+extremely expensive.
+So
+like you could do it, but you don't have
+to do it. You just can use different
+architecture which is more suitable for
+non-language related tasks such as
+spatial reasoning or applied engineering
+is another example of spatial reasoning
+like when you build a bridge, you don't
+go to literature department, you go to
+engineering school and learn formal
+methods, right?
+So here we are trying to use a
+literature department everywhere and I'm
+like hey, we don't have to. There are
+EBMs. There are also other forms of AI
+which you can experiment with us and you
+don't have to do everything through
+language.
+It's a matter of like it's it's right?
+It's like energy-based minimization
+principle when it comes to your
+resources. If you have infinite money
+and you don't care about the time scale,
+sure you could do everything. You can
+attach it to language, you can attach it
+to I don't know, your cat movement
+around the house and connect it to the
+cat movement and you know where cat goes
+and your next token goes and we decide
+where you going to go. You could be
+really creative, but if you want to
+minimize
+your resources and
+you don't have
+opportunity to wait,
+like for example, if your AI controls
+the circuits, you probably cannot wait
+even even a second. It's all
+milliseconds, microseconds.
+So it just this form of AI is not
+suitable for those tasks.
+So basically, if I'm understanding this
+right, if I'm spending tons and tons of
+tokens
+and I'm looking for a more efficient,
+more direct way to
+um
+predict some some of these solutions to
+these these problems, an energy-based
+model is going to get me there faster
+than a
+you know, modeling it with tokens. Is
+there is it also able to do it with less
+training data?
+Um yes, actually the beauty of the of
+the EBMs is it's really good at working
+with sparse data
+because like you know, there's
+evolutions of like traditional EBMs
+which were applied for the LLMs, then
+there was diffusion models and diffusion
+models came from the fact that sometimes
+you don't have enough data to train the
+models or your data is just data set is
+incomplete.
+So there are ways to reconstruct those
+energy landscapes by injecting certain
+noise
+and changing the navigation strategies.
+Um so that's what diffusion models were
+about and the EBM with latent variables
+is just like hey, on top of the
+diffusion stuff, we also
+understand the data. We're not just
+taking any data, but we also
+understand why the data looks the way
+they are. So that understanding goes to
+the latent variables.
+Just like latent space in your brain
+sort of understands the world around you
+and keeping you on top of your tasks and
+allows you to like predict and plan.
+So it's the same idea here.
+So now we got to the latent variable
+part of our part of it. So I I would
+love when you when you use the word
+understanding, I I think that must mean
+something very specific to you. Can you
+help me understand that and how it
+relates to latent variables and what
+those are?
+Yeah, so that's also back to your
+question was that like how LLMs are
+different with from the those kind of
+EBMs we're creating.
+Um LLMs don't understand the data. It's
+just you feed a lot of data into it and
+it's sort of like hey,
+I I got it. Like okay, I know what's the
+most probable scenario here and here we
+are.
+However, here
+EBM, you can feed a lot of data.
+It's not just going to look at like hey,
+I I see the biggest pattern here. It's
+going to try to understand the pattern.
+And that understanding, that knowledge
+going to go to latent variables.
+So what is understanding about data?
+Like it's just basic knowledge about the
+world, basic rules about the world. Like
+if there's a couch behind Dan,
+it's probably because he likes to sit on
+it or be because he likes it on the
+background. So
+there are little rules you can guess
+about
+you being as a data point and your couch
+being a data point.
+And then then there's you can try to
+create those kind of rules like for
+everything, right? For you navigating
+your apartment, there are little rules
+like you know, there's a kitchen for
+cooking, there's I don't know, bathroom,
+there's sofa, there's your bed.
+So that
+that understanding
+allows you to have your own mental
+world model
+for your brain.
+Um which helps you to understand your
+environment and if something changes in
+your environment, you understand the
+rules. Like if somebody brings you a
+different couch, different shape, you're
+still going to know what to do with it.
+So that's an example of how you can
+infer what to do with something new
+based on what you already know.
+So with with people it kind of comes
+natural because of the evolution and so
+on, but with AI, we need to teach it. So
+we need to like mimic that evolution.
+And what latent variables allow you to
+have here is like hey, let's look at the
+data, but let's also try to understand
+the data. Let's look at you know, if you
+deal with numerical analysis, we're
+going to look at all possible
+correlation functions
+and the model is going to be creative.
+It's going to try to figure out what's
+the total state of the energy and
+minimize and figure out the the laws
+about your data.
+Um but uh there are so many creative
+ways how you can infer those rules.
+What is uh so is is a latent variable
+equivalent to a rule in this scenario?
+Like uh if there's a couch in my
+apartment, I sit in it.
+It's not equivalent to a rule, but it's
+equivalent
+to
+something which holds the knowledge
+about the rules of your data.
+It's like a knowledge storage.
+So, it it it it has many rules in it?
+Yeah, you could have many rules. So, one
+variable has many different rules. Yeah.
+It's just like a knowledge data set
+essentially
+about your data. Is it an explicit data
+set?
+As in like does it have key-value pairs
+of rules or is it a uh It's It's in a
+form of energy landscape. It's just
+another energy landscape you you're
+going to navigate. So, essentially we
+take the data,
+we look at the data,
+we construct some sort of
+structure for AI to deal with the data,
+so it can start learning the rules about
+the data. And once it understands the
+rules, it stores its knowledge in the
+latent variables in the form of energy
+landscape and then we navigate that
+energy landscape later.
+Interesting. And like could it for
+example
+explicitly write out for me,
+theoretically, explicitly write out for
+me, here all the rules that I know or
+uh is it
+It It stores all It stores all of them
+in in this energy landscape, but
+&gt;&gt; Mhm. Yeah, we we can access that. We can
+access that. And that's what makes it
+what That's what like EBM potentially
+makes it
+um powerful for data analysis because
+data analysis is all about searching for
+patterns and rules about your data.
+So, and it's it's something where
+language is not going to be helpful to
+you. If you try to attach the rules
+about your data and those data is like
+numbers and some relationships and
+functions to like American English and
+words in American English and then you
+try to search for the next word that
+kind of like you're losing a lot of
+information.
+So, in this case you have an opportunity
+to just directly work with the data and
+understand the data.
+I think one of the one of the things I'm
+trying to understand is when I hear
+rules about the world and how things
+relate to each other, I think of
+symbolic AI.
+And
+I'm wondering and and and
+obviously
+those approaches ended up being pretty
+brittle and requiring too much compute
+and stuff like that.
+Um
+and I'm wondering how an energy
+landscape that acts as that is a
+uh that stores a bunch of rules about
+the world doesn't fall into the same
+problems.
+Um well, cuz I guess we avoid to
+tokenization. In this case, we just map
+it directly into different data
+structure. So, see EBMs are naturally
+non-autoregressive. Like there are no
+sequences of tokens and
+that's what makes it fundamentally
+different. So, essentially I don't know
+if it helps. There could be another
+analogy like you're trying to navigate
+uh the maze and you are LLM
+person. So, you have LLM brain.
+Um well, maybe maze is not a good
+example. Like imagine you're trying to
+navigate, I don't know, the map of San
+Francisco.
+So, and you have LLM brain. So, you're
+like, "Okay, I'm in Mission Bay.
+Let's me turn to Embarcadero." So, you
+cannot
+you cannot choose
+So, essentially you you just forced to
+choose one direction at the time.
+So, you're like
+choose to walk Embarcadero
+and you're just going to keep walking
+and walking
+and you can If you want to turn, you
+just need to choose one direction at the
+time.
+And imagine you're like trying to get to
+the Bay Bridge from like, I don't know,
+King Street. Like, you know, it's
+typically 20 minutes walk, but depending
+how you walk.
+So, to navigate there,
+you're sort of allowed to choose one
+direction at the time. You don't see any
+other options. You're like have tunnel
+vision.
+And you just kind of keep walking
+walking one decision at a time. And
+sometimes you take the wrong turns just
+because you hallucinate, you know, some
+words just naturally next to each other
+and it doesn't allow you to turn right
+when you wanted to turn you left.
+And then you just keep wandering and
+wandering
+until you try to reach the Bay Bridge.
+And the roads you take in might never
+take you there. Like there might be a
+hole in the road and you're just going
+to fall, but you And you might see this
+hole, but you cannot turn back
+because you're autoregressive LLM.
+You have to go into that hole and that's
+like sometimes you run out. So, this is
+the reason why sometimes we prompt it
+and it doesn't give you an answer. It's
+just because it's searching and
+searching and searching. It's spending
+more and more compute and it doesn't
+have a bird vision. It's just doesn't
+have ability to turn as it performs the
+tasks.
+It doesn't know what's right and what's
+wrong anymore. It just like randomly
+chooses one direction at the time and
+keep walking until it try to read it.
+So, you might never reach the
+destination.
+And that's why you need a lot of
+training. So, how is it different from
+the EBM? EBM going to have the bird view
+all the time and
+you're allowed to take different routes.
+So, if you see there's a hole,
+you're going to choose a different
+route.
+It may not look like it, but Dan Shipper
+is currently hard at work testing the
+latest Codex and Opus models.
+Working looks pretty different in this
+new world.
+We call this hammock mode.
+Whoop. Hammock mode's over.
+Looks like Dan has to jump in.
+Hammock mode, an idea by Every.
+Every, the only subscription you need to
+stay at the edge of AI.
+That's really interesting. It It
+basically I've doing been doing a lot of
+coding with language models recently to
+sort of test the limits of vibe coding.
+And
+one of the things that I find with
+or have found with big production apps
+is in particular if you have vibe coded
+something,
+you
+over the course of vibe coding it,
+you may have slightly changed exactly
+what is this project even supposed to be
+about. Um and what is the
+uh what are the problems that I'm trying
+to solve with it. And
+if you then go look at the code base,
+it feels like all of the code is locally
+correct, but it forms this sort of like
+patchwork of like hot fixes and
+solutions where if you
+zoomed out, you'd be like, "Actually,
+there's a much sim We should just throw
+all this out and there's a much simpler
+way to think about how to do all this
+stuff." Um but it it has a trouble
+it has trouble when it's presented with
+a lot of context then zooming down into
+okay, I need to create a unified
+solution here that is not a patchwork of
+different things, but like carries one
+concept throughout the entire system.
+And it gets sort of it ends up being
+distracted a lot by
+whatever it's looking at at the at the
+current moment. Is that the sort of
+problem that you think this type of
+system can help with?
+Mhm.
+Um there's actually a lot of problems in
+what you're describing. So,
+um yeah, so
+solving the problems with vibe coding is
+a one of our use case. Uh we're dreaming
+about generating formally verified code
+and automate the coding entirely. So,
+moving you from vibe coding in one
+specific language to coding in natural
+language. So, you can code in natural
+English for example and no more C++ or
+Python needs to be involved in there.
+So, that's an idea.
+And with the coding is like at the state
+it is today,
+um yes, we prompt LLMs and it gives us
+something back, but it's still on you as
+an engineer to figure out what's right
+and what's wrong.
+So, there's going to be set of rules LLM
+can try to help you and even if it has
+external verifier,
+um which just going to check whether
+your old logic in your GitHub space is
+sort of compatible compliant to what
+you're trying to create and if the new
+logic is compatible with your old logic.
+So, this things external verifiers can
+check.
+They could just say, "Hey, we know the
+old logic. We know the new logic. We're
+going to see how it's merged together.
+We're going to write mathematical proof
+making sure that, you know, this logic
+is compatible with what you already have
+and provide you a certificate. It's all
+like you don't have to review any of it.
+It's machine verifiable. It's all
+happening on compiling level.
+So, all it's going to say is going to
+send you a message in natural language
+like, "Hey, look, this part of your code
+is not compatible by logic.
+This is potentially how you fix it
+and this is the things we cannot fix for
+you. So,
+we're moving you from vibe coding to
+vibe code specifications. Those rules
+and information about your code is
+called
+code specification.
+So,
+once you
+understand
+like this this is the first problem,
+right? We're trying to solve which is
+logic in
+being compatible with what you already
+have. The second problem is
+is this code actually doing what you
+want it to be doing?
+And this is what AI cannot solve for you
+because AI cannot look in your brain and
+know what you want.
+Example would be like imagine you coding
+web coding autopilot. So you have
+specifications from the hardware
+perspective.
+You have specifications from your logic
+perspective.
+Like hey make it and there's also
+instructions, right? How the car is
+supposed to behave. So there's behavior
+parameters for your code.
+So
+code being able to be compiled is one
+problem. The second problem is is this
+code doing what you want it to be doing?
+So
+for example, how fast it is on the
+hardware and so on. And if the answer is
+yes,
+another set of questions is like okay,
+is it going to hit the pedestrian by
+chance? Is it actually going to navigate
+the map of I don't know, San Francisco?
+And the answer is I don't know, right?
+So in here you need to write a bunch of
+tests
+and and test your entire system you
+created. Like oh, is it overall behaves
+the way it was meant to be?
+And
+so this is this is another form of
+specifications, right?
+And
+essentially the behavior part sometimes
+can we can guess it. Like if we have a
+lot of data, we could have another LLM
+or EBM proposing you like okay, people
+who try to do the autopilot of this
+kind, this is what they're looking at.
+But it you might be doing something
+absolutely new and we just don't have
+data about it. So it's going to be on
+you to tell the behavior.
+And this is where the big
+the big thing starts for me personally.
+If you have LLM as a form of AI driving
+something important where people trust
+their lives like a car or plane or you
+know, similar.
+Um
+LLM can misbehave based because you
+cannot constrain it. It just
+hallucinates.
+And EBM can be constrained. You can come
+up with a set of constraints and EBM
+just forced to follow it.
+So it's on you as a human
+to make sure
+you know what you want for AI to be
+doing.
+And then from our end, from the
+technical point, we make sure AI always
+obeys the rules by given by human.
+So
+and it can go really far, right? We're
+talking about the cars and planes, but
+look back to the language. Sometimes
+model can say something super sensitive
+to
+mental person like struggling with
+depression and it can go really wrong.
+So even the language can be dangerous.
+So
+here we like
+what would I also like feel like we're
+solving
+is this problem of AI just sometimes we
+don't know how it's going to behave at
+different environments.
+Uh but we do know how EBM will behave.
+Like at least architecture is designed
+to be constrained and there are ways
+formally to force those constraints
+to be compliant.
+So it seems like you have a really
+promising architecture and a model you
+built or several models you built.
+And
+it's very different from the predominant
+paradigm right now where companies are
+pouring like hundreds and hundreds of
+billions of dollars into building data
+centers and training new LLMs and all
+that kind of stuff. What do you think
+about the
+current state of the industry and
+um investment in LLMs versus other
+models
+&gt;&gt; opinions about that?
+Oh, yes.
+&gt;&gt; [laughter]
+&gt;&gt; Um it's an ecosystem, right? Silicon
+Valley especially it's an ecosystem and
+there are lots of micro versions of
+those ecosystems around the world.
+So
+LLMs historically the first form of AI
+which gave us aha effect.
+Like 2021,
+2023 when those just they just started
+appearing people like oh my god, this is
+the new future. It's amazing.
+Um so this is why like
+people start believing that okay, if
+it's really good at talking to me,
+eventually it's going to be good at
+doing data analysis, my taxes and other
+stuff.
+So all the investment community start
+pouring money into LLMs.
+And there were a lot of money
+to be put in that back then.
+And right now people see that okay, we
+grow the compute.
+We trying to change the architecture a
+little bit and it's sort of reaching out
+plateau.
+And there's so much money already put in
+there.
+Like what do you do with this?
+Um it's like billions of dollars
+literally you can't just like forget it
+and like okay, you know, let's dismiss
+it. Let's pour money into something new.
+Nobody thinks this way. And we don't
+have probably enough money in this
+entire economy to like just make
+decisions like that. Billions dollars
+there, billions dollars there. For the
+AI specifically.
+Um so this is why
+it's so hard just for investment
+community just like take that step
+understanding like okay, this is not
+working. Maybe I invest into something
+radically new. And I'm not saying people
+don't do it. Like people do it. Just
+percentage wise it's my a lot smaller.
+What people feel comfortable is to take
+something LLM based
+which is changed a little bit. So it has
+a little bit of elements of novelty, but
+it's also LLM based. So they can still
+use the portfolio companies and so on.
+Um so they put money into that.
+And I understand because like
+if I were an investor, I would just
+always looked at what variables would
+give me risks and how can I reuse what
+would I already have. So it's naturally
+for you to keep investing into LLMs like
+architecture just because you already
+invested a lot in the past. You already
+committed to this.
+And maybe start investing a little bit
+into something new.
+Um and there's a lot of big tech
+companies who are a part of this
+ecosystem, right? So there's a lot of
+circular deals happening. Like those
+companies who create the LLMs,
+they create ecosystem for companies who
+creating data centers. And those who
+creating data centers, they have
+dependencies with the hardware industry.
+So it becomes like a one giant thing
+which is impossible to break.
+And when we came with alternative
+architecture, we like okay, let's not
+just try to put it as something out
+there radically different which you have
+to abandon LLM for.
+We we are very much compatible with
+LLMs. Like you could put LLM on top of
+us. EBM's compatible with transformers,
+transformers can you know, work with any
+LLMs.
+We can be that layer
+where still all your LLM
+investments valued. You want to make
+them cheaper, everyone wants. You can
+outsource the task to us related to
+spatial reasoning. Like if somebody
+comes to big tech LLM and say hey, can
+you try to do my taxes? LLM not going to
+solve this. But if it's attached to EBM,
+we can take care of that and you can
+take care of anything language related.
+So we can actually
+try experiments to reduce the cost for
+your LLM portfolio companies and be a
+part of the ecosystem which is already
+out there while we creating a new
+ecosystem on the side for alternative
+forms of AI.
+That's I think that's really smart. It's
+a great strategy. I'm really curious
+about something you said a little
+earlier that that progress is plateauing
+in LLMs. That's that's news to me. Like
+I feel like every
+month or two I'm testing a new model or
+I'm like holy this is actually way
+better. And it does feel like if you
+look at the top model companies, if
+you're you know, talking talking to
+OpenAI or Anthropic or Google, they're
+they feel like there's a lot of more
+room in the LLM paradigm.
+What do what do you think the what what
+do you think I'm missing or or the big
+model companies are missing?
+Um personally, you know, when I'm saying
+plateauing it doesn't mean it's like
+reaching out flat. It's like you
+incrementally better and better.
+But is there going to be another phase
+transition like another breakthrough?
+I don't anticipate that just because we
+already reached so much complexity of
+those networks using billions
+parameters, so much compute, so much of
+frameworks like creatively paralleling
+this
+uh reasoning processes and it still
+doesn't phase transition you.
+Um
+So the reason why I figure out
+it's not going to work in a long term
+for some tasks like applied engineering
+is when I just start speaking to
+different companies in that space.
+Like we're speaking to um
+like digital assets companies like
+banks, trading firms where a lot of data
+analysis is needed. Also drug
+discoveries, essentially just people who
+looking at a bunch of data, not just
+patients talking like language set of
+data, but also like their blood markers,
+their genes and so on.
+Um so a lot of this is data analysis
+which is still done by people today.
+Um
+there are also like
+decision making pipelines. Like
+sometimes you just need to distribute
+the energy on your energy grid. And you
+need to know how much energy to pump in
+your system. So what it means is you
+need to analyze the data in the short
+term and the long term, construct a
+prediction how much data
+I mean how much power you actually need
+to put into your system next in the next
+millisecond or second or an hour.
+And all of this is still done by people
+or a combination of people and some
+programs which are controlled by people.
+So, LLMs are relatively new and AI is
+like, you know, not relatively new. It's
+been like few years for us.
+And all of this mission-critical
+industry is still not automated by AI.
+And even like I'm just asking like, "Oh,
+how much of your data analysis LLM is
+doing today?" And the answer is zero.
+And I'm like, "Why? What's the issue?"
+And the issue is the big tech LLMs,
+they're mainly like B2C. So, it works
+for you, for your coding, and for your
+personal needs sometimes.
+But for businesses,
+they don't want to share their data with
+them. They don't want to share data in
+that big brain for all.
+They want to have
+privacy and they want to have their own
+custom AI, like custom version of AI
+specifically designed for their tasks.
+And this is what like LLMs cannot do for
+you in the form we have it today.
+So, there's no B2B model. There are B2B
+models for like code generational tools,
+right? Do you have enterprise package
+for the code gen for, I don't know,
+businesses, but
+it's still done by people. Even coding
+is still done by people.
+So, it's like it's interesting to see
+that there's still a huge gap,
+especially in applied engineering data
+analysis. Anything which requires a
+layer of verification, like LLMs are not
+there.
+I I I I totally agree with you that that
+there is definitely there definitely
+still a lot of gaps in LLMs. I'm
+curious, given this and and given what
+you're seeing in the in the customers
+you work with, the companies you work
+with, do you think the big model
+companies are sensitive to this? Are
+they working on energy-based models? Are
+you working with them? Like if if
+they're not going to get to the next
+paradigm, do you suspect that they'll
+start to adopt stuff like this?
+Um I do know that some big tech LLM
+models, I mean, the companies have EBM
+models in-house.
+So, which is a positive signal for us,
+right? So,
+um you know, the leaders who were there
+before we came, um they started with
+LLMs and now if they started building
+the EBMs after we started building the
+EBM, it's a positive signal, right?
+Fascinating.
+Um Eve, this is an incredible
+conversation. I feel like I learned a
+lot. Thank you so much for coming on the
+show. Appreciate you. Thank you, Dan. Of
+course. If people are interested in uh
+following you or uh following your
+company and maybe using some of your
+products, where can they find you? I'm
+mostly on X.
+Um yeah, we have Logical Intelligence
+account and my personal account on X.
+Um I'm still learning to be more active
+on social media.
+&gt;&gt; [laughter]
+&gt;&gt; Um we also have LinkedIn page, so we're
+trying to update it. Cool. Awesome.
+Well, thanks for joining. Thank you so
+much, Dan. Bye.
+&gt;&gt; [music]
+&gt;&gt; Oh my gosh, folks, you absolutely,
+positively have to smash that like
+button and subscribe to AI and I. Why?
+Because this show is the epitome of
+awesomeness. It's like finding a
+treasure chest in your backyard, but
+instead of gold, it's filled with pure,
+unadulterated knowledge bombs about
+ChatGPT.
+Every episode is a roller coaster of
+emotions, insights, and laughter that
+will leave you on the edge of your seat
+craving for more. It's not just a show,
+it's a journey into the future with Dan
+Shipper as the captain of the spaceship.
+&gt;&gt; [snorts]
+&gt;&gt; So, do yourself a favor. Hit like, smash
+subscribe, and strap in for the ride of
+your life. And now, without any further
+ado, let me just say, Dan, I'm
+absolutely, hopelessly in love with you.

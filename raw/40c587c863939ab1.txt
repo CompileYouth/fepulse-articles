@@ -1,0 +1,151 @@
+原文： https://www.youtube.com/watch?v=JXuwjGv2mCw
+
+So, I've been thinking a lot about
+Claude Mythos, like I just can't stop
+thinking about it. It's I can't get it
+out of my head. I need someone to
+explain to me what this actually means.
+Should I be freaking out about this?
+Welcome to Mr. Shipper's Neighborhood.
+[music] You may have heard that
+Anthropic just announced Claude Mythos,
+an AI model so intelligent that they
+can't release it because it's too
+dangerous. If you're experiencing a mild
+form of AI psychosis, here's a little
+PSA.
+Never make any major life decisions
+within 30 days of a meditation retreat,
+a psychedelic trip,
+or an encounter with a frontier AI
+model. Anthropic just dropped Claude
+Mythos, and and it seems pretty crazy.
+If you read their system card, which is
+like a couple hundred pages, it has all
+these stories of the model hacking its
+way out of sandboxes and posting on
+public websites and basically being such
+a such a cybersecurity genius that it
+found critical vulnerabilities in pretty
+much every major browser and operating
+system. Anthropic has deemed it so
+dangerous that they're not releasing it
+because they need the world to get ready
+before its capabilities are public. And
+X is pretty much breaking as a result.
+So, yeah, I mean, people are scared and
+rightfully so. I think AI is such a
+powerful technology
+that it would be crazy to think that it
+should only evoke one type of emotion.
+Even if you're someone who's really
+excited about AI like me,
+but I've been through enough of these
+cycles. I've been writing about and
+using AI for a while. I really started
+paying attention to it during the GPT-3
+days before ChatGPT came out, and
+all of the emotions that people are
+feeling right now are familiar to me.
+And I want to take a second to talk
+about what Mythos might mean, and why I
+think it's a big deal, but it's not
+quite as scary as you might think. So,
+the first thing to keep in mind is that
+our intuitions about new technologies
+are often just wrong. I know that
+there's a tendency in in
+in times like these to be like, "Well,
+this is different."
+But, I really know this feeling, and I
+know that people thought this about
+GPT-3 when it first came out. And GPT-3
+is has had an enormous impact, but a lot
+of my life is still the same now that
+it's a
+widely adopted technology.
+Another thing that's really important
+about Mythos and language models in
+general is that they're they have a
+spiky frontier. Just because a language
+model is super good at one thing doesn't
+mean that it's super good at everything.
+For example, Mythos is quite good at
+finding cybersecurity vulnerabilities,
+but I'd be really curious to test it on
+refactoring a production codebase or
+building the MVP of an iPhone app. I
+assume it's good, but is it
+10 times better than what's available
+now? I'm not so sure.
+But but I feel I feel fairly confident
+that even though it's more powerful,
+it's not going to be the step change in
+every capability that it is in
+cybersecurity. And let's say I'm wrong.
+Let's say it is that that sort of step
+change.
+What I've learned over the last 3 and
+1/2 years of covering AI and using it to
+build businesses and basically run my
+life, and I feel quite confident in
+saying that when you see AI progress
+like this, if you learn to ride the
+models, you learn to as they come out,
+understand their new powers, and
+understand how you how they might change
+your workflow and your life and start to
+adopt them, that you turn the model's
+power into your power. You know, you can
+think of these things as these spiky
+superintelligences that pop out of a
+box. They know nothing about what's
+happened in the last year, nothing about
+what happened 3 seconds ago, and they
+have to generate an answer for you one
+token at a time.
+And they're actually like really good at
+that, but it means that they're even
+though they're incredibly powerful and
+intelligent, they're a lot less flexible
+and adaptable than humans are. They
+don't learn from new information.
+And if you're using them, if you're
+riding on top of them, you're learning
+new expertise that the models don't
+have. And for me, that is what makes me
+excited about new model progress. It's
+not that there are no problems. It's not
+I think it's probably a good thing, for
+example, that Anthropic hasn't just
+dropped Mythos on the public without
+trying to mitigate it the harmful
+consequences of of of its powers, but
+another way to view AI progress is that
+all these models become an extension of
+your power. And that they actually need
+you in order to do anything at all.
+They're not
+they're not alive in the same way. And
+and what that does for me is it helps me
+feel like, "Oh my god, I get to use this
+stuff." Not like, "Oh my god, I I have
+to I have to try this stuff, otherwise
+I'm going to lose my job." So, what I'd
+say if you are if you're scared or sad
+or otherwise losing your mind about
+this, is take a walk.
+Touch some grass, and start using these
+tools to
+do whatever it is that's valuable for
+you, whether that's coding or writing or
+designing. If you just ride the model
+progress, you're going to be fine.
+It's actually going to be really good.
+So, next time this happens and a new
+model drops, just remember, never under
+any circumstances make any major life
+decisions within 30 days of a meditation
+retreat, an ayahuasca experience, or an
+encounter with a frontier model. See you
+next time on Mr. Shipper's Neighborhood.

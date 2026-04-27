@@ -1,0 +1,1523 @@
+原文： https://www.youtube.com/watch?v=VIF5Fm8NdE8
+
+We couldn't have got more square in like
+the bullseye of Microsoft. They turned
+the entire company against us.
+&gt;&gt; This is James Everingham, former head of
+engineering at Instagram with experience
+across many companies, including preIPO
+Netscape.
+&gt;&gt; People were going to use a superior
+solution, right? Nope. Microsoft's like,
+watch this. It's not a technology war.
+It's a distribution war.
+&gt;&gt; At Instagram, he worked closely with the
+CTO and co-founder, Mike Kger.
+&gt;&gt; Mikey brought me in. The engineering was
+hitting about 100 people. It's a common
+place where teams start to break.
+&gt;&gt; He shared many interesting stories
+across his 30-year career.
+&gt;&gt; I remember telling my product partner,
+Kevin Wheel, at the time, hey, I think
+I'm going to go do this. And then like
+the next day, he comes in, he goes, I
+think I got to go do this, too. What?
+&gt;&gt; When you look back on your whole career,
+is there any career regret?
+&gt;&gt; Yeah, there's a lot, actually.
+&gt;&gt; Here's the full episode.
+I kind of got kicked out of college when
+I was uh uh just starting out when I was
+18, but they hired me two weeks later as
+a full-time computer scientist. Like um
+&gt;&gt; and that's good.
+&gt;&gt; No, this was like early in my career
+like you know like I was 18. I was in
+college. I didn't go to my classes. I
+was just programming my computer. Um the
+library library computer information uh
+at Penn State started using my software
+that I uploaded.
+Um, and uh, they learned I was local, so
+they they actually had me come in and
+uh, they wanted me to come in and
+actually help them with migrating all
+their mainframe stuff to PCs. Meanwhile,
+uh, the computer science program, I
+didn't go to any of my classes, so they
+kicked me out.
+But totally like the left hand, not
+knowing what the right hand was doing,
+like they they were like, "Hey, we want
+to offer you a full-time staff
+position." And I was like the first
+person hired at the university in over
+50 years without a degree in a full
+staff position. I had to call up my mom
+and tell her this, you know, like, "Hey,
+I got bad news and good news." And she
+start crying, you know, like when she
+learned I got kicked out.
+&gt;&gt; So, am I understanding correctly? They
+they booted you as a student and then
+they hired you as a full-time.
+&gt;&gt; They full-time kicked me out. They sent
+me a letter saying, "You need to
+re-evaluate your educational goals so
+you can reapply later." But like you I
+literally got a 0.0.
+&gt;&gt; Oh my god.
+&gt;&gt; I literally didn't go to any of my
+classes. Like I was just programming at
+home and uh totally, you know, um was
+was was working on this software that I
+was like obsessed with. I was all night
+working and I was uploading it. It was
+open source at the time. It was called
+Sharewware.
+And um the university just randomly got
+a hold of it and was using it and they
+were like, "This guy's local. Let's
+let's get him in. we don't have anyone
+with this expertise. So, end up working
+for the university for years.
+&gt;&gt; That's so interesting. When you when you
+got booted and hired at the same time,
+was that a positive like a net positive
+for you or is that
+&gt;&gt; Oh, unbelievably. So, it was like, you
+know, I basically was able to go and
+like I I did was interested in learning.
+So, like I ended up taking pretty much
+all the computer science classes that
+the university had over the next few
+years. And and I never got a degree
+because I never took any of the
+electives. But I I had like
+150 credits of like advanced compsai
+because I took them for free. I was
+staff. I could just go take argue with
+me. They couldn't even say like you
+can't go into this class. Some of them
+were honors classes and you had to be an
+honors student or staff.
+&gt;&gt; You didn't get the degree, but you got
+the education.
+&gt;&gt; I did. I It was more of a Yeah, I I did,
+but I I can't say that I learned the
+most from school. It was more from you
+know uh from from from going off and
+like pursuing like my software you know
+my my curiosity outside of the
+university because you know I worked
+there for two years and people started
+kept sending me money for this like open
+source software. So I'm like I'm going
+to quit and start my own company and
+just go do this. So uh I did that you
+know I left university and started my
+first company when I was 20.
+&gt;&gt; You said open source and in my mind
+that's GitHub. Oh yeah. No, that this
+was a very different world back in the
+early 80s. This was like you write code
+and you would use a modem and you'd
+connect to a bulletin board and you'd
+upload your code and it was called
+shareware freeear at the time. Um and
+then people would go on these bulletin
+boards. It was like, you know, one user
+per bulletin board. you had to sit there
+and redial until you could get your
+chance to connect and and you could
+browse, you know, it was like I'm
+talking like 1,200 baud, you know, like
+you can almost read the characters and
+then you'd find the file and then it
+would take, you know, sometimes a half a
+day to download you. I mean, a very
+different time.
+&gt;&gt; I see. Oh, so you you would connect to
+some shared server that was horrendously
+slow.
+&gt;&gt; It wasn't even shared. It was like
+bulletin boards were sort of these like
+um uh you know I ran one too. So it was
+like uh this this system that was
+running on someone's computer in their
+house um with a single modem and a
+single phone line on it and you would
+connect to this and then you could use
+it. And then the way these com like if
+you wanted to send a message, some of
+these were like networks and um the way
+they would work is they would all shut
+down at like one in the morning and
+start calling each other and syncing
+their messages. So like there was like a
+few hours a night where they were just
+doing that. This was like early. This
+was like wild west.
+&gt;&gt; Yeah. I mean I can just imagine all of
+the security potential security
+vulnerabilities from
+&gt;&gt; Oh well it was a whole different time.
+Yeah. Of course. Yeah. It was it was
+security wasn't a thing back then and
+you know like that was I was a hacker
+right that's how I got into it too is I
+was writing software that would take
+over the phone systems when I was a
+teenager the FBI showed up at my house
+and asked me to stop
+how did they find you
+&gt;&gt; they traced my number I was like a kid
+oh there was two things um one they
+traced my number but the other thing was
+I wrote hacking software and uh I was
+like 16 when I wrote this and I was
+proud of my software and so I put my
+name on it.
+&gt;&gt; Okay. Okay. That sounds fun.
+&gt;&gt; You can go still search the internet and
+you'll find it. So
+&gt;&gt; what did it do?
+&gt;&gt; It allowed you to completely take over
+an operator's phone line. Like you could
+uh you could blow using frequencies. At
+the time it was called freaking and like
+I had a Commodore and the Commodore had
+this like multi- sound chip so you could
+generate two tones at once and uh you
+could basically call and blast 2600
+hertz into an operator line if they were
+on the right system and it would
+literally blow off the line and uh then
+um the keypads generated different tones
+than a regular touch tone. So you had to
+have those and there were a couple extra
+keys KP and ST. So you had to have these
+extra keys and know then the sequences.
+My software emulated all those
+frequencies, did the 2600 tone, and then
+um had stuff built into it to allow you
+to do anything an operator would do.
+Like you want to listen in on somebody's
+conversation, you could do that. You
+could do free phone calls.
+&gt;&gt; When the FBI showed up on your doorstep,
+is that who answered the door? Is that
+you or your parents?
+&gt;&gt; Okay. Did she know what was going on?
+Well, um, she knew it was for me and she
+so, you know, she I was a concern like,
+you know, she was the she didn't
+understand what a computer was. Like I
+didn't either at the time to be honest.
+I thought I was wasting my life and she
+was like that you're down on that video
+game. You're not doing your schoolwork.
+I was like, well, I did not know she was
+wrong. So,
+&gt;&gt; at the beginning of your career,
+something stood out to me. I saw
+Netscape and I know Netscape is super
+famous for the first iteration of the
+browser wars and I was curious because
+you joined so early. What's the story
+behind you joining and what was it like
+at the time?
+&gt;&gt; Like it sort of goes back to like how I
+got to California in the first place is
+like I um there was a company called
+Borland back in the day that was it was
+sort of like where all the good
+engineers were uh in the valley and they
+wrote Borland C++ and Turbo Pascal. They
+were a languages company. They were
+being um um they were probably the main
+competitor back in the early 90s uh to
+Microsoft and uh I learned on Borland
+tools. So, you know, I got a call
+because of my open source software that
+I had. They had seen that I was building
+developer tools. So, they they recruited
+me to come out and interview. I didn't
+think they'd hire me, but they did. And
+um uh so I went in there and uh I worked
+there for years. And uh when Netscape
+when Netscape uh first came on my radar
+uh it was through Borland some Borland
+colleagues that went over um mainly my
+close friend Lloyd Tab who went on to
+found Looker uh and uh he recruited me
+over and you know it was probably it was
+probably like some of the worst judgment
+that worked out for the positive for me
+ever because Micros Microsoft was just
+beating beating us up bad at at Borland.
+Like they were, you know, Visual Studio
+came out and like they were competing
+with everything and we were just losing
+market share layoff after layoff and I'm
+like I got to go get out of Microsoft's
+way. Like I I I'll go join this little
+internet startup. You know, Microsoft
+wants nothing to do with that. Turns out
+that was pretty that was wrong. like we
+got we kind of got square more square in
+like the bullseye of Microsoft. They
+turned the entire company against us,
+right? Like they they were they were
+off, you know, building uh building the
+browser into the operating system and
+all these things that were just almost
+impossible to compete with. And it ended
+up being a pretty intense time. But it
+was Borland. You know, like one of the
+things I think that's interesting about
+my career and I think it's a good
+pattern for others is like you end up
+building great relationships with people
+and company um and uh that opens up
+doors and creates opportunity for you uh
+later in your career. So Laurland, you
+know, building great relationships
+there, took me to Netscape, which
+honestly even my current company, Guild,
+that I have three people that have been
+all along that journey all the way since
+Netscape with me and we've done five,
+six companies together.
+&gt;&gt; Wow. Six companies.
+&gt;&gt; I Yeah, I think when you're like kind of
+going through your career, a lot of
+people they give you that advice. they
+say, "Yeah, you should network or you
+should kind of," but uh and the
+immediate action item is like, "Oh, do I
+do I start talking to people? Do I start
+I don't know, do coffee chats? I don't
+know exactly what, but if you were to
+sum up your understanding of what good
+networking is for someone who's in tech,
+what what does that look like?"
+&gt;&gt; Yeah, I you know, it looks different now
+to me than than than when I was younger.
+And I wish I I had this filter when I
+was younger, but like one uh I think
+people that ask a lot of questions um
+going in and are curious, it's a great
+way to build relationships in a in a
+company. Um when you're first starting
+out your career, and I was the same, is
+like I wanted good mentors around me.
+And um my my my good buddy Lloyd, who I
+already mentioned, like he has the best
+advice. And it's like look if you want
+to find a mentor don't go and ask
+someone hey I need a mentor go offer
+them help like hey you know how can I
+help you and it will naturally uh uh
+evolve into a good mentorship for you
+like so try to be useful to others um be
+curious about others work don't be
+afraid to speak up in meetings like just
+start just start talking and listening
+and um I think that it's important to
+build this network and uh or at least
+you know don't don't make enemies right
+it's like uh I think that there was a
+quote I can't remember who said it it
+might have been Bill Gates but he might
+have been requing is like you know
+friends come and go but enemies collect
+and uh you know I think that's something
+to that like you know build good
+relationships and don't burn bridges you
+know uh I remember sitting at Netscape
+the the people sitting around me like
+even you know John G and Andrea sitting
+right next to me building the plug-in
+interface. He now reports to Tim Cook
+running all AI at Apple and you know he
+ran all search at Google and you know
+the next person you know my my first one
+of my first college hires went on to
+found a company and sold it for 400
+million a few years later like the
+people that you're sitting next to are
+going to look a lot different in 20
+years. You mentioned Netscape and I was
+when my research I saw that the company
+went from just starting to IPO in 16
+months and in today's market I feel like
+companies wait a lot longer for for IPO.
+What was it like at the time and why did
+it IPO so quickly? That was a crazy
+ride. Like first off the the rapid
+scaling was insanity even by any
+standards today. I think when I started
+there you know there was about 150
+people total. Um but that the
+engineering team was incredibly small
+compared to that. It was not um majority
+engineering at that point. Um I think
+within a year we were over 3,000 people
+&gt;&gt; within a year.
+&gt;&gt; Yeah. So I I worked seven days a week
+and like there was a time where I took
+two days off and I came back in and
+there were people sitting around me. I
+had no idea who they were. I'm like it
+was just like a a parade of people
+coming in sitting. It was complete
+chaos. So uh yeah. So that went very
+quick. But like on the IPO question, um
+I believe that was September 9th as like
+sort of a day that sticks in my head of
+1995.
+I was there preipo.
+uh looking forward like there are a lot
+of it was a lot of less regulation back
+then you know you didn't have Sarbain
+Oxley or any of these things that like
+would prevent you from going public it
+was a way to raise more capital um if
+you had a good story you could go out I
+mean there was a crazy stream of like
+the dot bubble is crazy IPO after IPO
+right like and everyone was just buying
+stock that was a web company, they
+didn't care what it was because they
+wanted to get in for the IPO. And a lot
+of people didn't do well with that. You
+know, if you bought Web Van or, you
+know, one of these I even saw I even saw
+a company that was formed to to ship
+potatoes, like it was like potatoes
+direct or something. It's like, wait,
+you're you're going to charge a hundred
+bucks to FedEx a bag of potatoes? That's
+your business. But people were like
+investing in this stuff. And um so the
+they decided to come in and put some
+regulation around that which was a good
+thing. So you know now and the
+competition there's a lot more companies
+out there competing and people know that
+you need to have real revenue. You need
+to be able to predict what that is going
+to look like in a year. You have to show
+steady growth. So that's evolved into a
+space that is a little more organized, a
+little more governed, and a little more
+sane these days.
+&gt;&gt; You you mentioned that you you left your
+previous company to get away from the
+competition with Microsoft. And and then
+I understand that Netscape's like one of
+the most famous competitors with early
+Microsoft. And I want to know like when
+you got to Netscape, at what point were
+you realizing, oh crap, we're competing
+with Microsoft? It was pretty quick.
+Like we got in there and suddenly, you
+know, Microsoft put out this um big like
+uh communication saying like this is an
+existential threat. You know, they
+looked at us like an operating system
+and people were going to start using web
+applications instead of shrink wrapped,
+you know, operating systems and uh
+software that they sold.
+Um, you know, interestingly though, uh,
+it ended up the the thing that they were
+afraid of ended up actually making them
+one of the biggest companies in the
+world because it expanded like they
+adapted well. It expanded uh, the market
+so dramatically that they, you know,
+they were able to offer services,
+reinvent and do all that stuff. But it
+came pretty quick. And uh you know our
+mistake was my big mistake a big
+learning for me was uh I was um working
+on this browser and I kept thinking like
+look um we're going to build a better
+browser the technology is superior and
+it was for a long time it was like and I
+was like so people are going to use a
+superior solution right nope Microsoft's
+like watch this it's not a technology
+war it's a distribution war and we're
+gonna just bundle this and give it away
+and people will not use your stuff
+anymore. And that's literally what
+happened, right? Like people didn't
+didn't care once, especially when like
+the quality became pretty equal, right?
+Like if you have two products that the
+quality is pretty equal, people are
+going to just use the one that's the
+default. There's no reason to switch.
+&gt;&gt; Okay?
+&gt;&gt; And that's how Netscape made money. We
+sold these browsers, right? That was our
+original model. Like we sold these, they
+were like 35 bucks. We were growing
+fast. and then Microsoft gave it away
+and instantly killed all the revenue
+going to Netscape uh for the browsers.
+&gt;&gt; What was the the internal reaction at
+Netscape among you and your peers when
+the competition was happening?
+&gt;&gt; At first like we felt like we were on a
+mission like the engineers we felt like
+we were on like this mission of
+interconnecting the world and bringing
+it. So like we were really focused on
+that. So on one way it was validating
+like oh you know this is a big space
+Microsoft sees it but on the other hand
+it was like completely depressing and
+stressful. It's like okay they just gave
+away our product. What do we do? Um
+uh luckily you know we had the Netscape
+browser would default to netscape.com.
+That was like the landing page and we
+had a tremendous amount of traffic. So
+we started monetizing netscape.com as
+the first like web service and added
+like email to it like webmail and things
+like that and so that started actually
+filling that gap but we had to invent
+that on the fly and it was a stressful
+time to get there. I I was reading the
+Wikipedia page about the browser wars
+and I saw like a really interesting part
+about the competition. It said in 1997
+September they launched Internet
+Explorer 4 and on the release they they
+put a a giant E logo somewhere in San
+Francisco and it says Netscape employees
+showing up to work the following morning
+found the logo on their front lawn
+paired with a greeting card signed best
+wishes the IE team Did did you work at
+the office and see that that happened?
+&gt;&gt; That was literally that wasn't in San
+Francisco. They put that on the front
+lawn of our office, the one I was in.
+So, uh so yeah, they went and put this
+big I mean it was it was friendly
+competition in one way like you know
+because the valley engineers move
+around. So there was a bunch of my
+Borland colleagues were at Microsoft and
+there was some friendly rivalry but like
+you know it was interesting that they
+did that and I actually know exactly the
+person who did that and um um yeah I
+believe that was hottie parttovi and uh
+when I went to after Netscape I went to
+networks hottie and I were uh you know I
+worked with hottie directly like he We
+we were both running parts of
+engineering. Um I actually reported in
+initially to Hottie and we would just
+basically tell stories about like yeah
+we were doing this and he was like he
+was running IE so and I was running the
+Netscape browser so we got to tell these
+these stories back and forth.
+&gt;&gt; Yeah. So the I guess the story goes is I
+mean the superior technology didn't work
+for Netscape and the distri distribution
+advantage that Microsoft had was too
+much and so ultimately Microsoft ended
+up winning. I saw that Mosilla was
+created because Netscape just gave away
+the technology gave away the browser.
+Why would Netscape choose to give the
+source code away?
+&gt;&gt; Sure. It was a bold move at the time and
+I believe uh the person who originally
+suggested it was Jamie Zinsky and uh um
+and also known as JWZ and like he's he's
+pretty well known out there. But um so
+here was the thing we were outresourced.
+We were a small company compared to
+Microsoft. You know, we had dozens of
+engineers working on the browser. They
+had thousands. Like you know, it was
+very hard to compete. So, we're like,
+how do we completely change the game?
+And like, why don't we invite the world
+to help us? Like, we're on this
+righteous mission to like um open to to
+to make inter, you know, make people
+connected and share information. So, why
+don't we give away the browser? Let's
+give it away. Let's open source it and
+invite the world to come in and help.
+That was the only way we could see of
+engaging thousands of developers to to
+come help. And uh it was a lot of work
+to get there, right? And and it did
+work, right? Like Mozilla became the
+foundation of
+lots of components that had made it into
+Chrome and there was Firefox and you
+know still going strong. So uh you know
+in one way that did work
+&gt;&gt; but it was hard getting there. Like the
+story is even open sourcing the code. Uh
+I mean we had you couldn't even like
+distribute SSL source code back then. It
+was like deemed a munition by the
+government. So we had to not only remove
+SSL from the open source version, we
+couldn't even like show how the APIs
+would work. So we had to obfuscate APIs.
+And then we were a bunch of, you know,
+young idiots working on the source code.
+So we had like swear words in it and
+like inappropriate variable names. So we
+had to like print out all the code and
+go through it with like highlighters and
+like censor our own code.
+&gt;&gt; Uh why didn't you just GP the code for
+bad words?
+&gt;&gt; Because you don't know what they are. If
+you have a a variable named G G Netlib
+breeding like bunnies, like how do you
+GP for that? Literally, that was a
+variable name. So, you know, so like we
+had to go through and and and make sure
+like it was something that wasn't going
+to get us trouble sharing. Funny story,
+I think JW's Jamie um he saved all the
+censored code and then he released it
+all. So, like it's you can go out there
+and find all of the censored code from
+from that.
+&gt;&gt; Oh, that's funny. What you you mentioned
+the government deemed SSL
+um like a munition. What does that mean?
+&gt;&gt; It meant that it was like um uh a uh a
+dangerous technology like if people
+could encrypt stuff and and uh and the
+and and the government or or you know
+legal authorities couldn't ever un
+encrypt it. So back then even like very
+small levels of encryption were
+concerning and we couldn't distribute it
+because like people could weaponize it
+if they got a hold of it. That was the
+theory.
+&gt;&gt; And before we leave this part of your
+career, is there any any like um I I
+guess lesson learned or you know
+favorite other story that you'd want to
+share otherwise we can go on. Um, you
+know, I think the lessons learned there
+is like when you're joining when you're
+joining a company, like understand what
+what the actual who the competition is
+and what the war is. You know, I think
+that's interesting, especially today,
+right? Like everyone's fighting to win
+the AI wars. Like what does that mean?
+And what is the war? Is it a technology
+war? Is it a data war? Is it a
+distribution war? Like what is it? you
+know, maybe maybe maybe maybe
+uh back into like uh your career choices
+from that level of understanding.
+&gt;&gt; If I'm understanding correctly, you're
+saying like as an engineer even, you
+should be thinking almost like an
+investor like where which company you go
+to because there's much more outside of
+the technology.
+&gt;&gt; That's right. think about I think that's
+a good way to look at it is like you
+know look if you know when we're young
+we probably don't have a lot of funds to
+start going investing in in companies so
+we invest with our time you know we get
+stock uh often as a compensation you
+know for our time so like look look at
+your portfolio and see where you're
+overweighted and you know if if that's
+your goal um you know I think that's a a
+reasonable way to look at it
+&gt;&gt; later in your career I saw that you
+joined Instagram and actually when I I
+worked at Instagram in the past, you
+were the head of engineering when I
+joined as a newrad and um yeah I kind of
+want to uh ask a little bit about that.
+So how did you get hired there? Was it
+based off your network like you're
+saying or did you go through some other
+process?
+&gt;&gt; Well this is a great example of um of of
+sort of failure leading you uh to a
+place that's better. Right. So, like I
+went and I I founded a company called
+Luminate. And uh Luminate I worked at
+for six and a half years. And basically
+it was Instagram shopping by the way. It
+was uh it was that product but for
+publisher sites and we we worked a long
+time and we couldn't get it working. Now
+one of my board members was this um was
+Elliot Shregg. Elliot reported to um I
+believe to Cheryl at the time and uh and
+uh he was on my board when I sold the
+company. I sold it to Yahoo and um but
+Instagram actually tried to buy it. So I
+met, you know, Emily White and Mike Kger
+and stuff briefly.
+Um I committed to only one year at
+Yahoo. I had I was very good friends
+with the chairman of the board. Um and
+uh so he convinced me to go there and
+help. And uh one year came up and Elliot
+actually uh reached out and said, "Hey,
+Instagram's still looking. Would you
+please just come and talk?" and he
+didn't know it, but like I had been
+talking to other companies and I had
+verbally accepted a pretty large
+position and uh but I had to go I had to
+go I had to go meet just because it was
+Elliot and he wanted me to talk and then
+when I so I went in and I met um Mike
+Mikey again and uh some of the other uh
+people and I'm like oh this is the job I
+want this is like this is the call like
+the values were clear
+um I was passionate I realized I use the
+product. I'm like, I actually use
+Instagram. The company I was almost
+going to go to, I don't even use. Um, I
+think at the end of the process, I
+probably would have paid to take that
+job, but I wasn't going to tell them
+that. But, uh, it was a job I really
+wanted. So, uh, so it was my network.
+Um, it was the timing. It was like my
+previous company that I couldn't make
+run that like ran out the runway to make
+that timing perfect for me. It was my
+experience working on image stuff at the
+previous company that sort of was also
+helpful.
+&gt;&gt; When when I think about an employee in
+big tech, often times when people
+consider starting their own company, the
+thinking is either that company's going
+to succeed and obviously that's great or
+the company will maybe not do so hot and
+I'll just come back to where I was. But
+it seems like I've seen in other many
+careers, it seems like yours as well,
+that even if it's not a incredible IPO
+success, there's this middle ground
+where companies get acquired and then
+you can come in at very high roles. Like
+someone might have left uh I guess the
+the the big tech companies at like maybe
+a middle role or something like that.
+they start their company, it goes not
+good enough for breakout success, but
+they're a leader at that company and
+they get, you know, hired back in at
+like a senior leadership position in big
+tech. And I was curious, what's the the
+mechanism for like the level that you
+come in at when you enter back after
+starting your own thing?
+&gt;&gt; So, there's a lot of those, but like you
+can't I mean, it people aren't going to
+bring you in at a senior level unless
+you can back it up, unless you can show
+your experience. uh even though I came
+from a smaller startup and uh and went
+into Yahoo and I went from 15 engineers
+to a,200
+or something um I had previously ran
+large organizations you know at Netscape
+and you know tell me was even pretty
+large so I had that background already.
+&gt;&gt; I interviewed Ryan Olsen he's one of the
+original
+&gt;&gt; I know Ryan well. Okay, great. Yeah. And
+so we were talking about Instagram
+stories and he mentioned something
+really interesting in that project which
+was that actually when the project
+started
+you immediately kind of cut the size of
+the team almost in half or significantly
+just down to like Ryan Olsson a few
+other people so that the the project
+could move faster and he said that was a
+big part of the project's success and
+you were the head of engineering at the
+time so I was curious if you had any
+thoughts on what did you see that that
+made that a good decision at the time?
+&gt;&gt; You know, Instagram stories was uh an
+interesting thing. Now, like your
+natural instinct is like, hey,
+Snapchat's gaining traction and like we
+need to go do what Microsoft did, turn
+the whole company against this. But
+really, this is where your
+entrepreneurial skills come in. It's
+like, hey, what we need is a small team
+that can move really fast. So like you
+want to set it up so that uh you have
+really capable people, you have the
+right types of engineers who are very
+proactive and then you remove any
+roadblocks from them. So you give them a
+separate you give them a separate uh
+area where it's not dependent upon like
+you know uh uh deep deep APIs and
+blocking points into other
+organizations.
+So you set it up so that they can move
+fast and uh that if that's so we did
+that purposely, right? And uh I think it
+was like three months we had
+uh it was a three-month project. We went
+from zero to releasing stories, you
+know, and uh it was a pretty big
+success.
+&gt;&gt; But I I think maybe a lot of managers
+might naively think, oh, competitors
+coming, we got to move fast. That means
+throw a lot of engineering resources at
+it. So here's here's a 20 person team go
+as opposed to it sounds like you have a
+different philosophy here which is a few
+a small talent dense team.
+&gt;&gt; That's right with with founders leading
+it directly like you know Kevin and
+Mikey were heavily involved and you know
+brilliant product thinking and execution
+at that level as well. you know when you
+get you get a small team that's capable
+and you give them clear ownership and
+you remove dependencies um that is one
+way to increase speed. So if you get a
+large team they tend to be
+interdependent. You start federating
+large pieces of architecture and pretty
+soon um you know those dependencies end
+up slowing you down. Uh so I think the
+small if you sometimes it's better to
+start with something small and build on
+it rather than trying to build the big
+thing at the beginning and uh evolve it
+over time. And that's sort of what this
+was is like let's get it working. Let's
+get it stood up. let's get this thing um
+uh working and then plug it into the
+product and we'll scale it instead of
+like what does this look like at large
+scale and let's build that from assuming
+that um that that ends up often being a
+way less efficient way to get something
+done and it's definitely a lot slower.
+Mikey Kger had like and it was the name
+of my conference room um uh uh it was
+called uh this value that he said do the
+simple thing first. I don't know if you
+recall this, but like,
+&gt;&gt; hey, you know, like if we're going to go
+off and we have a thesis, like before we
+go off and just pour the whole company
+in it, what's like the simplest hackiest
+thing we can do to go prove this thesis
+true? And you know, that was sort of
+part of the values of that of Instagram
+is like what is what's the simplest
+thing we can do to go prove this thesis
+before we scale it? you were hired as
+the the head of engineering and at the
+time Mike Kger was still the the CTO
+there. What are the differences between
+that CTO role and the head of
+engineering role and how did you partner
+with Mike Kger and what what went well?
+What didn't?
+&gt;&gt; Yeah, so Mike Mikey brought me in that
+the engineering was hitting about 100
+people. It's a common place where teams
+start to break and uh Mikey's brilliant.
+who's actually a really gifted manager
+too, but he just didn't want to do that
+and uh he wanted to focus on the
+technology and and even coding. That was
+his true joy. So he brought me in. He
+was so the initial confusing things to
+the team was like what are our different
+roles like you know what who do I listen
+to? I'm used to getting directions from
+Mikey. So you have to be pretty clear.
+So the first thing that we did is like
+we wrote our job descriptions and we
+published them to the org. And so you
+know and classically a CTO is like works
+with customers um new technologies uh
+works on the product the technology
+roadmap
+um experiments all of these things
+builds the external engineering brand
+and the VP or the head of engineering is
+usually a people management thing. It's
+like hiring um execution um org
+structure you know performance reviews
+all that fun stuff right and so think
+technology uh roadmap for CTO think
+process people staffing execution with
+the VP of so we published that and we
+even came up with like flowcharts like
+hey I want I want you know we we put it
+out to the team we're like hey I want to
+I want five more headcount go do this
+project and it's like come to me hey you
+know I want to use this new technology I
+think it would be cool go to Mikey so
+like we we also put like a road map out
+there and then it took some evangelism
+you know like hey you know to to get get
+people to learn where to go for what
+they needed people often confuse this by
+the way you know it's like people
+confuse the difference between a CTO and
+a VP of like I get called into a lot of
+companies saying hey we need a new CTO
+and I'm like why what's breaking and
+they almost always describe VP of
+problems. I'm like, I don't think you
+need a CTO. I think you need a VP of
+a very different person.
+&gt;&gt; As we kind of wrap up this Instagram leg
+of your career, is there anything that
+you think I might have missed or kind of
+like lessons that you learned from this
+part of your career?
+&gt;&gt; Yeah. No, you know, I I I think that the
+one thing that I remember is like, you
+know, when I came into Instagram, uh it
+was a different company. you know, uh,
+everyone's nervous when they go into a
+new job. And, uh, they brought me in
+right when engineering teams start to
+break, but like these weren't breaking.
+And I was very confused at the
+beginning. And I was starting to feel
+like I was a dinosaur. I'm like, wait,
+you know, this is all working. This
+isn't breaking. Like, what kind of
+management voodoo is going on here that
+I don't understand? And then about 150
+to 200 engineers, it started breaking.
+And I'm like, oh, wait. They're these
+people are so smart. They're able to IQ
+their way past like that normal barrier
+because what usually breaks is
+communication lines like uh you have to
+hold a lot of the stuff in your head,
+use face familiarity with people. It's
+called, you know, Dumbar's number, all
+that stuff. But like the people were
+just so gifted and smart at Instagram.
+Um they were able to IQ past that. Plus
+the great thing, the reinforcing thing
+about Instagram was the best software is
+built by people who use it. And like
+everyone in Instagram was a power user,
+right? Like and even if you go back to
+Boomerang, do you know do you remember
+Boomerang? Uh when it first came about,
+it was I think it was an intern. Tim
+Leonardo I think was the intern. He went
+and built it as a hackathon in like
+three days. Like one of the most
+engaging features that Instagram
+released was a hackathon built by an
+intern in three days. Like it's just
+amazing to work in a team where you're
+the primary customer and you're building
+stuff for yourself. So anytime you can
+do that, like that's awesome. Moving to
+the next part of your career, I saw you
+I remember when I joined Instagram, all
+these very high-profile people were
+leaving Instagram to work on Novi. It
+was the hot hot project at the time. I
+was thinking, "Oh, wow. this this new
+crypto thing must be really big and so
+yeah what drew you to working on Novi or
+the crypto project at at Meta and what
+was the impact you saw in it
+&gt;&gt; so inside meta I had met David Marcus
+David was running um messenger at the
+time and we had just met but he's like
+hey I want to I want to run something by
+you and I went and he was like
+don't tell anyone but I'm going to leave
+Messenger and this is what I'm going to
+do and this is my first meeting with
+David and he's like, "I've heard good
+things about you. Um would would you
+consider coming and running the
+engineering aspect of this?" And um he
+was selling me this crazy crypto story
+like and I loved Instagram, right? And
+uh I was like, "You're insane." Like
+that's a crazy thing. Why would I go
+join that? And like I just couldn't get
+it out of my head. And then like the
+next day it started hitting me like, "Oh
+wait, this is an area for impact." And
+uh so I went back the next day and David
+was kind of grinning and he was like, "I
+knew you'd be back." And he's like, he
+called it, he's like, "I call this the
+mental virus." He goes, "It takes about
+24 hours for to infect people and then
+they get it." And I was like, "Darn you,
+David." And uh long story short, I'm
+like, "Okay, I'm going to come start
+this." I was heavily invested in the
+mission which was um financial inclusion
+and uh bringing bringing safety and
+lowcost money movement to people around
+the world that needed it. And um I loved
+that idea and uh I remember telling my
+product partner Kevin Wheel at the time
+if uh hey I think I'm going to go do
+this and he he I explained it to him and
+he was kind of like had that same look I
+had. And then like the next day he
+throws a 30-minute meeting on my
+calendar and I'm like oh he's going to
+try and talk me out of this. And he
+comes in he goes I think I got to go do
+this too. What? like, "Oh, this is going
+to be tricky." So, I connected him with
+David and I'm like, "Great. Uh, this is
+going to be a tricky one to navigate."
+Um, but it worked out well and, you
+know, we went over and started the Libra
+project at the time.
+&gt;&gt; How did the project go and you what were
+the pivotal points in it?
+&gt;&gt; Oh, man. I think it's pretty public how
+that project went. Like we uh we weren't
+able to ship it, right? like it was uh
+there was a lot of pressure on on
+Facebook at the time just politic
+political and regulatory and like they
+weren't excited about us what their view
+was as thinking we're going to rewrite
+currency it's like not what we were
+doing but like there was not a lot of
+strong understanding on the government
+they're not the best deepest
+technologists so uh but they didn't want
+us to release this and it was a shame
+David tried to do this like the right
+thing he's like key. We we announced
+what we were going to do that we were
+going to work with regulators and
+everything. In retrospect, we probably
+should have just released it and asked
+for forgiveness, but that sort of put us
+into a tail spin where we had to keep
+rearchitecting the project to be
+regulatory compliant
+and took us years to do that. Um, and uh
+ultimately uh we got it to the point
+where even the government said this is
+the the platinum version of stable coin
+and uh but they still didn't want us to
+release it. And I think that's when we
+gave up. And uh um we were a pretty big
+org by then. I think we're like 3,500
+people. And uh yeah, they put all
+payments and everything under under
+David at that point. And uh uh I think
+in a funny moment, David came to me.
+Well, I I'm like, I I can't keep doing
+this. I'm going to go do something
+different. And I I loved David and you
+know, very felt like he was a friend. I
+didn't want to let him down. So, I took
+me a couple of weeks to get the courage
+up and practice my resignation to him.
+&gt;&gt; And I was ready. And I'm like, I'm going
+to go in our one-on-one. Here's my
+story. I'm going to give him all the
+time, but tell him I need to move on.
+And I go in there and I sit down and
+David goes, "Well, before we get into
+whatever you want to get into, I have
+some news to share with you." I'm like,
+"What?" And he's like, "I'm going to
+leave." Wait, that's what I was going to
+tell you. And and I'm like, "Well, what
+are you going to do?" and he's like,
+"No, I think I'm going to go get into my
+entrepreneurial roots." I'm like, "How?"
+And like one thing led to another. We
+kept talking and I ended up leaving Meta
+for a couple years. And I went and
+started LightSpark with David because I
+was invested in this mission of and
+that's what Lightspark's doing and I
+love it. It's just an amazing mission of
+like
+um you know the way I think about it is
+finance is the last area for disruption
+you know but I do think like the cost
+and latency of moving value globally
+needs to go to zero because when it does
+that when you can move money like
+packets of information like you can
+stream money you can move at low cost to
+areas that need it like it's just going
+to be a revolution I have no doubt that
+that's going to happen at some point
+&gt;&gt; and so you were working in the crypto
+space and now you're working in AI. What
+or what made you leave the crypto space
+if you know there's impact there?
+&gt;&gt; Yeah, first off, you know, I'm like a
+crypto skeptic. I never was a buyer into
+all of this stuff, but I do think that
+there it's really good for money
+movement and like as a base layer. Um,
+so what happened there was like I was
+working and and I co-founded LightSpark
+and uh David wanted to do it in LA so I
+figured I'd move down there.
+I commuted for two years down there and
+uh and I formed a team and built it and
+I was kind of like at a point where the
+team was formed. I'm commuting three
+days a week. I didn't feel like I was
+adding a lot of value uh until we were
+at the next level of scaling. So I
+talked to David and you know David and I
+agreed like hey yeah fine I'll step back
+and uh um you know we're we're we're
+very good friends so it was like uh an
+easy conversation. Um, I groomed a
+successor and and stepped back. And at
+that time, Meta learned I was free and
+they were like, "Hey, you know, we have
+a role we want to run by you. We hear
+you're here. You're free." And I'm like,
+"I don't know what I would what what
+that role would be that I'd be
+interested in." And they're like, "Well,
+what about Dev Infra, you know, like
+running all the developer infrastructure
+at Meta." And I'm like, "Oh, hold on."
+Like
+I'm that's my background. Like I'm a
+developer tools person. That was the
+first 10 years of my career. like and it
+hit me like oh wait you know what was I
+even doing at Instagram and all these
+things I'm a developer tools person like
+that's really what I want to do and uh
+with AI coming into a picture it was
+like awesome we get to go write science
+fiction stories about how developer
+productivity is going to be and go try
+to make that happen with unlimited
+resources I'm like sign me up for that
+so I would so I came back and uh I love
+that team dev infra is amazing and such
+a senior team like a thousand engineers
+building all of the developer tooling
+for inside meta. It was just amazing. I
+loved that job. Did it for almost two
+years and um the only reason I left is
+because I had that observation and I I
+had to go start this company like
+&gt;&gt; and what was that observation?
+&gt;&gt; Well, so you know we built something
+internal called Devmate.
+Um, Devmate was an agentic uh platform
+that allowed engineers to sort of like
+go learn from each other and then scale
+uh these agents. Uh, and these agents
+were working on tooling, not just
+coding. They were driving tools and
+doing all types of things. And it went
+viral internally like um uh we couldn't
+keep up with the demand like it within
+months like you it needed an entire dev
+server per devmate instance and there
+are 40,000 plus engineers at meta and
+pretty soon
+everybody wanted one an instance and
+some of them wanted three instances. So
+you're like how do we allocate all dev
+server but it was such strong pool
+you're like oh I see the dynamics at
+work here like 40,000 developers is fun
+but it would be fun to go do this for 40
+million and uh so wow we so we took a
+lot of these lessons and we're like yeah
+we kind of think we see around the
+corner what the world needs for this to
+work inside their companies and that led
+to the formation of guild. When I look
+at the AI space, it it feels like a
+blood bath or it's like incredibly
+competitive. When you saw the space, I
+guess what what gives you the confidence
+that you will compete well or you know
+what is the niche that you're going to
+focus on?
+&gt;&gt; First off, I don't have the confidence,
+but I have the drive and uh I'll tell
+you that much like it's like I I believe
+I deeply believe that what we are
+building is needed. Um, so there's that,
+but like I'm always, you know, I'm
+always looking out of the corners of my
+eyes of like who else is building this
+and you know, who might not execute.
+That's just what an entrepreneur does.
+So if you look at a lot of the startups
+and a lot of the companies, you know, I
+think a lot of them are building for
+like the future past. And what I mean by
+that is they're building for things that
+fill in gaps of what LLM will probably
+be able to do. Like look at cursor, it's
+autocomplete. Now you know LLMs are
+starting to get to be able to completely
+write code without an IDE. It's like
+okay you wrote you built a product on a
+bus stop not at where the end of the
+line is you know so what's that end of
+the line and like what is needed um
+regardless of all of that. So what we're
+building is a control plane and it's a
+it's a layer of infrastructure that
+allows you to manage these agents inside
+a company. Like you know your agents if
+they're rolling around in your
+infrastructure you want to treat them
+like employees, right? Like some of them
+they they'll some of them you want to
+have access to things. Some you want to
+restrict. You want to report on what
+they're doing. You need to observe auto
+you don't want one agent just like
+tanking your token budget. You need
+circuit breakers. You need a governance
+layer for that. Regardless of like where
+this ends or which model company wins,
+you need this, right? So like we believe
+that we're building, you know, something
+that's needed and in any like scenario
+where Anthropic or OpenAI or Meta or
+somebody else wins, you just need this
+layer. Let me paint you a vision of
+where I think like things are going to
+go. Okay. So I think a few years like
+right now inside a company you have a
+bunch of internal web applications. You
+have your HRIS systems and you know your
+internet and like developer like CI/CD
+tools and you know you have a lot of
+internal apps. I think there's going to
+be a layer of like thousands of agents
+that will sit on top of this and help
+drive them. Right? For example, you
+know, we build an agent that we use on
+our own system here that basically
+doesn't make duplicate bugs possible,
+right? It's really simple thing. It's
+like you submit a get issue, you know,
+it fires a web hook. Our agent wakes up
+and goes, "Let me look and see if
+there's one that's like this." And it
+just marks a duplicate and goes back to
+sleep. That's different than a coding
+agent, right? So uh you can imagine
+anywhere where there's a tool
+integration prompts and evals you can go
+into design you can go into product you
+can go to HR it's just basically
+workflow management in a company um and
+that's the thing where we think it's
+going um but if that's the case then
+you know you're just like people you
+probably don't want your engineers
+having access to your finance systems
+you don't want your finance people
+having access to your codebase like you
+know all of these things you're going to
+need to set up policies around and even
+like regulatory policies you're going to
+need that especially in a large public
+company. Um so you need layers to be
+able to enforce that. AI is
+non-deterministic, right? Like it's like
+you can't guarantee what the outcome is
+based on any inputs. If you're building
+a stable infrastructure layer, you need
+it to be deterministic. So you need to
+put a deterministic layer on top of this
+non-deterministic technology. It's the
+only way right now.
+&gt;&gt; Okay. So it's it's almost like this
+harness that will Yeah. control plane is
+a great way to put it. Control plane for
+the agents within maybe a corporate
+&gt;&gt; Yeah. environment.
+&gt;&gt; Centralize it like right now like you
+know you you you see people using these
+uh AI agents. We had one customer that
+uh you know they they have their
+developers running agents on their
+laptops. They don't know where they're
+running. This is one that that blew
+through their token budget. One agent in
+12 hours and they didn't know. So you
+centralize that. Okay, here's a central
+runtime.
+You you make it so agents can work
+together in a secure way. So you put
+bubble wraps around them.
+&gt;&gt; Um you don't want these agents just
+yelling at your infrastructure, right?
+So, like you have to put control around
+them, you know? I I I I I use this
+analogy like there's this movie
+Gremlins. You remember Gremlin?
+&gt;&gt; I haven't seen it, but
+&gt;&gt; Gremlins. Yeah. It was like this cheesy
+Spiel Spielberg movie where these little
+furry creatures started multiplying
+quick and they just were causing chaos
+in town, taking over the electric power
+grids. Like AI agents are like that,
+right? It's like they're just like once
+they start multiplying and they're like
+you can't predict what they're doing,
+like that's a problem. So you need to be
+able to put a layer there to provide
+some predictability and control around
+that. That's what we're building.
+&gt;&gt; Yeah. At this point I feel like you have
+so much management experience. So I
+wanted to uh discuss this high level uh
+management philosophy that I see in the
+industry which is that um I see that
+this Elon style Elon Musk style of
+management is kind of like getting in
+the details micromanaging
+and I I hear a lot of people who are
+against that as well and curious what
+side of that you're on and maybe we can
+discuss the pros and cons of each of the
+approaches.
+Yeah, sure. Well, look, I think that
+there's different tools for different
+jobs. And so what you're describing, um,
+when you talk about these two different
+management styles, they're in two very
+different environments. And so I'm not a
+micromanager, but I've also been
+fortunate enough to have incredibly
+capable people uh to work with. So, you
+know, uh you can think of an org as a
+top- down org, like where you have a
+leader with a very clear vision and he's
+hire you're hiring a workforce. he or
+she is hiring a workforce to help
+achieve that mission. Or, you know, you
+can be the opposite of that and consider
+yourself at the bottom of the ORC chart
+and you're trying to act as a tool to
+help that team achieve their vision.
+That's the one I am. Now, um that being
+said, there are times where, you know,
+if your team isn't performing, you know,
+and I've worked I've inherited some
+teams that were not working well and
+things like that where I've had to go in
+and and micromanage,
+but not for long. You want to only use
+it as a tool, in my opinion, uh to to to
+fix things and then step back out of
+that. I think that our our job in in
+technology is a creative this is a
+creative job, right? Like you you don't
+know what it looks like often. You just
+know what outcome you want, right? And
+if you're going to do that, you have to
+free people. You don't want to hire
+smart people and think for them. You
+want to just focus them on the outcomes.
+You want to like clear their their their
+what's blocking them. You want to be
+able to probe and like ask great
+questions and course correct them, but
+if you start micromanaging really smart
+people, you're going to lose them. Now,
+if you look at some of these classic
+examples that you mentioned like Elon
+and stuff like that, think there was a
+lot of lot of lost a lot of smart people
+that weren't willing to work in that
+environment. But I didn't understand the
+environment. Maybe it was necessary. I
+can't speak to that. I've built my
+career around hiring really smart
+people, much smarter than me, and
+getting out of their way and just
+supporting them, you know, trying to
+make them
+give them the space to be the best that
+they're at. And uh so I think, you know,
+not saying there isn't room for this
+micromanagement, like get down into the
+details. You need to do that every once
+in a while, but like that's not if you
+just that's your only mode of operation.
+that's your only tool. It's only good
+for a very specific thing.
+&gt;&gt; When you look back on your your whole
+career, is there any career regret that
+comes to mind that you think other
+people could learn from?
+&gt;&gt; Oh man. So yeah, there's a lot actually
+and I wouldn't say they're regrets
+because like I'm pretty happy where I'm
+at and like everywhere led me here. So
+like you have to also look back and go
+I'm not going to punish myself over
+mistakes if you're happy where you're
+at. I'll tell you things though that
+like I wish I would have known uh or I
+wish I would appreciated when I was
+younger is like I'm I'm not an intern
+age anymore. I'm a little older and you
+know time is my scarce commodity now.
+Like so back when I was younger it was
+okay to like beat my head against a wall
+for six, seven years. I'm like I have
+all the time in the world. I would like
+to have that time back and spend it
+well. So, like be sure you're doing what
+you love and be sure you're having good
+days because that's really your scarce
+commodity, you know? So, that's one
+thing. Um, go where the smart people
+are. Like, I learned this by accident.
+Like, I was fortunate enough to get
+recruited into Netscape and Borland,
+like where all the smart people were.
+like going there really helped build me
+a network that's just
+you know people the early engineers at
+Netscape and Borland are kind of like
+owning the valley now Mark Andre and you
+know so so that that's also good and
+that's where I got the best mentors and
+learned the most and I'd say one simple
+tactical one if you're just starting at
+a company like this might sound silly
+but I would say I wish I would have just
+maxed out my 401k on day one like just
+go max out your 401k.
+It sounds like like you're going to get
+a reduction in salary and you may not be
+starting out at high, but trust me,
+you'll forget it, but like when you're
+my age, that is going to be a giant
+amount of money. I wish I would have
+done that earlier. So, that's the other
+tactical thing I would do.
+&gt;&gt; If you could go back to the beginning of
+your career and give yourself some
+advice knowing everything you know now,
+what would you say?
+&gt;&gt; I would speak up more. like you know I I
+remember thinking being afraid to speak
+up because like I was worried that
+people would think I was an idiot. Um
+but it turns out that like those are the
+people now that I notice are the people
+that even if what they say is off
+they're not afraid to speak up. So speak
+up like be curious like I wish I would
+haveworked more and and asked people
+like more about what they were doing.
+And you know, one simple thing is like
+it didn't occur to me, it's sort of a
+version of go where the smart people or
+like I was seven years in Pennsylvania
+working uh that's where I'm from. It
+didn't occur to me to like go to like I
+got recruited into Borland but like in
+retrospect it was like if I were an
+actor and like it didn't occur to me in
+seven years to go try Hollywood. It's
+like you know it made all the difference
+was getting into the valley where there
+was so much opportunity and resources. I
+wish I would have done that earlier.
+&gt;&gt; That makes sense. Awesome. Well, thank
+you so much for your time, James. I
+really appreciate it. It was great to
+meet you.
+&gt;&gt; Yeah. Great. Thanks for taking the time.
+It's fun conversation.
+&gt;&gt; Thank you for listening to the podcast.
+It's a passion project of mine that I've
+really enjoyed building. Another passion
+project that I've been working on kind
+of in secret is building an ergonomic
+keyboard that I wish existed. And I
+finally have a prototype. So, I'd love
+to show you what we've built. It's ultra
+lowprofile and ergonomic and I couldn't
+find anything like it on the market. So
+that's why we built it. I'll put a link
+to the keyboard in the description. You
+can take a look and learn more about the
+project there. We could definitely use
+your support. Also, if you have any
+feedback for me about the show, I'd love
+to hear it. Comments on YouTube have led
+to guests coming on like Ilia Gregoric
+and David Fowler. I wasn't aware of them
+until someone dropped a comment. Also,
+feedback in the comments helped me learn
+to reduce the number of cliffhers in the
+intros. So, your comments definitely
+make a difference. Please keep letting
+me know what you'd like to see more of
+in the show, and I'll see you in the
+next episode.

@@ -1,0 +1,293 @@
+原文： https://www.youtube.com/watch?v=lP86NzlXNf4
+
+Let's just fast forward for fun a few
+years in the future when I talked to
+Yeah. some of the people running the top
+labs. They're pretty convinced things
+are going to keep getting better at a
+pretty high pace for at least two or
+three years. It's like kind of like with
+Moore's law, you can't really see out
+what's going to get there five years,
+but but see it feels like things are
+going to change a lot. Like so so so to
+tell us about 2028, 2029, like is there
+certain things that just look very
+different or are certain things that are
+that are like we have to do now we don't
+have to do at all there? Like what are
+the unsolved problems for Devin to just
+be be like doing a massive projects on
+itself in three years? Yeah, I think a
+couple shifts. I mean one of the obvious
+ones which I'll just call out is just
+much more widespread usage of all of
+this and then just good knowledge on how
+to use these things. I think right now,
+you know, you have this core group of
+we'll call it like agent forward
+engineers, right? Or agent forward
+companies that understand how to use
+this and they are seeing these, you
+know, 5x, 10x productivity gains as a
+result. I mean
+obviously, you know, all all of these
+big organizations or these these
+companies or governments or things like
+that are are seeing those same results
+and realizing wait, we can't just sit
+here and be five times slower and you
+know, we have to go learn how to do this
+right now. Um and so that's really
+happening. I mean even this year, I
+would say. Um in terms of the the the
+continued capabilities gains that we're
+going to see. Yeah, I mean I think
+there's um
+I think that I think the models are
+going to get better and better. You
+know, one of the stats that people talk
+about a lot is this METR report which
+basically says for um each different
+model that comes out roughly how much
+human work can it do uh in an automated
+fashion before you have to go interrupt
+it and say oh that was wrong, let's go
+do this, right? And so it's like, you
+know, just two or three years ago the
+answer was like 10 seconds or something,
+you know, you would have it write one
+line and then it's like all right, the
+next line is already wrong. You know,
+let's stop here, right? And at this
+point it's already gotten to the point
+where it's um in the scale of, you know,
+10, 20 hours um is what the latest one
+uh has been. I think Opus 4.6 for
+example, I think it was around 18 hours
+or This is always very weird to me cuz
+it's implying that models work in human
+time though, right? Which is so weird.
+Like why are they 100 times faster?
+Yeah, so so so the answer the the they
+do typically do the tasks in less time
+than a human would and then the 18 hours
+is basically this is how long it would
+take a human to do that amount of work
+Okay. uh in in between each of the
+interruption points, right? And and the
+the age the AI might be doing that in in
+one hour or two hours or something like
+that, right? Um and and the thing that's
+really crazy about the stat is you just
+see it very consistently double. And I
+think for the last few years it's
+doubled about four or five times every
+year, you know, which is insane. Which
+means, you know, you wait two or three
+months and it's already doing twice as
+much work.
+&gt;&gt; world's changing every two or three
+months in terms of what's possible.
+Yeah, and this is this is what we've
+what we've kind of seen as well and I
+think we're going to we're going to see
+even more of that and to to some of
+Russell's previous points, the thing
+that's kind of interesting for us is
+that the form factor of what you want to
+deliver or how you want to work with the
+AI changes a lot as you're going through
+that, right? And so when we're saying,
+okay, you do 10 seconds of work
+obviously the answer is you as a human
+need to be staring at your file of code
+and like shepherding it and hand-holding
+it with every single step, right? If
+you're talking about it's doing days of
+work or weeks of work, now you're
+actually giving it whole, you know,
+output level tasks of like, hey, you
+know, we we really need to go make this
+app much faster. Can you go and run this
+whole thing and then, you know, do a
+smoke test and make sure all of the
+changes look right? And it's going to go
+off and do that entire project, right?
+Versus or or it's, you know, even even
+bigger initiatives of like, yeah, can
+you auto-respond to all of the um you
+know, the upgrades or the potential
+vulnerabilities that are coming in with
+our reporting and just make sure all of
+that, right? Um so you're going to see a
+lot more I think proactive work. Um
+You're going to see a lot more basically
+like event-driven kickoff work where
+it's it doesn't have to be human that's
+that's moderating it every second. And
+then and then in terms of like what does
+that mean for society or where does it
+go? I actually think one thing I'll go
+on the record on is I I think there's
+going to be an explosion in small
+businesses. Um I think AI is actually
+like an extremely small business
+enabling technology in particular where
+you think about what's hard about about
+building or starting small business,
+it's, you know, you don't have the
+resources of a large company, that's
+specialization of labor in each part of
+the in each part of the process and I
+think AI it's extraordinarily enabling,
+right? Think about, you know, the
+quality of quick legal gut check you can
+get from, you know, from a chatbot from
+a frontier lab. The the quality of, you
+know, analysis of your financials, the
+quality of software that you build,
+right? It's like it's all coming
+together to empower each individual
+person again if you exercise that agency
+to just do so much more on their own. I
+actually I love this. I actually have a
+a small thing on the side where I'm
+trying to help create tens of thousands
+of small business owners. So so I'm
+totally aligned with this. This is a
+really good theme right now for for us
+for us to do. What one last thing I want
+to ask you guys about the business that
+I'm just so impressed by. So I I hired a
+lot of the first few hundred people at
+Palantir and I spent a lot of time on
+talent. Obviously even hired Scott at
+one point a long time ago with one of my
+companies with with Bio's help. How did
+he do How did he do in his interview?
+[laughter] He's very very very very
+impressive. I but I did not I did not
+see him at at the time as someone who is
+like a CEO person. So he really grew a
+lot which is good. I mean, you know,
+he's he's like he's learning and growing
+as he goes and it definitely seems as a
+CEO and founder now. Um but one thing
+you guys have done is like a significant
+percent of the Cognition hires are
+actually former founders. So not only
+are you hiring the best people in the
+world, you're hiring a ton of former
+founders. Like for Like why are you
+doing that? How are you doing that? Tell
+us a little bit about the talent stuff
+here.
+&gt;&gt; Yeah. Yeah, for sure. No, I mean I I I I
+think the
+um I I I I think the reality is we we
+just have such a massive problem that
+we're going after which is, you know,
+solving all of code and I think the way
+we even started this company is, you
+know, Russell was a founder before this,
+I was a founder before this. All of us
+were, you know, I think of our of our
+kind of like initial crew and and and
+the idea for us I think was
+let's make this one the big one, you
+know, we're going to go for it all,
+we're going to go for the most
+ambitious. But even I mean I think the
+the the play solving software
+engineering feels like a big enough one,
+you know, that that we can all do that
+together and and and I think that's a
+lot of what it comes down to honestly is
+just like um yeah, are are we working on
+something and doing something that's
+that's that's exciting for for folks who
+to your point are are, you know, I I I I
+think a ton of the folks at Cognition
+are
+could could very very easily go off and
+start their own companies and get funded
+and build their teams and so on and and
+and the question I think for us always
+has been about um
+how how do we make this the place that
+that that makes more sense for them to
+do?
+&gt;&gt; And it's it's honestly easier to do that
+now than ever before. Also as a as a
+company, like I'm thinking, you know, we
+have one team in the company. Uh they're
+they're called special projects
+engineers and basically every person on
+that team is a former founder. Like
+every single one. And and they they do
+they do uh you know, a really
+interesting mix of engineering work, of
+product work, of talking to customers,
+of driving commercial outcomes, you
+know, the problem space to to your point
+is so big that actually if you're again
+high agency person, going to take
+initiative and you're working at a small
+fast-growing company with with a, you
+know, with a problem space so big that,
+you know, your only constraint is like
+your own ambition. Well, there seem like
+there's this renaissance or revolution
+going on in the world where the
+capabilities are doubling every two or
+three months and like this is a place
+you can come and be around some of the
+other smartest people in the world who
+are part of growing something with that
+which I guess is pretty fun for people.
+We have a good time. What what one thing
+about the the interview process or the
+selection process to your point which I
+think is kind of interesting to call out
+is I think um
+you know, one or two years ago I think a
+lot of people had this mentality in
+terms of how you interview of like,
+okay, there's all these AI tools, how do
+we interview people in a way that um you
+know, how how do we make sure that
+people aren't using AI while we're
+interviewing them cuz then we're and and
+I think
+that is totally flipped. And and
+honestly I think that was wrong, right?
+And and I think if if if you're asking
+the question of like, how do we evaluate
+people on exactly the thing that AI can
+already do? That's kind of the wrong and
+and so so so, you know, I think for for
+us and this has always been the case for
+us, you know, our interview process has
+always been you can use as much AI as
+you want to use, you know, it's just
+like we're going to give you a few hours
+just build build your whole own product
+surface, right? And build build your own
+um a lot of these are projects that
+frankly is like
+if you were trying to do this by hand,
+you would not be able to get done in a
+few hours. So you kind of have to use AI
+for this, right? But but in reality what
+we actually want to test is in addition
+to it to kind of how familiar you are
+with these tools, what we actually want
+to test is is yeah, what what what do
+you think is the right thing to build or
+how do you make these product decisions?
+How do you make these trade-offs? How do
+you decide or collect information about
+what you should be doing? Um and and and
+so we found that that's that's helped us
+a lot.

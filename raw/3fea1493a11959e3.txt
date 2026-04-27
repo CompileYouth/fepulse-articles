@@ -1,0 +1,452 @@
+原文： https://www.youtube.com/watch?v=w4q-aKyHuA4
+
+I think the beautiful realization these
+days is that you're allowed more than
+one computer.
+You don't have to have a single machine.
+And in fact, this is what the whole open
+claw phenomenon has spurred on that a
+bunch of people just went out and bought
+a Mac Mini because they specifically
+wanted to run their claw on that Mac
+Mini. You could do the same thing as a
+Linux developer. That's certainly what I
+do. I have more computers than I care to
+count. Some of them are still Macs. It's
+wild because this there's I think
+there's a mental block. I used to buy or
+get through my my
+my company or or buy for myself every
+two or three years a new laptop. And I
+just look back. I have a Mac like a
+MacBook Air
+that is in 2020, that's 6 years ago. And
+it works great. Yes. And I walked into
+the Mac store the other day and I
+thought, huh, there's this new computer
+like oh no I
+immediately my first thought was I
+shouldn't get it because it works.
+Right.
+&gt;&gt; But when I did the maths of how much
+this thing costs and you know like my
+hourly rate as as a dev, it's such a
+no-brainer. And there's still this
+mental block and I was thinking of you
+know trying out Windows or or Linux and
+I think there's a mental mental but I'm
+not sure if I'm alone with this but I'm
+not used to my laptop not being
+utilized. I think I've been conditioned
+for this for so long. So maybe it's
+something we need to let go a little
+bit. We do need to let go of that. In
+many ways, it's an I'm not just going to
+push it to the point for the comedic
+effect but it's a poverty mindset. It's
+a poverty mindset to think I am only
+allotted the one CPU and that's all I'm
+allowed to use which is of course
+nonsense because if you are developers
+certainly one working with the web,
+you're already using a million CPUs. All
+these computers are already working for
+you whether you're in chat GPT on the
+web or you're running some other web
+app. Like that's not magic. That's
+computers. And you have a slice of that
+so you are allowed more than one
+computer in the home. The other thing I
+find is computers are just fun and you
+should have a variety of them. If you
+care about them. Like I like watches and
+if I thought that I was only permitted a
+single watch, that hobby would be a
+little boring. You could find the
+perfect watch and you could be happy
+with that watch but it's a little more
+fun if you're allowed a degree of
+variety. And I think
+that's what I actually had to escape the
+Apple walled garden to realize because
+I'd been inside the Apple
+bubble for so long that I'd kind of
+forgotten that different kinds of
+computers existed that I could own and
+use. So when 2 years ago or so,
+the final straw finally broke the
+camel's back on my relationship with
+Apple, it was just like the doors had
+been opened to a much broader world. And
+at first the sun was a little bright
+like I was stepping out of some dungeon
+and I realized, oh my gosh, there's all
+these different things. And just as a
+fan of technology to realize for
+example, you can have a big screen that
+runs at 240 hertz. Like that technology
+does not exist in the Mac world. Apple
+does not offer a product that has 240
+hertz. So if you like competitive
+gaming, seeing that sort of for the
+first time is a little startling because
+you are under this or I was certainly
+under this illusion that I well Apple,
+if they don't have it right now, they'll
+eventually get to it and if they don't
+get to it, it's probably not worth
+having at all. Which really is a very
+deprived mindset where you fall in love
+with the cave you're in. That's not to
+say that Apple doesn't make cool stuff.
+Like I loved the announcement they did
+with the MacBook Neo.
+I love when companies are pushing
+certain angles to the point that all
+their competitors get a little worried.
+And the Neo to me, this really cheap Mac
+that's still quite good is a wonderful
+entrant into the party.
+By the same token, I've been so excited
+about the comeback of Intel that
+Gelsinger's 5-year plan to get to 18A,
+their new production node just so that
+they could produce a competitive chip
+with what Apple is doing with Panther
+Lake is really inspiring to see. And
+it's actually a bit sad I find that when
+I talk about this on X,
+the partisanship is so close to the
+surface that if you like Apple products,
+it's almost like you have to hate a PC.
+You have to poo-poo on Panther Lake for
+example, even though it's a major
+achievement for a proud American
+institution like Apple. They built the
+chips in Arizona. Like we should all be
+cheering for the success of what they've
+accomplished regardless of whether we're
+going to run it or not. But it's funny
+because it's also one of those things
+like the the bike shed where when the
+stakes are the lowest, we argue the most
+fierce. And the stakes are very low when
+you have an Apple computer and you don't
+want to think about whether there's a
+better alternative for you or even other
+people and then you just go like, let me
+just close my eyes and say
+Apple can't be beat. Again, I say that
+as someone who has tremendous respect
+for what that company has built even if
+I don't have so much respect for how
+they conduct themselves as a business
+today when it comes to gatekeeping and
+the app stores and all the other
+nonsense. But just as a technical
+achievement, I was the biggest
+cheerleader for the M chips because they
+completely reset the board of what was
+possible in a mobile computer. Yep. And
+we should all be excited about that. If
+you love computers, you should love
+CPUs. You should love CPU progress. I
+find the same thing now with Qualcomm.
+For some reason, again, an American
+company doing amazing things powering
+the bulk of computers in the world if
+you just count the fact that Android is
+the dominant It is. platform on mobile
+computers, on pocket computers,
+then why are we not excited about that?
+Again, what? Because you see some petty
+rivalry with your favorite brand? That
+just seems stupid to me. And the X 2
+Elite is another chip that's caught up
+even more actually than Panther Lake is
+on an ARM architecture with Apple's
+offerings. And shouldn't we be excited?
+Even if you don't want any of the stuff,
+you should love competition because
+competition makes things better and
+cheaper. So Apple feeling a little bit
+of a heat that the rest of the industry
+after five meager years finally starts
+giving them some challenge is something
+we should all celebrate. But we don't. A
+lot of us don't. A lot of people don't.
+I try to do. I try to
+have some metacognition going whenever I
+have a reaction to something one way or
+the other and go like, is that just
+because it's my team doing this or is it
+because I genuinely dislike what's going
+on? And then often times I'll catch
+myself in the same kind of partisanship
+that's playing out here and go, you know
+what?
+No. I am not going to fall into that
+trap.
+I'm going to revert to my base model
+here. My base model is I love computers.
+I love playing with computers. I love
+having fun with computers. I love being
+productive with computers. I love
+wasting time on computers. Just sitting
+in front of that deliciously
+creamy thocky mechanical keyboard in the
+morning
+is a joy. And we should be eternally
+grateful that this is still a thing
+we're able to do.
+Which may come to an end in a few years
+that like that's just not the form
+factor anymore. We look at these
+pictures of old monkeys typing at the
+typewriter and go like, remember when
+computing used to be like that? I'm
+going to enjoy every last moment we have
+of it. One thing that we might be just
+you know it's popular to hate on other
+computers that you don't use because we
+don't use them. So what are some
+computers that you found laptops or or
+other other ones that you like that you
+know just give us some ideas like if if
+if you want to go around shopping either
+for something for gaming to have fun to
+see to see that it's not just the
+console that you can do it or for work?
+The computers I've had a lot of fun with
+recently has been laptops. When I first
+got into Linux, I had a Framework Laptop
+13. It's great machine.
+&gt;&gt; where you can assemble it, right?
+&gt;&gt; assemble it. You actually have to
+assemble it. Most of the offerings you
+buy is a GUI package and you have to put
+it together yourself. So it's a little
+bit like a Lego kit. It only takes about
+5 minutes but there's a sense of
+ownership and a sense of IKEA effect.
+Did you like this computer a little more
+because you put it together yourself?
+And I think it's still a great machine
+but it's not the only great machine that
+you can run Linux on. And in the last
+few months, I've tried a bunch. And
+partly because I've been really excited
+about some new technology. One of those
+things which is actually not that new
+but again, to a person who'd been using
+first Macs for a long time and then that
+Framework computer for a long time, all
+have either IPS or microLED panels,
+seeing an OLED screen for the first time
+to me was astounding. I did not even
+realize that colors for games could look
+that good. Which is a little weird
+because I have an OLED TV. And OLED TVs
+look great but you sit quite far from
+them.
+The
+vivid nature of sitting, I don't know,
+30 centimeters from a OLED display and
+playing Fortnite or playing Arc Raiders
+or playing one of these other games.
+Actually, I would call out Fortnite
+here. I've been a mega fan of Fortnite
+for a long time. I've played literally
+hundreds of hours with my kids squads
+but now I even just play by myself even
+without the kids. It's just such a vivid
+game. It is such a beautiful test case
+for OLED. So I got first the ASUS
+Zephyrus G14 which is a beautiful laptop
+in all the ways that
+the Framework feels more like a home
+built shed which is adorable, right?
+Like I put this shed together myself.
+It's really nice. I can appreciate it.
+Great machine especially for
+productivity. I like the 3.2 aspect
+ratio and all that stuff just for code.
+But when it comes to games, it's not the
+greatest machine. It's not meant for
+that. They have another offering, not
+the biggest fan of the 16 they have, but
+for that Zephyrus, with that OLED
+display, with that beautiful case, with
+that sort of gamer aesthetic without
+going overboard, which is a very fine
+line. There's a lot of gaming machines
+where all the lights are just constantly
+pulsating and you're like, "Am I
+tripping or is this just a machine?"
+But,
+ASUS really have found a nice way to tow
+that line. They have this uh they're
+called the slash on the back of it,
+which is this LED strip that you can
+program to have different patterns. I'm
+like, "That's pretty cool." And then it
+does have the LED
+or RGB keyboard backlighting, which you
+can sync with other things. So, I
+actually built it in after I got that
+machine,
+I built it into Amachi. Then when you
+change your theme, the keyboard
+backlighting will change with it. So,
+you change to Tokyo night and it's a
+nice sort of purple background. You take
+change to Nord and it's a light, cool,
+gray and blue.
+So, that's been a lot of fun. It's been
+a great machine. And then just very
+recently, I had the good um
+pleasure of uh bothering Michael Dell
+because I got connected with him when we
+did our big cloud exit a few years ago.
+We've been a Dell shop on the server
+side for you bought Dell servers. Yes.
+And then when we moved out of the cloud,
+we bought like two pallets worth of Dell
+servers to run everything ourselves. And
+I was quite public about our cloud exit
+and it got a lot of attention at the
+time and
+not surprisingly, Michael Dell also
+thought that was a great idea to buy a
+bunch of servers and stick them in your
+data center. So, we struck up a
+conversation and now that I saw their
+latest line of laptops, the XPS, with
+those Panther Lake chips, with the new
+tandem OLED screen technology, I just
+completely shamelessly reached out on an
+old conversation from back at the cloud
+exit thing like, "Hey Michael,
+could you send me one? Could I get one?
+I really want to try this new setup
+because I'm excited about that Intel
+chip as we talked about, but also just
+really excited about the tandem OLED
+screens given the fact I'd had that
+great experience with the ASUS. So,
+that's been the machine I've been
+running for the last couple of weeks.
+It's still a pre-production unit. Not
+all the compatibility's there, but it's
+also fun to be part of that process. In
+a way I could never dream of having a
+relationship like that with Apple.
+Apple,
+to all their credit, is very much the
+ivory tower, right? Like they're locked
+in there. They don't really collaborate
+with others in this way. They're just
+themselves. And that's great. That's
+wonderful we have that
+gleaming tower on the hill over there. I
+wish their behavior in other matters
+would be a little more admirable and we
+could, without reservation, just have
+admiration for that customer for that
+company. Now it has quite a lot of
+asterisks next to it.
+But either way,
+with Dell, they just immediately like,
+"Hey, yeah. Here's Here's a machine.
+Here's an engineer who's currently
+working on Linux compatibility. Do you
+want to help?" And
+of course I want to help. So, I'm
+instantly diving in. How do we diagnose
+this? How do we make it work with the
+Linux kernel? What do we have to do to
+get all the different things working
+just right? This is still frontier stuff
+in terms of driver compatibility and so
+forth. It's just been a blast. And then
+the machine is just amazing. It's a
+16-in that XPS that weighs 1.6 kilos. No
+way. It feels like it's funny because I
+still have a MacBook Pro 16 in as well,
+which is well over 2 kilos. You hold
+these two things next to each other and
+you get this appreciation for weight.
+That is quite funny because you think in
+your head like, "400 g, how much is
+that? 500 g, 600 g." It's like, "That's
+not a big deal. This is a computer." Uh
+no, it's a big deal. The difference
+between that it just feels like they're
+different categories of devices.
+And it's funny to me because um this is
+what Jonathan Ive was always all about.
+He was about thinness, he was about
+lightness.
+And he probably pushed it a little too
+far.
+That
+butterfly keyboard debacle that plagued
+the MacBooks for literally 5 years with
+an incredible failure rate that came out
+of that was a
+reflection of that maniacal
+optimization. Can we shave a millimeter?
+And in technical circles, that has been
+universally panned, right? Like, "Just
+give me something that's twice as heavy
+and twice as fat if you can give me a
+bigger battery or a bigger CPU."
+Shut up, nerd. Like there are other
+things that matter. And I say that to
+myself as much as anyone, right? Because
+I could hear myself say that like, "Why
+did you put in such a
+crappy keyboard
+to just shave off 2 mm?"
+And you realize it's actually the wrong
+question to pose. The right question is,
+"No, no. Please keep shaving off every
+millimeter because it really does
+matter. Every 100 g really does matter.
+But, do it while you keep a functional
+keyboard, please. Thank you." XPS with
+Dell's new tech you're seeing much
+closer to that. I still don't 100% love
+that keyboard. It's It's flush with the
+board. I should actually have brought it
+so you could see it. So, it's flush with
+the panel. The keys go straight across.
+So,
+if you turned off the lights and ran
+your finger across, you wouldn't be able
+to tell.
+Which is a little odd. It has a
+surprising amount of satisfying travel,
+but it's a little strange getting used
+to your fingers laying on a almost like
+a table and then you're pushing down
+into the table rather than slightly
+raised. I thought I was going to hate
+it. To be perfectly honest, when I first
+saw it, I thought like, "Ugh."
+And then I realized, "Oh, I don't." It's
+not my favorite keyboard, but I don't
+hate it and uh it was just a
+illustration that
+having a goal like getting the keyboard
+or getting the computer to be lighter
+and slimmer,
+that's not the problem. It's all in the
+execution. So, I actually
+want to commend Ive for being so focused
+on it. Yeah, there were some misses
+along the way. So freaking what? Now
+we're here today and these computers
+exist. And now the weird thing is that
+for me, the MacBook is the bulky one.
+Like it was always the inverse.

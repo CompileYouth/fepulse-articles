@@ -1,0 +1,260 @@
+原文： https://www.youtube.com/watch?v=EYDsVSKfKm4
+
+It's 2026 and you can vibe code anything
+now. But just because you can vibe code
+it doesn't mean you can vibe fix it or
+at least vibe fix it quickly. I know
+this because I just tried it. I'm the
+co-founder and CEO of Every. We're a
+25-person company and in my spare time
+over the last couple weeks I made this
+app called Proof. I did it entirely in
+Codex. I never looked at a single line
+of code and I went from basic idea to
+finished app in about 10 days. It's an
+agent-native document editor. So you can
+just think about it as Google Docs if
+Google Docs was made for agents to use.
+I made it for myself to solve my own
+problem collaborating on markdown docs
+with my agent. Got a really basic MVP
+going and then we launched it. And
+launch day was wild. The tweet alone has
+about 1.5 thousand likes and 500,000
+views and about 4,000 new Proof
+documents were created in the first 24
+to 48 hours. When I looked at it in the
+morning the day after launch and saw the
+stats I was like We're going to the
+moon!
+Of course I'm doing this video so we did
+not go to the moon. But I did learn a
+lot about the future of coding with
+agents.
+You know it's a couple weeks later and
+the app is up. It's being used by a lot
+of people. It seems to be growing really
+well
+and we've gone from this place where
+everything is melting down and I was
+like staying up till 4:00 a.m. every
+night like trying to trying to get this
+hot piece of flaming garbage to work. I
+was literally sleeping with my laptop
+open next to me so that my agents could
+run and then checking it every three or
+four hours like I was like some
+like settler on the prairie like tending
+my fire overnight so it wouldn't go out.
+And now it just works. It's pretty
+great. I don't really have to spend that
+much time making sure it's up. I can
+just build new features. And so in
+taking it from a vibe coded
+sloppy mess to it still has some messy
+things but it just actually works and I
+use it every day and it and everyone on
+the team uses it and it's starting to
+grow as a real production app. I've
+learned a lot about how to do that. I
+think those lessons apply to you if
+you're someone who's vibe coding an app
+and you're wondering what's going to
+happen when it goes into production. If
+you're a CEO of a startup and you're
+trying to figure out okay how do how
+does engineering work in this new world
+or you're a software engineer and you're
+wondering are my skills even valuable
+anymore? I think there's I think there's
+lessons in here for everyone. Okay so
+here's my learning from it.
+The big thing is that there's a new
+structure for software engineering in
+2026. Engineering teams should be
+structured with two people a pirate and
+an architect. The pirate's job is to
+figure out the product. It's to move as
+fast as possible to explore the
+territory and make something that people
+really need. The pirate is vibe coding.
+They're not thinking about architecture.
+They're not thinking about making a
+well-oiled machine because what they
+want to do is find something valuable as
+quickly as they can. They own the vision
+for the product. And the the architect's
+job is is to keep that process on rails.
+Is to help the pirate as as they get
+closer to something valuable turn that
+into a machine that is understandable
+extensible maintainable that won't just
+go down randomly for no reason that no
+one can figure out. Pirates need
+architects to keep from to keep them
+from making something that just like
+falls apart. And architects need pirates
+to give them the raw material to work
+with to to make a system that's actually
+worth making. So let's say you're a
+pirate and you want to know how to get
+better at that. A couple things I've
+learned cuz I definitely think of myself
+as a pirate. The first thing is because
+you can vibe code anything best thing
+you can make is a simple thing that
+works really well. The temptation with
+vibe coding is to keep adding one
+feature after another after another
+after another and never actually making
+anything of value. You're going to be
+way better at building things that
+people want if you zero in on what's
+actually important about your product.
+The second thing is once you hit on
+something that works you should just
+throw out what you already have. One of
+my favorite writers Annie Dillard calls
+this covering your tracks. You never in
+in writing you never want people to see
+how you got to the idea that you have.
+You just want to give them the idea. And
+the same thing is true in building
+products. If you're vibe coding a
+product and and iterating it all the
+time your code base is going to be this
+mess of tracks of different places that
+you tried to go and different features
+that you tried to build and different
+conceptualizations of the product. And
+that's all fine. But once you hit the
+thing that you actually want to do start
+it over. Code is cheap to write so it's
+actually very cheap to throw it out. And
+the temptation is going to be well I
+don't have to start over. I'll just get
+like I'll just get my agent to refactor
+the code base. And that's definitely not
+going to work. One of the interesting
+things about coding agents is they get
+really distracted by what's already
+there. So if you give them a vibe coded
+mess it's actually going to be really
+hard to get them to rewrite that from
+scratch while they're looking at the
+vibe coded mess. What you really should
+do is just start a new code base. A good
+sign for when to do this is
+you have something that's clearly
+valuable and you have lots of bugs that
+are piling up that you can't figure out
+how to fix no matter what you do. I
+really felt like as I was doing this
+Codex was this like slot machine where
+each prompt I was like this is going to
+be the one that works and my team was
+looking at me being like dude you've
+been saying this for like four days.
+What are you doing? And I just kept
+doing it. It's like it's really
+addicting to just watch these agents
+work.
+And it's always easier to believe this
+one's going to be the next one that
+solves all my problems when it would be
+pretty hard to actually go in and
+understand what's going on. I think it's
+really important to
+think of your relationship to a coding
+agent and get a get the right
+relationship to it so that so that
+you're actually using it to build
+interesting things and not just wasting
+your time building garbage. One of the
+last convictions I have from from this
+for pirates is just there's such a big
+opportunity to remake every productivity
+app for agents. Proof is sort of like
+you know Google Docs or Microsoft Word
+if if it was primarily supposed to be
+used by an agent rather than a human.
+But I think like every
+every app for work whether it's Google
+Sheets or PowerPoint or anything like
+that the primary users of the next
+generation of that type of software is
+going to be agents and if you start with
+an agent as your user
+the kind of software you build is going
+to be totally different and really
+valuable. So let's say that you are a
+much better version of me and you're
+smarter and more careful and probably
+better looking and you're an architect.
+You're not a pirate. What can you take
+away from this? Well I I think if you're
+an architect you've probably been
+thinking to yourself you know is
+software engineering going away as a
+profession? Do I have any value anymore?
+And my experience with this is actually
+fixed a lot of these issues with Proof
+by pulling in an architect to help me
+rewrite a few sections of the app from
+the ground up over the course of a week
+or so. And that's what really that's
+what really fixed the problems. And it's
+very clear to me after that experience
+that an architect using an AI is
+incredibly powerful and incredibly
+important and isn't just going to be
+replaced by a model in the near future.
+That's not to say that coding models are
+not powerful and are not totally
+changing everything. They absolutely
+are. But coding models still lack some
+of the conceptual clarity that a really
+senior engineer can can bring to a
+project. What you find with a coding
+model is they make lots of local changes
+that all make sense in isolation but if
+you zoom out and look at the the deep
+picture
+it feels like the whole thing doesn't
+hang together and real engineers are
+very good at doing that. That's not to
+say that that will never happen with
+coding models but for now especially if
+you're a senior engineer who's using
+these to ex- to to extend your powers I
+think you're just making new expertise
+that the models don't have. So to
+summarize software engineering is
+changing. The the way teams are
+structured what you can build and how
+you can build it is changing
+dramatically. And all you really need
+are two roles. A pirate someone who's
+moving as fast as possible to figure out
+what's valuable and an architect someone
+who's helping to turn the valuable yet
+disorganized things that the pirate has
+discovered into a well-structured
+well-organized machine. And as for me
+I'm definitely going to be using an
+architect next time I launch my vibe
+coded side project because my entire
+team will mutiny if I don't. And
+honestly it's better to do things
+together. You don't have to do
+everything yourself. If you like this
+video you should check out Proof
+proofeditor.ai
+and use it with your agent. And you
+should also subscribe to Every. Every is
+the only subscription you need to stay
+at the edge of AI. You can find both at
+every.to. And and if you watch this and
+get inspired you should fire up Codex or
+Claude Code or your favorite coding
+model and join me on the moon!

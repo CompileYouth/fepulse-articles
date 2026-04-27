@@ -1,0 +1,841 @@
+原文： https://www.youtube.com/watch?v=8A0DsIt8fJw
+
+There was something that we were talking
+about right before this that I thought
+was really interesting
+around this
+new kind of adoption that we're seeing
+both
+from enterprises using cloud code and a
+lot of these code gen tools for the
+first time in a real way and then also
+in the consumer side people making all
+new kinds of mediums that they haven't
+explored before and it's really the sort
+of blurring between what a creator is
+versus what a user is. Do you feel like
+they are in some ways kind of the new
+kinds of consumers of a lot of these
+tools?
+Um I think the lines between especially
+with AI because it's so indeterministic
+but it allows a greater degree of
+freedom when it comes to what's
+possible. Uh the lines between uh
+consumer and a creator is definitely
+blur blurry. I think the way I see it
+and where the dissonance happens is AI
+with AI we keep saying creators but
+actually um
+and if you think of a live concert when
+you go there an audience kind of has a
+fair idea of what they're going to
+expect but usually the reactions could
+be surprised tears or anger whatever it
+may need to be. So the models are sort
+of surprising us every day like that.
+You have a fair idea of what it can give
+you but I think the ultimately the
+person using the model is more of a
+consumer of the models capabilities.
+There's no rigid way to communicate what
+they can and cannot do. People are
+learning every day of like how can I
+pull the best abilities from this model
+but I think like we're going to enter in
+this very unique territory where you
+don't really know where the source of
+art is. It's just like out in the wilds
+and you don't even know where it came
+from and then it mutates into so many
+different forms that it doesn't matter
+what the source is. It just matters how
+it gets consumed.
+I'm curious something you have so much
+experience with live performance. Like
+do you feel like using models is a kind
+of live performance every time? I mean
+yeah it's such an interesting idea what
+you're talking through and I think I
+feel like I'm trying to place how I feel
+about that take. I think I feel
+complicated about it. I I've spent a
+long time like building literal live
+concert shows by hand like I call it the
+old-fashioned way now only because I
+feel like I live so much at the front
+line of these like models. Um but I did
+the original like it like origin of my
+work was all hand animating 3D modeling
+like rigging and lighting um and it
+would take thousands of hours. Like we
+would say animation is the most
+time-consuming medium you pay pay in
+blood sweat and tears and it's really
+true. Um now probably for the last like
+4 and 1/2 years I've been like really
+immersed in video models and with this
+thing I'm showing today Sleepwalker it's
+a real-time auto-regressive model and
+there's this really weird balance that
+I'm sure you all relate to where you're
+sort of like relinquishing some degree
+of control with [clears throat]
+creativity in this sort of new era of
+tools and at first I think that can be
+like really terrifying in some ways or
+it can almost feel like you are more
+consuming or watching this thing happen
+rather than participating actively
+within it but I've started to sort of
+like have my philosophy shift into one
+that's more of like almost a sculptor
+when I use these tools where it is like
+more of a dialogue between myself and
+the computer myself and the model myself
+and others like especially for
+Sleepwalker which is like literal
+multiplayer
+um where we are almost like having this
+really interesting push and pull or
+asking the model to go to these places
+to some degree I cannot control where it
+actually goes. It go follow I know you
+witnessed that yourself when you demoed
+it um but there's something like really
+liberating in that when you start to
+embrace it. It feels very new vector
+very new medium. Um there's this like
+pursuit of this thing that I think about
+all the time. We call it like the new
+image with a capital N and a capital I.
+It's like this idea that these models
+are going to allow me to produce things
+that I think no one's ever seen before
+that are net new to humanity and like
+this is one of the first times in like
+the entirety of existence that that
+starts to really become possible.
+And so I feel less like a consumer and
+more like a creator when I use these
+models because of that only because I'm
+in pursuit of that new image and I have
+almost no interest in replicating what
+has already come but um I recognize for
+sure that it it is almost such a new set
+of motions overall to use these tools
+that it really requires like a radical
+shift in in mental models to to start to
+embrace and even then I still feel like
+iffy sometimes.
+There there's even a thread here
+tying into some of your work
+Brina that is interesting around
+how a team might use this new kind of
+engine
+of creativity of productivity of work in
+a real way
+that allows them to some ways be
+maximally creative while also
+deepening their sense of individual
+taste and a lot of that comes down to
+the interface right that we use whether
+it's an in-person meeting which is like
+the OG interface
+um a phone call a Figma mock a popcorn
+prototype and I'm curious
+what principles you lean on as you think
+about designing that meta layer of how
+different creative people can
+collaborate with this ultra creative new
+engine that we all have access to? Yeah
+I mean we think about it kind of a blank
+slate but like we're really concentrated
+on the multiplayer level. So that's what
+makes me so excited about what you guys
+are building because I mean I fully
+believe great minds together make great
+products right? And so you know as we
+kind of go into single player mode
+everyone's going to be building their
+own thing and their own creativity but
+to put a live concert on you need
+hundreds of people to do that and then
+it's just like the best thing you've
+ever felt right? And so like that's how
+I feel when we're building out Popcorn
+and that's why we care about it so much
+because we know that if we can harness
+kind of what you guys are building and
+then put it in a more collaborative
+space and then for all these minds to
+come from all different directions and
+then put it together we can build really
+great products together. Um but right
+now the tools that we have it's all kind
+of hodgepodging hodgepodging Popcorn
+collaborative space where you know
+throwing into a messaging text thread
+which doesn't quite get around the
+visual part that Figma used to give us
+right? Um and then we have prototypes
+that are moving states and forms and
+like how do you verbalize around that?
+Like and then especially if you're 10
+clicks in you're just like oh I clicked
+on this clicked on this clicked on that
+and then like can you change that piece?
+Like it's just so hard to describe
+um and that's what I see people
+struggling with and so that's why
+Popcorn is so exciting for me to work on
+um where people can just take their
+single player mode of what they're
+building in their minds push it out and
+then everyone in their team can ingest
+that. Um yeah.
+I think latent space is best explored
+together and especially in the process
+of trying to actually physically realize
+things whether you're building a
+prototype or you're trying to like
+literally go to a new dimension in a
+real-time model or you're like building
+you know some sort of piece of graphic
+design work the best results that I've
+seen so far are the ones that are
+ultimately collaborative and that's
+probably because it's literally such a
+net new vector to be within. Um it takes
+like the same way that we use multiple
+agents or like multiple inputs to
+produce an output it takes multiple
+people I think to really like land
+somewhere compelling. I'm sure you see
+it all the time Yeah. with like these
+kinds of tools. I think the other thing
+I would add is just like we have to work
+with multiple humans with different
+skills even with an AI there's a wide
+range of possibilities on what different
+models can bring to the table. Each has
+different personality they might have
+different capabilities and I think
+what's
+uh missing in the market today is
+everybody wants to one-shot everything
+and it's possible maybe with code where
+everything compiles the same way and
+there's a verifiable paths towards that.
+With creative there's three things to
+satisfy. The creator has a certain
+expression of taste and they are trying
+to have the consumer consume it a
+certain way and then the platform where
+it lives is going to influence how that
+gets consumed and for all these
+variables to be right
+the machine has to understand everything
+that you want to create and I think
+that's a very big gap and where I'm
+excited about new interaction patterns
+where we should move beyond simple text
+prompting. Like it's not useful for
+somebody to write three paragraphs to
+maybe change the curvature of a font or
+you know change the background and these
+are very simple tasks which is why I
+think that is one part where a creator
+doesn't want to be surprised. They want
+to get the things done. There is a space
+where you would like to be surprised
+amused and be happy that the model is
+helping you explore realms that you
+didn't think was possible. So I think
+those are like two clear areas of
+research that you have to separate and
+like actually hill climb on where you
+have to bring certain determinism in the
+process and the way to do that is to
+teach the model expose it to the right
+data the same ways that a human should
+use to verbalize. So there's some way
+where you get work done in design versus
+there's a different space where you're
+very
+you want to be in a space where it's
+like blue sky thinking. You want to see
+the art of possible and then the models
+can help you do that and I don't believe
+it's like one single model. It should be
+various models agent harnesses and then
+on top of that interesting
+UI experiences that needs to keep
+evolving as the models kind of like
+create new forms. You should also have
+new tools to like steer and steer the
+editing capabilities of it. It it's just
+it's interesting cuz one of the things
+that is running through my mind is even
+in the the room that we're in now
+um used to be one of our companies that
+started at SBC this company called
+Goodfire. Used to be their first office
+right? And Goodfire builds tools to
+allow people building these models to
+interpret their models and understand
+what's going on and steer them in
+different ways. And I think an analogy
+that I've been playing with mentally um
+that I've actually found quite helpful
+is to almost imagine latent space as a
+real kind of terrain. Right, so there
+are there are some parts of latent space
+where you want to strap on your scuba
+mask and go underwater. There's areas
+that feel like clouds. There's areas
+that feel like mountains. And the
+interfaces, the tools, the harnesses,
+even the other people who might want to
+chime in or bring in alongside our
+journey are different for each of these
+zones, right? So, you know, as I'm
+building a bunch of agents for SBC, I'm
+like, when I am building you know, our
+agents to help us find new members and
+scour our members networks and find
+interesting talented people who might be
+exploring what's next, maybe the kind of
+harness I want that person or that agent
+to have is one that has on the hat of a
+recruiter or like a talent spotter. And
+then in other dimensions, you know, I
+when I want to scold members for leaving
+their mugs in the sink, I actually want
+like my mom's hat. You know, like I
+don't want this person to be like, "Oh,
+this could be an interesting engineer."
+I'm like, "No, it. Like I want
+somebody who's going to be like get get
+your in the dishwasher, you
+know? Like And it's like a it's a silly
+example, but I I think that a lot of
+creative work often straddles these
+boundary lines, right? Of like these
+amphibian territories, where it's not
+actually obvious a priori what model you
+want to use,
+what kinds of harnesses you might want
+to use. And in some ways,
+one of the things that I want to touch
+on a little bit is how we can think
+about giving more of this intuitive feel
+to our models. And primarily the way to
+do that seems to be interesting and
+novel kinds of data. Um and I think some
+of the data work that you're exploring I
+find pretty fascinating around making
+more legible this sort of overlapping
+zone of what humans how humans operate
+and how models might intuit the world
+and understand the world. And I think
+it'd be interesting to hear a little bit
+more about that. Yeah, so if you look at
+uh diffusion models, they were trained
+on billions of image caption pairs. But
+good design, let's say you look at an ad
+and it they are a result of thousands of
+tiny design decisions. Those design
+traces probably live on Photoshop or
+Figma or any other tool that they're
+using. And when the model just has a
+surface level understanding of it, when
+it one-shot something, it's a cool demo
+to see on Twitter. But a world-class
+designer will not accept if it is even
+one pixel space away from the margin
+that they want. And if you are aiming
+for precision and you want AI to be a
+trusted capable design partner, it has
+to also build an internal model of what
+does it mean to compose this layout,
+what does Z orders mean, what are
+uh what are the properties that you can
+mutate when it comes to text or image.
+And the way to do that is really teach
+the model with tons and tons of data of
+like good design practices, design
+traces. So, we built the largest data
+set to uh demonstrate to the model like
+what are layout compositions, like what
+do each component's properties look
+like, what should you even change here.
+And because of that, you can build a
+model that is able to not just
+deconstruct any image it generates into
+layers, but you can also delegate each
+layer and let it evolve differently with
+different models or different humans,
+which is exactly how design works.
+Because design is not one-shotted. It's
+very iterative. You walk few steps
+forward, few steps backward, and then
+maybe one step sideways. And this
+approach will allow for it as opposed to
+current image models are like an
+engineer's or optimizer's dream where,
+"Oh, let me just get this done with one
+single prompt." But that is not how
+design actually works. And leaning into
+the indeterminacy
+is interesting. Well, yeah, so it's I'm
+funny it's funny cuz I'm sitting here
+and I'm thinking about it and it's like
+I really am living a double life right
+now. So, like with Sleepwalker, it's
+almost like the full it is the full
+release of control, right? You like are
+only interfacing with prompts. You send
+that prompt out. It's auto-regressive,
+which means the model is effectively
+like learning physics from first
+principles in every single session. It
+works the same way like a large language
+model would, where it's trying to like
+look at everything every token that came
+before it and then predict which one
+comes next. And so, you get all these
+really interesting moments where you
+totally give up control. You basically
+tell it where you want it to go and then
+it tries to solve the physics and the
+time to naturally get you there. And you
+probably seen it. It doesn't naturally
+get you there. In fact, it's very
+surreal and fantastical and bizarre.
+Um but the other half of my life or like
+the biggest part of my life right now,
+um I'm spending almost all of my time
+with like production teams. I'm working
+as a forward deployed creative at Luma
+Labs. And we just put out this um
+agentic this brand new set of creative
+agents um in this like big expansive
+canvas. And the entire game there is
+like the degree of control. And it's all
+about like as much context as possible.
+And you're working with huge sets of
+images and huge sets of text. And an
+agent that has an enormous amount of
+context. And really design in that
+moment or production or creativity
+becomes a conversation, an ongoing
+conversation, not just between yourself
+and an agent, but it's also multiplayer.
+So, as many people as you can in this
+canvas are all working together. It's
+very interesting to kind of flip between
+the two. And as I think about it, I feel
+like Sleepwalker is almost like my like
+it's like my fun sort of release on the
+other side of that, where it you're
+right. Like the reality is that for the
+actual like enterprise applications and
+for like career creatives, what you
+really need is a conversation. You need
+a clear vision of creativity and you
+need a ton of context. A text prompt is
+never enough. You know? Yeah. It's so
+funny cuz when you guys are talking
+about creativity, and I come from the
+social world and talking about like, you
+know, squared
+Instagram squared photos, then you make
+it a long photo and then you make it a
+video and then, you know, and so funny
+cuz so I think about creativity like
+expression, right? And so, I'm kind of
+curious how the world is going to like
+figure out, you know, as you think about
+these tools and where these models are
+going. And like reality is is as a
+creative, you just want to be able to
+express yourself in a certain way. And
+it's funny as you talk about all the the
+the little knobs that you have to talk
+about, those are the knobs that I care
+about to be able to
+express myself in that one way. And
+that's why I'm going to change that one
+pixel that way. Yeah. Um so, yeah.
+&gt;&gt; Can you say a more about
+the new kinds of habits that both of you
+are seeing maybe within the Popcorn
+interface, but then also
+at I mean, your role at Luma is so
+fascinating, where you're working with
+people who maybe have never really used
+AI in that sense before. So, you're also
+kind of the tip of this We're both the
+tip of the spears in different domains.
+Uh can you say a little bit more about
+the new habits you're observing people
+like take on? Yeah, I mean, the way that
+I think about things is just through
+expression, right? And so, through PM,
+the tool is a doc and text, right? And
+for, you know, a designer, it's Figma.
+And so, but now we know that everyone's
+trying to express themselves through
+apps.
+Um and so now we need a place to be able
+to kind of be able to push up that app
+and then be able to have a conversation
+around it. Um so, it's as simple as that
+how I think about um
+just what we're we're working on at
+Popcorn how we see it moving.
+Yeah, it's really fascinating. Um this
+forward deployed role has been just one
+where I feel like I get to really work
+with people who I think would be the
+most transformed by these tools, but
+sometimes are the most hesitant to do
+so. I'm in these rooms with VFX and
+post-production artists who have been
+doing this for 30 years, right? They've
+come up as computers have evolved.
+They've done everything by hand. And
+when I sit with them and I first show
+them There was this great quote this guy
+said to me the other day. He was like,
+"When I talk to your agent, I feel like
+I'm dancing with the devil." And I
+&gt;&gt; [laughter]
+&gt;&gt; was like, "Oh, yeah. I have No one's
+like No one's said that to me before."
+And I was like, "Okay, well, let's like
+start to think about it a little bit."
+And that's where like the experience of
+10 years in production has been really
+helpful cuz I like I know the blood,
+sweat, and tears that it takes to
+actually like make something real. And I
+can kind of like hold their hands
+metaphorically and be like, "Okay, well,
+here's the places where I know this has
+been really difficult or where I know
+this is really time-consuming." And we
+really like focus on these sort of
+hybrid workflows, where we're almost
+like bringing the agent along with you
+to start to pick up the pieces that are
+more frustrating or more time-consuming.
+It's all about freeing up like cognitive
+capacity for the things that matter,
+right? Which is like the creativity,
+it's the expression, it's the
+exploration. And where previously a lot
+of like caloric thinking time was spent
+on setting files up, lighting,
+rendering, rigging, now it's iteration,
+right? It's in fact like the magic of
+this tool is the ability to see so many
+potentials simultaneously. And then the
+ability to explore those like very
+quickly.
+Um and to like in a lot of ways, that's
+where we start to really see people
+shift. And they go from like,
+you know, that guy who said it was
+dancing with the devil, he sort of is
+like, you know, after a week, he comes
+back and he's like, "It's all about the
+hybrid workflow. Like I love this agent.
+This agent is my new intern. This agent
+is my new friend." And I'm like, "That's
+incredible that we got you there." You
+know, and it's so exciting. And and they
+almost in some ways like can't put the
+tools down after that. I guess uh we've
+had this funny experience with
+enterprises that have large production
+spend. And uh what's interesting is over
+time, they kind of like uh don't
+verbalize a lot of tasks. They'll just
+be like, "Fix this. Like what is this?
+Like we don't know." And that even as a
+human, I'm not able to parse it well.
+But what's interesting is I've seen two
+types of creatives, like senior
+creatives. One, they're very excited by
+the technology. They want to see how to
+use it to explore everything. The second
+one is they want the machine to always
+obey. Like they don't want it to have a
+personality. They don't want it to bring
+any indeterminism to the process. And
+they are like, "Why can't it change the
+aspect ratio? That's all I want it to
+do. Like it should just do everything I
+ask it and I feel like that's where it
+would be interesting to see what new
+interface layers we can build.
+Not necessarily humanize these models,
+but a way where people can get
+comfortable with the idea that you
+actually have a thought partner
+that is like your design teammate
+because that's how you pitch it, but if
+it's like stuck in a small tiny box and
+you're like typing prompts or clicking
+buttons, I think their default state is
+I just want it to do whatever I ask it.
+I'm I'm I'm not I don't want to like
+spend time like trying to have it give
+me answers that I wasn't looking for.
+That's such an interesting take.
+I I definitely see similar things with
+some of the people that we're working
+with.
+In some ways we also like have some of
+these senior artists like start to
+really get they're reading every word
+back from the agent so closely and they
+start to get really enamored in the
+relationship that they're having with
+the agent itself. But if you know, if
+there's any moment of syncophancy where
+there's a deviation from like what the
+agent has promised to do and what it's
+able to actually create, I think in a
+lot of ways that spell is like really
+broken for a lot of creatives. And so at
+Limo like we've built a bunch of other
+additional sort of agentic tools. It's
+almost like you have an army inside our
+canvas.
+It's not just about the agent itself,
+but we actually have like a judgment
+layer that comes in and evaluates the
+outputs and then like gives the agent
+feedback on its own work and continues
+to iterate on it. And that plus like
+some framing of more of like this is a
+collaborator not a servant. This is
+somebody somebody This is something I
+have to be so careful because it's like
+come so personified for me too.
+They're my friends, you know.
+I really believe that. But it's really
+this like fine line you start to walk of
+like really like out of creative
+behavior too. Like where do you want
+people creatively to land with this? Do
+you want them to see it as like this
+executor this like machine that just
+gives you your exact aspect ratio or
+like are you more open and curious to
+these potential new pathways? Like to me
+the second one really represents where
+creativity should go, what the evolution
+of creativity and like human computer
+collaboration could and should be.
+You know. And even that framing right of
+HCI to HCC in a way right of it is no
+longer just this
+tool that humans are using to express
+something they might have imagined a
+priori. It very much does feel like this
+dance, right? And
+one of the things that you know, I've
+been thinking a lot about as well. I
+mean, one of the first teams
+I was working with these two founders
+Shawn and Max and Rob or three founders
+Shawn, Max, and Rob.
+A lot of the stuff that they were
+exploring with WebSim was this really
+fascinating canvas of what is like a
+different kind of browsing experience
+maybe look like and
+something that I noticed that was really
+interesting that that I feel a lot now
+when I use a lot of computer use models
+in particular is this sort of shattering
+of the illusion where when I see a model
+flail at navigating somebody's LinkedIn
+that I can navigate with my eyes closed,
+it's exactly that that that sort of
+illusion breaks where I'm like, oh, it's
+not really a person behind the screen.
+It's a robot that doesn't seem to know
+the world that well. And obviously this
+is a temporary feeling cuz
+in another week these models are going
+to be so much better. So they're much
+better than I am at using some of these
+things, but
+the thrust of this being
+in some ways you know, like something
+that you talked about a lot was
+this reliance on
+the conversation
+whether written, dictated, or spoken in
+some ways and overheard
+as the core medium of collaboration. And
+in in some ways like
+that carries with it a bunch of these
+externalities.
+The main API for us and other people
+tend to be conversation too. So makes
+total sense that you get the same
+positive externality or negative
+externality of a relation forming. But I
+don't really build a relation you know,
+my life prior to investing was largely
+poetry. Like I don't I don't really
+build that much of a relation with my
+pen and paper. Though I am conversing,
+but I'm conversing through them rather
+than with them. And I think I wonder
+whether this is a temporary period of
+HCC that is so lingual that I wonder in
+five years from now will we actually
+enter a period where it's much less
+conversational actually much more
+non-verbal. You know, in a way like it's
+just watching us interact. You can
+imagine a popcorn interface where that
+sidebar is not a conversation, but it's
+actually just like a bunch of cameras
+pointing at us as we're just chatting
+and it's kind of intuitively intuiting
+what we're doing and there's no back and
+forth. Maybe it's just a one-way
+transfer of knowledge and its
+conversation its medium of conversing is
+just the thing itself. It's just the
+prototype that's continually shaping. So
+in some weird way it's like we're
+chatting here and then you know, this
+agent that I'm building is just forming
+in front of me like some homunculus. And
+that's like not a crazy take in my
+opinion.
+But in that world like I I don't know
+whether I would have such a personal
+relation with the thing. Like I think
+it'd feel much more like this thing this
+being that was being instantiated rather
+than me conversing with this new friend
+who is then making this thing and we
+build an independent relation. And I
+think this is why my mind in some ways
+is so drawn to this idea of diffing the
+conversation with humans and then
+sending that to the model because it
+feels like this really interesting
+three-body problem of like you, your
+collaborators, and this alien
+collaborator which is permeating
+everything. This whole reason why you're
+on the surface. Otherwise you'd just
+stay on Figma. Like if we didn't use
+these models like Figma's great or
+whatever Google Docs is great. And so
+something that I've been thinking about
+a lot is like what is the future kind of
+relation that we'll have with these
+models as they become maybe less verbal.
+I think what I mean, that's what we're
+teasing at Popcorn, right? I mean, we
+have a modality on Popcorn that you
+point and talk now.
+Um and we're going to push that even
+further as [clears throat] we figure out
+kind of just like what conversation is
+going to turn into. If it's text,
+pointing, and and collapsing maybe two
+modalities together. Maybe it's your
+eyes looking.
+Maybe it's just your mouth moving. Maybe
+it's a conversation between two people
+that Popcorn captures to actually build
+the prototype that you guys are thinking
+about. Um and so I don't know what's
+going to push, but I think in terms of
+how we think about Again, it comes back
+to expression for me.
+It's how your team expresses with each
+other and then that combined expression
+is going to make a better product. Um
+and we need to build tools for that.
+Can I give one hot take on this real
+quick?
+&gt;&gt; Yeah, go for it.
+&gt;&gt; Okay. When you write a poem with your
+pen and paper, your pen and paper is not
+your friend, right? It becomes an
+extension of yourself. That's how I
+always felt about computer pre-AI era.
+And I think that's exactly the direction
+that we're going, right? I think it's
+going to shift from conversation to
+extension of self.
+I have one Oh.
+hot take where I disagree with all of
+this which is
+I think
+just like with humans some people you
+have transactional relationships. Some
+people are your friends. Some people
+[clears throat] you absolutely hate, you
+never want to see them again. I think
+with AI like they would also be a
+different type of beings. Maybe with
+some AI you don't want to interface with
+them and they just watch you get things
+done and you want to be you never want
+to see them again. Whereas with some AI
+you might want to nurture your
+relationships and they are an extension
+of your mind or like active
+collaborators. So I actually don't think
+it will be this or that.
+We will harvest AI people, I guess.
+&gt;&gt; Well, I mean, I feel that personally.
+Like I was
+writing a poem two weeks ago and one of
+my favorite teachers is poet Louise
+Glück. And you know, I was writing this
+poem and I was like I basically sent it
+to Claude. I was like, hey, like pretend
+you're Louise Glück and give me
+feedback. And it was so interesting. I
+had that thread going and then a bunch
+of other random SBC threads of like, can
+you do all this random work for me? And
+I felt an emotional relation when I
+closed that thread and my poem was done.
+I was like, ah, damn. Like, you know,
+and she has since passed away. So it did
+feel like this weird reanimation of this
+and the feedback was actually great. It
+was exactly what I think you could
+imagine her saying in the same kind of
+stern voice. And so I there is going to
+be a heterogeneity, right? It's like
+even within the same interface different
+threads can totally have different kinds
+of characters. Well, I appreciate all of
+you guys joining us today from different
+corners of the SBC universe. I think
+that the broader threads around
+creativity, human computer
+collaboration, and what it might mean to
+be a creative are all ones that
+folks are really interested in
+exploring. And so I appreciate that you
+guys came here to sort of share your
+thoughts with us today.

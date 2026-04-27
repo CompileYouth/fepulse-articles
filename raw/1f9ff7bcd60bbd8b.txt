@@ -1,0 +1,1197 @@
+原文： https://www.youtube.com/watch?v=MuESM7U3hFg
+
+AI as a technical co-pilot for diligence
+is actually one of the most interesting
+use cases for AI as an investor right
+now. If you come across a really
+interesting company, you can get really
+really deep within the matter of hours
+and then pull in human experts to help
+you to go the last mile. The mission for
+our business is to accelerate innovation
+in the private markets. If people had
+access to better data, they could make
+better decisions. Is it changing how
+venture capital firms operate? They're
+using tools like claw and chatbt to poke
+holes in them. What am I missing?
+Where's my argument weakest? Investors
+for decades have not had access to the
+kinds of tools that they need to really
+operate their businesses in a datadriven
+way. Let's talk about how AI is changing
+things right now. You can go into Excel,
+hook it up with Claude, hook up Claude
+with standard metrics, and then ask it
+to do a discounted cash flow. It'll just
+build it for you. It's amazing. People
+are going to be able to spend more time
+on what they're truly passionate about.
+&gt;&gt; CEO and co-founder,
+the founding partner of
+Now I'm here co-ounder
+John Milis Kerazi is CEO of Standard
+Metrics over 10,000 innovative companies
+use this technology with hundreds of
+venture firms to do their work and
+figure out what's going on how
+businesses are doing how to interact
+with them. Jon is on the leading edge.
+He's running a really high growth SAS
+company becoming an AI company. That's
+really interesting to hear from John
+about how AI is transforming business,
+how it's transforming finance, what's
+going on in the innovation world.
+Welcome to American Optimist. Today we
+have my friend John Millis Curiosi.
+John, thanks for joining us.
+&gt;&gt; Thanks for having me.
+&gt;&gt; John, you're a co-founder and CEO of
+Standard Metrics. I think it's a good
+example what's happening in AI with
+agents right now with all sorts of other
+things. So, I want to talk about that,
+but first tell us a bit about yourself.
+Where'd you grow up?
+&gt;&gt; I grew up in uh Brooklyn, Massachusetts,
+right outside of Boston.
+&gt;&gt; What were you into as a kid? What kind
+of stuff? So, um, I was really into
+reading fiction and then over time more
+and more science fiction.
+&gt;&gt; Fiction and then science fiction because
+you've studied physics eventually.
+&gt;&gt; Eventually. Yeah. I think science
+fiction was maybe a precursor to that.
+&gt;&gt; And your masters was in material
+science. That's that's a different area
+than you're working on now. Is there
+cool stuff happening in these areas you
+studied? Is that something you
+eventually want to go back to?
+&gt;&gt; You know, um, I don't know if I'll go
+back. I loved it though and it
+definitely inspired me a lot. I think as
+a kid being interested in science, I got
+um really into uh electric guitar in
+high school and then that drew me into
+electronics and circuits and I think I
+freaked out my parents because I ended
+up setting up like a soldering iron and
+like printed circuit board etching
+station in my basement. That kind of was
+my first foray into getting into
+engineering.
+&gt;&gt; What were you trying to build in your in
+your basement? I built a tube amplifier,
+a vacuum tube amplifier, and I also
+built um a bunch of guitar pedals to
+help with like reverb and distortion and
+stuff like that.
+&gt;&gt; So, you're an engineering kid, a physics
+nerd, went to Stanford, you started a
+PhD, you dropped out of a PhD. How come?
+&gt;&gt; That's right. you know, um I was really
+lucky in uh my sophomore year in uh in
+undergrad. I ended up at this material
+science labs, Mike McGee, who's now a
+professor at CU Boulder, and he was
+researching, uh next generation
+photovoltaics, and I had this incredible
+uh PhD mentor, this guy named Eong Ding,
+who uh kind of took me under his wing.
+We ended up publishing a bunch of papers
+together, and it was this really cool
+experience.
+&gt;&gt; Papers on what? Um the first one was
+around uh a new manufacturing process
+for a new type of solar cell we were
+working on. Uh and the second was more
+of a device physics paper. So it's
+understanding um really the loss
+mechanisms in the solar cell like when
+the sun shined on the solar cell what
+happened to all the electrons and holes
+which are like the counterpart to
+electrons and uh where were they getting
+lost and what was degrading their
+performance. So it was this really cool
+experience and I thought gee like this
+is awesome. I should keep going. think I
+should uh get a PhD and and become an
+academic. So that was where I was
+originally kind of pointing myself and
+um and then you know I had a bunch of
+friends that went and worked at
+startups. I went and worked at a startup
+for a summer and when I got back to my
+PhD I I realized that I I wanted to be
+doing startups instead. It's
+interesting. You know, I think this is a
+really common thing in our society right
+now where I think it used to be maybe 50
+years ago, 100 years ago, the smartest
+people who wanted to pursue the most
+intellectually demanding and interesting
+things would stay in academia because it
+was just it just more interesting there
+and there's more challenges there and
+there's things you could do there. And
+now I feel like
+&gt;&gt; the last 30 years, especially the last
+decade, startups have become so much
+more compelling and there's like so many
+smart people there and you could build
+and solve so many problems. you actually
+get like more of your you know Aristotle
+would say that like like the that one of
+the things that's most satisfying uh for
+man is to is to you know use the highest
+use of their faculty applied to to
+successfully and I feel like that's now
+more in startup world sometimes in
+academia that that was definitely your
+experience
+&gt;&gt; that that that was my experience and
+look there were aspects of academia that
+I absolutely loved I think that there
+was an element of intellectual freedom
+exploration um that was incredible it's
+actually something I loved about being
+an investor too like post uh academia, I
+spent a couple of years helping run this
+early stage uh startup accelerator
+called Stardex
+&gt;&gt; and then became a VC and I was a VC for
+six years.
+&gt;&gt; You're at Spark, right?
+&gt;&gt; I was at Spark and that was one of the
+things that I loved about being at Spark
+was this idea of being able to explore
+many different things, being able to go
+very very broad and then choose when you
+went deep. Very different from being a
+founder which I also love for for very
+different.
+&gt;&gt; It was interesting though because you
+like that about academia but in Spark
+you're able to do even more even more
+things it sounds like and go even
+broader, right? Yeah, I think as a as an
+academic, as a researcher, um I felt
+like I had a lot of freedom to explore
+different areas within a certain field.
+Um and part of the goal was to become,
+you know, the world's expert in that
+field or in a subset of that field. um
+as a VC and I think this is actually
+something that AI is now changing which
+I'm psyched to talk about with you. Um
+it's possible to have a much much
+broader scope in terms of the types of
+businesses that you're looking at but
+then kind of gear up and start to get
+really deep technically where needed.
+Well, the AI thing is actually
+interesting. I feel like I've always had
+a little bit of advantage because I do
+go pretty deep in a lot of areas. Maybe
+not as deep as as the PhDs, but I go
+decently deep. But now with AI, everyone
+can just pretend, right? And by the way,
+it's useful for me too cuz I'm like,
+"Oh, how does that how does that really
+nuance deep tech thing work again?" And
+you just like ask it and then all of a
+sudden you're like asking really good
+questions. It's a little dangerous right
+now.
+&gt;&gt; It is. Yeah. I think like AI as a
+technical co-pilot for diligence is
+actually one of the most interesting use
+cases for AI as an investor right now. I
+don't think it's a replacement for human
+experts necessarily, but it certainly is
+a huge help. If you're if you come
+across a really interesting company in a
+field that you know a little bit about
+but you're not an expert in, you can get
+really really deep within the matter of
+hours and then pull in kind of human
+experts to help you to go the last mile.
+Whereas you know 5 years ago it would
+have been this kind of mad scramble kind
+of calling people trying to assemble
+folks that might have taken days or
+weeks that can be done much faster now.
+I actually one of the hacks that I
+really enjoy when I have free time is to
+ask the AI like what are the most
+interesting and important or cited
+papers or new papers or controversial
+papers in a field and then explain these
+to me as if I only have an undergraduate
+degree like like so so dumb it down a
+little bit from like the most
+sophisticated PhD level of whatever it's
+saying and explain how it works and you
+actually can pretty quickly kind of
+learn what's going on in pretty much any
+area.
+&gt;&gt; For sure. Yeah. I think that a as a VC
+having the ability to to tailor the
+output of a of a of a model to meet you
+where you're at from an understanding
+perspective is one of the most useful
+aspects. Opening up a 10 15 page long
+academic paper full of citations is
+extremely intimidating.
+&gt;&gt; It's so it's so annoying these papers
+and it's like they purposely I think
+it's like they purposely sometimes make
+them so you can't understand. This how I
+always felt about Emanuel K and some of
+these philosophers. I'm pretty convinced
+they're purposely doing it to like show
+I'm not one of the initiated.
+&gt;&gt; There's like a proof of there's a proof
+of work there. They're there. You need
+to put in the time and effort to be able
+to
+&gt;&gt; and they like that. They're purposely
+putting the barrier in. So the AI can
+remove some of that barrier. It's not
+it's dangerous because you probably are
+missing a few things still. Yes. So you
+were helping people build things. You
+were an investor and then you went on
+and I was involved obviously in founding
+what's called Standard Metrics now which
+is this awesome really quickly growing
+company. You have over 10,000 companies
+now that Standard Metrics reports on for
+people.
+&gt;&gt; That's right. what was the idea behind
+the company?
+&gt;&gt; Yeah, so when I was at Spark, uh you
+know, when I joined the firm in 2014,
+the firm had already been fabulously
+successful. It's like taking Twitter
+public, Wayfair, you know, Oculus was
+sold to to Facebook. Um it was a really
+interesting time to join the firm
+because it was a group of very technical
+people
+um who were really interested in
+investing in cutting edge products. Um
+at the same time, the firm didn't really
+have core software that it was running
+to operate day-to-day. And um you know
+when I got to the firm I was actually
+surprised by that and I went to talk to
+friends in the industry and started
+realizing that um very few investors in
+the private markets really had access to
+to great software. It was this kind of
+cottage industry that had suddenly grown
+a lot and become very competitive and
+very global but software hadn't yet
+caught up. And so I started going on
+this quest. I actually ended up meeting
+Ray and Shuby from Affinity as part of
+this looking for software for our firm
+that we could use. We ended up buying
+that software and using it to try to uh
+run uh and improve the way we were doing
+relationship intelligence data.
+&gt;&gt; So um kind of discovered firsthand and
+some of the stuff that I went through
+when I was there was around um you know
+for example have an LP meeting coming up
+how to collect data from over a hundred
+companies clean all that data have it be
+apples to apples use it for a bunch of
+modeling exercises and reporting
+exercises. When you say apples to apples
+for people, it's basically you want to
+show off the metrics where you can
+actually compare the company's progress
+to each other.
+&gt;&gt; For example, let's examine revenue
+growth rates across the entire
+portfolio. Let's examine, you know,
+gross profit margin across the entire
+portfolio. And so going through those
+exercises,
+um even things like, hey, let's keep a
+list of the companies that are pretty
+low on cash to make sure that we're
+jumping in to help them. Those things
+were incredibly manual and timeconuming.
+And those experiences um really inspired
+me, kind of gave me a prepared mind. And
+then when I ended up meeting you, Alex
+and Danny and the team at HVC who are
+also working on this problem uh kind of
+gave me the inspiration to to go and
+start this business and and uh try to
+build a platform to automate and improve
+portfolio reporting, reporting
+management for the private markets.
+&gt;&gt; It sounds like pretty esoteric, right?
+Portfolio reporting management for
+private markets, but there's there's
+literally hundreds of thousands of the
+smartest people trying to solve these
+problems. And so you're you're kind of
+supporting. How many customers do you
+have now? How many people use this?
+&gt;&gt; Over 150
+&gt;&gt; 150 firms use
+&gt;&gt; 150 firms. Yeah. And and and uh well
+over 10,000 companies now on the other
+side of the platform,
+&gt;&gt; you know, and it's neat because Affinity
+obviously we built to solve one part of
+the problem. This is like a this is like
+the other probably biggest part of the
+problem for all these firms. And it
+started in venture. You're doing private
+equity now as well.
+&gt;&gt; We're doing some private equity now as
+well. Uh I say especially in growth
+equity which is kind of an interesting
+in between looks venture style in some
+ways but then also they they also do
+buyouts. Yeah, we see, you know, the the
+mission for our business is to
+accelerate innovation in the private
+markets. We think that
+&gt;&gt; um ultimately a lot of folks spend a lot
+of time doing things that ought to be
+faster and more data driven and more
+automated.
+&gt;&gt; And we also think that if people had
+access to better data, they could make
+better decisions. So portfolio companies
+for example um when they report data on
+SAT metrics to their investors they get
+access to aggregated and anonymized
+benchmarks that are relevant to
+companies at their stage in their
+sector.
+&gt;&gt; So 10,000 companies actually in some
+ways are kind of your customers as well
+because they're using
+&gt;&gt; Absolutely. Absolutely. Um yeah and and
+and and from our perspective, if we can
+help those companies to build better
+relationships with their investors, have
+a better dialogue with their investors
+around their their numbers and also have
+access to better data, we think that
+they're going to uh improve their
+probability of success. And then on the
+other side, you know, investors for for
+decades have um we think not had access
+to the kinds of tools that they need to
+really operate their businesses in a
+datadriven way, which extends from the
+you know, the back office and processes
+like uh you know working through the
+audit and valuations and LP reporting
+all the way to hey our portfolio
+company's coming in, they're raising
+another round. Should we invest more?
+Should we invest less? Should we
+participate? A lot of my stuff right now
+it's like I was with a CEO last week and
+it's a new AI company that's you know a
+couple years old. He's like Joe we're
+not just doubling revenue this quarter
+or tripling revenue this quarter and and
+I always think that sounds crazy. It's
+like really good but I'd be interested
+to know okay well I'm sure there's like
+another 50 that are doing that too. Like
+how does it compare based on the stage
+it's at? What are those raising rounds
+out? Like so like based on the aggregate
+data like what is this worth? Like I
+actually don't even know y like it's all
+changing so quickly even for me in the
+middle of it probably as much as anyone.
+Like what is that worth? And it's like
+you would know a lot better than me
+because you have all the data like like
+how does that workflow work?
+&gt;&gt; Yeah, for sure. So I think it's a couple
+things. I think one is um getting all of
+the data in one place and I think the
+way we think about it is that firms need
+a mechanism to collect and store all
+their information on their portfolio as
+we said before kind of in an applesto
+apples format that's clean that's
+auditable um that's that's kind of
+traceable back to where the data came
+from.
+um they need a way to access that data.
+We think about it as you know we have
+this deep commitment to interoperability
+at our company. So we think that when an
+investor has their data it's their data
+they should be able to use it you know
+with their own AI agents that they're
+bringing to the table or with software
+that they're building on top of standard
+metrics or in a spreadsheet or on our
+platform. Um and then lastly is uh kind
+of robust tools that help them to
+leverage that data as well as the corpus
+of data that exists in an aggregated
+anonym. If
+&gt;&gt; I want to ask what that's worth, I need
+to use your aggregate data to see to
+compare it to other things.
+&gt;&gt; Absolutely. So we think that the most
+powerful mechanism is if a firm has
+great intelligence on their portfolio
+company. They understand all the
+numbers. They also have uh written uh
+artifacts, notes, partner commentary,
+um and they also have access to what's
+going on broadly in the market and how
+that's changing over time. They can take
+all of that data to bear to make the
+right decision for their firm. And
+that's something that we we think is an
+opportunity for firms ultimately to
+generate more alpha not just creating
+like having really smart initial
+investment decisions which is obviously
+mission critical but then also you know
+many firms take 20 to 50% of the capital
+of their fund and reserve it um to
+invest in their existing portfolio
+companies and we want to help them to do
+that better. So let's talk about like
+how AI is changing things right now for
+firms. Obviously you guys are seeing
+what's going on. You guys are seeing the
+numbers. Uh is it changing how venture
+capital firms operate like like like how
+are people using AI in general?
+&gt;&gt; Yeah, it's changing how firms operate um
+all the way from the very very earliest
+stages of sourcing and identifying
+companies all the way through things
+like you know portfolio management, LP
+reporting on the other side. Um it's
+actually really fun right now. I'd say
+when we started standard metrics with
+you guys, you know, there was in the in
+the initial phases a lot of what we were
+doing was evangelizing to firms like hey
+you should use software like software
+will help you to run your firm better
+and um you know now that's still
+happening but there's also a lot more
+that we're learning from firms that are
+experimenting a lot. So for example on
+the sourcing side for the last decade
+plus there have been a bunch of firms
+that have built data driven sourcing
+engines. They're looking at things like
+GitHub stars, uh, number of employees on
+LinkedIn, social media followers. We're
+now seeing people use large language
+models to do a lot more qualitative
+research that complements that
+quantitative. For example, like what's
+the tone of what people are saying on
+Reddit about this company? Um, or much
+more nuance. Is it good if they're
+attacking it? I mean, those guys are
+pretty crazy.
+&gt;&gt; Maybe. Maybe. Well, there's there's also
+there's also a lot that people are doing
+around the analysis of people. So for
+example, if you take someone's GitHub
+profile for their kind of public facing
+work and you take their LinkedIn
+profile, can you start to build a map of
+the type of founder that you want to
+identify and back early that matches
+with your investment thesis? So we're
+seeing a lot of really interesting
+experimentation there. Um on the
+diligent side, as we discussed before,
+um you know, AI as a technical copilot
+is super powerful. Another thing we're
+seeing is that firms are writing
+investment memos and then they're using
+tools like Claude and and Chad GPT to
+poke holes in them. What am I missing?
+where where's my argument weakest and
+then using that to help to guide the
+diligence process and then feeding that
+back in again. So you start to get into
+an iterative mode on the portfolio
+management side. I mean we have
+customers that are doing wild things um
+right now. For example, we have one
+customer in Singapore that's using an
+agent orchestration tool and it's
+building this wide variety of AI agents
+that interface with standard metrics,
+grab data and fulfill a bunch of really
+critical internal reporting workflows.
+Um, for example, an LP asks a question,
+an agent automatically gets triggered,
+reaches into standard metrics, goes
+back, composes an email, flags it for a
+human, and then sends it off to the LP.
+Things that you wouldn't have even
+considered a few years ago are now
+starting to to to get built.
+&gt;&gt; It's just all automatic. Basically,
+people are talking to agents more than
+they realize.
+&gt;&gt; Often times with humans in the loop, and
+I think human in the loop has been a
+really important part of our business,
+particularly on the data processing side
+and making sure that data is correct.
+Um, and then yeah, when it comes to, you
+know, the the sort of technical
+diligence side, that's another area
+where I think the AI is really helping
+people to push deeper into into deep
+tech.
+&gt;&gt; Can you not teach the AI to like use the
+common sense check to make sure the data
+is correct? Like how like like how long
+do people going to have the advantage in
+that? Isn't there like a common sense
+framework you can give another agent to
+do to check?
+&gt;&gt; I think there will be. I think there
+will be. And we're certainly seeing even
+just the the the the kind of core
+models, the reasoning models get better
+and better and better at identifying
+issues. Um I think that when we think
+about the future when data is really
+well organized um for example the
+internal AI agent that we've built which
+we call our AI analyst um when the data
+is really well
+&gt;&gt; this is an analyst that's part of
+standard metrics that a firm could use
+if they have standard metrics
+&gt;&gt; that's right effectively.
+&gt;&gt; Do you have a name for it?
+&gt;&gt; We call it AI analyst. It's not the most
+creative name in the world.
+&gt;&gt; I guess standard metrics there's no like
+little like standy or something like you
+got to get something more clever. Adapar
+has Addison right? So trying to like
+standard metrics just has AI analyst.
+&gt;&gt; We Yeah, we decided to not
+anthropomorphize the the AI person
+agent. That's fair.
+&gt;&gt; But we maybe we could use some branding
+help there. But the um the AI analyst
+when it has extremely structured context
+with really clear harnessing guard
+rails. It's unbelievably accurate at
+pulling data across large amounts. So,
+for example, you could have hundreds of
+portfolio companies and ask a question
+like, um,
+make me a table with my top 10 fastest
+growing companies where I own at least
+5% that have at least $10 million in
+revenue and include like these metrics
+and it'll produce it with very very high
+fidelity. We do want our customers to
+always go and like double check the
+data, but that works really well. What's
+tougher is feeding in a completely
+unknown document and having AI extract
+data well out of
+&gt;&gt; the unknown documents a lot. We do we do
+that currently but we use humans in the
+loop to make sure that we QA
+&gt;&gt; and that's something that just like is
+not is not a fully solved problem
+obviously
+&gt;&gt; it is not a fully solved problem yet we
+think it will be in the future for now
+having humans in the loop dramatically
+improves
+&gt;&gt; this is where a lot of kind of cutting
+edge stuff's happening like one of our
+companies like with real like handdrawn
+landscaping documents they can get it
+right even though it's like different
+every time because I guess they're smart
+enough to like figure out that they're
+probably mean a plant given what they're
+doing they probably mean this type of
+plant but it's a very hard problem right
+so you have to have a person check for
+most of these things
+&gt;&gt; by the way Chris thinks Stan is a a good
+name for us to
+&gt;&gt; Stan. Okay, cool. All right, good. We'll
+take that into consideration.
+&gt;&gt; So, internally on your team, this is
+we're all living in an AI world. I think
+there's like probably a few hundred
+thousand of us that are part of this in
+a lot of ways and obviously everyone in
+society's part of it, but a lot of
+people are listening and they're not
+building things with AI right now. Like,
+how's it different for you? Like, tell
+us about this. Like, you have a team
+obviously you have a lot of technical
+people on your team. Like, like how is
+AI changing how your company works
+internally?
+&gt;&gt; Yeah. Uh, dramatically. Um, and I and it
+really feels like the the the the rate
+of change is increasing every day. The
+the sort of the product releases, the
+conversations we're having, uh, it's
+super exciting and it's a lot to stay on
+top of. I see the first place where we
+saw it change the most on our team had
+to do with data operations. As I
+mentioned before, we sort of ended up
+building a human team to go and work
+with our customers and help them to
+process our data. And the first place we
+launched AI agents in our product was to
+assist the the data operations team. Now
+AI is doing the vast majority of the
+work. So that's been a big big big
+shift.
+&gt;&gt; Have you cut people or people could do
+new things now? Like how does that work?
+&gt;&gt; Because our team's grown a lot, we
+actually have continued to grow that
+team, but we're just handling a much
+larger volume of data.
+&gt;&gt; So didn't need to grow the team as much
+as you would have to do the same thing.
+&gt;&gt; And also what we we tend to do with this
+with this team called data solutions
+team is um they're oftentimes focused a
+little bit more on breaking new ground.
+So we're really good at processing data
+data from financial statements. We just
+launched uh board deck parsing with AI
+and so our humans are like much more
+involved in in running that process.
+&gt;&gt; So if someone sends me a board deck like
+right now I have agents like helping us
+with emails and stuff too of course and
+like human in the loop obviously don't
+worry when you hear back from me it's
+not my agent but but there's but it's
+helping so if the board deck comes in
+that's actually smart like that there
+should be like something where our agent
+knows to get make sure standard metric
+automatically gets it and just
+automatically goes in. That'd be that'd
+be a good workflow
+&gt;&gt; and the data is extracted. But doing
+that from a board deck is really hard,
+right? From a financial statement, it
+actually is quite hard because the range
+of different formats and currencies and
+fiscal
+&gt;&gt; boards even harder in some ways, but at
+least it's usually should be labeled
+like
+&gt;&gt; usually, but often times data is in
+charts. So then you need to use AI to
+start extracting approximate values out
+of those charts. So there's a sort of a
+different set of technical issues that
+crop up.
+&gt;&gt; Well, that's super annoying when it's a
+chart that's not labeled perfectly or
+something. You have to like do your
+guess, best guess.
+&gt;&gt; But so data operations is the first
+area. The second big area for us is
+engineering product and design and
+that's been like a a
+&gt;&gt; what do you guys use you guys use? What
+do you use?
+&gt;&gt; We use a bunch of different tools. So we
+use on the engineering side you know
+cursor we use cloud code. We use this
+cool tool called AMP which is you know
+in many ways um it's also a gentic
+similar to cloud code.
+&gt;&gt; Um we um what we've ended up seeing is
+engineers adopt some of these tools.
+Product managers and designers say hey
+that looks cool. I should try this too.
+And suddenly and designers and product
+managers are doing very different things
+than they used to. So for example, we're
+redesigning kind of a core part of our
+app. And one of our designers built a
+fully functioning prototype using uh
+cloud code.
+&gt;&gt; I love it. I love how you can just vibe
+code, something that actually works with
+with a designer.
+&gt;&gt; It's amazing. And and it's not just like
+a mock that you can look at. It's
+actually something you can play with and
+use,
+&gt;&gt; play with and get feedback on and
+iterate.
+&gt;&gt; You can start to identify edge cases and
+corner cases that aren't being met
+necessarily. Um so that's changed a lot.
+veloc I say velocity has increased
+overall and also the ability for people
+to be creative and contribute to areas
+outside of their traditional core domain
+has dramatically changed particularly in
+product and design being able to reach
+in a little bit more contribute a small
+PR uh pull request um for example for
+maybe something looks visually off and
+there's a little bug in the platform
+that might be something a designer could
+identify and fix and then engineering
+needs to review at the end um versus
+adding it to the stack of all the
+different tasks that the engineering
+team is working on uh and then of course
+there's a bunch of other places you know
+in in marketing. One fun thing that
+we've seen is the way people find
+standard metrics is also changing. Uh
+&gt;&gt; interesting. So are there agents finding
+it now?
+&gt;&gt; Yes. Well I I don't know to what extent
+it's agents but it's certainly it's
+people using you know chat GPT and
+Gemini and cloud like how do I do this
+workflow? Oh well this thing out here
+does this like our friends at Verscell
+GMO was I guess this they power like
+tens of millions of things and like the
+vast majority of the time it's used as
+infrastructure. now has an agent that
+knows that it's the best thing and then
+there's like a really interesting
+question of like how do you put things
+online to make sure the agents like
+identify and know it. So are you
+thinking about this?
+&gt;&gt; Absolutely. Yeah. And we're I actually
+vibe coded my personal website with
+Versell um and um and it was it was a
+ton of fun. So yeah, so we we actually
+use um software that helps us it runs
+hundreds of prompts per day across four
+or five kind of major LLMs
+and helps us to identify exactly where
+standard metrics is getting mentioned
+which pieces of content that are linked
+to standard metrics the LLM is referring
+to and helps us identify gaps to improve
+the rate at which we're getting.
+&gt;&gt; So you're actually creating some content
+out there to make sure that they that
+they can see it. We're creating content
+specifically for LLM that's also human
+readable and useful for humans, but it's
+really it's really engineered to make
+sure the LLM understand what we do.
+&gt;&gt; I love it. I love it.
+&gt;&gt; It's it's really helped. By the way,
+&gt;&gt; it's a brave new world. We're marketing
+to the computers now.
+&gt;&gt; Yes.
+&gt;&gt; Please choose me.
+&gt;&gt; Uh and then, you know, so people talked
+about this SAS apocalypse was a big term
+last month. uh where I mean this is
+obviously this is a high growth SAS
+company but it's like but also you're
+moving into AI and you're an AI company
+as well like should should people be
+afraid of the SAS apocalypse like which
+are there certain companies you're
+actually you're bearish on because of it
+but then like how do you think about it?
+&gt;&gt; Yeah, I think that the SAS apocalypse
+like most things there is there's a
+there's a lot about it that's correct
+and there's certain things that are
+probably overblown. Um, I think that the
+thing that's the most correct about the
+SAS apocalypse is getting us to question
+all of our fundamental assumptions
+around competitive barriers to entry for
+software companies. Um, historically the
+number one, you know, competitive
+barrier to entry um, for software
+companies has been switching costs. You
+buy software, you build a bunch of
+workflows on it, you get a bunch of
+users using it, you get a bunch of data
+into the system, and then it's very
+painful and expensive to switch to
+another platform.
+&gt;&gt; Because of AI, that's changing. uh it's
+cheaper for competitors to build
+software, it's cheaper for people to v
+code their own software and um it's also
+easier to migrate data because of AI
+agents. So I think switching costs have
+gone down and so I think it's right for
+the way that software companies um the
+way that software companies are being
+valued to change in light of that. It
+turns out though that there are other
+competitive barriers other than
+switching costs. So for example for our
+business, one of the major competitive
+barriers that we have is around network
+effects specifically. Well, you have
+10,000 companies already. We have
+companies that use our product. When we
+bring on a new investor, we're talking
+to a new investor. We just closed a new
+customer yesterday and they had like 40%
+of their companies already using
+&gt;&gt; So, a new customer comes on and it's
+like a ton of their companies data is
+already right there.
+&gt;&gt; Exactly. It's really easy for them to
+onboard. It's also really nice for their
+portfolio companies to be able to use a
+tool with more than one investor. Um so
+that's one of the KPIs that we track
+internally is like how many companies
+are sharing data with multiple investors
+in a given month. Um so network effects
+is one. Another one is data. So for us
+as mentioned before we leverage
+aggregated and anonymized data for the
+benefit of our users. We help to offer
+insights to our users from that data.
+That's something that's also quite hard
+to assemble and quite hard to to build.
+You can't like vibe code a network. You
+can't vibe code a new data set. And
+people are starting to use this
+obviously a lot. I know I know we use it
+like how how easy is it I'm going to
+push you offline on this. How easy is it
+to like check what valuations might be
+based on data? Like I feel like that's a
+workflow we can make really easy.
+&gt;&gt; So So right now our AI analyst will do
+that for you if you ask it to. Um
+&gt;&gt; I feel like you should like make this
+like a thing that just automatically
+like helps you in different ways.
+&gt;&gt; We we we had a we had a conversation
+with a with an auditor recently about
+this too that was really excited about
+it. I think that there's going to be a
+lot of opportunity for um for innovation
+in in automation around valuations
+leveraging AI plus benchmarks plus
+proprietary company data as well as
+public market comps and other
+&gt;&gt; 100% and I feel like this is like super
+controversial because everyone gets
+pissed if you like give them the
+valuation they don't want. So you
+probably have to have multiple models
+like under this framework is this under
+this framework is this. But it' be
+really nice just to have a starting
+point you know.
+&gt;&gt; Agreed. you need multiple models and you
+also need auditability and traceability.
+Like so I think that's actually an
+example where having like a more
+opinionated deeper harness for the agent
+is really helpful. There's some cases
+where Claude's Claude's harness that
+it's built is so good that can just do a
+lot of stuff out of the box. Like one
+thing that we we published recently was
+&gt;&gt; um you can go into Excel, hook it up
+with Claude, hook up Claude with
+standard metrics and then ask it to do a
+discounted cash flow for a portfolio
+company and it'll just build it for you.
+It's amazing
+&gt;&gt; which is of course by the way has
+nothing to do with valuation adventure
+these days
+&gt;&gt; that that may be the case
+&gt;&gt; in theory it might in five or 10 years
+in the future
+&gt;&gt; that's right but but it but but for
+something like valuations you could
+imagine building like much more
+opinionated um you know workforce
+&gt;&gt; like Joe is involved plus five you know
+this other person this like person's
+involved minus one
+&gt;&gt; I think it's I think it's exciting
+though I mean one of the things that
+we're I don't know if your other
+portfolio com I actually be curious uh
+if there's any other examples but one of
+the things that we're starting to see is
+that our product development And we're
+also like discovering a lot of
+capabilities in our product that we
+didn't know our product was capable of.
+&gt;&gt; Interesting.
+&gt;&gt; Uh because
+&gt;&gt; AI is pretty cool that way, huh?
+&gt;&gt; Yeah. Like we're like, "Oh, we should
+try to do this and see if this works."
+And it then it does work and then we
+tell our customers about it and they
+start using it.
+&gt;&gt; There's probably like a lot more product
+marketing that can exist in AI world
+that doesn't right now. I'm seeing from
+all my companies cuz there are just like
+all these capabilities like all these
+things and then no one even knows.
+&gt;&gt; Totally. We've and we and we're we're
+we're like much more actively investing
+there. there. We're doing a lot more
+visual content for our users where we
+just we created a um uh I don't know how
+much uh like you guys other companies
+are using MCP sort of protocol that
+exists.
+&gt;&gt; Explain that to our listeners.
+&gt;&gt; Yeah. So, and I think of MCP effectively
+as a protocol that allows AI like large
+language models or agents to to really
+effectively use an API. So, for standard
+metrics for example, we have a really
+robust public API. We also have an MCP
+and so if you want to hook up standard
+metrics to a large language model, it
+can figure out how to use our product
+really well.
+&gt;&gt; And you're just letting anyone plug in?
+You got to be careful that someone's
+just competing with you is going to try
+to plug in and just like steal stuff.
+&gt;&gt; So So yeah, so obviously the data
+privacy and security side is critical
+and making sure all of that works really
+well. There's a um there's an
+opportunity with MCP for large language
+models to be able to go and um you can
+get super creative with how you use
+products. You can also start to combine
+different products together. Is it model
+context protocol?
+&gt;&gt; Model context protocol.
+&gt;&gt; I should have looked that up. But but
+which is by the way very funny because
+in the in the past APIs are like this
+super API is the operation programming
+interface. Super program super like
+rigid.
+&gt;&gt; It's like a program and it's defined
+exactly. You submit this and you get
+this and it works this exact way. It's
+it's a programming language. Whereas
+model context protocol is like models
+are funny. It's like you just talk to
+them. It's just it just explains what's
+going on here and what and they look at
+it and they use that to kind of figure
+it out which is I'll give you the
+funnest thing for me.
+&gt;&gt; Yeah. So like so we so we had so we when
+we started exploring this we had this
+hypothesis that we could do a bunch of
+really crazy interesting new workflows.
+One of them was okay what if we hook up
+with notion
+uh calendar and standard metrics and
+then you ask a question it's probably
+relevant to you. What are all of my
+upcoming board meetings over the next
+month? Create a notion page for each of
+them. Go into standard metrics pull all
+the latest data and build me a like
+quick summary and an agenda for each of
+those board meetings. And it'll go and
+it'll understand what a board meeting
+is. It'll go into calendar. It'll look
+at your calendar. It'll pick out, okay,
+these are the six board meetings coming
+up over the next month. It'll go create
+those notion pages. It'll grab the data
+and it'll build those reports. Now, that
+might need to be tweaked by someone on
+on your team or by you to get
+&gt;&gt; This would save my chief of staff a lot
+of time.
+&gt;&gt; It could save your chief of staff hours
+through a single prompt. Um, so the
+ability to be creative like that, I
+think, is one of the really new fun
+things about building software.
+&gt;&gt; And how quickly is everything getting
+better? Like just give us a sense of
+this. Like there's some metric where
+like Claude now has like the agents are
+able to work uh twice as long without
+interference every 3 months which is
+kind of insane if you think about it cuz
+eventually they're going to be able to
+work forever and I guess they're also
+getting faster. Like what does this mean
+like like over the next year? How does
+your business change with this?
+&gt;&gt; Yeah, for sure. Yeah, there there is
+that metric um that's sort of yeah the
+it's like what there's there's a task um
+that has a 50% chance of successful
+completion. How long does that task look
+like for a given model? I think Claude
+is now at like 20 hours or something
+like that and it was at like you know 1
+hour um a year ago. Yeah, it's pretty
+remarkable. I think for us one of the
+biggest areas where we see the models
+getting better improving our business
+has to do with the extraction of more
+and more and more structured data from a
+longer and longer tale of different
+types of written communications. you're
+able to bring everything together much
+&gt;&gt; everything together centralizing
+everything and giving it access to the
+AI analyst as context is is actually
+relatively straightforward now because
+of the size of the context windows uh
+how much data the the model can kind of
+be fed um what's trickier is the
+extraction of of structured trustworthy
+data from that so that's going to be an
+area where we think there'll be continue
+to be rapid improvement um and then we
+also think that the tooling around
+everything is going to get better and
+better it's going to be easier to
+orchestrate work.
+&gt;&gt; Some of that orchestration will happen
+within applications like ours and some
+of it will happen outside of application
+like ours and we'll reach into these
+apps um as a key data interface. Some
+people are referring to this as like a
+headless uh model. And I think it's
+really important for companies to to to
+be thinking and building with that in
+mind and making sure that if their users
+are extremely sophisticated with how
+they're thinking about building their
+own internal AI agents that your company
+can be a partner for them and not be
+sort of in a in a combative uh position.
+&gt;&gt; Well, sounds like work's going to get a
+lot more efficient and effective. You
+know, it's like a dangerous supposition.
+you know, his canes when he saw all the
+productivity and wealth coming over the
+next I guess it was 90 years ago now. He
+thought we would just only work 10 hours
+a week because we'd be so wealthy we
+wouldn't need to work and and it's like
+it seems even more so that way right
+now. Although I guess I guess there's
+like reasons why people might want to
+work harder and still make tens of
+millions of dollars and but it's just it
+just seems like you're not going to need
+to be doing as much work to get as much
+done, right?
+&gt;&gt; Maybe. Yeah. It feels like the
+opportunity cost of not working is so
+large right now though cuz there's so
+much happening.
+&gt;&gt; That's that's the other side of you.
+With a little bit of with a little bit
+of time, you can create so much. The
+opportunity cost is like, "Oh, you
+should actually work more, which
+actually is my life. I'm obviously
+working really hard because every little
+bit of time I could do something to help
+cure a disease or help fix this thing
+that's broken over here." And so, so
+every little bit of time at work, you're
+kind of compelled to work more because
+you get so much done. Huh.
+&gt;&gt; For sure. I think the other side of it,
+something that gives me like a lot of
+excitement about the future is I do
+think that the infrastructure around
+running a business, a lot of the
+infrastructure that's almost frustrating
+and annoying to deal with, things that
+most small business owners don't want to
+spend time on. Um, they want it to be
+done right. Uh, but think like, you
+know, accounting or setting up a website
+or um, you know, uh, customer support
+queries that are coming in.
+&gt;&gt; It just happens now. You can make
+&gt;&gt; those things can just happen now. So, so
+I think what we're seeing now, which is
+really exciting, is this explosion of
+small businesses getting started. And I
+think that people are going to be able
+to spend more time on what they're truly
+passionate about, probably spend more
+time on things that directly interface
+with other humans, whether it's
+producing products for them or working
+with them or helping them with something
+versus, you know, jobs that were more
+about paper pushing um that are going to
+become more automated. So, that is
+something that gives me a sense of
+excitement about the future.
+&gt;&gt; I love it. Well, that's a very
+optimistic case to the future. It pushes
+back against some of the cynicism we're
+seeing from others. John, thank you for
+joining us.
+&gt;&gt; Thanks for having me.

@@ -1,0 +1,369 @@
+原文： https://www.youtube.com/watch?v=GROt1Nd4asY
+
+It's model release day.
+Let's go. Today is the release of Spud
+GBT 5.5 from OpenAD. We've been testing
+it internally at every for about 3
+weeks. It's a sick model. We've tested
+on everything from coding to writing to
+knowledge work tasks and it's actually
+like a real step change in a lot of
+abilities. The big headline for me
+though is its coding ability. On our
+senior engineer benchmark, it scored a
+62.5 out of 100. And by comparison,
+human senior engineers score
+consistently about 80 or 90 out of 100
+on this benchmark. It's not in the
+senior human engineer range yet, but
+it's getting up there. Opus 47 by
+comparison scored in the low30s pretty
+consistently. So there's a 30 point gap
+between the work that GPT 5.5 does and
+the work that Opus 47 does. But there's
+a catch. The best performance that we
+got out of GPT 5.5 came when we ran it
+on our senior engineer benchmark using a
+plan written by Opus 47. Write a plan
+with Opus 47 and GPT 5.5 is an absolute
+beast. We're going to go into a ton of
+detail on all the tests we ran and what
+we found, what this new model is useful
+for, what its drawbacks are. You can get
+it into your work and into your life
+today. I love model release days because
+those are the days where we publish our
+vibe checks. This is a video version of
+the vibe check, but if you go to the
+link down below, you're going to see our
+written version. It's a couple thousand
+words with all of our detailed thoughts
+on exactly what we did with this model,
+what we thought released on the day of.
+We write new things every day to keep
+you at the edge of AI. We also build
+things ourselves as part of the every
+subscription. We have a fleet of six
+apps that we've built with codeex and
+cloud code with these models to help us
+in our work. Things like Kora, which is
+an agent for your email, or Sparkle,
+which is an antic file organizer, or
+Monologue, which is a smart contation
+app. All these are things we build
+ourselves and release to our audience as
+part of our subscription. We also do a
+lot of training. So we run camps and
+courses to teach you everything you need
+to know to code, to write, to do design
+with AI. And we even do this for big
+companies and executive leadership
+teams. So if this is interesting to you,
+you should go to every.TO and subscribe.
+Okay, so let's get into the vibe check.
+I've got four main categories for you.
+We've got coding, we've got writing,
+we've got knowledge work, and we've got
+open claw. How does GBT 5.5 stack up
+versus 5.4 and versus Opus 47 and other
+models? We're going to go into that in
+detail. So, let's start with coding. The
+headline is the senior engineer
+benchmark. As I said, GPT 5.5 scores
+about 30 points higher than Opus 4.7 on
+the senior engineer benchmark, but it
+only does that when it is used with a
+plan written by Opus 47. I think this
+tells us a lot about the psychology of
+this model. what it's good at, what it's
+not good at, and when to use it in your
+workflow. To understand this a little
+more, I want to talk to you about what
+this senior engineer benchmark is, the
+SE bench. It's a benchmark I invented.
+And the benchmark basically gives the
+model a vibecoded slap codebase. It's a
+real codebase from an app that I built
+called proof. And it says to the model,
+hey, like this is vibecoded slap. How
+would you rewrite this from first
+principles? Basically, is it able to
+rewrite a codebase? do it in a clean
+first principle way where there's
+conceptual clarity and it looks like a
+senior engineer did it. And the gold
+standard for this benchmark is actual
+code written by senior engineers. I had
+two different engineers do their own
+rewrites of this codebase. So we get to
+compare what these models do versus real
+human engineers. And first of all, this
+benchmark is not saturated. There's
+still a lot of room on the frontier. The
+best human engineers get around 80 to 90
+points on this benchmark out of 100. The
+best score we've ever seen is GPD 5.5.
+It got about a 62.5 using a Cloud Opus
+4.7 plan and it got in the low to mid40s
+without, which is still much better than
+Opus 4.7, which got about a 33. If you
+do some prompting, you can get 5.5 to
+make its own plan good enough that its
+performance on this benchmark starts to
+approach its performance when it uses an
+Opus 4.7 plan, but it still only gets to
+like the low to mid-50s. So, for my
+money, Opus 4.7 is just a better planner
+than 55. this model can do that other
+models don't seem to be able to is it's
+able to identify the underlying core
+principles or invariants
+that need to be true in the codebase in
+the plan that it writes and then when it
+starts writing code against that plan it
+doesn't get as distracted by the
+existing codebase. It doesn't go into
+patch mode and start like patching
+little holes. It has the assertiveness,
+the boldness, the agency to actually go
+and delete a bunch of files and and
+really start from scratch and then carry
+through the idea it has from start to
+finish over several hours. It's not
+perfect yet. It's far from perfect. Like
+I said, it's still about 30 points away
+from senior engineers on this benchmark,
+but it is a step change in terms of how
+good it is versus other models. What
+happens with Opus 47 is Opus 4.7
+actually produces really good plan. It's
+very good at writing something that's
+conceptually clear and clean, something
+that feels contract driven and gives the
+model a sense for if this rewrite is
+good enough, this big file will only be
+100 lines. That kind of thing, that
+level of detail. That's what drives GBT
+5.5's performance. That's what makes it
+so good is if you give it a plan like
+that, it just actually does it. It has
+the confidence to do it. But Opus, if
+you give it its own plan, it's really
+beautiful, well-written plan. It says,
+"Oh, this is like too much effort. like
+uh I'm just going to pick off a small
+little slice and then it just starts to
+patch around the issue rather than
+actually do the rewrite as asked for.
+GBD 5.4 the old OpenAI model that's
+being replaced today does the same
+thing. It does it better than Opus 47,
+but it still does the same thing. But
+GPD 5.5 on extra high reasoning just has
+that little bit of extra oomph that
+allows it to actually go in and execute.
+Okay. Well, what is it about the Opus 47
+plan that makes GPT 5.5 better? And I
+think that's really interesting because
+it says something about what makes a
+good use of 5.5. If you look at the plan
+that Opus 47 wrote for this benchmark
+versus the plan that GBD 5.5 wrote, it
+has all this all the right concepts, but
+it's pretty long and it doesn't have a
+lot of the really specific program
+contract style. Okay, here's what good
+looks like. Here's what you should
+delete. Here's how many files should be
+left. All that kind of stuff. It's
+really actually just really written well
+for humans. And I think they've done a
+lot of tuning on 5.5 to make it good for
+humans. And if you look at 47, part of
+the reason people don't like it is
+because it's kind of tur and it's kind
+of it feels a little bit more robotic
+than you're used to with anthropic
+models. But it turns out that turseness,
+that exactness, that contract style of
+plan is really good for 55. So, if you
+want to get the most out of 55, using
+Opus 47 as the planner or making sure
+you prompt 55 with a lot of exact detail
+is going to be the thing that draws out
+this boldness, this agency, this ability
+to carry a big plan through from start
+to finish. It's really impressive.
+Naveen, who's the GM at every who runs
+Monologue, tested it on building a to-do
+app called Dayline,
+and he was really impressed by how it
+was able to build a native iOS and Mac
+app that was beautiful, works really
+well, and it can just sort of turn
+through a bunch of features in a plan
+until it's done. It's really, really
+good at that, especially if the plan is
+well specified. Naveen also used it to
+build a release of Monologue, the app
+that he runs, and he used about 900
+million tokens with GBD 5.5 in
+pre-release as part of his testing. He
+thinks it's his favorite model for
+everything. He said he was only able to
+hit the deadline that he needed to in
+order to get a new feature out for
+monologue by using this model. It means
+an incredible senior engineer and if he
+likes this model, it's worth paying
+attention to. There are some things that
+he's not as good at. Kieran Classon, the
+general manager at Kora, which is our AI
+email agent at every tested the model on
+his LFG bench, which essentially
+replicates his real development process
+to see how a model does on more product
+forward engineering tasks where you're
+not necessarily refactoring a whole
+codebase, but you're building a feature
+um and and something that includes a lot
+of front end and design and product
+thinking. And he found that for for
+these types of tasks in the LFG bench,
+5.5 did pretty well. But OBS 4.7 had a
+higher ceiling, especially on design
+forward tasks, it just has a better
+aesthetic sense than 5.5. And Mike
+Taylor, who runs technology consulting
+at every had a similar feeling about it
+in his benchmarks where getting to vibe
+code relatively complex app from scratch
+with a underspecified plan, it just
+didn't do as well as Opus 47 which is
+ripped through the entire task. So
+whether you're vibe coding or you're
+trying to do some senior engineer type
+stuff, a better specified plan is going
+to be the way to get the most out of
+this model. One other thing that we
+noticed is that GPT55 is really good at
+writing TypeScript and writing Swift,
+but Kieran, who is a huge Ruby stand,
+thinks it doesn't write good Ruby. So if
+you're doing a Rails project, you may
+not be happy with the quality of the
+Ruby that gets written, but if you're in
+Typescript or you're in Swift, you're
+going to be pretty happy. Okay, now on
+to writing. It's got a little bit less
+personality than Opus, especially the
+older Opus models like 46, but it's
+actually really good for doing business
+writing. So, I used it to write our
+investor update, and it basically
+one-shotted an update that was like
+close to being ready to send. Katie
+Parrot, who's a staff writer at every
+has been using cloud models for probably
+a year or two now, almost exclusively
+for writing. This is the first GBT model
+in a long time that she has started to
+use for writing tasks over Opus or
+Sonnet. in particular. Katie and Mike
+both really liked it for its voice
+replication. It was pretty good at at
+mimicking a style without overdoing it.
+It's a little bit more restrained, which
+I think is why it's good at business
+writing, and that makes it a little bit
+more subtle as a writer. Okay, now on to
+knowledge work. This is one of those
+things that OpenAI was so behind on even
+3 months ago or 6 months ago, and they
+have just rapidly iterated to the point
+where the Codex desktop app is great for
+any kind of knowledge work. And using it
+with GBT 5.5 is best-in-class agent
+experience you can have on your desktop.
+For one, it's it's really fast. It's
+really powerful. It can use any of the
+apps on your computer. It's good at
+browsing the web. It's good at doing
+things like writing dashboards or doing
+complex data analysis. And again, it's
+really fast. Um, in in all of these
+tests, I haven't talked about this that
+much, but in all of these tests, we were
+pretty shocked at how slow Opus 4.7
+feels in comparison. You can really tell
+the hardware advantage that OpenAI is
+working with right now. You can feel it.
+One thing about this model that I kind
+of ding it for versus Opus is some of
+the training that's being done to make
+it feel digestible has come at the cost
+of some of its eye for detail and
+knowledge work. If you're using this
+model for tasks that require like really
+sharp insights, I would definitely
+consider using 47 over 55 for that. For
+example, even the senior engineer
+benchmark like grading the model
+trajectories. I just trusted 47 more
+than I trusted 55. even if I basically
+want to use 55 more as my daily driver.
+It's a great daily driver model. So,
+that's basically the gist of 5.5. I feel
+like it's Christmas every couple weeks
+around here cuz we keep getting access
+to new stuff and it keeps being
+awesome. And I feel like my powers and
+everybody else on the team, like all of
+our powers are just increasing day by
+day. You should definitely give this
+model a try. It's the most usable way
+right now to get the power of a Frontier
+model in a userfriendly, human-friendly,
+collaborative package. And that's a big
+achievement. Until recently, like I
+pretty much used Cloud for everything.
+Over the last couple months, I've really
+switched my usage where I use Cloud a
+decent amount on mobile. I like the
+mobile app, but for anything on my
+computer, anything agentic, I'm pretty
+much in codeex for everything. And I got
+to say, I like it in OpenClaw. If you're
+an Opus stand, the harness is really
+still built to work better in Opus, but
+they're releasing stuff every day that
+makes it pretty good in OpenClaw. And
+it's been one of those stable
+experiences for me over the last couple
+weeks where it's not forgetting stuff as
+much. It's not doing dumb stuff as much.
+It still does it a little bit, but
+because it's free under my TGBT
+subscription, I'm okay with a little bit
+of a trade-off in power. And I think
+that they'll fix that hopefully soon.
+So, if you didn't like 54 in Open Claw,
+I recommend giving a shot in 55. So,
+that's it folks. That's our report from
+the frontier. If you liked this, you
+should like and subscribe, but more
+importantly, you should go to every.TO.
+We have a couple thousand words on this
+model with everything that we tested and
+everything that we found. We also have a
+suite of apps for subscribers, stuff
+that we built ourselves that help you
+work better with AI, stuff that helps
+you write your emails, that helps you
+organize your files, that helps you
+write better. We've got a ton of good
+stuff in the every subscription. If you
+try this model, we'd love to know what
+you think. So, please leave a comment
+and remember, stay hydrated. See you
+next time. on the moon.

@@ -1,0 +1,1652 @@
+原文： https://www.youtube.com/watch?v=CXNFdafIICU
+
+None of you are here to see me, but I do
+have to tell you where you are. Uh,
+welcome to South Park Commons, New York.
+Uh, put your hand up in the audience if
+you are part of South Park Commons.
+After the event, if you want to learn
+more, you should talk to them. Uh, quick
+office with an amazing team, Suzanne and
+Aryan. We've been around in the Bay for
+10 years, but in New York for a couple
+now. We're basically a space for deep
+technical exploration. So we try to
+bring together the smartest people who
+want to solve the hardest problems. We
+want to bring them into our space. We
+don't take any equity. We don't charge.
+We just want really smart people to come
+together. And hopefully we get to invest
+in a bunch of you and accelerate
+building businesses that might one day
+look like these guys. So, if you want to
+learn more about SPC, if you're curious
+about what starting something or doing
+full-time technical exploration could
+look like, uh, I'm always around. And
+with that said, thank you so much all of
+you for coming and I'll hand it over to
+Eric to kick it off.
+&gt;&gt; Hey, I'm Eric Newcomer. I'm the author
+of the newsletter Newcomer and host the
+Cubal Valley AI Summit. Thrilled, man.
+This is quite the crowd and people are
+eager. So, I will not talk too long. At
+some point, I'll open it up. We
+definitely want people to engage. I
+think these are three companies truly at
+the cutting edge. So excited um to get
+right into it. Do you just want to
+introduce yourselves and sort of give
+the brief what your company does?
+&gt;&gt; Yeah, sure. Hi everyone. Good to be
+here. Uh I'm Joseph Krauss. I'm one of
+the co-founders and the CEO of Radical
+AI. And what we do is build AGI for
+science. So we are discovering new
+materials with an AI scientist in a
+fully robotic lab that can actually
+impact some of the most important
+industries in the world. So that's us.
+Uh, PIM, general intuition. Uh, we build
+general agents for environments that
+require deep spatial temporal reasoning.
+So, think things like robots or moving
+around in simulation.
+&gt;&gt; I'm Rob Cochran. I'm a co-founder and
+CEO of Fond Robotics. Uh, we're building
+safe, reliable, and fun robots for
+everyone. Uh, our first product, Sprout,
+uh, is a 3 and 1/2t tall humanoid robot
+that we've made available as a
+development platform.
+&gt;&gt; All right, we're get right into it. Rob,
+Amazon has bought your company. Why? Why
+did you sell it? Tell us the story.
+&gt;&gt; Uh yeah, so this news came out last
+week, obviously much longer in the
+works. Uh I worked at Amazon previously
+uh several years ago uh in AWS and had a
+bunch of relationships there since since
+starting the company. Uh you know, in in
+many conversations uh discussed
+partnership and and different things we
+could do together. I think ultimately
+they really liked our vision for how
+robots would one day work and live
+alongside people uh and wanted to
+support that in a in a big way and the
+chance to get to keep doing this and
+doing it in New York and and with a lot
+of support from a great partner uh felt
+very excited.
+&gt;&gt; And so you're going to lean in on the
+form factor you're doing which is sort
+of a cute research robot like give us
+the articulation of why we're not going
+straight to humanoid robotics.
+So though we have started with a two arm
+two-leg uh robot named Sprout um
+&gt;&gt; cuteness is part of the
+&gt;&gt; cuteness approachability something
+engaging something people actually want
+to be around I think the reality of
+robotics today is that they don't work
+perfectly uh and so one it has to be
+safe so if you have a 150 or 200 pound
+machine that falls over you or or falls
+into a child that's that's it so you
+obviously can't deploy that kind of risk
+into real environments and I think there
+are still many innovations required to
+make robots work very effectively uh in
+homes and so having a platform that is
+experimentally deployable uh in a lot of
+situations is very useful uh and then
+making it something that people want to
+be around so they're a little forgiving
+of some of its its faults.
+&gt;&gt; All right, Pim, you're first of all you
+you come out of like the video game
+world, right? Uh is it you were running
+the largest Runescape server at 14?
+That's a correct fact. I think I do all
+my prep with Claude now, which is
+dangerous, but it's so good. Um, that's
+accurate. All right. And then basically,
+you had a company that had t access to
+tons of video game clips. You go out,
+you start pitching them to foundation
+models and you figure out actually uh
+this is data is pretty valuable. Like
+maybe I should build my own company off
+of it. Is that a fair origin story or
+what what is the sort of
+&gt;&gt; Yeah. What was the idea behind general
+intuition?
+&gt;&gt; Yeah. So uh I was too young when the
+mobile sort of revolution happened and I
+think I um
+&gt;&gt; I come from consumer so I I I looked a
+lot at like well what do platform shift
+like usually the biggest companies are
+built right after these thing called
+platform shifts happen which is when
+there is like a large like unsettling of
+the status quo and like how things are
+built or how networks come together and
+in video games discord was a large
+platform shift and so Metal came on top
+of Discord largely um Metal is one of
+the largest video game recording
+applications. Um, and uh,
+and so I I was too young for mobile.
+What I saw when the LMS happened, I was
+already fairly obsessed with with like
+reading the papers and trying to
+understand how this works. Um, and then
+um, yeah decided to go allin uh, and
+then indeed we um, you know, we just
+started looking at how the data could be
+useful. Like originally we had some
+ideas of like oh can you take factorial
+clips and use them to create like of
+like the best players and can you
+evaluate like language models on how
+they would do certain things and then we
+actually realized that the data set was
+so general that games are actually a
+very good representation of like digital
+information i.e. text, which like
+robotics lacks, right, in the physical
+world. And then in the physical world,
+you have spatial and temporal dynamics
+where like um things unfold over longer
+periods of time, which text and lacks
+and pictures lack. And um and so we sort
+of realized that we could probably we
+had so much of this data that we could
+pre-train entire foundation models on it
+and we've been able to do that very
+well.
+&gt;&gt; You're you're building agents for real
+world, the real world. Um
+&gt;&gt; but the world models are built from
+video games. Is that right? like what
+what is your view on whether like the
+successful world models because that's
+such a buzzy term right now will be
+based on like mapping this room or based
+on video games just because there's so
+much volume. Obviously we saw similar
+debates with self-driving cars.
+&gt;&gt; Uh yeah the the the phrase is so broad
+now it's very uh difficult to give like
+a succinct answer but I'll try. So um
+what sort of world models is
+actions and frames right? So you have an
+action and then you have an observation
+i.e. the next frame and then the next
+frame can be generated off the action.
+That's kind of the original term I guess
+um or the next state. I'm using the word
+frame in this case because it's more
+familiar but the next state of the
+environment is like generated off the
+action that you take. Um that sequencing
+of data just doesn't exist in the real
+world in a um and what's important is a
+timely accurate way. So if you want your
+models to properly
+react to the actions you take, then you
+want to be able to separate out the
+action from the state, right? So the
+action from the world. As humans, we
+don't have that. Um, and if you want to
+label it off video, uh, even the best
+humans, right, they will not get that
+precise within like, you know, a 100
+millisecond range. If you want your
+models on very little data to learn
+these causal relationships, then you
+actually want that to be ground truth.
+therefore actually getting it from video
+games in a software
+&gt;&gt; is there's a faster
+&gt;&gt; you actually control how the frames and
+the actions are being put together and
+therefore we just found that you could
+pre-train on that and then do a lot more
+afterwards. So um we found this to be in
+our opinion like a great way of doing
+it. Now there's other companies that
+will try other ways. We'll see how it
+plays out. All right, Joseph. Radical
+AI. You're in some ways it is what
+people think with the frontier like fine
+new materials and you have what Rathon
+is like a big backer. So this is like
+outside the serious uh companies uh
+thinking about this like yeah what what
+material how what's your approach I
+guess to finding materials and then like
+what is materials even the word you use
+and like what is then the first material
+you're hoping to stumble upon? Yeah, I
+think I think it's kind of worth maybe
+taking one step back, right? And I think
+the thing I always like to talk about,
+and you might have heard me say this
+before, is what do materials mean? Why
+are they important? Why are we working
+on this technology? And the reason is if
+you really paint the picture, right, and
+you think about how many industries are
+impacted by material science,
+automotive, aerospace, manufacturing and
+defense, climate, energy,
+semiconductors, electronics, most
+important industries in the world, all
+direct result from materials R&amp;D. But
+when we were paying attention and we can
+get into like why we started the
+company, it just takes way too long, way
+too much money, and way too much
+fragmentation to solve them. And so the
+big thesis behind the company is this
+connection between an AI scientist who
+has a ridiculous level of intelligence,
+I mean better than a PhD scientist would
+have today and we're a couple months
+into training it on real on kind of real
+experimental data. and then a fully
+robotic self-driving lab. And that means
+that we can actually run experiments,
+kind of synthesize materials,
+characterize materials, and then test
+materials in high throughput. And we
+capture all that information. None of
+that information is captured today. And
+so you build this data set that does not
+exist in the experimental lens, has
+really important information. It's the
+actual real world impact of materials
+and the way they perform and then can
+actually be used to kind of push those
+materials to end applications. So,
+Rathon's an investor, Nvidia is an
+investor, any is an investor on the
+energy side. We do a lot of work in
+nuclear fusion and so you kind of have
+all these companies.
+&gt;&gt; Materials is huge all the world like
+where do you start? You know, it's like
+anything could be useful.
+&gt;&gt; That's right. And so where we thought
+about was like where is an area that
+really has so much opportunity to show
+why the techn is relevant and in the
+space that we work which is called
+structural metals there are 10 to the 40
+different potential combinations. So I
+want you to envision this like that's
+like a hundred trillion earths of
+different potential combinations that
+you can go synthesize. That'll take like
+7 million years if any of you try to do
+that. That's where AI is really good at
+weeding and self-driving labs are really
+good at making. And so that's why we
+kind of chose that area. Aerospace,
+defense, and energy are the areas that
+we're working in today. And then kind of
+moving into semiconductors as a future
+area which we can talk about.
+&gt;&gt; Is there like a very specific sort of
+&gt;&gt; There is it's called a high entropy
+alloy. So it's a material that has five
+to seven different elements in it and
+they're all about equatomic and it has
+really high entropy in the system. And
+so what it can do is have incredible
+properties at crazy conditions. You're
+like flying through space at Mach 10. It
+gets ridiculously hot. ridiculous
+pressure and it's really oxidative. It's
+really corrosive. These materials
+withstand all of that. So they don't
+feel the effects of those conditions. So
+they're pretty exotic in that way.
+&gt;&gt; How much this is sort of for everybody.
+I want to understand like how much was
+chatbt and what's happened with like the
+language models like an innovate like a
+inflection point for what you're trying
+to do? I know some people came after
+that and everything, but like was that a
+core technology to what you're doing or
+do you see the actual like technological
+leap as being something totally
+different?
+&gt;&gt; Yeah. I mean, for robotics, it's
+definitely a a huge innovation and step
+forward for planning. So, if you think
+about, hey, robot, grab me a snack from
+the fridge. The ability to plan that
+task out flexibly and accommodate, you
+know, oh, it gets to the fridge and the
+drink that your favorite drink's not
+there, so can it pick another one? that
+sort of planning and replplanning was
+just not possible through you know
+formerly possible structured planning
+routines. But for us, I mean, there have
+been many innovations. The availability
+of of embedded GPUs that can run on
+device in real time, uh, actuators that
+you can buy off the shelf to, you know,
+animate the robot's body. And then for
+us uh and my partner spent spent time at
+DeepMind doing work in simulation and
+and the availability of physically
+realistic simulated environments where
+you could train robot behaviors and have
+those behaviors actually reflected on a
+real robot was not possible and not a
+way that people developed robot
+behaviors you know five or 10 years ago
+and is now quite possible and with
+accelerated compute can be done at scale
+and that's I think driven a real uh set
+of innovations more from a robotic
+control perspective and is AI I but it's
+not language models.
+&gt;&gt; Yeah. You know, obviously you're it's
+sort of the next generation of language
+models. How would you draw sort of the
+connection between what you're doing and
+the work that's happening in language
+models today?
+&gt;&gt; Um I think that the last point that he
+made was was quite interesting on the
+simulation piece. I want to just explain
+that a little bit better because I think
+it will make everybody understand why
+it's important. Um
+so previously you would have to uh hire
+an engineer who goes and codes up an a
+simulated environment and then um
+uh and then you do it in engine that
+engine is like probably roughly you know
+modeling Newtonian physics or something
+and you don't know precisely how much
+because it made some trade-offs in some
+places right to to go faster. Um, so
+then you need to check how far off they
+are. And then now what you can just do
+is you can just create verifiers where
+you just look at like the outputs of the
+engine and you can just have an LM go
+crazy put together a bunch of
+environments for example and just pick
+ones that that work well. Um, and so I
+think it's I think the role of the
+engineer in a lot of parts of the stack
+has moved from the person actually
+controlling the number of output to just
+verifying the output and then using that
+as a way of so it's it's a it's a
+massive force multiplier that the size
+of the teams that you need to do what
+you needed to do before is massively
+less. I think LLMs are in many ways just
+a way of like the simplest way that I
+describe it is is all the time that
+collectively as humans we spend like
+searching the internet reading things
+like Stack Overflow and then typing it
+all that's just compressed right into
+like a very easy um sequence and so now
+uh yeah I think it's it's it's many
+exponentials of speed ups and all like
+it's funny the work that we all do which
+has in common which is that we saw what
+happened in tax I think and so you see
+um And also like looking at the scaling
+laws and all the techniques techni the
+techniques being developed for like
+pre-scaling like or pre-training all
+these things are all extremely important
+right they're all quite general um a lot
+of the models a lot of model
+architectures a lot of the pieces you
+also can directly transfer um and so uh
+yeah all super fundamental work I
+actually think people don't realize how
+similar it all is under the hood um
+there and yeah
+&gt;&gt; yeah I agree with that last point
+entirely I think there's there's so much
+similarity that comes over and even
+things like you learn about training,
+right? Like, you know, did did Chacht
+learn the English language? Well, no, of
+course not. It learned how to represent
+that and then and then use that when it
+produces text. And I think we think
+about similar things in material science
+that we learn from the language field.
+We we also use it and I think that's
+important. Um, you know, we have this
+this like head honcho who runs our
+science. He's like he's like the guy in
+charge. He's like the he's like the new
+PI of the lab. And that's an LLM. Like
+it's from it's from Open Air and Claude.
+We fine-tune that to understand
+materials. But he doesn't, you know,
+that that agent,
+&gt;&gt; do you give him a name internally?
+&gt;&gt; He's rad. So this um he, you know, that
+that agent just calls the tools that he
+needs and and it's really good at
+understanding like, okay, I want to go
+into simulation. I'm going to run
+quantum chemistry. I want to run labs.
+I'm gonna talk to my APIs in my lab.
+&gt;&gt; Is he like the type of PI where it's
+like, I don't need to explain this to
+you. Just trust me, I I'm I'm an expert
+in this or like how much did your humans
+come around and like figure out why it
+says go this way.
+&gt;&gt; So we do that a lot today and it's
+really important to label the data for
+like a common industry phrase meaning
+how does it know if an experiment is
+good or bad. Well a human scientist
+tells the agent that. So we'll come in
+it, you know, the agent will analyze the
+result from the lab. Our human scientist
+will analyze the result from the lab.
+then we'll compare them and you build
+this training data set of okay I
+understand what the human scientist is
+going for so the humans are definitely
+in the loop today and it's really
+important but there's a bunch of other
+kind of technologies that we custom
+build diffusion models are a perfect
+example there's not a real good
+diffusion model model and materials
+today we have to build that from scratch
+we would never build an LLM from scratch
+so I think they're important in the
+learnings and they're important in how
+we can use them in in in our workflows
+today
+&gt;&gt; in in five years like what's the world
+look like? That's that's the fundamental
+question like you know robotics like I
+mean there's the sort of like will
+humanoids happen that quickly or not
+like what both on the sort of bullish
+end where you're bearish like how is the
+world sort of more different than we
+expect in five years where do you think
+oh I don't know I don't know if we're
+going to make a leap like in in your
+domains or any any area that would be
+interesting to people building here
+&gt;&gt; yeah I mean from a from a robotics
+perspective I think there's definitely
+still a lot of work to be done to make
+robots very effective across the broad
+set of tasks that we'd like to
+eventually have them do in the home.
+That's part of why we started with the
+development platform. So AI labs in
+academia and and corporate research labs
+are able to kind of build and extend and
+develop some of these capabilities. I
+think some of what we're hearing here is
+that, you know, there's a lot that still
+needs to be done to to ground uh robotic
+simulation in physical reality and to be
+able to to make forward projections that
+are are realistic and and understand
+physics of the world. Does that so you
+don't believe like oh we're going to
+have AI is going to hit some sort of
+self-improvement point and so that the
+rate of development is going to change
+so much of over the next five years that
+we just
+&gt;&gt; I think we are in a very steep path
+where we're figuring out a lot very
+quickly and we should see robots very
+broadly you know in the world and we're
+building and shipping robots today um
+you know but I think we are on a very
+steep path where innovations still need
+to happen with people
+&gt;&gt; one specific thing that maybe in five
+years you'd you'd hope to
+or Pim, you can be our futurist.
+I'm going to steal this. So this I'm I'm
+stealing this from Andre Kaparthi. He
+said it in a talk privately once and I
+really liked what he said. Um there's
+broadly three stages. Bits to bits. So
+anything digital to anything digital
+where there's lots of information
+available. Um bits to atoms and atoms to
+bits as like an interface layer and then
+atoms to atoms. Those are like the three
+stages of like quote unquote AGI. And
+they all have very very different um
+problems. Uh bits to bits is in
+hyperdrive like we're flying. There's no
+no limits in sight. Um bits to atoms and
+atoms to bits is largely constrained by
+measurement systems that we still need
+to build. And I think it's a very
+interesting space right like a lot of
+the work you're doing I'm sure is is you
+could see as as as as starting as bits
+atoms atoms bits and ending up in atoms
+to atoms, right? Um and then eventually
+Adam's Adams where you have completely
+endto-end physical systems modifying um
+other physical systems and then and
+really I just look at it as a number of
+combinations of things that are possible
+in the world and the the pace at which
+we produce them just goes up so far so
+fast that um you just start seeing a lot
+more things a lot quicker and and I
+think so the same thing you're seeing
+with like web apps being developed on
+the internet like lot all your friends
+can develop apps now you start seeing
+that with lots of different things and I
+think that's really just I think that's
+how it plays out.
+&gt;&gt; What this this is sort of a Zag, but I
+just want to understand like who are
+your first customers or like what do
+your customers look like?
+&gt;&gt; Um so at the moment uh our customers are
+any robot that can be controlled using a
+game controller. So our what we do right
+is we build world models and also um
+policies or agents that then are trained
+inside and evaluated inside the world
+models. And what world models are great
+at is sort of simulating stochcastic
+environments that would be very hard to
+simulate in like traditional physics
+engines or like you'd have to do a lot
+of like manual coding, right? And so um
+uh you evaluate a robot not by how it
+does when you walk down a straight or
+when it drives down a straight road, but
+you you evaluate it by how it does when
+something unexpected happens, right? And
+so that's why you need lots of
+stoasticity and unexpected things to
+happen. That's why world models are
+great. Um, so our our customers are
+typically um robotics customers. So you
+can control using game controllers
+because a lot of the data obviously is
+is gaming actions, right? And that
+that's the general sol which is really
+cool. So you don't need to solve for
+like precise motor torque um
+predictions. You can just solve at the
+input of the game controller which every
+robotics company already ships with. Um,
+and then I think on the humanoid
+comment, I think I'm less optimistic on
+on humanoids, not not uh home robots and
+and like actual. So I I I view AI as
+largely also an interface problem. Uh,
+which is funny as like a person who
+built models, like I think it's largely
+an interface problem. Um, like we didn't
+start paying attention until CHBT, which
+was largely just an interface, right?
+Um, and so same thing with like home
+robots like it's pro it's it's it's you
+know if I go off first principles and I
+think humanoids are interesting but
+largely the reason why humanoids were
+picked as an embodiment were because the
+assumption was around that that's the
+only place where we had large scale data
+because of humans recording themselves
+from like the egocentric point of view.
+Um and also I think at the end of the
+day you don't want like heavy bulky many
+thousands of dollar things that require
+energy if you don't need them. Um, in
+many cases, if you can control the
+devices themselves, it's probably a
+better solve. Um, uh, and so I think in
+a home they'll be they'll be big because
+I think there's lots of like very random
+tasks. I think in factories they'll be
+big, but like I don't think it's like
+the everywhere thing that we're
+imagining. I think we because I think
+they're just hard to manufacture. I
+think you'll see I think you'll start
+seeing specialized systems that people
+buy much sooner than you see like very
+general remote robots as like the
+general thing everywhere for radical AI
+to go back to this like bits to bits
+bits to atoms like framework yeah which
+piece is the hardest for you right now
+and like what where are you in that
+process this still sort of like bits to
+bits idea generation or
+&gt;&gt; yeah
+I like the framing we call it in in our
+industry is kind of called concurrent
+engineering. And so like a lot of the
+systems that we build today, whether
+that's you know a fighter jet all the
+way through to like maybe a humanoid um
+those technologies do not design
+particularly the materials but other
+systems in concert with them. So like in
+aerospace when we design a new turbine
+or we design a new plane we go back 30
+40 50 60 sometimes a hundred years to
+pull the material to use. And that's
+true in the automotive industry today. A
+lot of the cars we're driving 1907 1910
+like Ford Model T alloys. It's crazy to
+think about like how are we at AGI and
+we're using 1910 alloys. So kind of this
+like you know Adams bits to atoms or
+bits to bits like we view this world
+where if you're designing a new plane or
+a new car like you should be designing
+the material at the same time that
+directly meets the requirements and
+constraints that your product is going
+to have. We're close to that. We we
+can't do that at scale yet, but you
+know, our scientist can talk to our a AI
+agent. I want a material that does this.
+That agent will go run a bunch of
+calculations, figure out what example
+that is, send it to the lab, and then
+make it. So, you're you're really going
+from voice to end material. And it's not
+perfect yet. We're still building that
+technology. But man, if you get that at
+a loop where anyone can do that on our
+platform, like again, now every
+automotive, every aerospace, every
+mechanical engineer in the world has
+materials customization available to
+them.
+&gt;&gt; And how do you monetize that?
+&gt;&gt; So for us, our end goal is to actually
+sell materials. So what we do is we're
+capturing the largest experimental data
+set in the world because we're running
+experiments. And when you have that data
+set, we have a deep belief that that is
+the fundamental underlying technology
+you need to make these models relevant.
+When you can put this whole fly, we call
+it the flywheel, the flywheel together,
+you can start to target thing like our
+tap superconductors for example or high
+entropy ceramics or new battery cathode
+materials. We want to sell those
+materials to the industries of the
+future. We always like to say, you know,
+we don't focus on optimization based
+technologies. There's a bunch of
+companies that optimize existing
+products. We focus on enabling based
+technologies, technologies that are not
+here today and will be here tomorrow
+because of radical AI
+&gt;&gt; that you will then own the patent and
+&gt;&gt; so we'll like make them we'll we'll
+discover the material test it and then
+actually manufacture and scale it.
+&gt;&gt; Let's um you know we have a lot of
+people here who maybe some of them want
+to know what company they should start
+what space they should go into. Do you
+want to sort of like the company you
+wish you you could be doing besides this
+or just areas where you think there's
+opportunity obviously Rob I mean you
+were in sort of the control labs like
+the human sort of machine interface is
+that an area you're bullish on or just
+spaces you think people should be
+running at right now?
+&gt;&gt; Yeah. So our previous company uh control
+labs which which we sold to Meta uh was
+a wearable neuroch device. So you wear
+it around your wrist, picked up a signal
+known as electromyiography,
+interface to a computer and let you have
+very high bandwidth control over a
+computer interface, whether that be VR
+AR glasses, it is now part of the AR
+glasses that that Meta ships and I think
+in general these I mean there are kind
+of two trajectories. one towards highly
+immersive technologies and then maybe
+more towards embodied technologies and
+I've worked at on either side of that
+but I think both of those it's core to
+think about the user and the person and
+I think a lot of times what gets lost in
+in robotics and with with kind of
+immersive technologies is
+&gt;&gt; sorry I actually don't know which is
+which which one is sort of in the brain
+&gt;&gt; so what I would say is you know with
+with AR we are projecting ourselves into
+a digital space and with robotics we are
+pulling and robotics are embodying the
+AI itself. So, it's kind of two sides of
+the same coin,
+&gt;&gt; but in both senses, you're developing
+technology to interface with with
+people. And there are interface problems
+all over the place in terms of making
+things that people actually want to
+interact with that they can be
+optimistic about the the future of of
+the role we we play alongside uh AI in
+various forms. And I think there's a lot
+to be a lot of innovation to be had
+there. So just this core like how is the
+human interacting with all this like
+capacity?
+&gt;&gt; Yeah. And I think you see a lot in the
+the devices space right now personal
+what what a personal AI is going to look
+and feel like. Is it going to be a phone
+or is it going to be glasses or AirPods
+or whatever it is? And I think there's a
+lot of a lot of things to happen there.
+&gt;&gt; Do you have one you're you're cheering
+for?
+&gt;&gt; Not yet.
+&gt;&gt; Pim space you think people should be
+running at?
+&gt;&gt; Um yeah. Okay. So a few things. one uh I
+I very strong certainly disagree with
+the claim that we are at AGI. I think
+it's like a
+I think we have like better than random
+idea generators that get increasingly
+better than random at an increasingly
+rapid rate. Uh and u and we just so
+happen to have so much data on the
+internet that
+we can construct them to now do useful
+things so long as those things are
+represented largely in text space,
+right? And that is such a like black
+hole of where everything is being sucked
+in that pe companies are increasingly
+exposing everything in text space like
+tool calls and things like that because
+otherwise you miss out on being part of
+that interface, right? Um so I think
+that like my my definition of AGI is
+like far from being met. Um I um with
+that with that said um
+so it's incredibly diff like even being
+in the space I just find it incredibly
+difficult to predict uh what somebody
+should do. Um I I think that people
+should like people should be spending a
+lot of time we're spending a lot of time
+thinking about like how do you uh enable
+jobs or education in like this new
+world. Uh I think it's like I love like
+half my children.
+&gt;&gt; You're like it's not AGI but everyone
+might lose their jobs.
+&gt;&gt; Oh yeah. I I I well yeah but how many
+jobs people spend on on on
+&gt;&gt; Well, your center is very high. Aren't
+humans somewhat random and inconsistent
+in our reasoning?
+&gt;&gt; Yeah. I think I think we can match it
+with like execution and like um checking
+whether it's it's like a correct uh like
+I don't know. I think there's there's a
+lot a lot a lot of things that humans
+are still very special for. Um, but I I
+also see the pace of the changes of
+technology and I can't say that like I
+think that that's going to be like a
+forever thing, right? Um, so
+yeah, I don't know. I I spent a lot of
+time thinking about like uh how like
+there's there's really interesting
+there's two things consecutively broken.
+One, hiring is broken because everything
+is LLM generated and [ __ ] And then
+second, nobody's getting hired. So like
+like this is one thing that I just I run
+into every single day is like, okay,
+it's just because we're not servicing
+the right people. the right ways. Um I I
+think
+um science is so I I look at and maybe
+this is my framework of thinking through
+this. There's a lot of fields that were
+enabled by text. Science is one of them.
+They they sort of came after the
+innovation of text itself which is
+largely in my head like a way that we
+compress real world information, right?
+So like we see a bunch of things. We
+would describe it. It was a room full of
+people. A bunch of people wear different
+color shirts, right? Eric Newcomer was
+there. We compress all that information
+into something that is relatable and
+quick to communicate. Um, a lot of
+fields came on top of text. We as humans
+invented text, right? Math, physics, a
+lot of these things. And that's where
+you see sort of the completely rapid
+innovate like really without limits
+because you can build verifiers in text
+domain. You can you can do the whole
+thing. So I think building things on top
+of the rapidly accelerating field that
+can be described mostly in text or most
+the communication of that field is in
+text. something around there is probably
+the right way to bet on the LM curve or
+or financial model curve. And then to
+your point, I think we're going to see
+rapid innovation. If you really like
+physical systems, like now's your time.
+Like go figure out how to manufacture
+these things and and be really good at
+it because you're going to get a ton of
+optimizations in the next year or two.
+&gt;&gt; Um you're welcome to respond to AGI if
+you want, but we don't need to get lost
+in that. uh otherwise yeah just an area
+you think people should be right at you
+you know you come at this you you came
+up through the army right as part of so
+you've you've sort of seen some of these
+problems from a totally different lens
+are there other areas you think people
+should be building companies
+&gt;&gt; uh to me right now and and and and I
+work in hardware but there are three
+areas I just think they're most valuable
+the world will acrewue and I think there
+are subsets of each area that you can go
+very deep within there's like AI and
+data I think interfaces is like a
+perfect example that is a sub area of
+that if someone can build holographic
+technology like for my agent like I'll
+pay you today uh for that for that
+product. Um but I think we're seeing
+like interfaces being important. I use
+an agent every day. It like is a part of
+my workflow. The entire company is
+required to use Agentic frameworks. Uh
+like that's the world we're going to.
+And so I think interfaces is a cool
+example. I'd love to see it. Compute and
+energy to me are are in industries that
+have been historically very hard to
+disrupt. compute has had a better wave
+of disruption like there's been inmemory
+compute noramorphic compute like
+different different alternatives trying
+to get kind of as6based accelerators for
+AI I think we've seen a wave there but
+we're still on a moors law trajectory of
+compute so like what comes after
+2nometer well it's 3D heterogeneous
+structures there's a lot of unknown
+problems like when it comes to that um
+from like the compiler down to the
+transistor there's a lot of interesting
+work to do there energy
+energy had a wave, you know, crashed in
+a wave because it was early in the
+technology probably just wasn't fully
+there yet. But now we're coming back to
+this place where we're energy
+constrained. And so what does the future
+of solar look like? Energy storage. Um,
+nuclear is certainly interesting. Of
+course, we spend time there. I just
+think like those areas and I'm sure
+there are like a million things you can
+think about inside of them. They're
+they're going to power the future of the
+world.
+&gt;&gt; Great. I'm going to open it up soon, so
+start thinking. Rob, just, you know,
+it's easy to get lost in like the
+science of it all, but I mean, you sold
+two businesses. I feel like often with
+like frontier technology, it's like
+build the biggest business ever, like
+change the world. Like what what advice
+would you give to founders about sort of
+Yeah. thinking about an exit and like
+big companies and how much do you court
+them and just give us some tactical
+advice from your experience doing this?
+&gt;&gt; Yeah. Well, so I think anyone building
+in big tech is is taking on some sort of
+massive massive opportunity and whether
+it's humanoid robots, world models,
+materials, these are all huge categories
+and it can be tempting to try and boil
+the ocean. Uh but
+&gt;&gt; you already you already have a huge
+ambition,
+&gt;&gt; huge ambition. So the the real challenge
+is then how do you define a set of
+milestones that make sense that can
+align to funding funding goals you have?
+How do you really, you know, focus
+constrained resources towards a problem
+that is going to differentiate you from
+what are very competitive spaces in in
+the early days and so that you know for
+us that was building a safe robot to be
+around and that was true mechanically
+speaking. Uh but then we invested a lot
+from a AI perspective in training robot
+behaviors that were were capable but
+compliant and so you know creating a
+clear through line a set of milestones
+and just being very deliberate on how
+you spread your investments when uh
+&gt;&gt; are the fundraising milestones and the
+acquirer milestones like the same
+because for the acquirer it's like needs
+to be something they want whereas like I
+guess the funer especially if you have
+investors are willing to come back
+around you can sort of pre-negotiate if
+we do this you're still on the They're
+they're similar, but um you know, you
+always got to kind of play it a couple
+couple rounds ahead. And I think you
+know, both both spaces we're talking
+about, but in in robotics specifically,
+it is one of the most capital intensive
+endeavors that that one could undertake.
+And so thinking very hard about if you
+take this next round, what does that
+mean for the for the subsequent round
+and the round after that? like what is
+the trajectory that gets you to a either
+an independent sustained sustaining
+company or are there partners that are
+important to develop along the way such
+that you have a clear path to building
+the business that you set out to build?
+&gt;&gt; You could become unacquiraable if you
+get to a certain scale. Um all right,
+questions from the audience.
+&gt;&gt; Great question.
+&gt;&gt; Here I'll bring it to
+&gt;&gt; uh so I have a question for Rob. So,
+I've been learning about Sprout in my
+courses and I find it really interesting
+that it's um a smaller robot. I just
+want to ask compared as as compared to
+like the average humanoid. Where do you
+see Sprout in like uh a person's
+everyday life?
+&gt;&gt; Um yeah. So, for those Sprout, Sprout is
+our first robot. It's three and a half
+feet tall, 50 pounds. Uh it has two
+arms, two legs, uh articulated eyebrows
+and LEDs around the face. So, it's it's
+cute and engaging, but it's also capable
+of interacting with doors,
+refrigerators, you know, elevators, uh,
+getting navigating autonomously. And so,
+I think there's a lot a robot like that
+could do in the home. And our starting
+premise was, you know, it has to be safe
+so that people trust it in their home to
+start with. And that same robot could
+learn to climb a ladder, right? And that
+might actually be the first thing that
+people want and are excited about and
+and is capable of doing. many of the the
+household chores that we one day care
+about. And so that that was our approach
+to the problem of how do you build a
+general purpose machine that that then
+can be useful near term.
+&gt;&gt; Uh Pim, I did want like what is what is
+your like agent stack or like what is
+your how do you like supercharge
+yourself as the CEO? Like clearly very
+technical like what is to you the
+cutting edge of having like the models
+today like assist you in your job?
+&gt;&gt; He can't give that away, dude.
+No. Yeah. And and I do want to make it
+very very clear like we are on an
+incredible curve, right? Like the system
+the capabilities are incredible. Uh I
+I'm a big like cloud code power user. Um
+I um like one of the things that we're
+rolling out internally are systems that
+like connect more pieces of the whole
+organization so that anybody can hook
+into cloud code. We also have entire so
+one of the things that's interesting
+that we did um like we have like a data
+analyst. So we we were always
+understaffed on data analysts and then
+um there was a QA uh person from the
+team we did. So one thing that we did is
+we did a hackathon where we told
+everybody to go build things around
+cloud code and also the different models
+that we did at the beginning of the year
+and one of our um QA team members built
+this thing called ML databy uh where
+basically it's just a slack um
+uh account like a bot object and then
+you can just you can just talk to it and
+it just is your is it is your data
+analys
+now he has made it so that it scales
+alongside like the number of questions
+it's getting and it feels like you're
+just talking to a co-orker and this is
+just felt very natural and very good and
+we we all started using it like crazy um
+to the point where like database was
+getting overloaded because so many
+employees at the same time we're asking
+like highly concurrent like select
+queries uh and so that worked really
+really well um
+my um I
+&gt;&gt; but is that you like things that are at
+the company level then rather than
+thinking of yourself
+&gt;&gt; I do it in my personal life too so I
+have a lot of I have some automated
+workflows that like go and download uh
+my personal files from a lot of the
+services that I use and then I can ask
+uh like finances I can I can ask cloud
+code like put together like a report of
+like this or this or this and then I
+just give a data sources and it just
+goes and does it. It's quite helpful. Um
+I have it connect to my calendar like I
+I I use it as an interface to like all
+the all the complexity of clicking
+around uh and that's very very helpful.
+&gt;&gt; Another audience question
+right
+&gt;&gt; it's good. Hey, I'm Anjet. I'm CEO of
+Pillar Space Systems. We're building
+some uh space hardware. Um I had a
+question for Joe. How did you uh
+approach the Rathon angle, I guess? Um
+it's really cool that they're investing
+in you. How did that come about?
+&gt;&gt; Yeah, so I think um as as all good
+relationships do, it came from a
+business need and like the customer
+side. So we met with their research
+teams around what problems are you
+trying to solve and what are you how do
+you do materials today which which
+morphed to you should meet the ventures
+arm and I think we're in a very unique
+time which might get in trouble for
+saying but who cares um that defense is
+having a huge push on innovation and for
+Rathon it's not actually just defense no
+the RTX umbrella they also have United
+actually their biggest business line is
+Pratt Whitney making turbines and so
+they're have an even bigger push because
+they're trying they're like feeding
+they're like feeling all of this
+innovation push from defense and arrow
+on we need better planes we need longer
+time we need better jet fuel just like
+this constant push on innovation and so
+they I think had a different lens to
+looking at a company like us where I
+don't know for sure but 5 years ago
+might have been harder to understand
+this early I think later on most likely
+like when we have a product and they
+know what we're doing but I think their
+team was deeply convinced on Okay, we
+know AI is going to change materials. We
+know self-driving labs are going to make
+a big impact. We we don't want to have
+the expertise to do that. We build jet
+turbines, so we should work with someone
+who does. And I think that was where
+there was a very congruent relationship.
+Hey, dude. We're we're never building a
+jet turbine. Like, we don't want to
+compete with you there. We want to build
+materials. And yeah, great. We're not a
+materials company. We don't want to
+compete with you there. It was a really
+kind of good synergy that we formed
+together. And I think the rest is uh
+history from there. So, Super
+interesting. Yeah,
+right here. Sorry, in the front.
+&gt;&gt; Hi, thanks for coming today. Um, I think
+we all acknowledge how constrained the
+supply chain layer is foundationally
+given how fragmented the hardware supply
+chain is. How are you deciding what
+parts of the stack you need to control
+versus rely on externally?
+for for us it's you actually find the
+common denominators.
+Um we found that common denominator to
+be like the game controller interface
+for example but you got to find like the
+in again you find the interfaces that
+actually have a simple way of deploying
+into them and I think a lot of things
+are sort of downstream from there. Um
+and sometimes you have to create the
+interface like the the robots and that's
+really really like you know hard and
+then um yeah
+&gt;&gt; uh it's cliche but true like first
+principal analysis um what if there are
+tools that we buy that have 36-month
+lead times. So the first question we ask
+is like what is the benefit of acquiring
+the tool? Why are we acquiring the tool?
+Like what is the use case of the tool in
+the future? If it makes sense to custom
+build that or like or make some type of
+alteration to use it quickly because we
+see it has X Y and Z use case in our
+business moving forward, then that makes
+sense. If it's like a oneoff or like we
+don't have any other people that want
+that tool, we just have to do that for
+this contract. You're like less inclined
+to want to go take on all that. That's
+so much technical risk, capital
+expenditure, and even focus. And I think
+one of you mentioned focus earlier, like
+you can boil the ocean very quickly.
+Like you start talking to customers in
+deep tech and next thing you know you
+have 17 different problems to try to
+solve. You need to be very good at
+that's a cool problem like we don't work
+on that that's a cool problem we don't
+work on that and I think
+&gt;&gt; you are constantly doing that as a
+founder like if you are not doing that
+as a founder I think you're actually
+failing the organization particularly
+early on because
+the best skill is saying no right as as
+as the saying goes and I think you have
+to be really just laser focused on we
+are solving this because of this if a
+hardware requirement meets solving that
+I will build it if it doesn't I'm going
+to find another way to get it that's the
+way we think about it.
+&gt;&gt; All All good succinct audience
+questions. I love this crowd so far.
+Who's next? All right.
+&gt;&gt; Yeah. I was wondering how you think
+about um with like materials for example
+the kind of just like throughput
+constraints that exist on building stuff
+out. And so like for example I think
+Google DeepMind uh had like 2.2 million
+materials they discovered. They think
+40,000
+are stable. It's like okay how do I make
+all of these and then how do I convince
+people that they work right? And to your
+point around like we're using a 100-y
+old alloys, I think part of it is that
+people know the stress strain curve and
+they've used it for a hundred years and
+it's like even now that we have like 40
+different concrete alternatives, like
+you can't build a house with them
+because like you can't get that in
+building code. And it's like how do you
+think about that when you're talking
+about critical industries like defense,
+like oh you should use this new alloy
+I've invented that like trust me it
+works. Um and like we should put you
+know pilots and and stuff in there.
+&gt;&gt; Yeah, really good question. I'll touch
+both parts. So on the latter part is
+called qualification in the aerospace
+industry. And for those in the audience,
+qualification is essentially the process
+of confirming what this gentleman said,
+which is hey, we we feel safe to fly
+that. Like that's going to fly in a
+fighter jet, that's going to fly in a
+manned aircraft, or it's going to fly on
+something else. And and ironically, I
+think in some of those industries,
+you're actually seeing the companies who
+make the end products vertically
+integrate. And we were surprised by this
+when we went to market. We thought we
+would have to vertically integrate
+immediately to like get material to
+production and instead they're actually
+vertically integrating from the top
+down. So these aerospace companies are
+saying we are tired of dealing with the
+qualification requirements of the US gov
+or or any other administration or kind
+of organization. we're just going to do
+it oursself and I can you know list off
+the top of my head multiple companies
+who you are all aware of that have
+material teams inhouse bypassing
+qualification for their own systems now
+in air
+&gt;&gt; which means the government then
+certifies the whole
+&gt;&gt; yeah so there's like these like list
+that the government has I think FAA runs
+run there's a military spec list as well
+for manned aircraft as well as like
+missiles um that control like if
+something is qualified to be used in
+those systems and so obvious Obviously
+like for commercial aircraft like you
+have they're going to follow that
+requirement. They're the slowest least
+innovative people uh in the world. Um
+but like for aerospace space they do not
+in some of their systems need to follow
+those. They're launching their own
+rocket on their own dime and and as long
+as they're doing that in a way that they
+can prove it's safe they have already
+done own custom alloy development. I've
+I've seen it before. So the
+qualification piece I think is you're
+seeing this again the stack come the
+other way and the throughput will be the
+bottleneck there and how much they can
+actually make because they're not
+material companies they're aerospace
+companies. So that's kind of the second
+one. On the first one the throughput
+side is the hardest part in science. And
+so one of the reasons that that genome
+or matter genen or any of these papers
+that have come out have been poor is
+they're trained on computational data
+only. And computational data is cool.
+Like it's fun to simulate electrons, but
+it's not the real world. And if you call
+any customer in the world and say, "Look
+at this amazing material I made you on
+my computer screen." They'll say, "Yeah,
+cool. Can you send it to me in the
+mail?" Like, I can I use it? Can I
+actually put it in my product? And if
+the answer's no to that, then I don't
+think you've actually discovered a new
+material. And so when you see these
+models kind of coming out with new
+materials, they're not new materials,
+they're new ideas of materials. And
+until you can make them, you don't have
+new ones. That's why self-driving labs
+are super important. That's how you
+solve the throughput problem.
+&gt;&gt; Um, sure.
+Can you
+&gt;&gt; Hey, thanks uh thanks for the thoughts
+here. LLM revolution was powered
+primarily by publicly available
+um data sets that were um mostly
+accessible to a lot of the labs and a
+lot of the the people. uh when we switch
+to physical intelligence, robots, world
+models, uh how do you see the data
+bottleneck, how do you overcome it? Um
+how does it uh how do the use cases map
+to data? So we hear about game data and
+so on. But in games primarily it is
+first person shooter uh and so on. And
+if I want to teach my robots how to lift
+boxes in a warehouse, how do you
+actually map that use case to what data
+you need and how do you get that?
+&gt;&gt; Yeah. So, so that's why world models are
+so important because you don't want to
+train a model to predict violent
+actions, but you also want the model to
+be able to simulate environments that
+can do that so that you can evaluate
+your agent against it and you want to
+train on the positive actions and
+evaluate on the negative ones, right? So
+that's why you don't just run like large
+scale imitation learning and then shoot
+that agent into the real world like the
+you use world models such that you have
+an environment that understands all the
+possible unfolding dynamics and then you
+use an agent and and reward them
+specifically for the behaviors that you
+actually want to see. Um uh so it's
+actually the the counterpoint to that
+argument is actually that you need games
+to simulate the extreme the the
+scenarios that you want to avoid
+against. Now, um I would argue that the
+entire field is still in the research
+phase. I like there are no um uh there
+are no like and again I'm I'm kind of
+somewhat artistic um uh like like no
+known scaling laws that are like there's
+some but not like in text world where
+you can just you can predict like what
+type of data you need for what type of
+thing. Um, so so so that's the
+difference. I think everyone's still
+figuring it out.
+&gt;&gt; You don't It's not like Tesla inhales
+all this data and the huge advantage.
+You don't think there's
+&gt;&gt; They do. They do. And it's for sure
+useful, but I think the the general
+solve, which is what I think you're
+asking, the general solve like LLMs,
+those skilling like there are skilling
+laws for specific embodiment for
+specific situations like driving is
+better than others, but the general
+solve is not as clear as LLMs. I think
+there's ideas.
+&gt;&gt; Yeah. I I mean I think what is working
+today is in places like self-driving
+cars where it's a fairly straightforward
+controls problem and a more complicated
+environmental you know spatial
+understanding uh problem and model you
+can build around that but the same is
+true in robotics like the things that
+people get working are actually quite
+narrow uh stair climbing door opening uh
+packing a box like these aren't one
+models that solve all of these problems
+and you know that can either be with
+real world data we rely a lot on sim Is
+that true with like physical
+intelligence? I mean they present it as
+very broad the you don't think the
+folding laundry is like generally
+applicable
+&gt;&gt; I mean I don't think it's solved and I
+don't think we yet understand the
+scaling laws associated with current
+approaches to say that with just a bit
+more data
+&gt;&gt; laundry is solved. I I agree, fully
+agree. Um I I can if we have some time,
+I can try to go into how to think about
+the scaling laws, but it might take me
+like a few minutes.
+&gt;&gt; So you tell me.
+&gt;&gt; It's hard to preview if this is where I
+don't know. Give us just like a couple
+bullets and people can follow up with
+you.
+&gt;&gt; So there's complexities related to the
+degrees of freedom of the robot, right?
+There's and then um so a humanoid is
+like large degrees of freedom. A
+self-driving system is like very low
+degrees of freedom. Um, and so your
+scaling laws are different depending on
+the the degree of freedom. Then within
+the degree of freedom, you can have
+different types of predictions, right?
+So if you're predicting at the level of
+a game controller, you can just predict
+like a a bit or like a val a digital
+value like you but if you go for robotic
+arm, you might need to predict like
+motor torque or something. And so every
+degree of freedom has like different
+values that that need. So there's
+complexity there. Then so there's
+scaling laws on on the degrees of
+freedom on the on the input space. Then
+there's skilling laws on the
+environment, right? So the where the
+robot operates. And then there are
+skilling laws on like the sensors
+themselves. Uh and so like anybody kind
+of claiming that they have a very
+general soul is like full of [ __ ]
+&gt;&gt; Yeah. I I love this crowd. A very Yeah,
+New York is doing Yeah, I should Okay,
+great. Enthusiastic. Go for it.
+&gt;&gt; All right. Thanks. Um, so you have a
+material science company and one thing
+that I uh you said about like cars 100
+years ago uh they use all these old
+alloys but they also only needed like
+five or six elements and then a car
+today needs like 150 and so can you talk
+about where the raw materials are coming
+from and how those raw materials get
+into the pipeline of what you're doing
+in your company?
+&gt;&gt; Uh really good question. probably the
+question I get the most when I go to
+Washington DC and I'm on the Hill or or
+at the Pentagon or at the Department of
+Energy. Um like where the heck do you
+source those things? Um and I think
+you're seeing a big you know critical
+minerals has been a talked about area a
+lot. Um it's the derived products
+category of critical minerals that is
+super interesting and there has been a
+focus from DC on like what are these
+things actually going into and so I'll
+give you a perfect example. you know
+C103 super common alloy in aerospace and
+defense it's got cool properties you can
+read about it it's made with hapneium
+and ha it has a high weight percentage
+of hapneium hafneium is almost entirely
+I think it's like 90 something% owned by
+China so now DOE and DO are very worried
+about halfneium content in their
+materials so not only is there a
+question of can you make a new alloy
+that's got way better performance we
+actually get questions like can you make
+the same alloy but with no half game at
+all. And and we've been able to do that.
+Like we've done that successfully, but
+that is almost a different materials
+problem because now you're trying to hit
+on the same property constraints but
+just remove the inputs and that's a
+different problem than different inputs
+with maybe different property
+constraints that allow you to kind of
+extrapolate the periodic table more. We
+can we can go use a refractory metal to
+drive strength. We can't use a
+refractory metal in C3 um or like a new
+refractory metal in C3. So critical
+minerals are contained to be really
+important. Um
+&gt;&gt; but you're saying your philosophy is
+mostly to try and like cut out minerals
+you don't want rather than find new
+minerals.
+&gt;&gt; You can there there are places where
+it's really hard to like nickelbased
+super alloys they just have elements
+that we don't control. And that I think
+that's why you see like an effort in
+dollars and onshoring because there has
+been an acknowledgement no we c we
+probably cannot get rid of them. we
+better onshore or nearshore that
+technology rapidly. There are some
+elements where I think there is a push
+to get rid of. I think people had shown
+that nobbium based alloys, the high
+entropy field had really cool properties
+and there might be materials in there. I
+I can guarantee there are I know what
+some of them are that don't have haft
+and I think the field was convinced on
+that and it's kind of where it's pushing
+today. So it it depends is the like
+unfortunate real answer.
+&gt;&gt; Uh one last question. I think I've been
+avoiding you. So
+&gt;&gt; sure on purpose just
+&gt;&gt; in each of your sectors how much do you
+worry or used to worry about uh
+competition from mega capitalized labs
+and corporations
+&gt;&gt; zero
+I have a very unique view on
+competition. I I rarely think about
+competition. I I just think it is such a
+waste of mental brain space and that you
+have one job as a team to execute on
+what your mission is and be the best in
+the world at that. I pay attention to
+what our competitors do. I'm not naive
+to what the market's doing. I'm just not
+like drooling over the fact that they've
+come out with a new release. Like I hope
+you did. I mean otherwise like what the
+hell are you doing all day long? I mean
+we we're doing the same thing. And so
+yeah, near competitors and startups, I
+think you should be aware like big tech
+or like big labs in very unique spaces.
+I just think they just have no chance of
+competing. Um, in more generalized
+spaces where they have raw compute or
+raw data like ads, you know, ads is
+probably a tough space to compete with
+with meta and YouTube. I don't know.
+Like I don't work in ads. Um but in
+materials I I don't think Meta is going
+to compete with us in materials or
+Microsoft or Google or or really any of
+them personally. That's just a personal
+&gt;&gt; how much do you think about the
+competition?
+&gt;&gt; I think so. Why is Enthropic winning?
+It's because they are close to their
+customers and they like put their AVLs
+and like model training runs and they um
+like how much do you really care about
+like the 1% benchmark versus what your
+customers are actually using? They're
+they just move fast with their customers
+in a way that OpenAI and Google can't
+because they are larger more bloated
+organizations that are more distracted.
+&gt;&gt; Your answer is I specifically worry
+about Anthropic. Is read between the
+lines.
+&gt;&gt; No, I'm giving you it as an example of
+like Anthropic was not the incumbent in
+the space that is now looking like
+they're actually winning, right? They
+were in that position and they won by
+focusing on their customers and ignoring
+everything else and by focusing on code.
+&gt;&gt; And I would argue and I don't know them.
+I didn't work on Anthropic that they did
+that by like not worrying about what
+Open AI was doing and like what
+customers customers what do they what do
+people like what do people like
+&gt;&gt; Rob I mean you're sort of the flip side
+of big companies can be good or
+&gt;&gt; damn you got to be super careful with
+this answer
+&gt;&gt; uh I think there are there are things
+that small companies can do that big
+companies really struggle to do. Um, I
+said it before, but focus and attention
+and like a very opinionated product is
+is very hard to come by in the earliest
+stages at big companies. And so I think
+you can build up momentum on a
+trajectory and you got to be right about
+where you're choosing to focus that that
+is a problem that matters and it'll be
+differentiated. Um, but pushing hard on
+that thing is is something that only
+startups I think can do very
+effectively. And so we got to a point
+where I think we had enough of kind of a
+kindling fire that you know it made
+sense to to have a big partner and to
+help that grow. But in in the earliest
+days it's about how do you get that
+spark into something something
+meaningful and and that's harder for big
+companies.
+&gt;&gt; Couldn't imagine a better last word than
+that. Ode to startups. All right. This
+was awesome. Great crowd. Thank you.

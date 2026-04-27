@@ -1,0 +1,1343 @@
+原文： https://www.youtube.com/watch?v=7Doo2X9LPeY
+
+From the moment I was a teenager, I was
+making money just because I was good at
+coding. I'm like, "Wow, this should be
+available to more people." Right now,
+every day I hear of a user that's making
+a million dollars on Replet, right?
+Yesterday, there was someone tweeted out
+that they were making $8 million.
+&gt;&gt; And every time someone is shipping
+something and they're saying, "Oh, this
+is working. Yay." And I'm like, "Can you
+tell me what's not working?"
+&gt;&gt; I think we're headed into a
+postprompting world. And the next phase
+is about
+&gt;&gt; let's dive right into it. Okay. Amjud,
+you know, you you came to the United
+States when you were 23 with a bunch of
+credit card debt and no job, I think,
+right?
+&gt;&gt; Um, no, I uh I I had an offer from Code
+Academy at the time. Yeah.
+&gt;&gt; Oh, you did have an offer? Yes.
+&gt;&gt; Okay. Okay. Well, but no job. So, you
+know, it was technically accurate. One
+of the things that you know I think is
+super hard at the minus one stage and
+frankly even at the early stages is
+everyone talks in Silicon Valley about
+how persistence, resilience, grit is a
+feature, right? But there's a fine line
+between being incredibly kind of like
+stubborn and also kind of like sometimes
+being like this idea is just not that
+good. So how have you thought about
+that? It's kind of taken you 9 years. I
+mean everybody thinks about replica is
+an incredibly successful company but
+it's taken you 9 years to get there.
+Well, more than that, right? Like when I
+came to to the to the United States,
+Repl was already kind of a side project.
+It was an open source side project. So
+So you know, 20 years,
+&gt;&gt; but the you know the the story on the
+credit card debt is interesting. So I
+had this job offer from Code Academy,
+but I didn't have any money to get to
+the United States. On my way out of
+Jordan, I had an 01 visa. No one had
+heard of 01 visas at the time. Right now
+they're so easy, but at the time it was
+hard. The airport, they stopped me.
+They're like, "This is this visa is like
+what is this visa? Is some kind of
+scam?" was like, "No, it's like a work
+visa." They're like, "No, you have to
+buy a uh a return ticket because it's
+not an immigrant visa." And they made me
+buy that. So, that was all my money. And
+I got there and the founders of Code
+Academy were like 20 years old and like
+I was the f their first employee. Um,
+and so I got there, I didn't have any
+money and they were like out in Silicon
+Valley fundraising. So, I'm here in New
+York literally on my own, don't have any
+money. I had this credit card that I
+started back in Jordan and I understood
+how credit card works. I had I thought I
+had some money in it. I thought it would
+work like a debit card. And so the more
+I swiped it, I I I saw that I I was
+looking at the balance. I said that the
+negative is giving money to me.
+&gt;&gt; Yeah. It's like and um and so it got so
+bad I think I racked up like you know 15
+$20,000 and my father calls me one day
+and he's like the police is looking for
+you uh back in Jordan.
+It's like why? It's like you're you know
+you defaulted on your on your debt. And
+then eventually I I paid it off. But um
+in terms of like just the the idea, I
+mean part of it is could be insane. Like
+you could definitely be insane and like
+be going after an idea for 15 years and
+like not succeed. I mean there's so many
+stories of of entrepreneurs. Maybe some
+of them eventually succeed. Maybe some
+of them just never succeed. But like I
+think the thing that really drove me is
+I felt like I I saw some something about
+the future. And that is I saw what
+programming and being good at coding did
+to my life to our life changed how uh
+how like grew up from you came from very
+humble background and from from the
+moment I was a teenager I was making
+money on my own just because I was good
+at coding. I'm like wow this opportunity
+should be available to more people. So
+the the thing that always motivated
+replet is how do you make programming
+more accessible and if you make
+programming more accessible that
+incredibly valuable thing because people
+can make money can get jobs can and so
+surely you can find a way to like
+monetize it get value out of it I just
+didn't know how and they and that took a
+lot of different paths and the thing
+about replet even 10 years ago we've
+always had success stories they were
+like they were minor but over time and
+right now every day I hear of a user
+that's making a million dollars on
+Replet, right? Yesterday there was
+someone uh that tweeted out that they
+were making $8 million uh solo
+entrepreneur, which is amazing. But even
+back then, it's like someone was like,
+"Oh, I learned to code a little bit on
+Replet. I'm like a fitness instructor
+and like then like I figured out how to
+do an iOS app and now I'm making like
+$1,000 in the app store." Like, whoa,
+that's amazing. So, how can we create a
+million people like that? And so there
+was always something that was that like
+showed us that this could be a big idea
+and that that kept us moving. The thing
+that really excites us, you know, the
+charts up into the right, they're
+amazing when we talk to users and when
+you're building something that enables
+people, that's the best feeling. I mean,
+you two know it, right? Like you know
+the the returns I'm sure are amazing,
+but when you see a founder that came out
+of here that is crushing it, that's the
+thing that makes it all worth it. So I
+actually want to um check in with hya.
+Um so you know you were a designer. I
+think he asked you to design the logo
+for replet. Um and then you decided to
+like you know join him full-time on this
+journey. I I guess like way back then
+I'm guessing he didn't have the messiah
+complex then but like you know way back
+then what what did you see in replet?
+Like why why did you decide to do that?
+&gt;&gt; Yeah. So I had a job and Amjad came to
+me. He didn't have a job. So he was
+working on rolet he was a student and he
+was like I need a logo and I need a UI
+and I was like for what and he says I
+have this side project going on it's
+called replet no idea what is read eval
+print loop even means I was like okay
+what is replet even means
+so we have to ask many questions as
+designer we can be a little bit you know
+too much but it's part of the job so he
+says well it's a ripple you know I was
+like I don't know but I I can imagine
+stuff I can make up stuff. So I imagined
+like a like a water ripple and I created
+a logo for that but I didn't know what I
+was doing. Um so I created the UI and I
+pushed he pushed the UI of course he
+changed the UI and then he came back to
+the same UI that I developed for him.
+It's the designer engineer relationship.
+You know, they think they know better,
+but they were like, "Oh, this actually
+looks good." Like, "Oh, you mean exactly
+like this how it looked like before."
+Um, so fast forward my story with
+Replet. The reason why I started Replet
+with Amra because um I wanted to find a
+job. So,
+&gt;&gt; okay. Should we move on to AI? I mean
+this is a weird question to ask you guys
+but you know it feels like a lot of the
+momentum is swinging back to local
+development and as someone building like
+cloud native prompt to deploy sandboxes
+like how do you think about the
+resurgence of local AI tools?
+&gt;&gt; Well I I think there is uh the question
+of like the absolute numbers versus like
+the the share. I think in absolute
+numbers all of coding is growing whether
+it's cloud whether it's local uh you
+know I do think that there's there's
+some fundamental limitations to local so
+for example there was a supply chain
+attack uh in the JavaScript ecosystem
+just yesterday and it's pretty bad like
+if you installed uh very massive one of
+the most popular libraries that that
+does requests in JavaScript it would
+take over your computer. Like literally
+remote uh takeover of computer.
+&gt;&gt; It was insane.
+&gt;&gt; Yeah. So if uh if you're in replet,
+you're not exposed at all because not
+only is it a cloud environment that is
+not connected to your local computer. We
+also block post install scripts. We also
+have a minimum age limit for a package.
+So we don't allow like packages that
+were just published. And it was caught
+in a few hours, but even a few hours
+many millions of people installed it.
+And so I think you know things shift
+hype comes and goes. Um and you know at
+some point replet agent was like the fir
+the only agent on the market September
+2024 and now like we started an entire
+revolution. We're proud of that. At some
+point we're going to do something
+fundamentally new no one no one else did
+that will start again. We feel very
+proud that we've always been on the
+cutting edge of of what's possible. At
+the same time you if you believe in
+something you just you just do what you
+think is right. And for example, the
+enterprise side of uh the business right
+now is taking off primarily because of
+the security and um reliability features
+because enterprises is like ah I don't
+want people installing open claw and all
+this stuff on their computers. I want
+these cloud environments that are safe
+and secure and been battle tested for
+for many years. I was going to say, I
+mean, I
+I love our clawed overlords, but this
+local development makes zeroing sense.
+Like, it actually is so much easier to
+do everything in the cloud remotely
+managed in a way that's secure, but also
+autoscales. Like, I literally walk
+around San Francisco and, you know,
+whatever Uber I'm in with my laptop
+open, so the thing keeps on running. It
+makes zero sense, right? Um, so I'm
+hoping that you know we come to our
+senses about that. Here's the question.
+So one thing that as a founder today is
+super disorienting is the pace of
+change.
+&gt;&gt; Like you are both trying to build
+something on top of foundations and
+abstractions that are incredibly
+powerful but constantly shifting in a
+way that they're both enabling more
+things but then also like kind of taking
+away what you are building and kind of
+like swallowing them into themselves. So
+how do you deal with that at Replet?
+because obviously you're you're kind of
+trying to be at the forefront and you
+know the agent stuff is a good example
+but at the same time some of what you're
+building is getting integrated into the
+platforms themselves. So how do you
+almost visualize that race in your own
+head in a way that makes you confident
+about kind of where you want to go?
+&gt;&gt; Yeah, we were talking about this
+actually earlier but um uh I'm going to
+say two things that are contradictory
+and you guys figure out how to cohhere
+them.
+&gt;&gt; Two truths, one lie. Okay.
+&gt;&gt; Yeah. Uh, do you remember when Mark
+Andre went viral for quote unquote
+maxing and saying that he's not
+he doesn't uh introspect on Twitter the
+other day and that was like super
+controversial and I think there's like
+deep wisdom in that and that as a
+founder you have to kind of be um
+stupidly executing on a day-to-day basis
+and is the the question is is the
+company growing
+Are you adding customers? Are you
+selling your product? Uh, and that is
+true for us every single day. And if
+not, if there's something wrong, just
+talk to customers. They're going to tell
+you it is competition. They're going to
+tell you it is something else. And
+handle these problems locally. And then
+if you do that enough days in a row,
+you're going to end up in a much better
+place, right? So, in some sense, you
+want to shut off the entire world and
+you want to focus on your customers and
+people using your product, right? That's
+that's number one. Number two, that is
+totally opposite
+is every now and then try to predict
+where the future's headed and try to
+predict their place in it. Right? Like
+uh I I think actually predicting the
+futures is much easier than most people
+think. Like you know uh my TED AI talk
+2023 I came up and said software is
+going to be solved in the next couple of
+years. Here's what software development
+looks like. And I sketched out like vibe
+coding for the next two years. We
+actually just completed the road map
+that I sketched out like one of the last
+elements with was parallel agents how
+you can like put in a prompt and it
+becomes four different tasks. For
+example, replet now I think it's the
+best parallel agent on the market. you
+know that was like a looking forward
+like three years and so we have some
+deep beliefs about where the future is
+headed and so we're trying to position
+Rufflet in a way strategically making
+few key bets that will pay off in the
+next 6 to 12 months based on where we
+think the world is headed but on a
+day-to-day basis I think if you're
+consumed by these questions you're not
+going to be able to execute
+&gt;&gt; to kind of perhaps echo this point back
+to everyone here who's an early stage
+founder. I actually think that this is
+one of the key contradictory things you
+have to become good at in today's day
+and age which is that how do you find
+kind of like north stars and kind of
+like essential like you know
+philosophical groundings that you feel
+confident about
+and also you know kind of ignore the
+day-to-day that you will hear
+around you but also not ignore it to the
+point that you are actually ignoring the
+good information. So it's actually just
+but I don't think anybody's figured this
+out. So I think if it makes you feel
+better, I think that this is a problem
+in today's day and age that all of us
+have to figure out as founders. And I
+think it's a it's it's a really hard
+problem to figure out.
+&gt;&gt; Yeah.
+&gt;&gt; So if you're holding both states in your
+head and you've just accomplished what
+you, you know, laid out in 2023, what
+have you laid out for the next three
+years?
+&gt;&gt; I don't know if I want to say it here.
+These guys are going to compete with us.
+&gt;&gt; You just tell us one thing.
+Um I think we're headed into a postp
+prompting world. Uh I think prompting
+you know the way technology move is like
+things get layered right but I think
+we've reached the apex of like sort of
+what prompting is and what it could do
+and the next phase is about I think two
+two different things. One is new
+interfaces for interacting with AI. And
+the second is fully autonomous agents
+that can push and set a pull that can
+actually operate in the background,
+understand you or your organization
+about how they work and do proactive
+work that is useful. And we're building
+in both these these directions.
+&gt;&gt; I'm a little confused about the
+interface because it will still be web-
+based.
+Um I I I think that uh there's like the
+multimodal capabilities of of models are
+are very compelling. Like you know in
+the movie Her like how when he's
+installing the operating system, he's
+sitting in front of his computer, he's
+talking to his computer. I think like
+we're almost there in a moment where you
+can sit in front of the screen and maybe
+even turn on your webcam and um maybe
+there's touch component there and you
+know it's very natural sort of like
+you're dueling you know that we just
+launched our canvas interface you are
+like moving your hands you're talking it
+was like do this here do that here you
+know it kind of sort of looks like you
+know Iron Man did you see that meme Iron
+Man vibe coding
+&gt;&gt; uh and so I I think we're we're headed
+to that world and maybe maybe part of it
+is going to be VR or AR but we're headed
+to that world where communicating with
+machines is just kind of feels more
+natural like more like how I talk to you
+&gt;&gt; or minority report but I don't like to
+give that example because it's like so
+dystopian but yes but that interface is
+really cool
+&gt;&gt; yeah it's interesting both of the kind
+of use cases that you laid out you know
+I was just actually literally wipe
+coding well I was building SPC's app
+kind of upstairs right before this and I
+was just trying to be like move this
+thing over here, shorten this, kind of
+like rearrange the layout, make it more
+compact. And then the other thing I was
+running was trying to just again
+automate the set of things that it's
+supposed to do every morning for me. But
+I was thinking in my head, I have done
+the same thing the last two weeks, like
+why is it not predicting what it's
+supposed to do? Um, so I think both of
+those, which is inferred use based on
+kind of my my usage patterns, and then
+also the UI stuff can be so much quicker
+than what it is right now. The prompting
+back and forth is so slow. Yeah.
+&gt;&gt; Well, you should you should check out
+agent 4 the the canvas. There's some
+fundamental way in which the big labs
+are uh operating that is limited. I
+think in in in trying to build that AGI,
+they're not really building systems that
+are super user friendly like you know
+quad core work is amazing and code is
+amazing but everything is is based on
+this like prompt something happens and
+maybe you can like schedule it so that
+it happens every day but but it is not a
+fully integrated system that understands
+and this is the opportunity for everyone
+here is like building amazing user
+experiences cuz I don't think
+&gt;&gt; I agree I think the hardest thing um or
+my like hardest my biggest user issue
+and my biggest user complaint is how do
+I load all the context that you know I
+want to share to be able to build
+something as powerful as I want it to be
+which is like going back to what you
+were saying like why hasn't it learned
+for my usage patterns why isn't it
+retaining context
+&gt;&gt; yeah so that's where we're thinking
+about like uh the pull and push
+information and what would that look
+like so right now it's a lot of the user
+is telling the agents like do this do
+that you don't understand me like no no
+no like I meant that did you forget
+about XYZ we spoke about it multiple
+times I mean and at this point maybe you
+need to understand my taste and I build
+multiple projects and I need it the same
+way so like if it's if you're working
+with a real engineer or real designer at
+this point they need like should
+understand each other at some point at
+some level this is what we're trying to
+One of the coolest things in agent 4 is
+that uh the entire project context is in
+one place and instead of usually
+previously you would build a website one
+place a web app uh mobile app in another
+place Xcode whatever. So literally on
+the canvas you see your mobile app, you
+see your web app, you see your back end,
+you see everything and now you want to
+generate a slide deck to pitch an
+investors. It's like generate a slide
+deck you know because it has entire
+project context in one place. You can
+you can you can do that and again those
+kind of interfaces like not they're not
+prominent because these big companies
+are just focused on the model being like
+as as powerful as possible. And so that
+leaves a lot of white space for
+entrepreneurs to invest.
+&gt;&gt; So what is the most powerful thing you
+have built using agent 4?
+&gt;&gt; You know, our our users at this point
+are just like way better than me at
+building things. I I'll tell you one
+thing that really uh blown my mind
+recently. I did a soldier should
+shoulder surgery and had a physical
+therapist and um she always had the she
+um she kind of specializes in fascia
+therapy. Not many people know how to do
+it has this this trigger point
+component. Uh and she tracks your
+progress every time you see her like
+lift up your hand what is your range of
+motion things like that. She always
+talked about this idea of like I want to
+be able to track that. I want to be able
+to, you know, take a a 3D scan of your
+body and allow you at home to kind of do
+these exercises, give you feedback on
+them, track your movement, all of that.
+You know, I would tell her to check out
+Raplet every now and then. And then I
+was like, most of the time it didn't
+work out. But like in the past few
+months, they actually built an amazing
+app where as part of the onboarding, you
+take a few pictures of yourself, it
+creates a 3D sheers. Wow, that's
+amazing.
+&gt;&gt; Uh 3D scan of your body. And they were
+they were working with offshore
+developers and they created like a mess
+for them. And now they restarted
+everything on replet and it's just
+working. Uh and it's it's like a
+healthcare app but it's like a
+delightful user experience. And I I
+didn't know that you know rapid is like
+good at like doing 3D models and 3D
+experiences. And these are the kind of
+things that weren't uh built previbe
+coding because
+the market cap for something like that I
+don't think it's is going to be you know
+&gt;&gt; that's the question I have for you like
+who is Replet's user is it like the
+creator the individual user is it the
+enterprise I understand it's both but
+I'm kind of curious about can you build
+a business model without enterprise
+because every other like competitor or
+like so-called competitor you might have
+there whether it's like claude
+um or cursor or like you know all of
+these other people like the main revenue
+even cognition the main revenue source
+is enterprise so can you build a revenue
+model from this creative everyday user
+&gt;&gt; yeah um I I think so I I mean our
+revenue is now still dominated by uh
+individual entrepreneurs and small
+businesses our enterprise revenue is
+growing fast uh I'll tell you some of
+the enterprise use cases but but by the
+way I don't I think these personas are
+that different in that um I think what
+replet unlocks today is I am a domain
+expert. I'm not a programmer. I know how
+to create value in the world. But
+previously I didn't have the tools to do
+that. So outside the enterprise, it is
+this doctor that has deep domain
+knowledge in a very niche subject where
+some sub population of the world are
+interested in an app for that. She can
+create that that previously wasn't
+created because if you're tech row in
+Silicon Valley, you're not interested in
+that, right? So now that gets created in
+the enterprise. For example, one of our
+customers, Zillow, uh there's like a
+product manager that was managing the
+real estate agent uh team that
+responsible for lead routing and and and
+managing the real estate agents to kind
+of be able to close deals. And he always
+had ideas on how to increase
+conversions, but didn't have the
+engineering resources to do it. He was
+able to do it and he created millions of
+dollars of value of the company and
+became super popular at the company was
+sitting on board meetings and hanging
+out with the with the founders. That's
+entrepreneurship too except it's inside
+the enterprise. So I think it's it's
+really the same type of user. The
+challenge for AI in general broadly
+today is that the concept of ICP is
+actually not very useful.
+&gt;&gt; Yeah.
+&gt;&gt; Because it's like oh I'm going after the
+product manager you know that went to
+school to do X Y and Z. Instead we're
+starting to think about traits like what
+are the traits of the of the rapid user
+and like resourcefulness. So things PG
+used to write about you know that the
+hacker mentality all of that is is the
+kind of user that we're going after. So
+um for most part people like to think
+about persona and not to think about
+persona is very difficult because you
+need to deattach yourself from these
+personalities and start to see common
+traits between all of them and see and
+notice behaviors and what makes all of
+these people across you know all of
+their domain and expertise the behaviors
+are all the same which is I want to be
+heard. I want to do something. I notice
+a problem and I do and I want to do
+something about this problem now. And
+and these people are very stubborn and
+because of all of that too, they want to
+win and they want then they don't they
+want to prove that they're right,
+they're not wrong. So whether they're
+designers, they're PMs, they are small
+medium business owners, they are an
+enterprise, they're they all have these
+traits and qualities and it's very
+similar from the um consumer to
+enterprise.
+I'm curious I mean
+you more than you and hire have more
+than almost anyone kind of a front row
+window into the evolution of the models
+and especially kind of the accelerating
+progress and capability of these models
+over the last three or four months right
+and I think that you're laying out a
+version of the world which I subscribe
+to as well which is that these models
+have seen particularly kind of cloud you
+know claude has seen a tremendous kind
+of rate of increase in terms of
+capabilities starting whatever December,
+January and right now in some ways we
+are in peak love with cloud code because
+these models they feel like you want to
+be raw you want to be close to them and
+it gives you a sense of like wow between
+cloud core cloud co-work and so on
+there's a tremendous amount of
+capability but pretty soon you're like
+well I kind of don't want five terminal
+windows running I want something that's
+bunch more manage I want different UI
+more capabilities right I guess the
+first question is what do you think
+changed in December I'm curious like to
+get your analysis of like what change in
+the model capability and number two how
+quickly are you seeing users get in some
+ways frustrated with the minimal UI of
+these raw models and wanting more
+&gt;&gt; I think the uh there are different
+phases of um model improvements
+um you know say uh 2021
+or like 2020 to 2023. It was a
+pre-training era where you just put in
+bunch of crap really any kind of data
+didn't matter and you just have as much
+parameters as possible and you grow this
+model and it just keeps getting better.
+We have the scaling loss and we thought
+we could
+&gt;&gt; the simple word more data more
+parameters everything was better. Yeah.
+&gt;&gt; Yeah. But then we hit a we hit a plateau
+and the plateau for a bunch of reason.
+One is like you know there wasn't a lot
+of data left in the world. Another is
+like the training infrastructure got
+like a little too complicated for
+growing these models a lot more.
+&gt;&gt; And so we entered the sort of RL and
+thinking era. So like say 20 like 2024
+uh with you know starting with 01 and
+deepseeek and and all that you had this
+uh moment of time where the training
+regime changed and we entered this
+moment of you're you're getting you're
+doing reinforcement learning and these
+models are getting more autonomous
+because not only the raw intelligence is
+improving but they're staying coherent
+longer over time. I think the big unlock
+that happened uh just in uh uh like
+December um uh November December I think
+the uh coherence
+&gt;&gt; it just became almost indefinite.
+&gt;&gt; Interesting.
+&gt;&gt; Like uh agent 3 was kind of the most
+autonomous agent in September uh 2025
+and we struggle to make it run for an
+hour. But right now if you have enough
+evaluation in the middle if you have
+computer use or unit test or whatever
+really the models kind of run
+indefinitely. The other thing is like
+models also gained some
+self consciousness almost. I think
+that's too much of a loaded word but
+they started training on their own
+context window. So they actually also
+got really good at compression and
+really good at taking contacts and
+storing it into into files and being
+able to search across these files and
+recollect the contacts based on the next
+stacks that you're you're going to do
+and all these things culminating
+together uh created these different
+models. The other big thing at least
+this is the rumor is that it looks like
+the the big labs have figured out how to
+scale pre-chaining again.
+&gt;&gt; Yeah. So I think we're going to enter
+another phase of scaling where we're
+going to see bigger and bigger models.
+So Opus is like a really big model. Uh
+and I think they're going to get even
+bigger. And I think the reason token
+prices are not going down is because the
+the the the models are getting bigger.
+&gt;&gt; But it's it's sort of abs and flows and
+you need to understand what what stage
+we're sort of in. So I expect the real
+capabilities to continue uh improving in
+the near future. That being said, I
+still feel that uh there's a lot of
+white space between the AGI providers
+and what the users want and the kind of
+thing that is actually fun and exciting
+to use. That doesn't change
+&gt;&gt; 100%.
+&gt;&gt; Like that's human and humans don't
+change all that much. We're visual
+creatures. We always want to be want to
+have visual feedback as opposed to like
+just pure terminal.
+&gt;&gt; Yeah. And I strongly agree and I think
+that you know if if you take the other
+side of that if you're the kind of
+founder who believes that in an AGI
+world there will not be that much for
+humans to do well then then my real
+question is why are you starting a
+company right?
+&gt;&gt; Yeah. Go shopping.
+&gt;&gt; Go shop.
+Um
+or go learn how to surf I guess. Yeah.
+Um
+&gt;&gt; that's what I'm doing. So you could
+believe that.
+&gt;&gt; Um okay perhaps uh Richie should move on
+to company building beliefs.
+&gt;&gt; Yeah. I mean, Replet has a pretty
+fascinating um internal company culture.
+Like, how many of you have heard about
+it?
+&gt;&gt; Come on, guys. Well, this is your
+opportunity to learn. So, one of
+Replet's core values is seek pain.
+I cannot imagine putting up on my walls,
+seek pain. Um but like where does that
+come from? And like do you scare people
+away?
+&gt;&gt; Yeah. So um I'm going to answer because
+this is mine actually.
+&gt;&gt; I created it. Seek pain comes from
+curiosity when something is working or
+not working and going deep deep and
+trying to understand what the hell is
+going on. It's really difficult to
+deattach yourself from the work and not
+feel that it's personal. It's not
+personal. It's not about you. It's just
+work. And this is very difficult for
+people to go to users or go to actually
+people and ask them hey can you use this
+thing and or like can you let me know
+what like can you tell me how does this
+feel to you and they tell you it suck
+and like you don't feel you know like
+you're you're now demotivated.
+So um it's such a skill to master that
+skill. So it's just like learning that
+right. So, and then like that's there's
+the growth into it and there's like a
+lot in seek pain. Seek pain in hard
+conversation. Seek pain in understanding
+like what's going on in the product.
+Seek pain is how can I get better in
+XYZ. So all of that is a principle that
+I take to heart and I wanted to bring it
+to Replet and every time someone is
+shipping something and they're
+celebrating and it feels like a bubble
+that they're celebrating something and
+they're saying, "Oh, this is working.
+Yay." And I'm like, "Can you tell me
+what's not working?" So
+&gt;&gt; So anytime anyone's celebrating in the
+company, I will be like, "Why are you
+happy?"
+&gt;&gt; Yeah.
+&gt;&gt; What sucks about this?
+&gt;&gt; What suck? Can someone tell me what suck
+about it? cuz if I know I would be like
+more fulfilled to be honest.
+&gt;&gt; I mean Richie you say you don't want to
+put this on the wall but that describes
+you completely. It does like every time
+we have a victory lap about SPC you kind
+of smack me down with like the 10 things
+that are not yet great about it
+&gt;&gt; or I mean you could be better.
+&gt;&gt; Could be better. Exactly.
+&gt;&gt; Can I add another layer into it? It
+comes also from like discipline in the
+army. It's like when you are operating
+as a soldier, it's very important to
+just like keep going and showing up
+every single day and like
+like sometimes you know feelings has its
+own time but sometimes you just need to
+do what it needs to be done.
+&gt;&gt; Yep. Um counterintuitively
+uh seeking pain reduces pain because I
+think most companies delay pain and that
+accumulates over time like a pivot that
+is really hard or conversation or firing
+someone that you know firing someone is
+always painful and most people delay it
+and becomes more painful over time and
+so I I think it actually over the long
+term just reduces pain. Um so one other
+thing and this is this is especially
+relevant for our founders here is that
+in the early days replet hired from like
+hackathons very niche communities indie
+game worlds where do you think elite
+talent still hides? That's I mean Haya
+mentioned the the army actually a lot of
+our sales people are like
+marines and and all sorts of
+&gt;&gt; I'm mostly asking this because it's
+really difficult to hire people um and
+usually people tend to ignore these
+areas for recruiting. So, army is one,
+&gt;&gt; if I'm being honest, the like awkward
+young uh sort of engineer uh like a lot
+of companies still overlook them. And
+now there's this there's this mindset
+around,
+you know, uh new grads that you don't
+need them or you don't want them. And I
+think there's there's a lot of amazing
+new grads that are coming up right now
+that there isn't a lot of demand on
+them. So, I think you can find a lot of
+young people. I think it keep changes,
+right? It's sort of like Moneyball. Uh
+if you haven't watched this movie, it's
+about a, you know, baseball team that
+assembles like the weirdest people that
+um have, you know, have some kind of
+value, but there's but they're not in
+demand in the market. So, every moment
+of time sort of changes. I do think that
+it's shifting to to there's there's so
+much doom and gloom about younger new
+grads, new talent that I think it's
+probably a good place to go look. So uh
+when Editier came to replet to speak I
+wish you were there he spoke about
+hunger like people needs to be really
+hungry all the time to fit in the
+culture that stuck with me so much. So I
+was like, how can we how can we like
+create principles when we are
+interviewing people because I'm still in
+the top of the funnel when when when a
+designer, you know, we're interviewing
+them, they meet me first, right? Because
+I'm the most opinionated person. So um
+where do we find them? They must use
+replet. They are from the replet
+community and they need to be hungry.
+And when I like okay how do you measure
+hunger and I'm like okay I I kept
+thinking about that it's like do they
+have site projects did are they actually
+opinated about this AI world do they
+want to add impact in replet so that's
+that's a venue that we uh and hackathons
+that we are partnered with with
+hackathons so we it's like oh like this
+is a really cool project you should come
+join roughlet
+&gt;&gt; yeah I mean for what it's worth like my
+take is if you're trying to hire an
+engineer today for your startup and that
+person cannot immediately pull up like
+10 things that they have built over the
+last like just two weeks for their
+personal kind of like life to optimize
+stuff to look up like it would be insane
+if you haven't done that right that
+demonstrates a fundamental lack of
+either hunger or curiosity both of which
+are just like critical to kind of I
+think early stage kind of like you know
+uh engineers here's a sort of a
+mispriced asset right now uh Silicon
+Valley always sort of looked down on
+consult consultants. I actually think
+consultants are are probably are very
+well set up for the AI age because I
+think AI benefits the generalists and
+who's the ultimate journalist is sort of
+like the consultant types.
+&gt;&gt; H
+&gt;&gt; I'm skeptical but but
+&gt;&gt; I think next you're going to say MBAs.
+Okay.
+&gt;&gt; Well, that I mean maybe MBAs too. I
+think
+&gt;&gt; actually it's not crazy.
+&gt;&gt; Yeah. like like um you know we started a
+team of vibe quitters uh and they're
+they're doing fantastic and they're
+really we give them this mission of like
+just go around the company find
+inefficiencies and solve them and
+they're doing amazing work they went to
+our support team our seesat score went
+up our recruiting team they're helping
+them and so you can just hire
+generalists and give them old AI tools
+and just say you know help me make more
+revenue or make the company run better
+&gt;&gt; it's interesting like I can hire like
+your replet as a company, the hiring
+strategy, the people that you have
+reminds me a lot of Facebook early on,
+which is there's a bunch of folks like
+Facebook did a fantastic job like early
+on Facebook was just given so much grief
+like oh you guys are a simple PHP kind
+of like you know CRUD website that
+allows kids to essentially go and upload
+things and nobody took us seriously and
+our take was that we will hire a bunch
+of folks who are well credentialed who
+have gone to the schools but we'll also
+anybody who hacks into the website
+fantastic you income work at Facebook.
+This is how we got kids from high school
+dropouts from from Beton Rouge like
+Louisiana who basically were going to
+kind of a community college in Louisiana
+or like somebody from Atlanta, Georgia
+and like all these people who we
+otherwise wouldn't have hired. Facebook
+also did one of the first kind of
+essentially coding puzzles on the
+internet. And the thing I remember about
+all these people were that they were so
+hungry. Like they would come in with a
+chip on their shoulder with something to
+prove and they just worked like you know
+10x harder than anyone else. It was
+incredible. And coming to replet I got
+that same energy and I think that's
+amazing. It's so hard to capture
+&gt;&gt; the the champions in replet they are the
+people who couldn't find a job.
+&gt;&gt; Like when they are looking they need to
+put them in a bucket. It's like you are
+a designer you only design. You don't
+vibe code. You don't code. don't do PM
+or like all of the other things. You're
+a PM, you just do XYZ. And when they
+come to me, I was just like, I actually
+don't know what I want to do, but I can
+do it. I was like, welcome to Roughlet.
+This is the perfect place for you to be.
+&gt;&gt; It's a metapoint here. So, I I think
+we're sort of rolling back the hypers
+specialization that happened during the
+industrial era. You create the like the
+eraser on the pencil and the factory
+line, right? Like that's that that was
+like a very specific thing for a very
+specific time. And I think we're headed
+to a place of more generalists. Like the
+titles will just get shorter where your
+title could be just product.
+&gt;&gt; You're doing product management, design,
+engineering, doesn't really matter. Your
+title is just product. I always get
+asked this question uh which is what is
+it like to work with your significant
+other? How do you weather the ups and
+downs? How does that kind of like is
+that something you would recommend? Um,
+so I get the chance to I don't often get
+the chance to ask this question, but
+what is it like working together? Do you
+like that question when you get asked?
+You know, I have my stock answer. I can
+kind of, you know, I I'll give the
+answer after you give your answer. Okay.
+Yeah, that's fantastic. What do you
+think?
+&gt;&gt; And you say anything.
+&gt;&gt; Beat that. Okay.
+&gt;&gt; I met Amjad at work. At the beginning it
+was like a lot of you know conflicts but
+at work because you know I'm a designer
+he's an engineer but then like um later
+on when he asked me for the logo I like
+the guy so I did the logo for him like
+you know for free but then fast forward
+um I mean for a really long time for
+free but the the point is I kept
+enjoying doing work with Amjad games uh
+designing uh with him and like problem
+solving And part of my journey of
+finding replet because I wanted to find
+a job. I couldn't find a job. I mean I
+immigrated to the United States without
+like having an opportunity that lasted
+for so many years. So I I had to find a
+side project and that happened to be
+Replet and Amjad helped me in building
+Replet and that my side project became
+the company like I didn't know that I
+was creating a product. So we always
+worked together and then when it was
+time to create the company together we
+were ready. It was it was hard decision
+but we already been working and
+designing and to his experience in code
+academy as an entrepreneur I never
+understood what they're doing like he he
+spends nights weekends like what do you
+guys are doing it was
+&gt;&gt; drugs
+&gt;&gt; it was so
+like why are you sleeping at work and I
+only understood when we created replet
+together I feel that it brought our
+relationship closer
+And I like to do things with my family.
+I like I like to be with them at every
+single minute. I feel like life is too
+short. So anyway,
+&gt;&gt; that's that's getting like
+&gt;&gt; I mean I I actually think you have
+covered a lot of what I give in my
+longer answer. Yeah. Um my son, our sons
+recently 6 years old. Uh came up to me.
+He's like, "You should hire more
+students." Uh I was like, "Who who are
+you?"
+&gt;&gt; He wants to work at Replet. And so he
+wants to work
+should hire more students. Uh and he
+wears the rapid logo everywhere he goes.
+He loves it. And my brother my younger
+brother also works at Rapid. He's a
+engineer. So but look he how I talked
+about all the good things. The the
+challenging thing is other people like
+other people's experiences of you right
+like I think that um like are they going
+to be comfortable giving her feedback
+about me or giving me feedback about
+her? How do you create this this comfort
+level? How do you not make it awkward
+like in in in meetings and things like
+that? And that's the thing to make sure
+that um it's uh it's something to work
+on. The other thing is you want to make
+sure that the uh company is
+meritocratic,
+so anyone can get fired, right? Um and
+at some point I did fire my brother. I
+brought him back, but he's working
+really hard now, so he's good. Um
+but yeah, I mean
+&gt;&gt; seek the pain.
+&gt;&gt; But but but the the problem with you
+know family there's a lot of good things
+about family business but but part of
+the problem is like you you know a lot
+of us come from countries where nepotism
+is like a big problem. You need to be
+aware of that like you shouldn't
+approach this with a nepotistic mindset
+like you should it should actually be
+meritocratic. Everyone should be putting
+their best.
+&gt;&gt; It's a great answer. I mean I I I I
+don't have much more to add based on
+what Hy said, but I often tell people is
+that my work is really important to me,
+right? And I think that it would be very
+hard to explain the insanity of being an
+entrepreneur to somebody who wasn't
+actually living it. It's actually very
+hard to kind of be like, hey, I'm crazy.
+I want you to understand me, right? So
+the fact that I have a uh a life and
+kind of a work partner who deeply
+understands that insanity, I think is
+actually just a really good thing.
+&gt;&gt; Yeah. I just want to add something like
+from my experience in building replet to
+watch out for power hungry people that
+can get like in you know make you feel
+skeptical of what you're doing or
+questioning what you're doing. So it's
+uh finding like other people who are
+doing similar work like you and seeking
+advice like hey I'm noticing this this
+that is that am I crazy or am I not
+crazy? So like advice there like this is
+something that we experienced that we
+seek advice and it was uh super
+valuable.
+&gt;&gt; So one of the things that I'm paranoid
+about is that I cannot keep up with the
+pace of information. So I'm curious what
+is your information regimen? How do you
+keep up with the pace of everything
+that's changing especially with AI and
+also run a company at the same time?
+It's hard like um look I I think that
+you need to have certain predictions or
+a working model about the world such
+that things should not be massively
+surprising. If they are surprising, you
+need to update your prior. So you need
+to have a model of a world such that if
+you're off of Twitter for for a day or
+two or a week or two, it's like it's not
+a big deal cuz you sort of understand
+where things are headed. And I
+constantly am like trying to figure out
+where things are headed. Like I'll make
+predictions. I'll often make predictions
+publicly and uh I think it's just like a
+skill to hone. So if you understand and
+try to understand the models and how
+they work and try to read some research
+papers when they come out again it's a
+kind of buzz word but if you have more
+first principles understanding of things
+you don't have to be on top of
+&gt;&gt; that's actually the best answer I've
+heard about this. Like I've asked a lot
+of people on stage that same question
+and I think that I wouldn't have been so
+articulate about it but a lot of what
+I'm trying to do is you are making micro
+predictions and then if you see
+something that is wildly off either you
+need to update the model like your own
+model or you or it's a scam or it's a
+scam. Exactly. Most like that person's
+stupid.
+&gt;&gt; Um I go ahead. You have I was going to
+open it up maybe after one more
+question.
+I mean I do have a lot of questions but
+we can open it up.
+&gt;&gt; Why don't you give one last one?
+&gt;&gt; Why don't you ask the kid question?
+&gt;&gt; Yeah. Okay. This is my um so Shams is
+six now right? So our kids are almost
+like three, six and nine ourselves. And
+it's, you know, you think a lot about
+obviously raising your children, giving
+them a great environment, trying to
+prepare them for the world that they
+will grow up in. But it is very hard to
+kind of have a high conviction, high
+confidence mental model of the world.
+You know, what's the world going to look
+like in 9 years when Avian has to go to
+college, right? Like that's kind of
+insane to think about. So, how do you
+how do you how are you preparing your
+children for for the coming I would say
+change in the world?
+&gt;&gt; Before we had our kids, I I'm like I've
+been always like a uh ad tech nerd. I
+always like liked education technology,
+worked in education technology, invested
+a lot in it, really bad sector to invest
+in u and then uh when our our you know
+when our we had our kids, I like tried
+all these tools on them. especially
+Shams is like he learns very differently
+and it's sort of like what is Mike
+Tyson's kind of um quote where you have
+plans and then like
+&gt;&gt; you get punched in the face.
+&gt;&gt; You get punched in the face.
+&gt;&gt; Yeah. Everybody's got a strategy until
+they get punched in the face.
+&gt;&gt; Yeah. I I feel like having kids is like
+getting punched in the face by reality
+uh constantly. And so we're we're just
+like learning as as we're going. The one
+surprising thing is like actually like
+the Bay Area should be one of the places
+that's quite innovative on technology on
+on education but it's like it's just
+like a Monsuri school is like the most
+innovative thing you can find here which
+is like 70 years old now. It's deeply
+frustrating how little change happened
+in in education. I think what a lot of
+people with with means end up doing is
+they end up creating their own schools
+like Elon. I think you guys might have
+experience in that. And then, you know,
+other people do just homeschooling
+because it really is not that great.
+Like you go look for schools, most of
+them are not that good. Um ultimately um
+the the main lesson from education
+technology is Bloom's two sigma problem.
+So this uh researcher found that no
+matter what intervention you can make in
+school, there's one intervention that
+creates two standard deviation
+improvement in educational uh attainment
+and it is one-on-one tutoring and
+there's nothing really better than that.
+So finding like one-on-one tutors for
+your kids or finding AI apps that are
+really good at that, one of my
+investments, Synthesis, could actually
+be really helpful. But I think it's uh
+we're just we're just trying to navigate
+&gt;&gt; this can I can like uh talk about my
+thinking. I think about basics uh and
+basics will remain the same and values
+and that means like introducing them to
+the basics of gymnastics or swimming or
+like seeing through my children and it's
+like a trial and error like what are the
+areas that they are really good at what
+are the areas that I think they should
+get better at and it's like you know
+when you're building a product it's like
+the same uh and you notice and you
+observe So it's like similar to that and
+to Amjad was saying including going to
+school we are dabbling with one-on-one
+mentoring and seeing where that take us.
+So it's just learning how they learn.
+It's very difficult and it keeps
+changing and that changes how we
+introduce information and stuff to them.
+It
+&gt;&gt; sounds like our AI models.
+&gt;&gt; Yeah, it's interesting. My big my big
+takeaway for my kids is actually just to
+just remind them that the reason why we
+have all these computers and these AIs
+and these models is to actually be able
+to build things and these models are
+there to serve them, you know, and kind
+of like they have ultimately agency. I
+had this great experience with Davian
+just like last week where he got a TI 84
+for the first time.
+&gt;&gt; I charge him 4% interest mother
+&gt;&gt; because he doesn't have enough money to
+buy it yet. Richie was totally lone
+sharking him and then he gets this uh
+this calculator and he's
+&gt;&gt; Yeah. And then he's kind of like making
+graphs in it.
+&gt;&gt; And then one of the somewhat odd joys in
+my life is that Aven and I share a uh
+Claude account so I can see all his
+chats. And so I see this chat and he's
+like talking to the AI about he's like
+give me some crazy graphs that I can
+make. And then he's like make the graphs
+dance and sing. And I'm just like, it's
+amazing though because he experiencing
+math in a way that is just like
+beautiful for him. It's fun. He's like
+like that's actually what these
+functions should exist. Like you can
+make them do funny shapes and he's
+learning about it.
+&gt;&gt; He's also experiencing it through the
+interest rate that I'm charging him.
+&gt;&gt; Oh, there you go. Um, so I don't know. I
+think that giving kids access to, you
+know, technology and not being afraid of
+it while also sharing a AI account with
+them, I think is the is the right way to
+go. All right, folks. This is a wrap.
+Um, I mean, what I'll say to kind of
+finish up here is that you've often
+spoken
+very eloquently about seeing a world
+where you have a billion developers. And
+I think what's amazing is that you are
+both you're literally just making that
+world happen right now, right? Like I
+really think that in the next 5 years
+there will be a billion people writing
+code on a daily basis and what a time to
+be alive. Both of you are inspirational.
+Thank you for coming here today. Thank
+you for sharing your story.
+&gt;&gt; Thank you. Pleasure.

@@ -1,0 +1,863 @@
+原文： https://www.youtube.com/watch?v=KzqpK1uCczw
+
+Our job is being available wherever
+customers are. In the 1950s, that meant
+building a bank branch. In the 70s, that
+meant building an ATM. In the '90s, that
+was a website. In the 2010s, that was a
+mobile app. In the 2020s and beyond,
+that is going to be APIs and set of
+services that you can connect with what
+I call the conversational interfaces of
+the future. I pulled this together and
+it was almost 5 million words from
+anything that was touching my surface
+area over the last 5 years and built
+that kind of as a knowledge base that
+then served as the foundation for
+everything. When I run a meeting, pod
+tells me, "Hey, in this meeting, you
+were doing this exact thing that is on
+your performance reviews." Of all the
+exacts I've talked to, this is the most
+impressive system at a high level I've
+seen.
+&gt;&gt; So, yeah. So, why don't we get right
+into it? Um, do you want to walk us
+through Mercury's MCP and what you can
+do with it?
+&gt;&gt; Yeah, 100%. So, Mercury's MCP is
+something we just recently launched. Uh,
+it's available in the, uh, Claude app
+store and it has a a URL directly if
+you're taking it into different tools.
+But if you go into Claude, you go into
+the connectors, uh, you'll be able to
+find the Mercury app here. I already
+have it set up, so we're just going to
+jump right in. Uh, how Mercury MCP is
+useful is you can ask natural language
+questions about your bank. Something
+like, "Hey, Mercury, look at my spend
+over the past couple of months and see
+how I could save some money." I like to
+use Whisper Flow for some things like
+this. And so uh what's happening here in
+the background is this is connecting to
+our API and pulling the information that
+would answer this question and being
+able to take that and answer it pretty
+flexibly uh as well. MCP is a readon
+version of our API to kind of keep it
+safe. But uh we launched this about six
+months ago and we're really excited uh
+with how it's going so far.
+&gt;&gt; And this is not your real account,
+right? Or
+&gt;&gt; this is a this is a sandbox account for
+this demo and so it's going to have real
+data. Uh, and one of the nice things
+about Mercury is we kind of have a great
+demo environment where we can send some
+things here. So, it will show some real
+data, but it is not my personal data.
+&gt;&gt; Okay, $500 a month, man, that's a lot. I
+subscribe to a lot of AI products, but I
+don't think I pay $500 a month.
+&gt;&gt; You know, I think this is modeled after
+a startup, and some sometimes startups
+are spending quite a bit. and uh you
+know um okay so what we see here is uh
+you know Mercury is bringing in some of
+the finance data into claude and
+claude's actually just launched a new
+update that has actually shown some of
+the data here in a pretty nice way it
+has some tables it has a bunch of
+different information but using this I
+can really get a good sense of where my
+money is going and where I could be
+saving some money here
+&gt;&gt; so so the API is read only assets so so
+I can't be like hey cancel my Netflix
+subscription or something do that Yeah.
+So, Mercury has an API uh that's broadly
+available and it matches exactly what
+you can do on the web application or the
+mobile app uh and that is a read and
+write but our MCP and the thing that is
+available in cloud and anthropic is read
+only uh just to make sure that people
+have control and security over their
+finances.
+&gt;&gt; Got it. So, what have like businesses or
+people's favorite use cases been since
+you launched this SAP? Has adoption been
+great and you know what's it been like?
+&gt;&gt; One of the things is that we've been
+really surprised how people have
+responded to this. You know, Mercury
+generally is building uh banking and
+what we call uh radically different
+banking for entrepreneurs and ambitious
+people of all kinds. MCP is just one of
+the ways that uh builders today are
+bringing in their finances to their
+different workflows. And so we've seen
+uh all sorts of people. One of my
+favorite examples is I was talking to an
+animation studio here in Los Angeles uh
+and there's a specific tax code and when
+they connected their MCP into uh their
+finances and started asking questions
+they were able to find some tax breaks
+that they didn't know about otherwise
+that to me highlights the example of how
+MCP can be used. It's context about your
+business that's unique, novel, but then
+your insight as a business owner and
+someone who is operating your business.
+How those things come together becomes
+quite powerful. And uh we've heard a
+couple a couple people have saved uh
+over $1,000. We have a a running
+scoreboard of this number and it's
+getting quite high.
+&gt;&gt; Oh, already. Okay. So, so like two
+questions is like what are my top
+monthly expenses and uh where can I
+save? And another one is like where can
+I save money on tax? Right.
+&gt;&gt; Yeah. Yeah. Exactly. I would say most
+people really love asking like how can I
+save money on spending? What could I be
+doing to optimize my spend? But one of
+the things about Mercury and our API is
+it offers all the information that you
+have on your account. So it even offers
+things like your EIN, your uh business
+address and so you could have this kind
+of source of record of your business
+identity that then uh can come into your
+workflow whenever you need it. How many
+things do you apply for where maybe you
+need your EIN? It's hard to find that.
+And so uh we've tried to make that all
+available within the MCP uh and make it
+a great experience as part of it. It's
+been really cool to see how people are
+creating their own dashboard and their
+own kind of workflow on it. And I think
+that's probably one of the best use
+cases for it is just what happens when
+you can bring your financial data
+wherever you are.
+&gt;&gt; All right, dude. So, from one product
+person to another, let me ask you some
+hard questions, man. I'm okay. So, a lot
+of people are like, "Oh, I got to get my
+product agent ready. I I got to build an
+MCP." But I feel like building MCP is
+like the very last step, right? Like
+like what are some steps that you took
+before even building MCP to make it like
+really easy to use?
+&gt;&gt; Yeah. Yeah, I mean first Mercury uh
+really kind of has taken the journey
+that a lot of banks have taken over the
+last 20 years which is it starts with a
+great website. Uh the Mercury.com
+experience and you can see it at
+demo.mmercury.com we believe is one of
+the best banking products that's on the
+market. Our mobile app pairs super well
+with that. And what we're asking with
+MCPS and API is what is the 2020s
+interface going to be like? And we think
+it is going to be uh you know kind of
+portable uh in a much bigger way. And so
+you know this MCP is built on a huge
+foundation of the products that we built
+at Mercury. Things like really reliable
+uh depository accounts, treasury
+accounts, uh credit cards that people
+love, user management and uh different
+spin controls and things like that. And
+so, uh, all of that stuff then comes
+into our API where when we built this
+MCP, we thought a lot about the
+experience of it. One of the things I
+found using a bunch of different MCPS
+was it's kind of hard to log in.
+Sometimes you actually have to like go
+into like a text file or a config file
+to set up the server and set up your uh,
+credentials or whatever it may be. So,
+we tried to make it like logging into
+the web app. We tried to make it an OOTH
+experience. It's just kind of one click,
+same password. uses multiffactor
+authentication to have that security
+that you need on a bank account, but
+it's seamless once you've connected it
+within cloud. It just works like it's
+your web dashboard. And that's what we
+think a banking experience should be
+like. Got it. Okay. And and of course
+having like really good API coverage for
+like core workflows and you know the the
+data flows and stuff, right? like um um
+did you also think about like
+documentation that agents can read or
+like any stuff like that or
+&gt;&gt; Yeah, I mean this is the journey we've
+kind of been on is we've been thinking
+about our API for a long time. Uh really
+Mercury launched with an API and it's
+been around for a couple of years but
+over the last uh probably six months
+we've seen a huge amount of adoption for
+people uh creating API tokens wanting uh
+requesting into customer feedback
+channels that they want to be able to
+bring their data elsewhere. And so what
+we've tried to do is uh have the API
+have high coverage, but then make it
+super useful wherever you go. So you can
+do things like OOTH or MCP. Uh and so it
+starts with that foundation, but then
+it's really about where are customers
+and where can you meet them.
+&gt;&gt; Got it. This episode is brought to you
+by Granola. If you're in backtoback
+meetings, you know how much work it is
+to take notes live and clean them up
+afterwards. That's why I love Granola,
+the best AI meeting notes app in the
+market. Here's how I use it. Granola
+automatically takes notes during a
+meeting and I can add my own notes too.
+After the meeting ends, I use a Granola
+recipe to extract clear takeaways and
+next steps in the exact format that I
+want. Then I can just share notes
+directly in Slack with my colleagues or
+even get Granola to share her notes
+automatically. Honestly, of all the AI
+apps that I use, Granola is the one that
+saves me the most time. Try it now at
+granola.ai/pater
+and use the code Peter to sign up and
+get three months free. That's
+granola.ai/pater.
+Now, back to our episode.
+&gt;&gt; All right, dude. Well, let me ask you
+another hard question. So, like like I
+said, Mercury's app is like the most
+beautiful the most beautiful user
+interface for a bank that I've used. And
+um I don't know. Does it feel kind of
+weird that like now people are like, you
+know, now I'm getting my Mercury data
+through Jenke openclaw instead of using
+the app or the product like that, you
+know, may maybe you actually see like DA
+going down a little bit because people
+are just like using these integrations
+instead. So, so, so how do you think
+about um are you worried about where
+people like a world where people
+actually stop going to mercury.com and
+just go talk to your AI agents instead?
+&gt;&gt; Yeah, I mean the short answer is no. I I
+think that uh our job as a a technology
+company that is building incredible
+banking software is being available
+wherever customers are and meeting uh
+that moment and in the 1950s that meant
+building a bank branch. Uh in the 70s
+that meant building an ATM in the '90s
+that was a website. In the 2010s, that
+was a mobile app. In the 2020s and
+beyond, that is going to be APIs and the
+set of services that you can connect
+with what I call the conversational
+interfaces of the future. Uh I think
+that that we're already in a platform
+shift and we need to show up in that way
+and we need to make it available. And
+you know, I was thinking about this for
+myself. I'm a consumer. I use Chase
+Schwab and it is so hard to get my data
+out of those products and it makes me so
+angry as a consumer. I just really
+wanted to build something that I believe
+was good for uh the experience of
+managing my finances and we try to do
+that every day at Mercury and like uh
+you know I I think it's actually great
+if people are saving time and able to do
+more have to spend less time in our web
+dashboard. It means that they're able to
+to spend time building what they want to
+build.
+&gt;&gt; So so how do you like uh how do you like
+measure success for like a product like
+the MCP like because you know like a
+userfacing product is like you know uh
+DAU and like retention and stuff like
+that right? So, so, so I guess it's like
+how often the agent calls your MCP or
+&gt;&gt; Yeah, totally. I mean, you know, uh,
+it's funnels all the way down is is
+maybe one way of putting it. You know,
+at the core, it's are people using it?
+When they discover it, are they hitting
+errors? Are they going through? Once
+they set it up, do they have multiple
+engagements with it? And then over time,
+do they retain? Do they expand? And did
+they uh keep using it? And what we found
+is once people set it up, they really
+love using it. It's kind of exactly the
+use case you described where it becomes
+almost a week a daily, weekly or monthly
+workflow for them. And that's something
+I think we're really excited about. Uh
+because it's something that maybe we
+wouldn't have built ourselves, but
+actually people can build on their own.
+Uh so uh yeah.
+&gt;&gt; Yeah, it's like way more convenient,
+man, because now I can get the open
+cloud to push stuff to me from Mercury.
+Before I have to like remember to go to
+go login and check my stuff, but now
+like every week it pushes stuff to me.
+So like and I can give it I can tell you
+to give me a pep talk. And the other the
+other thing is like it has my market
+data, it has my YouTube data. Yeah,
+100%. I love that. Okay. So, um, okay,
+one one last question about the MCP. So,
+there's been a bunch of tweets out there
+about saying like, oh, you know, MCPS
+are dead. It's like there's like too
+much bloat and too much context in
+there. Let's just build APIs and CLI
+tools and all that kind of crap. Like,
+how how do you think about how you think
+about this?
+&gt;&gt; Yeah, I mean, there's a lot of noise and
+like the world's moving pretty quick and
+you know, one of the things that uh I
+think is yes, inevitably I use MCPs,
+they clog up a ton of context. We are
+going to build a Mercury CLI and this is
+actually something we're going to
+release in the next couple of weeks and
+so uh breaking news here with you Peter.
+The Mercury CLI is coming. We're really
+excited about that. But one of the also
+ways of thinking about MCP is right now
+it is hard when someone is using one of
+the consumer products chatbt and
+anthropic to use the services like an
+Mercury in that experience. APIs and
+connecting to APIs directly is super
+hard. how those platforms have chosen to
+integrate is a first-party app ecosystem
+which you set up and work directly with
+them but then also the custom MCPs and I
+think that sort of uh app layer and
+distribution layer is so critical in
+this platform shift if you look at like
+Apple they don't they don't allow
+third-party apps MCP is the third party
+apps of this ecosystem and I think going
+to make a big difference in how new
+products can come to market and uh open
+up what is possible for different
+companies
+&gt;&gt; interesting okay so you think about MCP
+is made a little bit more accessible to
+the mass market and then the CLI maybe
+for like the dev the devs or like people
+who really want to
+&gt;&gt; Yeah.
+&gt;&gt; optimize their context. Yeah.
+&gt;&gt; And it's particularly because OpenAI and
+Anthropic have gone in on the MCP
+ecosystem and they grid apps that are
+built on the MCP structure. And so by
+them choosing that uh method, you know,
+it's kind of become a distribution
+service and the common one. And so it's
+not going away anytime soon until
+something can replace that. But what we
+see is kind of at the power user at the
+premium maybe not even the premium side
+the the you know deep builder they
+definitely want tools that are much more
+flexible like CLI skills different
+things like that and I think that's
+something we're definitely going to meet
+them with.
+&gt;&gt; Got it. Yeah. Yeah. I I feel like MCP is
+the only thing that open an can agree
+on.
+&gt;&gt; Yeah, that might well No, they seem to
+agree on each other's product uh but
+after each other.
+&gt;&gt; Yeah. Yeah, they seem to Okay. All
+right. Well, why don't we shift gears a
+little bit? Let's talk about um how you
+use AI in your life as a product exec.
+Yeah. Do you want to talk about like how
+you just use these different tools uh
+day-to-day or maybe like show us some
+work workflows?
+&gt;&gt; Yeah, totally. All right. So, maybe just
+quick summary on my role. Uh I lead a
+product team at Mercury about 20
+different products that cover what we
+call our software side of the
+experience. It is how do people discover
+Mercury? How do they use it every day?
+How do they expand? I've been here about
+five years and I also work on the data
+team. I've worked on growth here at
+Mercury. And so I have a ton of context,
+a ton of information, but you know, when
+I'm making decisions day-to-day, it is
+quite hard to access. And so I've been
+using cloud code to build out what I
+call uh my second brain. Uh and so I'd
+love to walk you through it if that's
+okay.
+&gt;&gt; Yeah, I'd love to see it. Yeah.
+&gt;&gt; All right. So maybe first I'll show a
+diagram because uh uh then I can show
+you how it actually works. So So at its
+core, I uh built a what I call the
+context layer or the knowledgebased
+structure. Um this is essentially a
+download of all the information at
+Mercury from my five years at Mercury.
+the company strategy docs, every spec
+that's ever been written, every query
+that's ever been run. I pulled this
+together and it was almost five million
+words. I I think I cut some for for this
+just to make sure I didn't share
+anything too sensitive. But I tried to
+get all the information that has ever
+been created from anything that was
+touching my surface area over the last 5
+years and built that kind of as a
+knowledge base that is stored on a local
+file system. that then served as the
+foundation for everything that I built
+on top of that which is kind of a
+workflow where every morning I open up
+terminal I go to cloud code and it
+references a memory that has been built
+and is updated every day it references
+that knowledge base using QMD and Toby's
+kind of local indexing solution that he
+has built out and then it uses claude
+hooks uh claude hooks uh to inject that
+context into every question I ask so I
+ask a question like how's activation
+trending I'm not just asking that
+question I'm asking that question with
+all the knowledge and history of mercury
+going into that question and it's
+actually injected into uh into each
+request and it has made each request
+much much better. Um you know then uh
+that uh kind of system plugs in to a set
+of different things skills that I built
+out which are kind of patterns like an
+analysis or building like a small little
+app for myself or learning uh kind of
+coming back and feeding back into the
+memory system. MCP integrations. I plug
+in all the kind of core tools I have.
+And then I have some things in workflows
+that are multi- aent teams. I, you know,
+can send in like a full analysis to go
+understand all the data, go think about
+all the problems, go run an analysis, go
+kind of discuss it, and then come up
+with a report. And that is kind of the
+system uh that I call my second brain or
+mission control. And it really goes into
+everything that I'm doing as I use it.
+I'm in cloud code kind of all day, all
+the time. Uh and so this is kind of
+system that I have. And I could give you
+kind of a a preview of it if you want to
+see it.
+&gt;&gt; Well, this is like I think of all the
+execs I've talked to, this is the most
+impressive system at a high level I've
+seen because most exacts are just in
+meetings all day, man. They don't have
+time to throw this stuff. So,
+&gt;&gt; yeah. Well, what one of the interesting
+things that I I I have done as part of
+this is I've tried to make it so that I
+can pay more attention to meetings. So I
+have notion transcribe it and I that
+feeds into the system so that every day
+at the start of every day I get a brief
+of what's my calendar what's on linear
+github slack uh what's the kind of
+meetings that I have and at the end of
+the day it summarizes those meetings
+gives me the action points and other
+things that I have and so I've kind of
+really built this into my like workflow
+where I start the day I end the day and
+then like I start the week I end the
+week uh using this it has been so
+surprising for like the knowledge and
+context that it has unlocked for me uh
+you know uh all sorts of things.
+&gt;&gt; Yeah, you show me cloud code, dude.
+Like, how do you do some of this stuff?
+&gt;&gt; Okay, so what I have here is my cloud
+code and kind of the entry point to most
+of my workflows. So, I would start with
+a question like this.
+&gt;&gt; Hey, knowledge base. I'm here with
+Peter. Uh, I want to operate in safe
+mode for this conversation, but I want
+to show it how we would use some of the
+knowledge base that we have to be able
+to answer questions. One of the things
+Peter just asked me about is how is the
+MCP doing? Could you answer this
+question and try not to reveal anything
+sensitive? Yeah, I guess because all
+that information is locally, it's like
+searches super fast fast too, right? So,
+&gt;&gt; exactly. And this the QMD the nice part
+about it is it's indexing and so it when
+it searches for something like MCP
+product traction growth, it's not
+searching for those terms, it's
+searching for the concepts of those
+terms. So, it uh returns adjacent stuff.
+Let me actually show you this and I'll
+I'll ask you to black this out uh
+because I can show you what it looks
+like and but this will stuff will be
+sensitive. So, it references like
+strategic context which is a specific
+doc. uh it references you know the
+growth product team check-ins that I
+have team charter uh yeah like different
+uh person's onboarding doc you know so
+it's able to pull from about like 20
+different docs so that that context is
+inserted into uh the actual uh uh query
+that I run and so when I'm running
+something like this it is just again
+like totally enhanced uh and yeah so
+here we have an answer uh on our kind of
+knowledge base I asked a question it
+brought in a couple of different uh
+pieces of content text from the
+knowledge base and then uh gives me an
+answer and you know if I wanted to go
+run analysis I could actually trigger it
+from here. I have it hooked up to
+metabase and RBI tool omni to be able to
+run those and so uh this is kind of a
+system that not only has knowledge but
+it also has tools to be able to go take
+actions and run a full analysis get back
+to me insights on that.
+&gt;&gt; What is kind of like the proudest skill
+that you built that that that you can
+share with with us at this time
+&gt;&gt; is is there something that's not super
+sensitive? Yeah,
+&gt;&gt; I mean I I think the uh one of the
+things that we built internally at
+Mercury kind of based on the system was
+an automated data analyst. I have spent
+five years at Mercury answering all
+sorts of questions about uh you know how
+is growth going, how many people were
+how many people applied yesterday, how
+many sales leads have converted using
+this product and we built a uh you know
+what I would call a an AI agent that can
+answer about 80 to 90% of the questions
+that most XFN teams are asking at
+Mercury. And it really kind of started
+from me being able to prototype it
+locally, built the confidence that it's
+actually accurate enough and then go
+kind of peel that off and ship it
+internally to the company and it's
+something like that is really really
+unlocking a bunch of speed and capacity.
+So that's probably number one. I would
+say that's like a pretty cool use case.
+Number two uh is it's really been
+surprising how good of a coach it is.
+you know, I get a performance review
+every six months and uh sometimes it is
+uh you know, high level themes or kind
+of abstractions, but when I run a
+meeting and it tells me uh one of the
+things I'm working on is that maybe I
+jump to the solution too quick. I don't
+probe enough about the question or work
+with my team enough, it tells me, hey,
+in this meeting you were doing this
+exact thing that is in your performance
+review. So, it can kind of keep me
+honest at a much faster frequency than
+any other system can. And uh it's quite
+interesting just how that has actually
+changed my behavior because I know that
+uh there's actually like a a a system
+I'm going to have to be accountable to
+uh that is shaping my behavior and uh I
+can tell you my manager and my people
+partner are so happy about this. Uh it
+is definitely making the feedback land.
+&gt;&gt; Oh hang on. Let's let's talk a little
+about how that works. So you have like
+granola or something take the meeting
+notes and then you feed it into the
+clock code and then it just gives you
+feedback after every meeting
+automatically. Uh so at the end of the
+day I essentially ask it I am prompting
+it and so it has the ability to pull the
+information from slack from linear from
+notion transcriptions uh or any other
+docs that I've created and then I can
+ask it to summarize things and usually
+that's a conversation takes about 15
+minutes but it's like hey did I have
+anything left over today that I need to
+take action on? Uh is there any anything
+that showed up today that I should be
+thinking about for my performance? And
+like you know it I go back and forth
+with it and it finds all sorts of things
+and man it's a it's a It's a great
+accountability measure is the way I
+would put that.
+&gt;&gt; Yeah, that sounds great, man. Okay, so
+so you have it hooked up to like Google
+Docs and everything so you can just like
+pull all the stuff that you did during
+that day,
+&gt;&gt; right? Is that how it works? Got it.
+Okay,
+&gt;&gt; got it. Wow. Yeah, I I need that too. I
+get feedback that I move too fast too.
+Like it's like you move too fast, you
+got to keep bringing people along and
+then I always forget about it. I always
+like move fast. So someone to remind me.
+Yeah. Well, speaking of uh stats, dude,
+do you want to show us um Mercury
+Insights? I I think it's like more userf
+facing, but yeah.
+&gt;&gt; So, one of the things that we've been
+thinking about is how are our customers,
+the startups of uh of America adopting
+AI tools and uh what's kind of changing
+as the ecosystem changes. I noticed
+about six months ago that my behavior
+really started trending towards uh using
+anthropic cloud code and kind of
+building my workflows on that. And uh we
+did this analysis and looked at for new
+startups which Mercury gets a great
+signal on because we serve one in three
+startups in the US. But we looked at uh
+what tools are they choosing first. Uh
+is it open AI or anthropic and you know
+for the past kind of three four years
+that has been open AI but recently that
+really shifted to anthropic and it is
+both matching the kind of internal
+sentiment that we've had at Mercury but
+also what I hear when I talk to
+customers uh also what we see in the
+data here at scale. So this is the first
+model that they choose, right? Yeah.
+&gt;&gt; First model that that yeah, startups
+choose and for each kind of cohort uh
+each cohort of the cohort.
+&gt;&gt; Yeah, I I definitely see a shift, but
+like I also feel like um there's no real
+loy loyalty of stuff. Like a lot of
+people are saying Codex is better now
+and I'm sure a lot of people are
+switching to Codeex now, switching back
+and forth. Yeah.
+&gt;&gt; Yeah. I mean it's fascinating, right?
+This is what competition looks like and
+it's like so exciting. I mean there are
+going to be many missteps. We uh went in
+and got chatupdia enterprise and then we
+found there was a huge kind of demand
+for claude as well and it turns out that
+these products compete within companies
+uh themselves and so one of the things
+that I'm really looking for is are these
+products able to inter workflows for my
+example of my knowledge base what I call
+my kind of second brain uh I can't go to
+codeex I can't easily flip that over
+maybe I could uh I've tried but like it
+is not an easy flip to switch I kind of
+have it now configured set up the way I
+like it kind of has trained on my
+response and the memory and kind uh
+system that is building on that seems
+like it is locking me in. Uh but you
+know maybe OpenAI maybe Codex is going
+to be able to uh push that further. What
+I'm really curious about is when a
+company chooses a product like this when
+they choose to use Open AI or anthropic
+first that model or that decision
+probably makes a bunch of other
+decisions in the company. The next
+license that gets chosen the enterprise
+chat model that gets chosen. uh one kind
+of choice at the early stage of the
+startup makes a lot of other choices and
+I think that we're going to see that
+play out over the kind of next six 12
+months.
+&gt;&gt; That's true. That's true. Yeah. The more
+context you give it, the less you're
+likely to churn and also there's a whole
+ecosystem, right? You can get co-work
+and all this other other stuff too.
+&gt;&gt; Yeah, exactly. And they're both moving
+super quick to extend that lock in. For
+sure.
+&gt;&gt; You know, you built a second brain with
+cloud code and um how have you noticed
+how you and the product team like how
+you guys are building products? like how
+has it changed since all these tools
+became available internally and like you
+know now now you're kind of like age and
+pil like yeah how has all this stuff
+changed? Yeah.
+&gt;&gt; Yeah totally. I mean it's changed a ton
+and I would say Mercury has like
+significantly accelerated in the last
+six months but it's maybe kind of a
+continuum that we've been on. There's
+really kind of like three things that we
+have anchored on that we find are the
+the big levers for kind of EPD teams and
+what we're building for our customers.
+First is prototyping. We made a
+disposable front end. You can kind of
+see our demo uh demo. mercury.com and
+what we've made is that that can be
+pulled by any PM designer quickly edited
+and you don't have to fully update the
+backend you are editing the production
+site and so it's helpful for sharing
+ideas early concepts getting it in front
+of customers and what I found is that's
+collapsed the time it takes for us to
+get to a good idea and so uh you know if
+you can build disposable prototypes
+super easily that has kind of replaced
+specs and uh you know the kind of long
+writeups where you're conveying
+something a meeting where you're trying
+to get everyone on the same page you can
+just show them that and we have a bunch
+of people at Mercury doing that Two, I
+maybe already mentioned this one a
+little bit, but an AI data analyst for
+everyone. I've been building a data team
+for the last five years, and I've never
+been able to get on top of the demand
+that we've had for data. There's so many
+people that just want to know basic
+questions about the business. Now, we
+have an AI data analyst. And the thing
+that's become useful is that we can do
+analysis on that. What are people
+asking? What are the common things? And
+then we can go make sure the data
+infrastructure is set up to be able to
+answer those questions. And we actually
+found our sales team was asking
+something that didn't quite fit. Uh that
+then let's helps us go improve the
+system. And so I think the system of
+self-improvement is a big thing as well.
+&gt;&gt; Yeah. Yeah. Like ever since I got access
+to the codebase as a PM at work um for
+like small bug fixes and UI stuff like
+when I asked engineers like hey can you
+help me with this? They was like hey go
+do it yourself.
+&gt;&gt; Yeah do yourself you know. Yeah, I mean
+the other part I found is that I'm not
+waiting on someone to give me
+information and I think being unblocked
+is one of the most important things uh
+in this environment and like you know my
+ability to actually go ask what does the
+code do and have that conversation so
+that when I'm coming to the engineer and
+they're I'm treating their time with
+value. I think that's something that's
+also been really appreciated.
+&gt;&gt; Yeah, I I hope all this stuff combined
+will shift the curve for being a PM to
+like just way more fun because
+prototyping is way more fun than writing
+docs. Yeah,
+&gt;&gt; shipping stuff is way more fun than just
+writing a bunch of tickets, you know?
+Like I I hope we can just like shift the
+curve slowly to more fun stuff. Yeah.
+&gt;&gt; Well, what what I always say is there's
+going to be need to be someone that is
+keeping a group of people pointed in the
+same direction and making sure that we
+actually shift something. The job of a
+PM isn't going away, but it is changing,
+but it changed when we built on cloud.
+It changed when we built uh for AI and
+for uh cloud code and different products
+like that. The job is always changing,
+but you know, getting the thing done is
+ultimately what the job of a PM is.
+&gt;&gt; Cool. All right, Ryan. Well, thanks so
+much for your time, man. Um, uh, where
+can people find you?
+&gt;&gt; Yeah, I'm on Twitter. That's probably
+the best place. Rywigs, uh, if you want
+to follow me, but, uh, otherwise on
+Mercury.
+&gt;&gt; Yeah. And if you have a Mercury account,
+definitely install the MCP and set up on
+your OpenClaw and hopefully,
+you know, thank stay safe. Yeah. Yeah.
+Cool. All right, man. Thank Thanks so
+much, man.

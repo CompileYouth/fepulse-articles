@@ -1,0 +1,1273 @@
+原文： https://www.youtube.com/watch?v=pyWnKbOEqH4
+
+There's a lot of doom and gloom on the
+internet, but there's no jobs. AI's
+taking all the jobs. It's completely
+false. How is AI impacting small
+business? These service businesses are
+the last businesses to be impacted.
+These businesses will only go up in
+value. A lot of people think of AI and
+they think of cost cutting. That's not
+the right lens to look at small
+businesses. How can we leverage AI to
+reduce the amount of monotonous work
+that you're doing and reallocate it to
+something that generates revenue?
+There's a huge opportunity for young
+people to capitalize from this wave.
+We're literally creating millionaires on
+Main Street.
+&gt;&gt; CEO and co-founder
+County Department of
+Coaster.
+Will Fry is CEO and founder of American
+Operator. This is one of the most
+exciting areas of our economy in the
+coming years. We have trillions of
+dollars of transactions because baby
+boomers are retiring, able to buy these
+businesses at three or four times cash
+flow. The government actually helps
+people become owners and American
+operator wants to help tens of thousands
+of people become new owners. It's a
+great area to invest in. I'm personally
+investing a lot into this area. And I'm
+really excited to hear from Will how AI,
+how innovation, how everything going on
+is going to transform this area of the
+small business economy. A lot of young
+people are wondering what should their
+job be in the AI area. You don't need as
+many people joining law firms. You don't
+need as many analysts at banks or at
+McKenzie. You know what? We need a lot
+more owners in the American economy. We
+need millions more owners. Over two
+million businesses that have to be sold
+that people need to run. If you're a
+smart young person, you should look into
+this area. Welcome to American Optimist.
+Happy to have with us Will Fry, the CEO
+of American Operator.
+&gt;&gt; Yes. Thanks for having me, Joe.
+&gt;&gt; Will, you are are empowering huge number
+of people to become owners. You're
+helping support owners, really focus on
+the small business ecosystem, big part
+of our economy. Let's start with your
+background a little bit first though.
+You grew up in a small town in North
+Carolina.
+&gt;&gt; Yeah, Drew and I Drew and I share that.
+uh grew up in Greenville, North
+Carolina. It's a town about 70,000
+people. A bunch of tobacco fields,
+baseball fields, and small businesses.
+&gt;&gt; Tobacco fields, baseball fields, and
+small businesses. I love it. What small
+business did you remember from your
+childhood? Like what stands out to you
+as a business?
+&gt;&gt; So, the Stallings familyowned uh
+portagon business. And so for the local
+State College, East Carolina University,
+anytime there was a baseball game,
+football game, you'd see the Stallings
+Porter John's out there. And they made a
+good living doing it. Uh hauling waste
+and bringing around por johns.
+&gt;&gt; I love it. What? Give me one other one.
+Porter John Jones. What else do you
+remember?
+&gt;&gt; I mean, so my mom owned a small family
+medicine uh practice. There's obviously
+uh that in the community. There's
+roofing, kitchen repair and appliance.
+We have a good family friend who owns a
+uh family farm. So do a lot of soybeans,
+tobacco,
+&gt;&gt; small business. With kitchen repair and
+appliance these days, do people still
+repair things?
+&gt;&gt; Uh so it's largely commercial oriented.
+Okay.
+&gt;&gt; Yeah. So coming into a big you have like
+a big like industrial you got to
+obviously you got to repair these things
+when they break.
+&gt;&gt; I love it. So you went on you went to
+Penn and then Wharton for business.
+&gt;&gt; That's correct. Yeah.
+&gt;&gt; Good business school. So So how did you
+become an entrepreneur after this?
+&gt;&gt; So I actually started in high school. Um
+I love building things. At the time it
+was electronic kits uh like 360 in one
+and then the app store came out when I
+was in middle school.
+&gt;&gt; So electronic kits. What does that mean?
+&gt;&gt; So you could essentially build like
+little motorized cars. You essentially
+buy those. They come with like diodes,
+transistors, the whole nine yards. You
+figure out how to wire them up. Uh no
+one really wants to buy the the piece of
+crap that you built, but you you build
+it and you show your friends. And so,
+uh, did that throughout throughout
+middle school and then the app store
+came out and then that was kind of the
+aha moment of you have all of your
+friends who have their parents' credit
+card wired up to the app store and you
+could build software and people would
+pay you 99 cents to download your app.
+Um,
+&gt;&gt; what was one of those silly apps you
+built?
+&gt;&gt; I built obviously a version of Pong.
+That's kind of like the intro to it. I
+uh I then built uh a number of apps for
+I won this like competition for the EPA.
+You could essentially see the emissions
+uh in in the local town. So, I thought
+that was kind of cool. Um,
+&gt;&gt; so it's like Captain Planet missions.
+&gt;&gt; Exactly. Yeah. It was like gified. You
+can kind of like play around. So that
+&gt;&gt; pick up trash or go help something.
+&gt;&gt; Yeah. You could see like the kind of
+what the water levels were and what was
+in the water. Um,
+&gt;&gt; that's a good idea. Rather than just
+like searching for Pokémons in your
+town, why not do something useful?
+&gt;&gt; That was the goal. It was like, could
+you build an app that kids would like to
+use that gives them a little bit of
+education and hopefully also doesn't
+indoctrinate them? And I think we were
+successful. We won an award doing it. So
+did that throughout uh high school and
+and then went went up to Penn for for
+undergrad.
+&gt;&gt; I love it. And so you came from this
+like entrepreneurial kind of background,
+a lot of small businesses around you.
+Like when did you realize that there's
+something like a mission here that
+mattered for small business. There's a
+crisis brewing.
+&gt;&gt; Yeah. So it it was actually a trip back
+home um after graduating from college. A
+bunch of our family friends were going
+through what I would now call succession
+planning or lack of succession planning.
+Um so in Greenville, you know, you
+graduate from high school, almost
+everyone flees. They go to Raleigh,
+Charlotte, Wilmington. They they they
+don't want to be in Greenville. And so
+the default exit plan for all of those
+small businesses that I was mentioning
+earlier is no longer there.
+&gt;&gt; You can't just give it to your kids.
+Your kids, your kids in Molly doing some
+other high power job. They don't want to
+come run your kitchen repair business.
+&gt;&gt; Exactly. And these are the same
+businesses that growing up they would
+sponsor. The Veterans Day parade. Their
+signs were on the back of the baseball
+field as little league sponsors. So it's
+very clear that they're like an integral
+part of the community. And the people
+who ran those businesses were also
+leaders in the community. So when
+hurricanes come through Eastern North
+Carolina, it's those businesses that are
+showing up to help. um often as kind of
+like the first responders and so I knew
+how important it was to the communities
+that these businesses stay on and stay
+on in a way where there's local
+ownership
+&gt;&gt; and these businesses would often have
+employees. So is a solution then to help
+the most responsible employees become
+owners?
+&gt;&gt; So that's all that's always an option.
+Um today at American Operator I would
+say around a third of the time we're
+backing an internal successor. Maybe
+someone who's a VP, a general manager, a
+crew leader.
+Twothirds of the time they may not have
+that person internally. Maybe they don't
+have someone who has the risk tolerance
+or the all-in nature of what it really
+takes to become an owner. And so we'll
+bring in a net new operator to take the
+torch forward.
+&gt;&gt; I love this as a career path for more
+people right now. And I have a lot of
+friends telling me, Joe, there's all
+this AI stuff you guys are doing. It's
+going to disrupt everything. There's
+going to be all these people who are
+white collar and they're not going to be
+able to get jobs. And it seems to me
+like there's like hundreds of thousands.
+Is it a million businesses? How many
+businesses? There's millions of
+businesses. How many businesses have to
+be sold over the next decade based on
+it's called the silver tsunami, right?
+Based on all these baby boomers, some
+point they got to retire or die. Yeah.
+So, so someone else has to run it like
+how many businesses is this?
+&gt;&gt; Yeah. So, if you kind of think broad
+picture, you have 33 million businesses
+in the US. You shrink that into 6
+million have employees. So, those are
+the businesses that we focus on. Of
+those 6 million, roughly 2.1 are owned
+by baby boomers. Um.
+&gt;&gt; Wow. So, it's like more than a third of
+these of these six million small
+business.
+&gt;&gt; Correct. And and and the problem is if
+you go around, there's a lot of survey
+data on this, uh around 48% actually
+have a plan for what they're going to do
+with the business. And so that's a huge
+amount of businesses that are at risk.
+Uh more importantly, so over a million
+businesses are at risk. They don't even
+know what they're going to do.
+&gt;&gt; Correct. And and there there's
+livelihoods tied up in that. Obviously,
+there are a ton of employees. There's
+over six million employees tied to that
+kind of sector of the market. And then
+what I often talk to to leaders at the
+kind of municipal and state level is
+that's your tax base. And you don't want
+that shutting down. You also don't want,
+you know, outofstate buyers coming in
+consolidating. All that money is getting
+funneled out of those communities and
+out of your state.
+&gt;&gt; I love it. And, you know, we recently
+had Kelly Leler on the podcast that
+could come out before this one comes
+out. And so, she's running a small
+business association, the SBA for
+America. America's actually spends a lot
+of money helping people become owners.
+What role are you playing alongside what
+they're doing?
+&gt;&gt; Sure. Yeah. The SBA is a phenomenal
+organization. If you chat with anyone um
+who is not from the US, the SBA is one
+of the prize jewels that they're very
+very jealous of. Uh in other countries,
+there are not zero uh subsidy taxpayer
+programs are essentially stimulating uh
+the GDP and and stimulating job creation
+and and new business starts. Um so
+they're really really helpful. Where we
+come in is if you think about you're an
+owner and and you're going to retirement
+today, you kind of have two options. You
+can decide to close your doors or you
+could sell to an out ofstate buyer. And
+you see more and more of this in the
+news where private equity funds are
+raising money and coming and kind of
+capitalizing.
+&gt;&gt; This is what everyone assumes whenever
+they see me. I've obviously been
+successful in other areas. If I start
+talking about small business, they're
+like, "Oh, it must be a private equity
+thing." And and this is this is
+obviously not and I'm I'm an investor in
+American operator with you. This
+obviously not the goal. It's not to be
+PE. I mean, PE is obviously not bad in
+some cases, but but but how is this
+different than what PE would do?
+&gt;&gt; Yeah. So So we're capitalists. We're not
+anti-private equity, but we do want to
+build an alternative for owners who want
+to keep their businesses alive in their
+communities. And so what we offer them
+is kind of the best of both worlds where
+we bring in committed capital from
+investors like you and some of our
+credit partners uh to allow that owner
+to walk away and go into retirement.
+We'll also bring in a net new operator
+who ultimately will be the majority
+owner of that business.
+&gt;&gt; And so they they earn into the majority.
+So they start off with some owner
+ownership and then we help them earn
+into the majority as we get paid out.
+And that and then it's their business.
+&gt;&gt; Exactly. and we're literally creating
+millionaires on Main Street. And to kind
+of give you some quick math, um, one of
+the transactions that that we can talk
+about that that's been highlighted is
+one called Greenway. And so the operator
+that we backed there is a guy named
+Anthony. He's a former combat controller
+um, in the Air Force. He, you know, had
+double majored in undergrad at the
+University of Arizona. He before
+partnering with us was running a smaller
+painting contractor in Arizona. Made
+about 300 400k topline. So he was taking
+home around 75K. Y
+&gt;&gt; we've now parachuted him as the operator
+for Greenway Painting, which is based in
+Jackson, Wyoming. Our friends at Fox
+News recently did a piece on it. And the
+really cool part there is he's drawing
+around 100k base salary today. And he
+has 10% ownership in a business that's
+worth $2 million.
+&gt;&gt; Over time, we're working with him to
+grow that business. And as he goes from
+10% to 70%, assuming the business
+doesn't grow at all, all of a sudden he
+has $1.4 million of equity in a cash
+flowing business that's been around for
+decades, will be around for decades to
+come. And we believe that by partnering
+with him and some of the resources that
+we built out of American Operator, we
+can really help him grow that and make
+that number even bigger.
+&gt;&gt; So hopefully he even owns millions of
+dollars of this business. Suddenly
+you're making a big success story when
+before he was kind of stuck doing
+something that wasn't going to be big.
+Now all of a sudden he's a big business.
+&gt;&gt; Exactly. We're able to take folks who
+are very uh high capacity, they have
+grit, they have merit and leaprog them
+in their ownership career.
+&gt;&gt; I love it. I love it. What's so so small
+businesses like what's the context in
+history in America? I think you know our
+founding fathers a lot of them were
+small business owners right we think of
+like George Washington or John Adams or
+&gt;&gt; I mean John Hancock uh ran House of
+Hancock a big big import export you
+obviously have Ben Franklin who amongst
+thousands of things that he did in his
+life one of them was uh you know run a
+very famous printing uh shop and so it's
+been instilled that there's this idea
+you can come to this country you can
+build a better life for yourself that
+you're rewarded for the value you create
+for your neighbors um and those are your
+patrons and it's really this ownership
+mentality that you see throughout about
+the American dream, right? Like we're
+very focused on it in small businesses.
+You see the same thing in home
+ownership. You see it in other other
+areas of of the American life and we
+really want to celebrate that ownership
+uh mentality.
+&gt;&gt; It does seem like really core to
+America, to our towns in America, to I
+mean frankly to just a lot of people who
+are on the side of liberty in America. I
+I feel like and obviously there's people
+who work with you who are on all
+political sides, but I'd imagine they
+tend to be more pro- capitalism, more
+pro liberty, more pro property rights.
+We we work with folks from from all over
+the political spectrum. I would say
+everyone is pro America. I've yet to
+meet a business owner who doesn't want
+this country to succeed. Um and we take
+that seriously. And I think one of the
+cool stats is Gallup runs a poll every
+year on the top institutions that
+Americans trust. Small business has been
+number one since the poll started. It is
+44% higher uh than Congress. Obviously,
+it's also 22% higher than the health
+care system. Um and it has remained
+number one. And I I think then you ask
+yourself why is that? And it's because
+no matter what the political slogan is
+behind the counter, you're treated with
+respect. They want to deliver value to
+you. They care how you're experiencing.
+&gt;&gt; They have to care about the people
+around them in their community. They
+have to. Otherwise, they're out
+&gt;&gt; 100%.
+&gt;&gt; So, so it's it's a it's a it's a good
+alignment. And it's know these lives
+people, they do love love America, love
+our system. I feel like there's two big
+trends, Will, right now in in the
+business world in general. We're talking
+about one of the big trends is this 10
+trillion dollars worth of these
+businesses that have to be sold because
+baby boomers are retiring or passing
+away. Uh you there's two million that
+they own. So that's a massive trend. The
+other big trend which we spend all my
+time talking about is AI and and AI is
+just changing what's possible in a lot
+of ways. I'm very optimistic about it. A
+lot of people have a lot of fear around
+it. Like how how do they intersect? How
+is AI impacting small business? What
+what does it mean for for them and for
+what you're doing?
+&gt;&gt; Yeah. Um I I'll preface it by by this is
+a hard business to build and and not
+every investor was interested in until
+about a year ago. And so we're lucky to
+have met uh allies like you who who took
+a bet on us early. I would say right now
+we're at a very interesting thing where
+we're the perfect AI hedge, but we also
+have a ton of upside from AI. And what I
+mean by that is that if you look at kind
+of the the anthropic spider chart, these
+service businesses are the last
+businesses to be impacted.
+&gt;&gt; If someone's going to for now, if
+someone's going to come and fix your
+toilet,
+might not fix that.
+&gt;&gt; Yeah. Not not yet. Uh Optimus Prime is
+is not running around inside your home
+fixing your toilet just yet. And so so
+we're at a very interesting time where
+uh these businesses will only go up in
+value. They're critical for the economy
+uh to function and and they do
+everything from uh you know protect our
+supply chain. There's a lot of metal
+fabricators that we work with all the
+way to making sure that you're getting
+food, the food distributors, the
+manufacturers uh and then the service
+businesses.
+&gt;&gt; So on one hand, these things are are
+kind of hedged from a lot of the current
+AI disruption. On the other hand, isn't
+it easier to run a business with AI?
+&gt;&gt; 100%. Um and that's an area that we've
+been investing a lot in the past couple
+of quarters. My mental framework for it
+is a lot of people think of AI and they
+think of cost cutting and they're like,
+"Oh, we can really optimize our P&amp;L. We
+can use AI, automate all these jobs, cut
+costs." That's not the right lens to
+look at small businesses. And it's not
+right for really one reason, which is
+that most of the folks in the back
+office of a small business are wearing
+multiple hats. If Susie does payroll,
+route planning, HR, and you automate one
+of those jobs, you're not coming to
+Susie and saying, "Congrats, you just
+got a 33% discount on your payroll."
+She's going to walk out of the door and
+tell you you're crazy. So what what
+really it is is it's a revenue growth
+story. What you have to do is work with
+your employees and small businesses,
+figure out, hey, how can we leverage AI
+to reduce the amount of monotonous work
+that you're doing and then help you
+identify, okay, what's the best way for
+you to take that time and reallocate it
+to something that generates revenue.
+&gt;&gt; I love this. I think this is a really
+key point that a lot of people miss is
+that there's a lot of things that we
+wish we could do, we wish we could work
+on, wish we could build that aren't
+getting done. If you go to a small town,
+like there's lots of things you can see.
+There's fences that are not fixed.
+There's there's like there's all sorts
+of things that are broken. There's all
+sorts of things in the business that
+aren't necessarily able to be gotten to.
+If you have more time, you can do more
+output. Right.
+&gt;&gt; Exactly. And we we we and we see it.
+Right. So, uh to give you kind of some
+concrete examples on the painting
+business we own. There wasn't very much
+of an outbound sales motion there. It
+was largely word of mouth. Uh which is
+both, you know, kind of benefit. You you
+have some amount of moat there. Also a
+con. You don't really have the levers to
+to to grow quickly. We've been able to
+essentially reconfigure Claude Co-work
+to do an outbound sales motion to
+property managers in the area, increase
+the number of uh bids out on a weekly
+basis and win rate. Um on another one,
+we're working with a a second generation
+uh food manufacturer uh really cool
+peanut business um owners also.
+&gt;&gt; Peanut business. What does that mean?
+What's a peanut business? Yeah. So
+George Washington Carver.
+&gt;&gt; Yeah. So they blister peanuts in most of
+the grocery stores that you're you're
+probably blister, right? So they get uh
+peanuts, they they put them in these
+large vats where they boil them, they
+they fill them with water, they then fry
+them. So, the the peanuts have blisters
+on them that then coat them in a lot of
+different uh ingredients so they can
+flavor barbecue peanuts, uh ranch
+peanuts, what have you.
+&gt;&gt; You're very good at saying this word.
+I'm very worried about saying it on on
+the air.
+&gt;&gt; Exactly. I mean, now we have unlimited
+nuts, right? Uh but um and so this
+business uh they obviously don't have a
+graphic design uh part of their team.
+It's been around since the 60s. The
+family has been in central PA for seven
+generations actually, which is insane.
+Um but recently, one of the employees
+there has really gotten on the AI train.
+they can now do really cool social media
+marketing so they can build kind of a
+direct to consumer uh peanut dynasty in
+addition to the B2B. And so like it's
+really cool to see these businesses that
+historically have been very you know
+offline if you will adopt AI and they
+can really hit the ground running uh
+sometimes faster than businesses that
+have been uh more more AI. But I mean,
+it feels like like instead of instead of
+going to law school, for example, like
+like or instead of like, you know, a
+master's degree in sociology or I don't
+know, like should more more young people
+just be saying, I'm going to like go
+take over and try to learn how to run a
+small business.
+&gt;&gt; Yes. I I think it's really important for
+them to have uh time in the trenches
+working with humans. I think that takes
+time and and I think a lot of the things
+that are happening at like Texas State
+uh technical college, other areas to
+essentially get you the domain expertise
+about a certain industry and then get
+you as much apprenticeship or time in
+the trenches with them.
+&gt;&gt; You have to be willing to go learn it.
+Basically,
+&gt;&gt; you do. You do. And and and I would say
+the owners are very discerning of
+someone who's full of Um if you if
+you don't know what you're talking
+about, if you don't have uh grit, if if
+you haven't gotten dirt under your
+fingernails, uh they're going to sniff
+that out very quickly. The customers are
+going to sniff that sniff that out
+quickly. employees will so on and so
+forth. And so I think there's a huge
+opportunity for young people to
+capitalize from this wave. But I am
+always hesitant of the folks who are
+kind of leaving corporate America and
+thinking, oh, you know, I know so much,
+it's not a get-rich quick scheme. It's
+it's a it's a have a vocation, have a
+career where you work hard. But if you
+do work hard, you can run these things
+and you can make a lot of money, be very
+successful,
+&gt;&gt; tons of money. You you would be
+surprised. I mean, these things uh take
+some of the businesses that we've worked
+with just in the past couple weeks,
+they're spitting off millions of dollars
+in cash flow. uh uh normally most of the
+family is drawing a W2 from the business
+even if they're not necessarily working.
+Uh and then you have you know their
+whole fleet of family vehicles on it as
+well. Uh there's no shortage of cash
+flow here if if you know how to run a
+good business.
+&gt;&gt; You have to have the persistence and the
+grit as you say. And so so it feels like
+there's literally like millions of young
+people could be doing this path. It
+should be a lot of our smart young
+people if they're instead of like the
+white collar professional this is where
+they go. Uh how do we is this a cultural
+shift we need? like how do we teach more
+people about this opportunity? Because I
+think I think a lot of people like they
+they culturally see like, oh, I'm going
+to be a tech founder. I'm going to run
+something at a bank in New York. I'm
+going to be doing these like giant deals
+at the hedge fund. They're like like
+most people culturally don't think
+about, oh, I'm going to go work hard and
+like have a business that shoots off a
+couple million dollars a year for me.
+Like like what do we need to do to shift
+this?
+&gt;&gt; My mental model is two things. One, you
+need role models in a PR campaign to
+make people aware of this. Um Mike Row
+has done a phenomenal job of doing that
+for the trades. Um I know you're friends
+with with Cody Sanchez. She's done a
+good job of of of doing it for small
+business as well. We need more allies
+like that getting the word out that
+success is not just going to a four-year
+college, getting a liberal arts degree,
+and then working in management
+consultant. There are other areas for
+you to to really build a great
+&gt;&gt; These are real areas of America. In some
+ways, this feels like the actual
+businesses. like you're actually like
+there serving the community, doing the
+hard work, making sure that the electric
+electricity gets fixed, the toilet gets
+fixed, the fence gets painted, right?
+And it's a crisis here, right? Like in
+Texas, we're short 50,000 uh trades
+workers. We want to win this AI war
+against China. We have no shot of doing
+that if we cannot build the data
+centers. The data centers require the
+plumbers, the electricians, the general
+contractors, the HVAC tech technicians,
+so on so forth. So, I'd say it's it's
+critical that we attract more people in.
+I think the second piece of the problem
+is okay, let's say that you solve the
+the PR uh campaign. How do you get on
+ramps to get folks in in the saddle as
+soon as possible? Right now, we have a
+lot of occupational licensing that
+stands in the way of hardworking
+Americans being able to work in these
+industries in a short time frame.
+&gt;&gt; We definitely have to fix licensing.
+Arizona did a great job where they take
+any other license at all. And there's
+there's other things trying to lower
+barriers. uh like like if someone is a
+young person, maybe they're in high
+school, maybe someone listening has
+someone they know in high school doesn't
+know what path they should be taking,
+like how would you direct them? Do you
+go to a vocational school first? Do you
+what do you do to kind of build skills
+and come work in this area?
+&gt;&gt; Yes, I I would say start by just
+starting to intern at small businesses
+in your community. Um there's a lot of
+doom and gloom on the internet, uh on
+some of the legacy media outlets as well
+that there's no jobs, AI's taking all
+the jobs. That may be true in corporate
+America. It's completely false on Main
+Street. Uh 32% of current owners have
+openings today. That's up two points
+from last month. Um and so there's a lot
+of optimism on Main Street. We need
+smart people there. The number one
+problem is not actually the cost of
+labor, it's the quality of labor. And so
+to the degree that we can get smart
+people uh uh interning and and doing
+apprenticeships, I would say that's
+thing one. Once you've identified the
+type of industry or job that you're
+interested in, then I would think long
+and hard over whether a four-year degree
+is the best way to get there or if you'd
+save yourself a a lot of money and go
+into some some of these really great uh
+trade schools that we have in our
+country.
+&gt;&gt; And I really like what you said there
+because I think it's a point that's true
+that everyone ignores. It's not about
+it's not about that that there's not
+jobs that there's not actually enough
+quality people willing to willing to
+work with the right culture or the right
+diligence at these jobs. 32% of these
+businesses you're seeing 32% of millions
+of businesses have a job opening but
+they can't find someone who's willing to
+come and just work hard and show up on
+time and is you know I think we need
+cultures that are functional or people
+are willing to work you know.
+&gt;&gt; Yes. Yes. And we need incentives that
+that to drive that from the educational
+uh system.
+&gt;&gt; Well, if you tell someone they're a
+victim and that they're not going to be
+successful and they should just like go
+find a way to get free house and and
+whatever victim wages and that then that
+sucks. But if you tell someone you have
+to figure it out and be diligent and if
+you're diligent, you're going to succeed
+in this country, then they're going to
+go work.
+&gt;&gt; There is a difference between trauma and
+life. And I think a lot of people say
+they've gone through a lot of trauma and
+they've just gone through life.
+&gt;&gt; Yeah. Stop being a wimp basically.
+&gt;&gt; Exactly.
+&gt;&gt; I like I like that theme. We got there
+is some certain like like it's courage,
+but it's like grit and it's just it's
+like being not that it's a gender
+specific, but it's being a man, right?
+&gt;&gt; Sure. Yeah.
+&gt;&gt; Exactly. Like stand up and just do it.
+Just figure it out.
+&gt;&gt; Just get done. Uh it's how the
+country is built. It's how all these
+owners build their businesses as well.
+&gt;&gt; I love it. Yeah. I was I was we we have
+the founders of cognition who who are
+also just on recently and these are guys
+are like building some of like the
+coolest AI tools and making it really
+easy to build things. Do you see small
+business owners like actually building
+things in AI themselves with with you
+know with cloud or cognition or anything
+else like are they actually creating
+tools for themselves?
+&gt;&gt; I would say at the owner level not so
+often. Um one pattern that we have seen
+to kind of get back to young folks
+entering is that we're very pro reviving
+the American dream. That's our mission.
+We're pro small business ownership. You
+don't have to buy a business for us to
+be happy and for us to to root for you.
+Uh if you decide that buying is not the
+right path and you want to start one,
+we'll we'll be there rooting you along.
+And we've seen a lot of folks leave
+Silicon Valley and start new small
+businesses. So start from scratch using
+AI and absolutely clean up shop in their
+towns. I know one guy who uh was was
+previously working at Bird. He then uh
+left. He has started a pool cleaning
+business. He uh cleans pools throughout
+Los Angeles. He has some of the coolest
+AI automations. Um, one of them, just to
+kind of tease, is he has this AI that
+joins all the local neighborhood
+Facebook groups and, uh, posts a post
+from him that says, "Hi, me and my wife
+just moved into your neighborhood. I'm a
+local small business owner. If you have
+a pool, I would love to clean it. Uh,
+thank you for allowing me to to make
+ends meet and and build a happy family
+here." So, so there's that type of like
+hacking.
+&gt;&gt; I love it. I love it. You just got to
+see what message works and do your best.
+And it is interesting because a lot of
+the AI outreach right now that works
+might get to be too spammy and too much
+pretty soon.
+&gt;&gt; There's an ARB right now that you
+capture.
+&gt;&gt; Yeah. Right now if you're willing to be
+to be a yourself, right? You just
+Exactly. There's an ARB. So So let's
+let's step back. American operator. Take
+us through the challenges when a
+business owner's preparing to sell their
+business. Like a lot of people end up
+shutting things down. They probably
+could have made some real money out
+because they didn't couldn't figure out
+what to do. So like like why is it hard
+to sell? Yeah, I would say it starts by
+the reality that it's typically the
+first and last time that you're selling
+a business and there it is very opaque
+uh how the process works.
+&gt;&gt; It's scary is a lot of your life is in
+this thing and you're trying to sell it
+and you probably care a lot about the
+community how it serves them too.
+&gt;&gt; You care a ton about the community. You
+know, one one of the kind of smartass
+quips that we hear often from retiring
+owners is part of the reason I've been
+married for 40 years is I work 40 hours
+a week. They're very they're very afraid
+of what comes next as well. This has
+been their identity. they've been Joe
+the plumber or Joe the auto shop guy
+when they you know pass the torch or
+shut down the business. Who am I? And so
+one of the things that we've been able
+to do there uh is advisor program that
+that is really credit to you to coming
+up with where we take a lot of current
+and retired owners who have really
+succeeded in their industries and we
+redeploy them at American operator
+helping us pick the best businesses to
+work with pick the best operators to
+back and then ultimately guide those
+businesses on. Um so I'll say kind of
+getting
+&gt;&gt; so stopping there for a second. You
+actually take these people who've done
+this their whole lives, they're ready to
+sell it, but then you kind of give them
+something else to do to advise and
+mentor others because maybe they still
+want to work some, they just don't want
+to run this business anymore, but now
+all of a sudden they're working with
+you. They're actually they get can get
+upside and things are help.
+&gt;&gt; Exactly. Yeah. So, so they co-invest
+into the different uh small businesses
+that we partner with. We also cut them
+in a little bit of a sweetener on the
+equity side so they have skin in the
+game. We believe that's really
+important. You should get the upside and
+the downside of your advice. If you're
+giving bad advice, you shouldn't
+benefit. Uh and and so we think that's
+important for creating an ownership
+mentality with them. Um and they have
+worked wonders. Uh collectively they've
+generated over $1.8 billion in revenue
+for the small businesses that they've
+owned. They've employed over a thousand
+employees at the businesses that they've
+owned. They help our team see around
+corners. I always tell our team, never
+kid yourself that you're an expert in
+these different industries. That is not
+our job. Our job is to effectuate this
+massive wealth transfer to make sure
+that small businesses are around for the
+for the generations to come. But you
+want the person who's been doing it for
+30 years to to be actually showing
+people what to do.
+&gt;&gt; 100%. Yep. And and they understand, hey,
+what are these soft qualities in an
+operator that would allow them to win to
+kind of go back and and pick on Anthony
+when we were selecting the best operator
+for Greenway? Uh we had Matt Carlson,
+the adviser there, on to help us figure
+out, okay, we have these three uh in the
+short list. Who's the one we should
+back? And he gave us a a thought
+experiment that is actually quite
+helpful, which is let's say that you
+were uh you were in New York. your wife
+was home alone at your house and the
+painting contractor had to come over.
+Who would you feel comfortable with this
+painting contractor being home alone uh
+in your house in your states away? He's
+like, that's the type of interviewing
+that you need to do. Do they seem high
+character? What are instances of them
+having to make really tough decisions uh
+around ethics and values?
+&gt;&gt; How attractive are they?
+&gt;&gt; Exactly. How attractive they are as
+well? I don't know if that's a good or
+bad.
+&gt;&gt; Wait a second here. Uh and and so they
+they really help us both select the the
+business and the operator and then
+they've worked wonders postc close uh
+everything from giving really great
+advice to opening their networks to help
+drive more sales, connect with
+discounted vendors, so on and so forth
+&gt;&gt; and and uh and take us through a little
+more of some of these details. So for
+example, why is it challenging for an
+autoshop manager to take over a
+business? Like it just it seems to me
+like oh it just be straightforward like
+are there certain like nuances to these
+things? There are the kind of the the
+way that I look at it is if an
+individual wants to take over a
+business, they better be a unicorn. Um,
+and they and they better be a unicorn
+for for three reasons. They need to sit
+in this vin diagram of one, they know
+how to buy a business. Very few of the
+people, the men and women who have
+worked on Main Street are leverage
+finance experts.
+&gt;&gt; Yeah. They're not they're not working on
+wall street doing multiple. This is
+their first time probably in their life
+ever.
+&gt;&gt; Exactly. And and it's non-trivial. You
+need to get it right. You need to have
+the diligence. You need to understand
+the deal structure. And so that's thing
+number one.
+&gt;&gt; And you you help a lot of people.
+&gt;&gt; Exactly. Uh the second thing is they
+need to be able to have access to
+capital. So the work that Kelly and the
+SBA are doing is phenomenal, but you
+just can't go to the SBA with no money
+down. You need to have capital.
+&gt;&gt; Yeah. You can't just get the whole
+money. It's kind like buying a house.
+You they can give you a great loan, but
+you still have to have
+&gt;&gt; you have to down payment, right? And we
+have an affordability crisis in the US.
+If you've been working as a general
+manager at an auto shop, say, and you've
+been making 120K, you have two kids. You
+have a family of four total. It's
+expensive. You don't have much for
+savings. And then the third piece is you
+have to have really great industry
+expertise. You have to understand uh the
+job that you're taking on as an owner.
+And so what we do as American Operator
+is we come and we say, "Hey, allow us to
+handle the transaction piece. We're
+going to underwrite the deal. We're
+going to come up with all the financing.
+We're going to find a really great
+adviser to help vet the business and vet
+you and serve as an ongoing uh mentor.
+And that allows us to really focus on
+the people who are great operators. And
+that's why it's called American
+Operator. This is not American leverage
+finance, bro. We really care about folks
+who understand how to run these
+businesses and how to lead them. Um, and
+allows us to back the people who are the
+best to lead and not the best to buy.
+&gt;&gt; Do you want them to at least put in
+something usually to have some skin in
+the game? Like it sounds like feel like
+that's good if they get even if they
+haven't saved much, they should probably
+save something.
+&gt;&gt; Exactly. Yeah. So, there's always a a
+co-invest uh requirement. We make it uh
+material to them. It may not be material
+to to the larger deal. It's on on the
+smallest end. Normally, it's around
+$15,000. It scales up based on the size
+of the business and kind of the
+background of the operator. And then the
+second thing is we make them personally
+guarantee the debt. Um we don't do that
+for the collateral coverage. Often times
+these people don't have a lot of assets,
+but we want to have a filter for someone
+who is going to take this as seriously
+as we are.
+&gt;&gt; This is their thing. They they are
+focused on it. They're going to fight
+for
+&gt;&gt; 100%. And and as part of that uh
+personal guarantee, you need to have a
+conversation with your spouse. It has to
+be a family all-in uh decision. This is
+not something to take lightly.
+&gt;&gt; Of course. This is allin for your guys'
+lives. This is going to be the way
+you're going to build millions of wealth
+and build build a legacy.
+&gt;&gt; Exactly. explain how operate to own
+works. I I understand how these
+financial structures work. I do hundreds
+hundreds of deals. Like for for people
+who haven't heard this before. So
+they're coming in, they might have only
+put $15,000 down, but after doing well
+for several years, they might own a
+majority of the business. How how does
+that work?
+&gt;&gt; Exactly. Yeah. So, uh at close, the
+operators that we back, they will be
+able to draw a base salary. They'll have
+health care benefits, and they'll have a
+10% ownership stake in the business.
+Yeah.
+&gt;&gt; Um to to kind of use uh simple numbers,
+let's say it's a $2 million business.
+that 10% ownership stake uh is worth
+200K assuming no no debt on the
+business.
+&gt;&gt; Over time, we increase the amount of
+ownership they get based on the
+profitability of the business. And so
+each year we're giving them anywhere
+between 20 to 50% of the profits. We're
+giving them that amount in additional
+equity.
+&gt;&gt; And they get that and the way that this
+works is that's effectively tax-free,
+right? Exactly. Because because you're
+building equity and you're not taking
+the cash out, which is which is a really
+important part of how our tax system
+works is that if you're not taking money
+out, you can actually build equity over
+time without without paying taxes.
+&gt;&gt; Exactly. So, it's taxable if they choose
+to take a distribution from the
+business, but we're allowing them to
+really acrue uh equity in the in the
+underlying business.
+&gt;&gt; It's kind of core to the American system
+that you can't acrue things in illquid
+way. That's how we all build wealth.
+&gt;&gt; Exactly. Um and so as they build up that
+ownership, it typically takes around 5
+to seven years to become majority owner.
+Um, using that formula, it accelerates
+once we've repaid the debt on the
+business. So, maybe you're just getting
+another two to five points of equity for
+the first handful of years. Once we've
+used the profits from the business to
+repay the debt, then you're getting five
+to 10 points of equity a year until you
+hit 70%.
+&gt;&gt; Let's stop and say that. So, basically,
+in order to buy the business, you had to
+take some debt. So, the debt has to be
+repaid first. You're building your your
+ownership more slowly while that's being
+repaid. Once the debt's being repaid,
+all of there's like tons of extra money
+available now to like help you build a
+lot more ownership. And that's really
+great because now by the time they take
+over this business as a majority owner,
+uh the debt's gone as well.
+&gt;&gt; Exactly. And the training wheels have
+kind of come off. Uh the debt has been
+repaid. They now own a majority of the
+business. And hopefully if we've done
+our jobs right and they've done their
+jobs right, it's no longer a $2 million
+business. It's a three and a half or$4
+million business
+&gt;&gt; or or even bigger if they're crushing
+it. And and how do you make money from
+that? So So you're like what part of the
+stack are you and how's American
+Operator making money?
+&gt;&gt; Sure. Yeah. So at Close, we own 90% of
+the business. um any year that we make
+distributions from the business and
+that's a joint decision between us the
+operator and the adviser uh we get our
+prata share of the business and so
+oftentimes we're buying these at you
+know anywhere from four to five times
+multiples um and so there's a lot of
+cash flow that's getting spit off from
+those businesses at the beginning a good
+amount of it needs to go to to repay the
+debt uh but then you really have this
+kind of cash flowing machine um and then
+it's up to us as as a team us being the
+operative adviser in American operative
+okay we generated you a million dollars
+in profit. What amount of that do we
+want to reinvest in growth? What amount
+of that do we want to make distributions
+to to the shareholders?
+&gt;&gt; I love it. And so as they're buying more
+equity out of that profit, you're
+getting some of your earnings. And so so
+you can end up getting a great IRRa for
+yourself, too.
+&gt;&gt; Yes. Yes. And as they go up to 70%, we
+then hold on to 30%. And we're really
+looking to be long-term partners and and
+and owners and on Main Street business.
+&gt;&gt; So American Operator, as you scale this
+up, is going to hopefully own 30% of a
+lot of these great businesses. hopefully
+thousands of them or tensions tens of
+thousands around the economy. That's a
+great asset. What do you do? Do you take
+that public? We can't talk about that. I
+don't know.
+&gt;&gt; That that's the goal. We we want to have
+a world where everyday Americans can
+have a stake in in Main Street. Uh today
+they can't. These are the businesses
+that they patron, that they go to, uh
+that they work for. Uh they they should
+have the ability to have a stake in the
+American dream there. We think that's
+important. It's also very helpful for
+us. Um these uh individuals, they're the
+ones who know the small business owners.
+They know the best operators. They can
+be really great referral partners and
+allies for us. And so our goal is uh as
+soon as we can um create a mechanism to
+to get into the public market.
+&gt;&gt; I love it. So this I mean this this is
+this is great investing and right now
+these businesses are trading. They're
+much cheaper effectively to buy. They're
+trading at small multiples of cash. Like
+a typical public company uh could even
+trade at 30 or 40 or 50 times earnings.
+&gt;&gt; Yes. Uh
+&gt;&gt; or or your beloved Palunteer even higher
+than that.
+&gt;&gt; You know, it's a great company. You get
+you get a premium for being really cool.
+So, I don't know. I don't know what to
+tell you, but um it's mostly carb, not
+me. Of course, I'm not running anymore
+and all and Sham and everyone else
+there. No, but uh No, it's funny because
+these things trade
+&gt;&gt; uh crazy multiples for for the public
+markets and you're and you're buying
+stuff off three, four, five, six times.
+So, so, so, so it seems like it's going
+to be a really interesting thing to
+invest in for people to have exposure to
+a bunch of these.
+&gt;&gt; Exactly. And it'll become more and more
+valuable um as you have this kind of
+flight from from software in certain
+areas. You have this really interesting
+AI hedge. this is the last frontier. Uh
+but at the same time, you have this
+opportunity like okay, can we go and
+accelerate growth here definitely going
+to help these things for sure make it
+much easier to run the business. It's
+it's it's really it's really interesting
+too because as a private equity play
+it'd be tougher because you wouldn't
+have like the local owner anymore, local
+community person. Now you have a local
+owner who knows their owner community
+who's all in on this for their family.
+But then you have that times 10,000 that
+that's pretty compelling.
+&gt;&gt; Exactly. Yes. And to the degree that we
+can make sure as many of these live on
+in the hands of folks who live in those
+communities who get to bed thinking
+about the business, wake up thinking
+about the business, it'll be better for
+their customers, better for the
+employees, and better for those towns.
+&gt;&gt; I love this. Will we start this podcast
+American optimist to push back on
+cynicism and pessimism we see in our
+country? What's the best case for an
+optimistic future for Main Street
+America?
+&gt;&gt; I would say just go out on Main Street.
+I mean, it's optimist uh from from day
+one. If if you look out there, uh the
+past 25 years, two out of every three
+jobs have been created from small
+businesses. I believe that in the next
+decade they'll rise to four out of five,
+five out of six jobs. Uh it's a huge job
+creation engine. You have a bunch of uh
+men and women who aren't in the
+limelight. They're they're not going on
+Forbes 30 under 30 and then getting
+thrown in prison. Uh but they are
+creating wealth uh for themselves.
+They're creating their version of the
+American dream. Uh they're great role
+models for for the young folks in this
+country. Um and I would say that if you
+kind of take the the long view here, the
+biggest thing that we need to do is just
+get the word out so we get more folks
+entering Main Street, entering small
+businesses. Uh, and the rest will take
+care of itself.
+&gt;&gt; I love it. If there are folks listening
+who are interested in selling or buying
+a business, what should they do?
+&gt;&gt; Uh, go to americananoperator.com. Our
+team would love to to meet you, hear
+your story, and see how we can work
+together.
+&gt;&gt; americanoperator.com. Thank you, Will.
+Thanks for joining us.
+&gt;&gt; Thanks for having me, Joe.

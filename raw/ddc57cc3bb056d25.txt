@@ -1,0 +1,768 @@
+原文： https://www.youtube.com/watch?v=G0LTv8hQ5Cs
+
+Humans are the bread in the sandwich and
+the AI is in the middle. The AI is
+whatever you put on your sandwich. If
+you ship something or do something, if
+you want it to be your own, you cannot
+fully automate everything. It's like
+art. If you want it your own, it needs
+to be from you or somehow be connected.
+So, I believe it's important to do
+things you enjoy and you love. And it's
+very important to make it feel great
+because the bar is high. The bar will
+always get higher.
+&gt;&gt; and the end, the middles can be
+automated pretty well and uh Trevin at
+some point said, "Oh, it's kind of like
+a sandwich." Which was like very funny.
+Kieran, welcome to the show.
+Hello, Dan. Happy to be here.
+So, for people who don't know, you are
+the GM of Cora.
+Um and you are also the creator of
+Compon Engineering, the engineering
+framework and plugin that everyone
+inside of ever uses and everyone who's
+really coding in with agents is at least
+aware of if not using. Um and so, a
+pleasure to have you on the show.
+Thank you. Yeah, it's always great.
+So, I love getting to chat with you and
+getting to work with you because
+every once in a while you have a thing
+that you do or you figure out that I'm
+like, "That's definitely the future."
+And you just figured something out along
+with Trevin who also helps out Trevin
+Chow who also helps out on Compon
+Engineering.
+And I think it has massive implications
+for how programming works and then I
+think we can also translate that to the
+rest of AI and its impact on work. And
+one of the things you've been doing, so
+you have this Compon Engineering plugin
+that
+you've rebuilt the engineering workflow
+for how you should work with agents.
+And in thinking about that and thinking
+about where a human is used and where a
+human is like should not be present
+inside of that process, I think you've
+you've found something like really
+interesting and deep about in general
+how how humans and and AI are going to
+interact with work. So, do you want to
+explain a little bit about Compon
+Engineering and that and and the process
+that you've created and then also
+explain this this insight about where
+humans fit.
+Yeah, absolutely. So,
+Compon Engineering is uh
+like a philosophy of like doing
+engineering work, but we realize it
+applies to more than just engineering
+work. It's product work as well. It's
+design work. It could be knowledge work.
+It could be other things. But, how I
+build it is while building Cora
+I had AI and I was like, "How can I use
+AI to do better work more quickly?" And
+the initial version
+of Compon Engineering really evolved
+around four steps, which is planning
+first. You make a great plan, so it's
+very clear what you need to build and
+do.
+Then do work part where the agent does
+the work and implements it and actually
+writes the code, does the design work or
+whatever work needs to be done.
+The third is review. So, slop comes out
+or whatever you call it, some something
+beautiful comes out. One of the two,
+like something comes out, but how do you
+know it's good? And traditionally
+there's like a code review or like
+a PR that you review and see like, "Hey,
+this can be improved." And there's some
+iteration going on there. And then the
+most important step is the compound
+step, which is if anything comes up
+during that review or during the
+planning that you think like, "Oh, this
+is this is a good learning. Probably
+we'll run into this again." You can
+compound that knowledge back into the
+system and we store that as knowledge
+inside the repository. And agents next
+time when they go into planning or when
+they go into work or review, they can
+see the mistakes they made before, so
+they won't make it the next time. And
+that's really the power like that's by
+far the most powerful thing that
+uh is in this plugin.
+But, we start to realize more. Like
+first of all, the work phase
+is kind of done. Like it it works. If
+you have a good plan, it does the work
+and is is pretty good. And then the
+review it makes it a little bit better.
+&gt;&gt; And by that you mean like
+uh having an entire phase dedicated to
+work in this whole system doesn't
+necessarily make make that much sense
+when all that really means is run the
+model. Let the model do the thing. Yeah,
+so there needs to be a step, but what I
+mean by done is I don't need to to care.
+Well, like I don't need to think about
+it. I trust it. And this is not like uh
+trust me, bro. Just works, but this is
+like
+I've seen if you put in a good plan
+like
+it does the plan. Like it executes on
+the plan. LLMs are very good at just
+following steps, doing deep work, like
+working for hours, days even now. And
+that's that thing is kind of solved. And
+the review
+starts to get there too. And the
+planning starts to get there too. And
+then there's this
+next step is like, "Okay, so so if all
+these things work, where where do I
+have to do anything?" Because like did I
+just automate my job? Yeah. Yeah, did I
+automate myself out of a job?
+If everything works, like where do I
+work? What is still the bottleneck? And
+there are two things we started to know.
+Like Trevin
+he's
+a very very great contributor to the
+Compon Engineering plugin. Like he is a
+product person and he is like, "I need
+more on the product side." Which is like
+before the planning phase. So, he added
+first a brainstorm step and an ideate
+step. And the ideate step is like really
+going wide. Like it's like, "Okay, let's
+come up with ideas in a in a room full
+of interesting people with angles."
+Brainstorm is more like
+I have a problem that I don't really
+understand exactly what and how, so it's
+very much brainstorming with you around
+the problem. And the first thing we
+noticed there is like the top is very
+important to be super well in the loop
+with a human.
+And really like ask a lot of questions
+and really think hard. Like the human
+should think hard, the LLM should
+support the human.
+But then after that, the planning phase,
+if you have a good brainstorm and idea
+what problems you solve
+like it can create a very good plan and
+the human needs not to be in the loop.
+So, that's the first realization where
+it's like, "Oh, hey, here here's good to
+be in the loop versus not to be in the
+loop." And you can see
+other like spec-driven development for
+example or other ways to do things, they
+assume that it's always good to have
+people in the loop and I disagree. I
+think it's it's very important to know
+when to be in the loop versus when to
+hand it off because that means we can
+think harder [snorts] at the moments
+where we need to think harder. And
+that's the first one.
+So, the other one comes at the end. So,
+like something comes out, how do you
+validate it's good? Well, it's already
+tested because we have browser automated
+testing. It it clicks through. All the
+requirements are very clearly specified
+and it says, "Yeah, everything works."
+But, the beauty comes in when a human
+looks at it
+clicks around and has a feel. Like, "Oh,
+this is this this doesn't feel good. We
+can polish it even more. We can make it
+even better. We can
+increase like or like we can do
+something that's still missing or make
+it more beautiful, make the design
+better." And this is something I've
+learned from doing Pomodoros where
+ideally if you do Pomodoros, the old
+school way is like you start with a task
+and if you finish after 15 minutes, you
+have 10 more minutes to work on the same
+task. You cannot switch tasks. And
+sometimes in that space, something
+beautiful happens because you will go
+deeper. You will go further than you
+would do.
+Um and and I think this is the other
+moment, which is all the way at the end
+when everything is done where you can
+just elevate everything and make it even
+better.
+And I think that's also what we need to
+do because if we don't do it, it will be
+all slop, all the same. And it's very
+important to make it feel great because
+the bar is high. The bar will always get
+higher. So, uh this is kind of what we
+realized like the beginning and the end,
+the middle is kind of solved and can be
+automated pretty well. And uh Trevin at
+some point said, "Oh, it's kind of like
+a sandwich." Which was [laughter] like
+very funny. And and Dan is now referring
+to the AI sandwich, which which I think
+is is is very cool. Like and and I think
+the sandwich here is like when do you
+need to think about
+what you do and really use your brain
+versus offload it to the LLM. We've all
+been there. You're sitting in an
+important meeting and you're trying to
+pay attention, you're trying to stay
+present, but you have this lingering
+underlying anxiety that you're going to
+forget everything. That you're going to
+miss [music] the important detail.
+&gt;&gt; Yeah, forget the decision, forget the
+action item, let something important
+slip through the cracks. That's why I
+love [music] Granola. It's an AI-powered
+notepad that works in the background
+while you're in your meetings. It takes
+notes on everything that gets said,
+transcribes action items, and helps get
+rid of that feeling. You don't have to
+worry about whether you're going to miss
+something because Granola has you
+covered. Granola lets you stay present
+in meetings. I've been using Granola for
+a long time, almost since they came out
+and it's amazing for this. It doesn't
+join the meeting like some of those
+other clunky meeting note takers. The UI
+is really fast and well-considered,
+[music]
+and it feels like it's sort of just
+transcribing all the important moments
+in my work life,
+&gt;&gt; [music]
+&gt;&gt; and that gives me the confidence to get
+great work done. And what's even cooler
+is you can chat with your notes
+afterwards. You can run detailed
+research reports on how your week
+[music] was, how you act as a leader,
+how you performed in particular
+difficult conversations, and how you can
+do better. It's really a power tool for
+anyone who cares about their meetings
+and also cares about how they show up in
+those meetings. It also has this [music]
+thing called a recipes, which are
+pre-made prompts for common tasks like
+negotiating, coaching, or summarizing. I
+even have a recipe that I made that's
+even a lot that you should check out.
+Once you try it on one meeting, it's
+really really hard [music] to go back.
+The notes are always better than what
+you could do manually, and it helps me
+be much more [music] present instead of
+frantically typing all the time. Head to
+granola.ai/every
+for 3 months free [music] with the code
+every, e v e r y. That's
+granola.ai/every
+for 3 months free. And now, back to the
+episode. Humans are the are the the
+sandwich, the bread in the sandwich, and
+the AI is in the middle. Yeah, the AI is
+whatever you put on your sandwich.
+&gt;&gt; Yeah, exactly.
+And I I think that's really interesting
+and really cool because a, it it it
+gives me a good mental model for how I
+should be working with coding agents,
+but I think that also applies to the
+rest of knowledge work. And I think this
+is such an important question now
+because
+we have all these questions about, "Oh
+my god, like what are a agents going to
+do?" And is it are everyone going to is
+everyone going to lose their job and all
+that kind of stuff? And I think um
+software engineers are a little bit of
+the canary in the coal mine.
+And so far what we found internally at
+Every is we're absolutely not
+like
+we we still hire software engineers. We
+need software engineers.
+But uh but the the the way that you're
+working and what you're doing looks a
+lot more like managing, if you're doing
+it well. But you're still involved, but
+you're involved at the beginning and the
+end of sort of the sandwich.
+And uh and I think the same is going to
+be true of every other kind of work,
+whether that's um
+you know, copywriting or strategy or
+design. And and I think there are deep
+reasons why that is the case that I
+think it will be interesting to talk
+about. Um and I want to start with
+an objection that I think people will
+have, which is like, "Okay, like for
+now,
+agents can't do the idea in the
+brainstorm,
+but pretty soon they will. So, then what
+then what happens?" Um there are the now
+they're starting to do the beginning of
+the of that process.
+And I think that there's something
+interesting here where
+um if you look within any given local
+frame of a problem. So, to take a
+non-coding example,
+the problem might be my knee hurts, and
+I want to solve that problem. But you
+can say my knee hurts is the same as uh
+this uh feature is broken or um
+customers are
+anxious about this part of the product
+or whatever, any problem. If you take
+that frame and you say, "Okay, well, the
+solution is maybe for your if you're if
+we're taking the knee hurting thing, the
+solution is take Advil."
+Um any part of that process, you know,
+getting to the store or whatever can be
+automated. Let's say DoorDash can go do
+it.
+But there's always even even once you've
+once you've solved it in that way,
+there's always a larger frame within
+which to think about the problem. So, an
+example is if your knee hurts, you might
+need to stretch your IT band.
+Um or you might need to stop running on
+hard surfaces every day.
+Um and each one of these is sort of
+addressing the same problem at a
+different level of the stack, at a
+different from a different frame.
+And
+um humans are very good at flipping and
+changing frames like that. And our job
+is to set the frame or set the bounds
+within which we solve the problem. And
+um I I think it's very it's going to be
+very very hard for agents to do that
+well by themselves, and there are there
+are deep reasons for that. But does that
+Do you get that? Like I know it's like a
+little bit hand-wavy, and the knee
+hurting thing is a little hard to hard
+to understand, but does that does that
+resonate for you?
+Yeah, for sure. Yeah, it's like this
+this all comes down to
+uh building an environment where the
+agent will thrive, and you do that by
+like picking the right things. And and
+and this is why it's so important to
+have humans with
+uh experience and humans with
+taste and humans that just
+want to click around and like say this
+is or this is great, and why it is
+or great.
+And and I think I think it's similar to
+like the Advil example. Like
+if if you keep doing that, it's probably
+your friend will say, "Yo, that's messed
+up. Just go like go fix the problem
+instead of like denying the problem."
+And and maybe it will work for you for a
+little while, but you need someone to
+shake you up, and in that case, like
+that's the human or that's the the other
+person.
+Um but I do think like it will also like
+be more automated. Like also the
+ideation, you can say, "Okay, let's have
+a persona of 100 people and run
+simulations of how they think and how
+they behave." And clearly we're going
+there, too, where we run simulations of
+like millions of people and see how
+things work, and probably you'll learn
+something from that. And and there will
+be more automation, and maybe even that
+step in the front will be fully
+automated, but I do think in the end
+if you ship something or
+do something or make like a statement in
+the world,
+if you want it to be your own,
+which
+you need to say yes or no at some point.
+You cannot fully automate everything.
+Like it it's maybe a little bit like
+art,
+like making art. Like if you want it
+your own, you need to just it needs to
+be from be from you or somehow be
+connected. Uh so, I believe like having
+those moments where you decide
+this is what I just enjoy, and that's
+why it's so important to do things you
+enjoy and you love um
+are very important. Yeah. I agree, and
+and I think um
+yeah, you can imagine it being like
+okay, yeah, we're going to simulate a a
+bazillion people, and then we're going
+to make decisions based on what we think
+they would do, but that would still only
+cover a small set of the decisions that
+someone might make.
+It will never be fully. It's all it's a
+moving target. Like we always get
+something new, and then again, there's a
+layer up
+that we then can even make bigger impact
+on. Especially because especially for a
+lot of these decisions, the feedback
+loops on these decisions, like the data
+is really rare. You may need you may
+only get a couple moments in your career
+where you gather the data that helps you
+decide about a particular thing, and
+that's very hard to get into language
+models, especially because it's hard to
+get, and they need a lot of it.
+And so, uh that that like sort of rare
+expertise that is encapsulated in an
+expert who has a personality and a world
+view is
+hard to hard to get, and and you're
+right, it's also always moving.
+And um I don't know, that that makes me
+like very excited about this stuff cuz I
+feel like we've been we've been
+wandering in the woods for a long time
+on like, "Okay, what is AI progress
+going to mean?" and how are humans going
+to be involved and all that kind of
+stuff? And it just feels very much to me
+like
+the simple answer is ride the bottle.
+Um or to mix the metaphor, be the be the
+bread in the sandwich. And if you do
+that, you're going to be fine. It's
+going to be like really really really
+really great.
+Yeah, I agree. And and it will be
+different for different people because
+and yeah, you need to change some
+things. Like you cannot keep doing what
+you're doing because if you're if you
+like writing code only,
+um you need to find your way of writing
+code. Like yes, you can write code, but
+maybe it's about
+beautiful code.
+And maybe you find uh
+also lots of uh value in just seeing
+beautiful code. Like someone looks at a
+UI and says, "Oh, this is beautiful.
+This works great." Maybe you want that
+for code. Some people don't care about
+that, but they're like, "Oh, but the UI
+should feel great." And and just really
+polish it, go
+extra. Like wherever you feel joy,
+but also it's way more product focused.
+So, as an engineer, you're going to
+become either more of a manager, but
+also more of a product person. So, it's
+it's I think like a a product
+manager, product engineer, like it's
+it's more of those things as well. And
+so, there will be some changes, but lean
+into
+making beautiful stuff, and whatever
+that means to you. That can mean
+beautiful code, beautiful abstractions,
+beautiful architecture, beautiful
+design, beautiful
+copy. Uh
+I I think it's very important to lean
+into what is beautiful to you because
+then you will find a way to utilize an
+LLM to make something that gives you
+energy instead of drains you all the
+way.
+It may not look like it, but Naveen is a
+dictator.
+&gt;&gt; [music]
+&gt;&gt; You can speak faster than you can type,
+so dictators choose to do so whenever
+possible.
+While those confined to keyboards deal
+with finger cramps and input lag, ow,
+voice allows dictators to convey ideas
+as naturally as they sound in their
+heads.
+&gt;&gt; Hey, yeah, that's exactly what I meant.
+And in [music] the future, as AI tools
+improve, we will see a rise of dictators
+around the world.
+&gt;&gt; [music]
+&gt;&gt; More and more dictators are choosing
+Monologue from Evry. It learns,
+transcribes, [music] and translates
+across different disciplines and
+languages, adjusting its output format
+to match [music] your context, allowing
+you to stay in flow.
+Be a dictator, an idea by Evry.
+Evry, the only subscription you need to
+stay at the edge of AI. Yeah, and I
+think there's a deep reason why language
+models are not going to be as good at
+that. There's There's the There's one
+deep reason, which is it's just not
+going to be yours.
+If you didn't decide it, if you didn't
+do it. Um but another deep reason is you
+can think of language models as being
+a superintelligence that has been kept
+in a box for the last year and has no
+idea of what's going on in the world um
+except for whatever it gets right when
+it pops out of the box.
+And because of that, it ends up being
+its outputs end up being a little bit
+more generic
+and less personal to you and your
+situation. And you can see this in all
+of the stuff that's like okay, yeah, all
+the AI writing that's like it's X not Y
+or you know, all that kind of stuff.
+It's just going to do all of that.
+And
+to truly solve a problem well or to
+truly make art or to truly make a
+product that resonates with people,
+um it's going to have to be really well
+tuned to the like exact problem that
+you're trying to solve or the exact form
+that you're trying to make.
+And
+language models need a lot of help to
+get there. And that's why you have to be
+on either end of them to set the frame
+of the problem and then make sure the
+details are really right at the at the
+at the level of execution at the end.
+And
+I don't think I think that they will get
+better at doing this, but I actually
+think they're much further than we think
+they are from being able to do it all
+end to end. My My My My general bar for
+AGI is
+whenever it is economically profitable
+um or makes economic sense to run an
+agent 24/7
+where it never turns off. And Open Claw
+is like
+pushing in this direction, but it's it's
+doesn't run 24/7. It runs on a schedule.
+It has a heartbeat.
+But it's not like you just say, "Hey,
+like Open Claw, just go and just do a
+bunch of stuff and just work all the
+time, and spend tokens all the time on
+on stuff, and it is is worthwhile." It
+just It's We're not even close to that.
+And yes, we sometimes have
+well-specified tasks that we can send a
+model off to go for like 24 hours on,
+but again, it's not changing frames.
+It's not finishing the task and be like,
+"Cool, now I'm going to pick the next
+one, and that's going to take 5 minutes,
+and then the next one I'm going to spend
+4 days on it." It's like It's We're not
+even close to that. And I think we're
+going to need some fundamental changes
+to the language model architecture to
+like let them learn better
+for them to get to a point where they're
+they're
+um they're running 24/7, and I think
+that will if they are running 24/7 like
+that, they'll be a lot closer to
+I'm sensitive enough to context to like
+actually do interesting creative things,
+but it's We're not there yet. Yeah, I I
+agree. One other way to look at it, so I
+I have a music background. I studied
+classical composition, and
+I think one of the
+the the beautiful things about music is
+like yes, Suno can create songs, but
+it will never capture
+like a live performance or coming up
+with a melody. And it's something
+internally in the human like as a
+composer or a musician, if you perform
+something and you deliver this to other
+people that they they feel that. Like it
+will not be like like sure, if you're a
+DJ,
+it's it's maybe somewhere in the middle,
+but like there is something like
+performing like
+you see something, you express
+something. And I think there is some of
+that element in these steps as well,
+where you
+see something and you're like, "Oh, it
+feels a little bit off here because I
+don't know why, but I I wanted to change
+it a little bit with with a step at the
+end." And suddenly you're like a kind of
+performing or iterating or you're making
+stuff. You're putting something in the
+world, and
+and I feel that's special. Like
+practicing a piece for like playing it a
+hundred times is not very creative as a
+musician. And this is kind of the middle
+part.
+Uh but at the end, the performance is
+where where you bring it out into the
+world to the people. So I think that's a
+special moment, and there is a little
+bit of a link for me with doing this
+bullish step at the end. And at the
+start is maybe coming up with
+a piece. Like if you're a composer, like
+coming up with something out of nothing.
+And this is also a special moment. And
+normally, everything in the middle is
+kind of boring. It's just work. And and
+I feel these moments are still special,
+and it kind of works for making software
+or other things with elements as well
+for me. I think that's totally right. I
+love this art angle that you have. And
+another Another way to say this is all
+of work exists on this spectrum from it
+being totally rote to it being art.
+And art itself has many tasks within it.
+Any kind of creative work has many tasks
+within it that that are more more rote
+or less rote.
+And
+um if you're trying to map work on that
+spectrum, the stuff that is more rote is
+just going to be stuff that you're not
+going to have to do anymore.
+And
+that is a big opportunity to move
+a lot of the work that we do to the more
+creative
+to us probably more interesting parts of
+work.
+And to recognize that that
+frame is always changing or is always
+moving. So as as certain things get
+rote, other things become
+things that humans start to do. And And
+yes, those will get automated too, but
+like we're going to also keep keep
+moving down along that spectrum.
+And
+the
+final thing that's not automatable is
+the is like art made by humans who
+feel something.
+And I think that's beautiful.
+Yeah, it's still scary because what if
+you're in the middle
+and you want to move or if you want to
+figure out what that is to you because
+this might sound very
+abstract and weird to some people. Uh if
+you're an old an artist or even like
+really like
+felt this in moments. Like it sounds
+maybe a little bit like, "Oh, but like
+that's not me." But I do believe
+everyone has this. Like think of it like
+what brings you joy? Like what what
+lights a fire in you? Like what do you
+get excited about? Like I think that
+thing
+you should like lean into. Like whatever
+that is, and that can be beautiful
+writing or that can be
+very structured lists or whatever it is.
+Like anything that just brings you
+happiness. Like you should do more of
+that using LLMs in your work because
+that's good.
+I agree. Kieran, always a pleasure.
+Thank you. Yeah.
+Let's see where this goes.
+See you next time.
+See you. Bye.
+&gt;&gt; [music]
+&gt;&gt; Oh my gosh, folks, you absolutely,
+positively have to smash that like
+button and subscribe to AI and I. Why?
+Because this show is the epitome of
+awesomeness. It's like finding a
+treasure chest in your backyard. But
+instead of gold, it's filled with pure,
+unadulterated knowledge bombs about
+ChatGPT.
+Every episode is a roller coaster of
+emotions, insights, and laughter that
+will leave you on the edge of your seat
+craving for more. It's not just a show,
+it's a journey into the future with Dan
+Shipper as the captain of the spaceship.
+So do yourself a favor. Hit like, smash
+subscribe, and strap in for the ride of
+your life. And now, without any further
+ado, let me just say, Dan, I'm
+absolutely, hopelessly in love with you.

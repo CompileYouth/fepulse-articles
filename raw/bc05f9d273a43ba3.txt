@@ -1,0 +1,1762 @@
+原文： https://www.youtube.com/watch?v=u3GjIXP9N0s
+
+If you aren't doing it hands-on, your
+opinion about it is very likely to be
+completely wrong.
+&gt;&gt; This is Mark Brooker. He's a
+distinguished engineer at AWS, and I
+interviewed him for technical learnings
+from his career. 30,000 cloud system
+postmortems. I want to ask you what
+makes a good postmortem.
+&gt;&gt; I could spend a lot of time talking
+about that.
+&gt;&gt; You had a tweet that said that there are
+cases where caches are bad. I prefer to
+see the teams around me avoiding caching
+where possible.
+&gt;&gt; We also discussed how software
+engineering is changing. What is
+important given that code is kind of
+flowing like water now.
+&gt;&gt; The job changes and and and you do
+different work.
+&gt;&gt; For someone who's structuring their
+career, would you say it's better to be
+overrated or underrated?
+Here's the full episode.
+At some point when I was a very junior
+engineer, I looked at the more senior
+engineers and said, "What what is the
+difference between you and I? I'm
+working more hours than you. I'm I'm,
+you know, landing more code than you.
+Why is it that you're so much more
+impactful than I am?" And then I
+realized that kind of the direction of
+your work, like what is the thing that
+you're actually shifting matters more
+than the volume of your work and your
+contributions. What would be your advice
+on how do you find problems that matter?
+&gt;&gt; Yeah, I think you have to go super
+broad. So I think there's a set of those
+things that come in from from customers
+from the world, right? Like here is an
+unsolved problem. You know, I spend a
+lot of time meeting with AWS customers
+and listening to them talk about, you
+know, what are the things they still
+find difficult in in our space? What are
+they, you know, what are they investing
+in? Where are they spending their time?
+Where would they prefer to be not
+spending their time? and and focus on
+their core business instead. And so
+that's one rich seam uh of ideas and and
+and focus on what's you know what's
+interesting. I think completely at the
+other level is sort of on looking at the
+technical trends and you can look at
+just the the kind of speeds and feeds
+like wow networks have gotten faster,
+storage has gotten faster, you know,
+we've seen this huge explosion in in
+multi-core and now in GPUs and you know
+so there's a bottomup innovation trend
+there too which which you can also look
+at and say well this enables all of
+these new new things
+and Um and then broadly kind of across
+the world like what what are the big
+trends that are going on? What are the
+things that are changing in our
+industry? What are the things that are
+changing in in the world? And really it
+is those kind of moments of change that
+have the you know bring with them the
+opportunity to to to build things and
+and and to recognize problems. And so to
+pick one, you know, concretely, uh, you
+know, when I was in, uh, working in the
+Lambda team in in in 2020, and I was
+talking to a lot of customers about, you
+know, they were super excited about
+building on serverless. They were super
+excited about building on containers.
+There had been this massive shift. And
+what people were seeing then was, wow, I
+love these serverless products. I love
+building this way, but the world of data
+and especially relational data doesn't
+fit super well into this this paradigm,
+right? These relational databases are
+still very serful, you know,
+fantastically powerful products, but but
+not kind of operationally the same. And,
+you know, that thinking was, you know,
+just felt super important to me of like,
+wow, these customers have have brought
+to me a gift of of understanding
+something that's really important. And
+and so I joined the Aurora team. We
+built Aurora Serverless and then we
+built uh we built the SQL. You know,
+we've been investing deeply across all
+of our database products to make them a
+better fit for these um you know uh
+serverless and and and container
+workloads. And that is an example of of
+a trend that was brought by you know
+brought by a customer. Um but then also
+these trends that have been driven by
+kind of architecture
+um by other things going on right faster
+networks, faster compute, faster
+connectivity. And so one of the big
+technical trends in the database world
+right now is uh the sort of block
+storage becoming the default backend,
+the default uh durability layer for uh
+for databases of all kinds from
+analytics workloads to online workloads.
+And there's been this incredible
+explosion around that. And so if you
+look at what we did with Aurora DSQL,
+for example, you know, that was very
+much learning from that trend and and
+taking a lead on that trend and saying,
+well, we're going to make S3, this this
+block store that we built uh, you know,
+20 years ago, uh, sorry, object store
+that we built 20 years ago, uh, the
+underlying
+uh, durability layer of this new
+database. but obviously it doesn't have
+the latency properties or or or the rich
+interface that that that an online
+database needs. And so we're going to
+build an architecture on top of that
+that deals with all of these other
+things in a much better way, but doesn't
+have to worry about durability.
+And you know, so that was this perfect
+collision of a set of things I was
+hearing from customers and a set of
+things that were technical trends coming
+together and thinking, wow, we've we've
+got this opportunity to build something
+now that is going to be a marketleading
+product. Um, that would be hard to
+imagine without either of those, you
+know, input signals.
+&gt;&gt; I I saw something that you wrote. You
+mentioned that you were on call for 15
+years somewhere in there and I've heard
+many stories of more senior engineers
+negotiating out of on call because per
+unit time it could be perceived as not
+that impactful and so why did you stay
+on call for so long? I would say that
+the
+majority of
+my inractice knowledge about how to
+build distributed systems has come from
+being on call uh and analyzing and
+deeply understanding
+these post-mortems and and and COE's.
+Um, you know, one of the one of the
+challenges of of, you know, running a
+company like AWS and and running large
+scale systems is that folks come out of
+college with great often great knowledge
+of computer science fundamentals, great
+programming skills, you know, great
+mathematical skills. All of that stuff
+is fantastic,
+but without the grounded knowledge of
+what it actually means to run and
+understand, you know, understand
+systems.
+And you know on call is one of the best
+ways to learn those things. Best ways to
+see um you know how do systems really
+run? How do they really behave? You know
+how do customers really use them? What
+happens when customers use systems in
+unexpected ways? How can we make systems
+more resilient to to customers using
+them in in in different ways? And I
+think that should be almost a goal of on
+call, right? If you have folks in your
+teams who are on call and they're just
+closing the same ticket over and over
+and over, well, you know, that's where
+you need to just build some automation.
+And again, building automation, it's
+easier than ever. It's more powerful
+than ever. Fantastic. Um, but where you
+really want to spend the time of the
+deep experts on your team is, you know,
+here's something unexpected or or
+unusual that's happened in in the
+system. Let's deeply understand that and
+let's bring that knowledge back to both
+improving that system and communicating
+broadly to the the company and and and
+the outside community what we've learned
+from that.
+And so one of the most you know one of
+the most uh
+powerful things we do at AWS is we have
+this mechanism of a very broad weekly
+meeting where we all get together you
+know engineers from across AWS leaders
+senior leaders from across AWS and talk
+about COE's these postmortems that we
+write and what we can learn from them
+and how we can apply those lessons
+across the whole company And I think
+that particular mechanism that
+particular kind of w in wed Wednesday
+morning meeting that we have um is one
+of the things that has been a core
+almost causal factor behind a you know
+AWS's success
+uh because it has allowed us to and
+forced us to spend leadership bandwidth
+to spend expertise to spend the time of
+our best engineers deeply understanding
+how our systems operate and why they
+operate the way they do. Um, and you
+know that level of being just extremely
+grounded in reality
+uh helps you design better products,
+help helps you architect better systems,
+you know, helps you think more clearly
+about uh the next round of things, helps
+you fix, you know, helps you fix issues.
+And so it's this fundamental kind of
+learning exercise. It's a real blessing.
+Um, so I would, you know, I would
+recommend on Paul to to anybody who
+wants to learn about the practice of of
+of distributed systems and I would
+certainly recommend
+spending time reading COE's, reading
+post-mortems and and deeply reflecting
+on not only what can we fix tactically,
+but what can we fix organizationally and
+strategically and what kind of tools
+might might need to exist to to prevent
+this kind of thing happening again. And
+you know you asked earlier about you
+know where do ideas come from? This is
+another you know fantastic kind of flow
+of ideas of saying wow you know we seem
+to be solving this same problem over and
+over in different ways and getting it
+slightly wrong every time. Um you know
+can we extract a a tool to do that? Can
+we build a service around that? Can we
+uh can we build a feature around that to
+make it easier for us to get right and
+and and easier for our customers to to
+get right?
+&gt;&gt; Yeah, it's interesting because I think
+if you ask most engineers, they they
+really avoid on call, but it sounds like
+you you kind of go towards it and you've
+learned a lot from it because it's a
+major source of customer problems.
+&gt;&gt; Yeah. And again, you know, I think for
+me it comes down to optimizing for
+finding the most important things to
+work on. And you know, if you aren't
+close to operating your actual system
+and you don't know how it's actually
+working,
+how are you supposed to identify what to
+fix, right? You can come up with some
+theories about those, but they're
+probably not going to be right. Um and
+again like I I I don't think there's a
+huge amount of value in
+the ro ticket closing work of on call. I
+think automation you know should be
+doing those kinds of work. But I think
+there's fantastic value in you know deep
+understanding deep investigations and
+and deep reflection on what you learn
+from postmortems and coes.
+I tried to estimate uh a couple of
+months ago for a talk how many industry
+postmortems and Amazon COE's I' I'd read
+over my career. The best estimate I
+could come up to and this was about a
+year ago was was between three and
+4,000. Um and so uh you know even a
+little bit of lesson from each one and
+it tends to you know tends to stick.
+&gt;&gt; Yeah, that was my next question
+actually. I I looked at the slides from
+that internal presentation and it said
+I've read approximately 3,000 cloud
+system postmortems from across the
+industry and my immediate thought was I
+want to ask you what makes a good
+postmortem.
+So I think you know what makes a really
+great postmortem is first really getting
+into the details and making sure that
+you deeply understand what happened
+rather than just assuming what happened
+based on on the biases you bring in. Um
+and so there's a kind of lesson one
+there is if you can't understand what
+happened well that teaches you something
+about your logging and metrics and
+observability and you know and and
+simulations and all of these other
+things.
+And then once you deeply understand what
+happened um then the ability then a
+great postmortem steps through
+the wise behind that and multiple levels
+right like why well yeah there was a
+code bug okay sure code bugs yes we can
+fix that but we can't stop there right
+like why was that missed in testing and
+validation you know for these reasons uh
+you know what can we improve what can we
+build around those okay next step, you
+know, why, you know, why was our testing
+and validation where it was or, you
+know, why did we assume a certain thing
+about the behavior of the system that we
+wouldn't have assumed before? And so as
+you sort of get through these deeper and
+deeper layers, a a great post-mortem not
+only identifies kind of fixes to the
+proximal cause, but also identifies
+broader fixes to technology, to
+organizations, to you know products and
+and and and so on. Um and so that's a
+kind of multiple levels thing, right?
+And you can't get stuck on, you know,
+what is the the the most proximal cause
+of of an incident, but you also can't
+get stuck on this, well, you know,
+things fail sometimes and what are we
+going to do about it? And um you you
+have to come up with a set of, you know,
+really concrete action items to fix
+things at different levels. fix this
+particular line in the software that
+that caused something. You know, fix the
+testing processes that that didn't catch
+that, you know, fix the um you know,
+maybe social or or team processes that
+led to those technical processes. Um
+and you know, and then if you're seeing
+patterns across multiple postmortems,
+sort of level those up and say, well,
+clearly there's a hard underlying
+problem here. You know, can we build a
+service around that? Can we build a
+library around that? Can we build a, you
+know, community of practice around that?
+You know, are there technical changes we
+can make uh to to avoid whole classes of
+things? Um so that's quite a long-winded
+answer but I I I do think it is it it
+all flows from understanding and
+understanding and multiple levels like
+understanding immediately like what
+happened but also understanding you know
+broadly what happened you know
+technologically and organizationally and
+and and in context and then the ability
+to connect that particular event or or
+or postmortem with other ones you know
+and and and and extract those patterns.
+You know, one of the things that we we
+did in DSQL was we spent a lot of time
+as we were designing that looking
+around, you know, relational database
+related postmortems and thinking about
+both our own and our customers and
+thinking about, you know, how can we
+design a database that helps people
+avoid falling into these traps. Um,
+and you know, a really common kind of
+outage pattern, folks with relational
+databases is you have a client on a
+distributed system starts a transaction
+and then goes out to lunch for whatever
+reason and uh, you know, that could be a
+GC pause or it could be a lossy network
+or it could be a loss of connectivity
+and now it's holding locks. Um, and so
+if you look at, you know, relational
+databases, they don't tend to be
+resilient to clients misbehaving in that
+way. And that's a really common cause of
+uh operational issues for systems built
+on relational databases. And so as we
+were designing DSQL, we were thinking
+how do we avoid
+uh broadly that class of problems so
+folks can say, hey, I'm going to build
+on DSQL and just not have this whole
+class of problems. Uh, and you know, I
+think that's a really kind of powerful
+outer loop of the post-mortem process is
+to say, how do we turn all of these
+lessons into new services and into
+service improvements?
+&gt;&gt; How do you prevent misbehaving clients
+from being a problem for the database?
+&gt;&gt; Yeah. So in in DSQL's case um we have uh
+we have no pessimistic locking and so
+the within the scope of a transaction uh
+everything that happens in that
+transaction all of the reads happen
+using this mechanism called multi-
+version concurrency control where every
+row in the database we sort of store a
+history of versions and so you can read
+an old version of a row without blocking
+writers and saying hey you can't you
+can't update this because I just read
+it. Um and then you know locally within
+the query processor that's handling a
+connection uh we spool the rights
+locally and then you get to commit time
+and we do this optimistic check of uh
+you know can I commit this transaction
+at at at the transaction commit time and
+so combining those two mechanisms of
+having multi-verion concurrency control
+and and the scale out storage that comes
+with it and the commit time optimistic
+checks We can strongly say that you know
+there is no way that a reader of a piece
+of data can block other writers and
+there's a no way that that a writer of
+data can block readers. Um writers can
+block writers but only um only by
+changing data not just by looking at it.
+And so you can you know you can say well
+you know I can cause um sorry writers
+can't block writers but they can prevent
+other writers uh transactions from
+eventually committing by making a bunch
+of changes and that is inherent to the
+definition of the particular database
+isolation level.
+&gt;&gt; Out of curiosity in practice what
+percent overhead would you expect for
+keeping copies of old rows for the sake
+of those stale reads? Yeah, it's
+actually surprisingly small. And it's
+surprisingly small because if you look
+at the access patterns for most online
+databases, even ones that do a lot of
+write traffic, that right traffic tends
+to be quite concentrated. Uh, and you
+know, it's quite unusual for an online
+database workload or even an analytics
+workload to make a second version of
+every row in the database. Typically
+what it's doing is making a, you know,
+first, second, third, hundth version of
+this row and a 50th version of that row,
+but the vast majority of data isn't
+changing. And so it's super workload
+dependent. Uh, as as is everything in in
+in the database world. Uh, but the
+overhead tends to be relatively small.
+Uh I would say it's unusual for
+a online database workload for that
+overhead on storage to be more than
+about 10%.
+&gt;&gt; From my experience, I've seen an
+interesting dichotomy between teams
+where some teams they really understand
+postmortem culture. They tend to be
+infrastructure teams. They tend to take
+it really seriously and everyone in on
+those teams, the tech leads are asking
+you, hey, why why did that happen? and
+then you know really follow up and make
+sure it's it's not a problem. Then I've
+also noticed on other teams that is less
+of a strong muscle for those teams that
+don't take it too seriously. What would
+be your your pitch for why they should
+take it seriously?
+&gt;&gt; Yeah, it all comes down to where you
+want to spend your time, right? Do you
+want to spend your time improving your
+product and and making it better or do
+you want to spend your time uh fighting
+the same fire over and over? And uh you
+know really the culture of building um
+you know building great post-mortem
+culture is to make sure that at the the
+the
+pro at the product level and at the
+organizational level um you are
+fixing known issues
+and you are avoiding having the same
+problems multiple times. Um, and
+typically when I see teams that have,
+you know, poor post-mortem culture, I
+think they're
+probably one of two failure modes there.
+You know, one of them is a lack of focus
+on just the outcomes, right? Like, you
+know, a lack of of of really um I
+wouldn't say caring enough. I I think
+that's a little bit too too personal,
+but being really focused on on, you
+know, is this is this product performing
+super well? Are we, you know, are we
+really making our customers happy? And
+that is fundamentally a cultural and and
+and leadership cultural problem um of of
+setting the right standards. Oh, and by
+the way, like I don't think you know
+standards should be uh you know should
+be uniform, right? Like there are places
+where you know the details really really
+matter where things like durability are
+just critical and and and you do need to
+have super high standards in those
+places. Um and you know places where you
+want to optimize for other things and
+and and maybe have you know have have a
+a higher production defect rate and I
+think that's that's okay um as long as
+that's an intentional decision that's
+being made. So that's kind of case one,
+right? like insufficient focus on the
+outcome. I think case two and and this
+is a harder one to change is
+normalization of kind of operational
+heroics. like we don't need to fix these
+root causes because our on calls are
+super heroic and they're going to stay
+up all night and they're going to, you
+know, they're going to hack around
+things and they don't mind being paged a
+hundred times a week and
+they can feel from the inside like it's
+a good culture, right? Like, oh wow,
+these people are super strong owners.
+They're super engaged. They really care.
+They're really working hard on call. And
+those are all good signals. But then
+when you look at it from the outside,
+it's like, wow, we're not actually
+fixing the causes of things. We're just
+doing this fantastically expensive
+investment of taking all of these people
+and their strong ownership and their
+expertise and spending them just on on
+on this break fix cycle. And that's
+where you need to kind of look at it
+from the outside and say, well, let's
+take this energy of this team, fantastic
+energy, and focus it on uh on on
+improving the service, getting getting
+out of the cycle, finding, you know,
+finding new things to fix, finding new
+things to build. And that can be hard
+because it can be hard for, you know,
+those folks who've been in that mode to
+look at it and say, "This feels so good.
+It feels really like we're we're caring
+about our customers and caring about our
+product and caring about our business.
+Uh to realize that oh no, we're actually
+caring about it at the wrong level and
+we're not serving our business in the
+best possible way by being so narrowly
+and tactically focused on this break fix
+cycle. And that's where you sort of need
+to pop them out and say, well, let's
+spend more time thinking about the
+postmortem. Let's spend more time
+thinking about the causes of things.
+Let's let's spend more time addressing
+these things in a more uh strategic way.
+And wow, okay, now you've got so much
+more time to do that because you've
+broken the cycle and you can improve
+your product in different ways. I mean
+since you have worked on AWS for almost
+two decades uh I'm sure you have a lot
+of experience building distributed
+systems and I think one of the most
+common advice that you hear I guess this
+is maybe in the context of system design
+is I I almost hear almost 100% of the
+time people will say just throw a cache
+on it or you know you'll have a system
+design you say how do you make it better
+let's put a cash here let's put a cash
+there
+&gt;&gt; and I saw you had a tweet that said that
+there are cases where caches are are bad
+despite people saying it's best
+practice. I was curious if you could
+explain that.
+&gt;&gt; Yeah. So, caching is good, right? Like
+it's hey, I'm I'm going to uh take the
+these core ideas from computer science
+of of temporal and spatial locality and
+I'm going to exploit those to make my
+system faster, scale better, etc. And
+so, you know, obviously very attractive.
+But the downside of caches especially in
+distributed systems is they have this
+mode right like they have this um you
+know the there's a mode where the cache
+is full and the cache is full of the
+right data in time and space to perform
+very well and there's a mode where the
+cache is empty or contains the wrong
+data and in the first mode the system is
+fast and happy and healthy.
+In the second mode, the system is slow,
+often down because now the backend isn't
+scaled to deal with all of this unacheed
+traffic. Customers are very
+disappointed. Um, and often it is down
+in a stable way. And this is this kind
+of idea of metastable failures where the
+system has has um switched from state
+one to state two and in state two it's
+still stable, right? like it's still
+it's down but it's not going to come
+back up under its own energy because for
+example all of this traffic is causing a
+huge amount of contention in my database
+or is saturating the network and so I
+can't even refill the cache it's not
+even getting the right kind of data in
+and so you know when I talk about the
+downsides of caches it's really about
+you know how do we avoid that modality
+between
+you know fast and you know uh the that
+that value of caches and the you know
+how do we avoid the state where we're
+down um and so if I go back to to DSQL
+like our answer there is DSQL what we
+call the storage tier is essentially a
+cache but it is a complete cache it
+contains every row in the database um
+and so it doesn't have this mode where
+how do I recover from it being empty or
+containing the wrong data it contains
+all of the data
+Um
+similarly if you look at a a more let's
+say classical relational database design
+like Aurora the Aurora leader is
+constantly telling the potential
+failover targets here's something you
+should cach here's something you should
+catch here's something you should cach
+so when a failover happens the cache is
+warm on you know on on the failover
+target um and so those are the kinds of
+things that you can do to avoid those
+modalities
+but in general
+um you know and I I I wouldn't extract
+this as a rule or or or or or say that
+you know this applies 100% of the time
+but in general I prefer to see the teams
+around me avoiding caching where
+possible. I prefer patterns where you
+have a let's say complete materialized
+view of the data. If you need very fast
+access to it, especially if it's slow
+moving, just pull it down onto your
+local machine and work with it in
+memory. You know, if it's only being
+updated once a week, who cares? Like
+just make lots of copies of it. Um
+uh so that's that's one pattern. Or, you
+know, use a scalable backend, you know,
+DSQL or Dynamo DB or whatever your f
+favorite scalable database is. and keep
+your database vendor honest about
+getting to the the scale and performance
+you need rather than putting a cache in
+front of things. So caching isn't a bad
+pattern, but it is a pattern with some
+significant downsides that are, you
+know, really uh best avoided.
+&gt;&gt; In practice, how how often do you see
+that metastable failure though?
+&gt;&gt; Yeah, you know, this is uh it's not it's
+not super common, right? like you might
+go years without seeing you know
+something like that but if you look
+across
+the biggest most impactful
+uh you know system postmortems across
+the industry I would say that these
+kinds of metastable failures have been
+an underlying cause in probably a
+majority of them and it's super
+important that you know as an industry
+and as a community of practice we
+understand those things deeply because
+the also those cases where these do
+happen, you know, tend to be larger
+scale issues, longer recovery time
+issues and and and more complex to fix
+issues, right? Where you have to often,
+you know, turn it off and turn it back
+on again, which is this very very
+painful thing for a a a team or an
+organization to do. Um and you know and
+so again like you you might go here it's
+operating a system we're seeing nothing
+like this and and but if you look at the
+most impactful issues it's actually
+fairly common as an underlying cause for
+those issues and so you know it's kind
+of both of these things being quite
+uncommon and being being rather common.
+I was reading your blog and you have a
+series of posts on how AI may impact the
+future of software engineering and I
+kind of want to pick your brain on that.
+So what's your perspective on how you
+think AI will u impact software
+engineering and how it'll change things?
+&gt;&gt; Yeah, I mean it's you know hard maybe
+harder than ever to tell the future and
+so you know this is a a set of uh maybe
+guesses uh and and and predictions about
+about the future. Um so I'll I'll say
+the first thing I I you know I deeply
+believe about software is
+we have only just started to see the
+impact that software is going to have on
+the world. There is such an opportunity
+for more software to exist, bigger
+software, better software, more personal
+software, you know all of these things.
+And so software has throughout its
+60-ish year history been supply
+constrained
+and you know I think that's going to
+remain true. I think the opportunity for
+for software in the world is is just you
+know almost uh almost unbounded. Um and
+that's really exciting right? It's
+really exciting to be at a moment when
+the economics of building software are
+changing and and are changing rather
+quickly. Um and that gives us an
+opportunity to think about what could we
+do in the world with a lot more
+software. Um you know a a lot more
+software personalization, a lot more
+just the right software in the right
+place at the right time.
+And
+you know that gives me a huge amount of
+you know excitement about the future of
+of this industry. uh because you know we
+we have a massive opportunity ahead of
+us both driven by these changing
+economics of software development.
+Um now also with those changes there are
+going to be needs for you know us as as
+software practitioners, people who build
+software, people who who love software
+to to adapt and uh you know that that
+means that that software careers are
+going to look different. um uh they're
+going to look different early on,
+they're going to look different later
+on. I think the software business is
+going to look different and the
+um success of people in organizations
+over the next uh you know next who knows
+5 years decade is going to be largely
+predicated on their ability to adapt to
+that change and and to lead that change.
+You told this story about this guy who
+bet on analog circuits when obviously we
+know digital became kind of the more
+more dominant way. Yet he made he made
+good money for the people who maybe
+don't want to adapt. You could still get
+by and succeed. It's not going to be
+like a crazy thing. Is that is that kind
+of the takeaway and why you brought up
+that story?
+&gt;&gt; Yeah, I I I think that's that's the
+right takeaway. And so if I sort of
+break down, you know, the the the world
+into three tiers, uh you know, I think
+there's going to remain a huge amount of
+joy in the craft of software. Um you
+know, like the craft of of joinery with,
+you know, with hand saws, right? Like
+it's it's a nice way to spend time. It's
+not a particularly economically
+interesting activity anymore, but not
+everything we do has to be an
+economically interesting opportunity. it
+can just be something I do because I
+enjoy it, because I enjoy the product of
+it, because I enjoy talking to people
+about it, right? And so there's, you
+know, I I I don't think that is going to
+go away. I think we're going to see, you
+know, a lot of interest in in that. Like
+there's been interest in in retro
+computing and, you know, people who run
+an Apple 2 as their desktop and like
+well again it's wildly impractical. It's
+not economically interesting, but it's
+fun and something I, you know, could do
+as a hobby. And so, you know, that's
+that's going to be a remaining part of
+of of the world of software for probably
+forever. Um, and then there's this this,
+you know, kind of story that that I told
+in the blog post. And I think this
+relates to, you know, driving change in
+the real world is always harder than it
+looks from the outside, right? Like as
+you get into the details, things become
+more difficult. They become more
+dependent on people. They become more
+dependent on politics and policy and um
+you know our our various irrationalities
+as humans and and so driven by that
+you know there is going to be a huge
+amount of and a shrinking over time
+amount but a but a huge amount of the
+software industry that is run in what I
+might call the old way right past
+techniques past languages past
+technologies
+And there's real economic opportunity in
+engaging with that part of the you know
+part of the world. Um you know as we saw
+with with analog electronics analog
+electronics still very much exist. In
+fact there are parts of the world like
+you know like radio and power systems
+where there's been incredible techn
+technological advancement in in in those
+fields. Uh but they have become more
+niche and so you know digital became the
+mainstream. We wouldn't be talking like
+we are today if it wasn't for this uh
+you know 12 orders of magnitude or
+whatever explosion in in digital
+transistor counts.
+Um
+but there's interesting opportunity
+there and I think that interesting
+opportunity is going to change shape and
+and and become more and more specialized
+and and and more and more niche and and
+great careers to be built there. Um and
+then there is the mainstream which I
+think is going to adopt these new
+technologies from agentic development to
+AI powered development to you know
+specificationdriven development um and
+you know a whole lot of other you know
+new things whose names we don't even
+know yet.
+um to build software at a speed and a
+cost that is unimaginable to do with
+with the old techniques
+and I think that is where correctly the
+majority of the industry is going to be
+going. I think that's where the majority
+of careers are going to be built. I
+think that's where the majority of um
+economic opportunity is. It's the space
+I'd be in if I was building a company
+today. It's the space I'm in in my role.
+um and you know the one I would sort of
+personally be most excited about but
+yeah it isn't the only one I think
+there's going to be this spectrum of
+software practice and especially where
+software engages with the physical world
+uh there are going to be some really
+interesting
+um questions about how do we bring these
+new technologies how do we bring these
+new practices into
+um the various many niches that software
+is going to and has you know over over
+six decades kind of wormed its way into.
+&gt;&gt; It's interesting you you mentioned
+joinery. I wonder if down the road we
+will see apps on the app store that
+people pay extra for because it's
+marketed as this was written by a human
+or it's it was written by hand. It's a
+bespoke uh you custom app. Um crazy how
+the world's going to change. But so it
+sounds like you know change is obviously
+the the common case. It's the one that
+we should be thinking about. Maybe we
+can break up the conversation into two
+parts. One is for junior engineers, what
+is important given that code is kind of
+flowing like water now.
+&gt;&gt; At risk of being a bit meta about our
+past conversation, it really is about
+finding those problems that matter and
+and and doing that early in in a career.
+And you know that requires an
+understanding of customers. It requires
+an understanding of the business. It
+requires an understanding of of
+economics and and and of systems and
+that can I I think that's going to move
+from being you know almost kind of
+senior engineer work of like oh well you
+know now you're going to go and talk to
+customers and actually understand the
+context of the stuff you're building to
+being more and more part of even the
+earliest steps of an engineering career,
+right? like here's the context, here's
+the problem, here's the customer, let's
+go off and work together and solve, you
+know, and and and and solve this problem
+with all of this context. Um, and I
+think that's going to be
+super exciting for one set of folks uh
+and a little bit frustrating for people
+who have come into
+um you know looking for a pure software
+development career, right? looking for a
+career where they sit down, open their
+IDE,
+start typing, and and and don't stop for
+eight hours. I think that's going to be
+a mode that we're going to see fewer
+people in, and a mode that's going to be
+harder and harder to build a career
+around. Now, the other mode of, oh, I'm
+excited to go off and learn from my
+customers about what they're building
+and what they need. I think that's going
+to be ever more highly, you know, highly
+valuable and so super exciting
+opportunity to build, you know, build
+careers there. And then maybe and and
+this might come across as being a little
+bit um you know paradoxical. I think
+there's also a ton of opportunity for
+you know folks who are extremely
+technically deep um you know who are uh
+you know deep on optimization problems
+or deep on infrastructure problems or
+deep on you know various scientific
+things or deep on databases or deep on
+you know one of the many many topics
+that are are behind our industry
+because I think the ability to
+ask the right questions is also much
+more valuable than it was has ever been.
+And so I think there is a ton of
+opportunity for people coming into the
+industry with deep technical or
+scientific knowledge to now leverage
+that in ways that you know maybe were um
+were hard before right there was too
+much sort of boilerplate to really you
+know to really use that leverage that
+you have. And so I think we're going to
+see a lot more of of of those kinds of
+careers of really kind of building
+expertise in a technical topic, in a
+scientific topic, and then be able to
+turn that into software and software
+products in a way that
+was really difficult before and in some
+cases wasn't possible before and is now
+um you know vastly easier. If I was to
+look at a career ladder's expectations,
+some of what you described of maybe
+engaging with the customers and
+understanding the business context
+uniquely in software engineering, it
+feels like the earliest levels are
+insulated from all of that. You have
+your your tech lead tech leads handing
+out tasks and then the early level
+engineers just given task just convert
+it into code. And it sounds like, you
+know, that part's relatively solved. And
+if not now, maybe I I'd be surprised if
+a year or two from now wasn't like
+completely solved. Um, and I I think
+that could scare a lot of junior
+engineers cuz they they would think
+you're going to expect me to graduate
+from college or start working as
+software engineer and then I would have
+the senior engineer expectations. Um,
+what would you say to the the scared
+software engineer that's just entering
+the industry with all this change?
+Yeah, you know, I think um well, I would
+remind them that, you know, we as people
+who hire and build organizations of
+software engineers and and they as
+people who have are building software
+engineering careers have have really
+um aligned incentives, right? Like you
+know it it's not valuable to hire a
+bunch of people and set them up to fail.
+Like that's no nobody wants that. it's
+it's it's not an outcome uh that is good
+for anybody. And so, yeah, we're going
+to need to figure out how do you support
+people on on that path? How do you help
+people learn those things? How do you
+give them the right guard rails? You
+know, hey, that first time that you go
+out and talk to a customer, yeah, it's
+got to be scary. My my first time
+talking to an AWS customer uh was, you
+know, was it was was super scary. But,
+you know, I I I got a bunch of help with
+that and I got a bunch of advice and I
+got a bunch of mentorship and I got a
+bunch of feedback and I got better and
+better at that over time. And I think
+that's exactly what these things look
+like is, you know, you start off and you
+you start small and and and and you
+learn, you know, as you go and and and
+so that feedback loop goes faster. And
+so I don't expect that people coming in
+from college or, you know, will will
+come in with all of this knowledge. I
+think you know it's never been true that
+people coming into technical or
+engineering careers straight out of
+college know everything or any career
+for that matter right like you talk to
+to teachers about you know what they've
+learned on their job versus what they
+learned you know studying uh you know
+they learn a huge amount in in in things
+like internships and and so on and over
+the course of a career um or doctors or
+or anybody in you know in in a field
+like that um and so yeah it is going to
+be about learning and I think the
+emphasis on what people learn is going
+to be different. I think it is going to
+require, you know, leaders like me who,
+you know, care deeply about, you know,
+hiring and and and developing folks
+early in their career to be really
+thoughtful about what, you know, what
+does that new letter look like? And um
+and, you know, we're we're doing a lot
+of that thinking. I think people are
+doing that kind of thinking across the
+industry. Uh, and uh, yeah, it's
+changing fast. It's it's uncertain. And
+it's it's it's an interesting time to to
+to be graduating. But again, like it's a
+super exciting time. I think that just
+the the scale of the opportunity is
+bigger than it's ever been.
+&gt;&gt; Sounds like your advice for senior
+engineers is different from that of
+junior engineers. What What is your
+thinking there? Yeah, I mean I think uh
+you know I think for for folks there the
+challenge is is is how do you you know
+how do you retain the value of of this
+incredible experience and knowledge that
+you've gained over a career while you
+know not falling behind uh while
+learning how to you know best best use
+the tools and you know when I look at
+senior folks this is a is a challenge
+you know ahead of them I think a lot of
+people have found themselves in
+influence and and and leadership type
+positions where they aren't hands-on
+building, you know, every day. And I
+think it's going to be harder and harder
+to be in that kind of role and be able
+to influence and advise in a um
+in a relevant way, in a in a in a
+positive way. Um and so really, I think
+my advice for folks is is is you kind of
+got to get building. like you got to get
+back in get back into it. You need to
+deeply understand how the practice of
+building software and the practice of
+designing software has changed and and
+is continuing to change and and so the
+challenge is how do I, you know, really
+take advantage of all of this knowledge
+and expertise that I've built up in my
+career and be super curious and be super
+hands-on and really be in the details.
+And the good news for that well I think
+there's two bits of good news. One of
+them is because of these new tools you
+know time spent as a practitioner is is
+so much more leveraged than it is today.
+You can build so such cool stuff uh you
+know in in during that period of time
+the the amount of kind of wasted time
+and boilerplate and so on is is so much
+smaller and so you really do have this
+opportunity. And the other one is again
+like why did you know why did we get
+into the space? Well, I didn't get into
+it so I could go to meetings and sound
+smart. I got into it because I love
+learning and because I love building
+technology and because I love, you know,
+solving my customers problems and
+because I love, you know, learning about
+new, you know, new technologies and
+learning new things and and there's more
+opportunity to do that than ever before
+again, you know, because of this this
+new set of tools and the leverage that
+comes with them. And so really is
+getting back to, you know, why are you
+here? Why did you get into this career?
+And I think it really gets us as
+technology focused people closer to the
+our original answer to that. It's really
+obvious to me right now when I speak to,
+you know, practitioners,
+you know, who and who isn't using a, you
+know, modern set of agentic powered
+developer practices, right? and the
+people who are um have these really
+interesting things to say about the
+strengths and weaknesses of those
+approaches and the work that still needs
+to be done and the integrations that
+still need to be done and the things
+that are working and aren't. uh and the
+people who aren't, you know, using them
+hands-on
+have
+such a poor mental model of how they
+work, what they're good at, what they're
+not good at, that the things they say
+about them tend to v tend to be
+essentially fiction. Um, and so, you
+know, I think we are in this minute that
+if you aren't doing it hands-on, your
+opinion about it is is very likely to be
+completely wrong. And that takes a level
+of humility to admit that, you know, is
+is is tough. You know, is tough for
+folks with fancy titles and is tough for
+folks with with distinguished careers.
+Uh but I I think it's a must.
+&gt;&gt; I I feel like there's a common sentiment
+among software engineers when they when
+they work with someone who is a, you
+know, quote unquote tech lead, but
+they're not really hands-on. So, they've
+kind of been in the docks for the last
+five years or or so, and there's these
+minor things they can tell that this
+person doesn't actually understand the
+underlying thing. And sounds like that
+gap will widen with these new tools,
+which is if you're you're looking at
+things from a,000 ft up and you're not
+actually using the tools, that's just
+another thing that separates you from
+the people who are actually building
+where you'll be very out of touch. And I
+I think uh you know when I look at I
+think that's always been true. I think
+it is wider than you know ever before.
+Um
+and but when I look at the you know
+engineering leaders that I've really
+respected and learned a huge amount from
+over my career uh you know for example
+some of the folks who who built S3 you
+know 20 20 years ago
+that was such a successful product
+because those folks were so deep in the
+details and so grounded on the use cases
+and so deep in the economics and and
+really just did um you know really
+thought about
+uh both the kind of strategic world of
+like how is this cloud thing going to
+change the way people want to interact
+with storage but also the you know
+minute-to-minute details of what's fast
+now what's slow good what's bad and I
+think you know when you think about a
+extremely enduring product like S3
+um
+or or EC2 I think it's it's been that
+groundedness in the details from from
+early on from all levels of leadership
+that has made those things so
+successful. Um where you know other
+products seemingly with the same amount
+of early promise didn't turn out to be
+as successful.
+&gt;&gt; I think one of the last topics that I
+wanted to ask you about was writing. Um
+you have a ton of awesome posts on your
+blog. The style of writing is incredibly
+clear and I I was curious why do you
+write so much as an engineer?
+&gt;&gt; Writing and and speaking u but
+especially writing have this incredible
+power um and you know for for technical
+folks it's this incredible multiplier in
+being able to take these ideas that's in
+your head and share them with the world.
+Um and you know you can can take a set
+of technical ideas in your head and
+share them with the world by building a
+great product and that's a fantastic
+thing to do. uh you can share them in
+the world kind of one- on-one, you know,
+mentorship, teach people, learn, small
+groups also a great way to spend time,
+but the multiplication factor of doing a
+talk or even more of of writing
+something is so much higher, right? Like
+there are so many more people that you
+can share that with and it lasts for a
+much longer period of time. Um, and so
+just having something written on my blog
+even that I wrote like a decade ago that
+I can share with someone and say, you
+know, here's, you know, here's how to
+think about this problem. Here's an
+insight that I I I wanted to share with
+you or or have people discover that
+organically is just super powerful. And
+so writing lets you scale out the impact
+of your expertise in in space and time
+in a way that's really hard to do in
+other media. I think with with video and
+with podcasts and so on, you know, we've
+seen other ways to do that, but I think
+writing remains kind of uniquely
+powerful.
+And then there's this also this idea
+which is this kind of core belief
+culturally at Amazon and I've obviously
+been in affected by this over the years
+that you know writing forces a level of
+mental clarity that speaking making
+slide decks etc doesn't and you know
+that's something that has also really
+been my experience of sitting down to
+write something down forces me to think
+that through at a depth that I wouldn't
+have been been forced to think it
+through without that. Um and so I saw
+one of you know your early conversations
+with was with Leslie Lamport who kind of
+takes that a step further and say hey
+you know it's formal mathematics that is
+the next step there and I I love that
+point. Um but I I I think writing is
+this really accessible thing for for
+people to do that does force a level of
+thinking. And so I do a lot of writing
+sometimes just for myself, right? Like
+I'll I'll write a doc not ever intending
+to share it with anybody but just to
+sharpen my own thinking on a on a
+particular point. And so it's some of
+that combination of three things, right?
+Like I just I just have something to say
+and I want to say it. Um you know I have
+something to say and I want to scale it
+out in in time and space and I want to
+sharpen my own thinking on a on a
+subject.
+um or or or the thinking of a small
+group on a subject in a way that writing
+is just a super powerful tool to to do.
+Definitely. Yeah. I remember being
+surprised early in my career. I had a
+manager or tech lead who we would write
+these these docs on you the designs or
+the strategy and he said even if you
+just wrote it and you threw it away it
+would still be worthwhile because you'll
+realize things as you're writing and
+that clarity will save you a lot of time
+down the road. Um and it's interesting
+to me because a lot of engineers they
+complain about writing docs. docs and
+you know all the stuff around the code.
+They kind of they kind of hate that. I
+say it's a sign of slow big company
+processes and you know what would you
+say to an engineer like that who's
+saying I just just let me write the
+code?
+&gt;&gt; Yeah and that's a great you know that's
+a great point and I think it really
+depends on the level of problem you're
+trying to solve. And so, you know, if I
+look at
+I'm going to pick on UML for a minute
+here, right? Like it's a sort of
+semiformal software design process and
+not one that I've ever found useful
+because I think it just happens at the
+wrong semantic level. I think it's
+bothered with details at a level that
+aren't helpful. Um, and I think a lot of
+the let's go off and document this has
+has a similar problem, right? like does
+this actually require that level of
+reflection and thinking? Um and so I
+think what you know for me separates a
+valuable doc writing and and thinking
+process from a busy work process is
+understanding what you're getting out of
+it. And what you're getting out of it
+might be an artifact to share with the
+future which is super valuable. um
+either your future self if you've got a
+terrible memory like me or you know new
+teams new people people you know or I
+want to share something with customers
+or I want to share something with the
+world and so that's super valuable or I
+want to write down something so I can
+think through a really difficult often
+one-way door kind of un hard to change
+technical decision or API design
+decision and I'm not going to do do that
+every time I make a technical decision.
+It's not worth it because a lot of those
+technical decisions are either easy or
+or not as critical or can be just be
+taken back if we figure out they're
+wrong. But I am going to to spend my
+time that way when there are key
+decisions to make, when there are key um
+insights to to find.
+And
+I think you know and so it is that like
+what is the purpose of writing uh that
+uh that that separates well spent time
+from poorly spent time. Now there are
+people who still don't like writing even
+when it's well spent time even when it's
+like
+you know you have to explain this piece
+of technology to you know to a future
+team um I think that's a skill worth
+developing you know sometimes you you do
+need to you know uh eat your vegetables
+uh you know and it's it's it is a skill
+worth getting good at
+um and you know especially in
+documenting the core kind of technical
+decisions behind a design is is so
+useful and that's useful in two ways by
+the way like one of them is as we think
+about building a big system um we make
+thousands of decisions and some of those
+decisions are very carefully chosen very
+particular and very impactful
+and some of those decisions are the best
+thing we could guess in the moment based
+on having no data to make that decision.
+And it's super useful for people who are
+coming in to improve that system down
+the line to be able to look at the
+design and say which of these things
+were very carefully chosen and thought
+through and which of these things were
+arbitrary
+and because the arbitrary things like
+okay well I'm going to change that and
+I'm going to just go ahead and change
+that because I have better data now I've
+watched the system run I can go and
+change those and these other ones are
+like well let me really engage with the
+reason that we made this decision maybe
+it was nonobvious this maybe there with
+some some more advanced thinking. And so
+being able to kind of understand the
+amount of thought that went into a
+decision is almost as important as
+understanding what that thought was.
+&gt;&gt; You had a really interesting blog post.
+This was um from a while back. It's it's
+titled the four hobbies and apparent
+expertise. And you introduced this
+really interesting idea. It's a 2 by two
+matrix and on one side there's doing
+versus discussing and on the other side
+there's the hobby and the gear. Maybe I
+can overlay it for people who want to
+see. And then later you you kind of
+liken that to your career and how I
+guess maybe we could imagine the hobby
+is is actually coding and maybe the gear
+is let's just say it's like your dev
+setup or something like that. You talked
+about these two aspects of being in in
+depending on which quadrant you are,
+which is there's this trade-off between
+expertise and visibility where imagine
+you're really into coding and you're
+really into doing, you're going to be
+phenomenal in terms of expertise, but
+maybe not as visible because you're not
+talking with everyone about how cool
+your setup is and and all of that. And
+on the flip side, if you're really into
+the gear or maybe you're set up in this
+case and you're really into discussing,
+you're you're on all the messaging posts
+and that you might not actually be that
+good at at coding, but you're very
+visible and you have this apparent
+competence. And I thought that trade-off
+was really interesting because I've seen
+that so much in software engineering,
+too, is there might be someone who's
+really quiet coder. They never write
+anything, but they know everything
+because they've just been in the weeds
+all the time. And then there are people
+on the complete opposite end of the
+spectrum that writing all the time,
+speaking all the time, but maybe not
+actually practicing as much. And my
+question to you is how do you strike
+that balance? Because obviously too far
+in either direction is not optimal. So,
+how do you strike that balance?
+&gt;&gt; Yeah, that's uh you know that's that's
+something that I reflect on a on a lot.
+uh you know and I do explicitly think
+that sort of being 100% on either of
+those ends is a is a is is a failure
+mode and I think you know I I will say
+that I have a lot more
+personal enjoyment working with the
+people that are 100% on the doing side
+and and 0% on the talking side. I I I I
+appreciate and deeply you know deeply
+love their expertise. Um, but I I I do
+think that, you know, they they could
+have more impact and and and leverage if
+if if they, you know, swung a little bit
+away from that. Um, you know, I I tend
+to not enjoy as much interacting with
+the people who are 100% on on on on the
+speaking side. Um
+uh but I I and I think they would, you
+know, have a lot more
+relevant things to say, you know, if if
+if they, you know, swung a little bit
+back towards the center.
+The other challenge of being on 100% on
+the doing side, it sort of gets back to
+that how do you find the really
+important problems? And you know, if
+your head's down in your IDE all day,
+you could very likely be working on the
+wrong thing.
+um you know something that that isn't as
+as important isn't as impactful um you
+know doesn't have these properties that
+that people want. So you know how how do
+you find the optimal balance? Uh I don't
+have a have a recipe for you know what
+really is is optimal.
+I tend to do about let's say 7525
+kind of practitioner versus you know
+teaching and and and and communicating
+maybe 8020 at times. I found that's
+about what feels right for me. Um
+I would say that you know they're great
+people I work with you know from sort of
+9010 on that scale up to about 50/50 on
+that scale. I think you know outside of
+those you know folks tend to um you know
+tend to get into trouble um as
+practitioners right like you know there
+are people whose job it is to be you
+know communicators and and that's great
+as long as they have the curiosity and
+and are clear about what they you know
+know and and don't know um but you know
+I found that sweet spot at that sort of
+7525 point in in in my career and and
+that's what's what's worked for me I I
+think
+um and I I I think in this moment where
+things are changing so fast, there's so
+much to learn. Um you know, swinging a
+little bit more towards the practitioner
+side I think generally will help people.
+But again, you don't want to go too far
+that way because then you lose the um
+you know, what's important view that
+comes with interacting with the outside
+world. On the doing versus discussing
+axis, I I kind of view the doing one as
+if you were too far, you would be
+underrated. And if you were too far on
+the discussing, you would be overrated.
+&gt;&gt; Mhm.
+&gt;&gt; And if for someone who's structuring
+their career, uh, would you say it's
+better to be overrated or underrated?
+&gt;&gt; I think long term, you know, if if
+you're if you're using that terminology,
+it's probably better to be underrated. I
+think, you know, being being overrated
+can feel great in the moment, um, but is
+rarely sustainable,
+uh, and and and really sort of gets you
+where to where you you you you need to
+be. I really enjoy, you know, uh,
+you things like sports and and and you
+know, these sort of creative hobbies and
+and, you know, crafts because it it it
+does, you know, turn that um, let's say
+perception and reality knob to to very
+much reality, right? Like as a as a as a
+sports person, you can't you can't fool
+the world for very long. uh it it very
+quickly becomes uh you know very obvious
+you know who who can and who can't uh
+you know I think as a as a crafts person
+the same right it very quickly becomes
+um obvious who who can and who can't and
+I think it takes a little bit longer in
+a field like ours where there are is so
+much kind of qualitative stuff that goes
+on um but I think long term when I look
+at you know careers that I really admire
+and people I really admire uh they tend
+to be people who are personally very
+honest about their level of of knowledge
+and understanding and skill.
+&gt;&gt; So people who walk the walk, not
+necessarily Yeah. talk the talk. I see.
+Yeah. About engineers that you admire.
+I'd be curious because you have worked
+at AWS and for such a long time and you
+have seen so many legendary engineers.
+Who at AWS do you look up to and and
+why?
+&gt;&gt; Yeah, I mean you know just just
+fantastic. One of the blessings of
+working at a place like AWS is I get to
+work with so many great people. Um, you
+know, maybe because he's retired, I'll
+I'll I'll talk a little bit about so
+Elva Muan uh was was one of the sort of
+early engineers at AWS and um original
+say huge contributor to the design of
+S3, a really big contributor to the
+design of our lot of a lot of our
+database services over time. Um El was
+actually the the CTO of Amazon for a for
+a period of time when he realized I
+think that wasn't the job he wanted to
+do. Um but I you know what I really
+admired about uh about El from early in
+my career is
+you know very clearly he was somebody
+who deeply understood the things he was
+he was doing and he could work in these
+two modes right like you know I I have a
+great um memory of a sort of 2010ish uh
+you know arguing with Al about some of
+the edge cases in in the the Paxos paper
+and you know he was super deep at that
+level but could also get up to the the
+really kind of executive level and talk
+about you know cloud strategy and the
+way we should be explaining things to
+people and some of the you know sort of
+fundamental things that we need to be
+building. Um, and I really admired that
+ability to work sort of almost at at
+every level. And I was like, "Wow, you
+know, this is this is something I aspire
+to. Um, and uh, you know, want to model
+my want to model my own career after."
+Um,
+and so, you know, that's I I think that
+is uh, you know, the kind of person I've
+really, you know, really enjoyed working
+with is is people who do have that, you
+know, do have that breadth. Um, and I
+think, you know, one of the other things
+that is, you know, really admirable
+about a lot of these folks is, you know,
+they they don't want to be celebrities,
+right? They they they want to do cool
+work for, you know, have an impact, do
+great stuff for customers, you know,
+optimize for having impact. you know for
+people who want to continue their
+engineering education and really remain
+on top of things deeply understand the
+technology do you have any top technical
+book recommendations
+&gt;&gt; you know anybody who's building
+distributed system things I I I highly
+recommend um Martin Kipman's book um I I
+think there's a second edition of that
+coming out you know soon um there's a
+new edition of quantitative systems
+design book which I also I think is is
+is great. Sorry. Hennessy and
+Patterson's computer architecture book.
+Uh this this is a super you know super
+useful one that covers a a ton of
+ground. I I I read a ton of uh you know
+fiction and and and non-fiction and and
+mostly papers when I'm reading technical
+things. I find you know I find engaging
+at that level you know more more useful
+for me. Um and by the way that's that's
+become way more uh accessible now. You
+know, one of the great ways to dive into
+a paper is, you know, hey, uh, you know,
+hey Claude, summarize this for me and
+then then I can dive into it and and and
+read, you know, the author's words. And
+I I find that mode is great and and this
+is super accessible for people who
+haven't been able to read papers uh in
+in the past. Um,
+but uh, you know, and then there's also
+a ton of insight in in some really old
+stuff, too. uh for example
+um you know some of the
+algorithms that we used in in in Lambda
+uh to to manage traffic and and manage
+bursts of traffic come from Erlang's
+work like a hundred years ago on on
+managing telephone call centers uh and
+and his book about that and um and so
+you know folks also shouldn't think that
+oh well the industry is changing super
+fast and so I should only read recent
+things like there's
+incredible insights in some of the, you
+know, older work um and in the
+foundations of
+computing and infrastructure and and and
+networking and and computer science that
+there's um you know, more again more
+maybe more leveraged than ever before,
+you know, deeply understanding those
+topics. And then last question for you
+is if you could go back to your younger
+self when you just joined AWS and give
+yourself some advice, what would you
+say?
+&gt;&gt; I think maybe be a little bit bolder. I
+really loved the team that I worked with
+and and you know you know especially in
+EC2 and and in the early days in EBS and
+I think I was a little bit more hesitant
+than was optimal about leaving those
+teams and and looking for the next
+thing. um you know as
+um you know my
+own learning and impact kind of you know
+tapered off a little bit in in in those
+those places and so you know I think
+I've changed organizations kind of
+in a big way four times in my career and
+maybe five or six would have been
+optimal not a lot more but but some more
+uh and so you know don't don't hesitate
+uh to think about you know what am I
+learning and who am I learning from and
+is there a better environment to to to
+do that you know more quickly and uh and
+and to learn more things and you know
+I'm highly personally highly motivated
+by being able to follow my curiosity and
+every time I've done that in my career I
+found that a valuable move
+uh and uh and something that I've you
+know personally enjoyed.
+&gt;&gt; Awesome. Okay. Well, thank you so much
+for your time. I I really appreciate it,
+Mark. Uh, thank you for sharing with the
+the audience.
+&gt;&gt; This has been super fun. Thanks so much.
+&gt;&gt; Thank you for listening to the podcast.
+It's a passion project of mine that I've
+really enjoyed building. Another passion
+project that I've been working on kind
+of in secret is building an ergonomic
+keyboard that I wish existed. And I
+finally have a prototype. So, I'd love
+to show you what we've built. It's ultra
+low profofile and ergonomic. And I
+couldn't find anything like it on the
+market. So that's why we built it. I'll
+put a link to the keyboard in the
+description. You can take a look and
+learn more about the project there. We
+could definitely use your support. Also,
+if you have any feedback for me about
+the show, I'd love to hear it. Comments
+on YouTube have led to guests coming on
+like Ilia Gregoric and David Fowler. I
+wasn't aware of them until someone
+dropped a comment. Also, feedback in the
+comments helped me learn to reduce the
+number of cliffhers in the intros. So,
+your comments definitely make a
+difference. Please keep letting me know
+what you'd like to see more of in the
+show, and I'll see you in the next
+episode.

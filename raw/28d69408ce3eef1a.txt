@@ -1,0 +1,1082 @@
+原文： https://www.youtube.com/watch?v=kMYeTRqzAfc
+
+Today I'm joined by Amjad Msad, the CEO
+and co-founder of Replet. Replet is the
+leading noode app builder uh for
+consumers and enterprise. They just
+recently raised their series D, a $400
+million raise at a 9 billion valuation.
+Amjad, thank you very much for joining
+me and I'm excited to learn more about
+Replet.
+&gt;&gt; Thank you for having me.
+&gt;&gt; Of course. Why don't you tell us a
+little bit about what Replet is? Yeah.
+So, um, you know, our ambition is that
+anyone, no matter what level of skill
+they have, anyone who can read and
+write, basically, that's the skill that
+that you need, can come in with an idea
+and can leave with a an app that's
+deployed, that's hosted, that's getting
+traffic, that's can scale, and they
+don't have to worry about any technical
+aspect of the uh of building that thing.
+Um, and it's been it's been a mission
+we're on for for 10 years right now. So,
+initially we solved the development
+environment. You know, that was the
+hardest thing is like setting up a
+development environment. Then solve the
+de deployment environment. Then what was
+left is like the coding part was still
+very intimidating for people. And
+September 2024, Replet became the first
+like what's called Vive coding product
+where uh we abstracted away code
+entirely. So there's like a coding agent
+behind the scene, but you're just
+interfacing with AI using natural
+language. And more recently with agent
+4, uh, also design interactions. So you
+can write things, you can comment on
+things, you can drag and drop things in
+like a canvas. And we're thinking about
+a lot of different modalities for how
+people want to interact with agents
+because I don't think it's always going
+to be just text. I think at some point
+it's going to be multimodal, maybe
+video, maybe audio. But we want to
+create a natural place where people can
+express their ideas and those ideas can
+turn almost magically into software that
+is real software that it's not like a
+toy software. Real software, secure
+software, scalable software.
+&gt;&gt; One of the things that's most
+interesting to me about about your
+company is that it really bridges the
+the gap between a dev tool and and not I
+I think it's the first dev tool I've
+seen, but that's not marketed towards
+engineers. like can you tell me more
+about how you came to that uh decision
+that you were going to do that and and
+who is your primary user today?
+&gt;&gt; Yeah, so you know I I started coding at
+a very very young age but um I was
+always interested in in the act of
+creation. I was interested in
+entrepreneurship. I built like my first
+business when I was 13 14 and I always
+thought that the developer tools were
+getting in the way. It actually gotten
+worse over time. So, you know, I
+started, you know, coding on basic and
+you just start the basic command line
+interpreter and you can just like type a
+little basic and that's good.
+&gt;&gt; By the time I graduated from college,
+like setting up, you know, a web app was
+like a nightmare, right? Um, and so it
+created this desire to just like build
+tools that are that are more joyful,
+more enriching, kind of focus on the act
+of creation as opposed to the accidental
+complexity of of of developer tools. And
+so, uh, I started building a lot of
+tools for myself. Uh, and eventually I,
+you know, I built what would become the
+kind of the first and browser IDE.
+Initially it was like an open source
+project. Later on I would also worked on
+React and React Native. And I approached
+every time I I built a developer tool
+I've approached with the same thing. Can
+you apply design sensibilities in the
+same way that we you would work on a a
+consumer app uh and that's been
+successful in in many ways but
+ultimately when we started replet the
+goal was make programming accessible.
+Later we updated our mission to create a
+billion billion new developers.
+As we progress in our in our mission and
+in solving every part of the software
+development life cycle, what we've
+noticed is a lot of developers actually
+like the pain.
+&gt;&gt; They they like setting they the you know
+setting up things and they like
+configuring every aspect of it. It's
+it's sort of like which is no knock
+against that but like it's sort of like
+a crafts person kind of liking to build
+their own tools.
+&gt;&gt; And what we've noticed that people that
+are getting the most value out of a
+product tend to be the more tech
+adjacent ones. Maybe people product
+managers have written code many years
+ago but don't worry worry about the
+development environment setup. Don't
+want to worry about the deployment
+setup. Um then designers, designers who
+have ideas but are often blocked or
+bottlenecked by engineers and they want
+to be able to build their own ideas. Um
+and later on as we layered on AI and the
+product got better entrepreneurs and
+when when I talked to these people it um
+it reminded me of myself. Those are
+people with with ideas, with passion,
+with fire
+&gt;&gt; in them,
+&gt;&gt; but but but they're getting hamstrung by
+by just like the need to learn to become
+technical.
+&gt;&gt; So at at some point in 2023,
+um we just made it an explicit goal of
+like we're not going after developers.
+They're still developers. Like if you
+walk around Replet today, it looks like
+a dev tool companies. We're like
+building for creators, right?
+&gt;&gt; But they're not the traditional type of
+developers. It's like a new generation
+of developers that are coming up right
+now because of AI. They're AI native
+developers that are creating software
+without having to worry about every
+component in the system.
+&gt;&gt; It's so interesting hearing you say this
+because it it sort of reminds me I
+learned to program on VB6
+&gt;&gt; and and that's uh to me that's a real
+you know this idea of the tools opening
+up and making making it possible for
+people that couldn't code. I couldn't
+code. I learned to code in VB6 and and I
+see sort of a very similar thing that
+you're exploring with this.
+&gt;&gt; Yeah, VB6 was better than setting up
+React and Webpack
+&gt;&gt; 100%. I remember the transition. Yes,
+&gt;&gt; it's it's it got worse over time, which
+is like now many things get worse in
+life, but programming got worse and I
+wanted
+&gt;&gt; to bring it back,
+&gt;&gt; make programming great again
+essentially.
+&gt;&gt; That's so interesting.
+uh tell tell me about what people are
+building today in in Replet.
+&gt;&gt; Yeah, I mean there's a few different
+categories. There's personal software,
+there's enterprise software, and then
+there's like entrepreneurs building
+building products. One of the apps that
+I really liked recently was talking to
+uh a physical therapist uh and her
+husband and she is a physical therapist
+that's um built up so much know deep
+knowledge in a subsection of physical
+therapy that is like uh around fascia
+and fascia release and she has all these
+different methodologies and ways of
+tracking uh the progress for her clients
+and she wanted to build an app that is
+very sophisticated. Mhm.
+&gt;&gt; Uh like uh being able to take scans of
+your body, being able to to scan your
+range of motion um and to track that on
+a 3D representation of your body. And
+they spent hundreds of thousands of
+dollars offshoring uh to developers
+around the world.
+&gt;&gt; And eventually they kind of were
+frustrated by the entire process, took
+matters into their own hands, built it
+on Replet. And I when I saw that app, I
+was like one of the best
+&gt;&gt; like health tech apps I've ever seen.
+And and they're not
+&gt;&gt; Yeah. because the domain experts can now
+actually build the product.
+&gt;&gt; Yeah. People who are closest to the
+problem can build the the the the
+product they need. You know, I uh talked
+to a founder the other day that's
+building a SAS solution for
+um for people who maintain pools like
+and he grew up in a in a household where
+their comp where their family business
+is is a pool business. And so it's like
+there's so much software to build in the
+world. I also met a founder yesterday
+who's building uh software for sports
+clubs and he was showing me pictures of
+the software they're using today which
+is MS DOS based software.
+&gt;&gt; Oh wow.
+&gt;&gt; And so here in Silicon Valley we look
+around us and we're like oh what else is
+left to build? But but there's so many
+walks of life. There's so many um things
+that are kind of a blind spot for us.
+And so suddenly when anyone can make
+software a lot of parts of the economy
+is just going to improve and that's like
+I think a beautiful thing and a lot of
+wealth creation is going to happen
+productivity gain as well. Personal
+software is also really cool like you
+know talked to a lot of families that
+built like you know healthcare software
+like there's like a mom in Korea that
+built software uh that helped manage a
+very rare condition for her kid. Um a
+lot of people build like personal like
+uh you know healthcare software or like
+tracking uh physical activity or
+ingesting data from all their wearables
+and and doing something with it.
+&gt;&gt; A lot of software for families like a
+mom built like a chore hero software
+iPad that's like on the wall that shows
+the kids how they're ranking on their
+chores.
+&gt;&gt; And then there's the enterprise use
+case. And in enterprise it tends to be
+two different use cases. One is uh
+product development. So companies want
+to move a lot faster on product
+development. Everyone now is feeling the
+pressure of of AI. We need to move
+faster, faster, faster. And they're
+realizing that it doesn't fall just on
+their engineers. Their product people
+can now build software. The designers
+can build software. We hear from clients
+uh like one of my favorite stories like
+uh Whoop is a is a client of ours and
+they told us like
+&gt;&gt; the amount of ideas they can try has
+grown by an order of magnitude
+&gt;&gt; right like they used to you know get get
+like a hundred ideas but are able to
+only try five of them
+&gt;&gt; right
+&gt;&gt; but now they can try the 50 right
+&gt;&gt; um so uh you know companies become a lot
+more prolific they can release a lot new
+features create new new business lines
+new products And then there's like
+internal tools and you know line of
+business applications. Um there's a lot
+of sales automations that that that is
+happening at this company. Any any role
+inside a company that's dealing with a
+lot of data flow for example think of
+revops that are the nexus of a lot of
+different data flow from from their CRM
+from their data people from gong from
+and they want to be able to do things
+with this data and typically they're
+kind of bottlenecked by either
+engineering resources or the different
+SAS tools that they would want to buy.
+The problem with SAS is you onboard a
+new SAS tool that creates a new silo of
+data that you can't really program.
+&gt;&gt; So now they're taking matters into their
+own hands and building things like you
+know quote configurators and um and
+being able to save the company hundreds
+of thousands of dollars if not millions
+of dollars on SAS tools and things like
+that.
+&gt;&gt; How how are you finding these users?
+Like how do you market to them? How do
+you get them to to try it out? And then
+I I assume for enterprises it's got to
+be a very complicated sales cycle like
+you know getting getting into the
+company like how does all that work?
+Well, the cool thing about the the world
+we're in right now and it's very similar
+to developers. You know, I think the
+insight that a lot of YC dev tool
+companies has had like you know Stripe,
+you know, page your duty. Um you uh you
+uh developers were empowered to be able
+to make decisions to bring software into
+the company at some point like in the
+last couple decades, right?
+um that that shift is happening outside
+of development right now where the
+product manager, the designer, the
+operations manager is empowered to bring
+software. So the consumer use case, the
+personal use case is often overlapping
+with the work use case in that people
+are playing with these tools on the
+weekend. They're building their own
+personal apps. They're like, "Oh,
+&gt;&gt; look, the moment you understand that you
+can solve a problem with code,
+&gt;&gt; it changes your mind." like almost
+there's like a neurological shift where
+you start looking at the world
+differently where you go around and
+you're like oh I can solve this I can
+fix this
+&gt;&gt; I remember that when I learned to
+program
+&gt;&gt; yeah exactly and now that shift is
+happening in a huge parts of the
+population
+&gt;&gt; and so it's you know PLG play I think is
+still the gold standard just make a
+product that's really good that people
+want to recommend their to their friends
+&gt;&gt; and make it easy to refer others you
+know build a referral program do all of
+that stuff
+&gt;&gt; and then on the sales side, a lot of it
+is very kind of sales assisted. So,
+someone brings it to work, we talk to
+them, they're the champion, we help
+them. It's like, okay, what do you need
+to convince your boss in order to bring
+this to work? Let's work with them to do
+a hackathon to bring create more
+champions inside the company. Uh, let's
+work with you. Let's teach you
+leadership about AI. What? So, a lot of
+what our sales people are doing is
+evangelism, is education. So, it's it's
+a different kind of sales motion, I
+think, than the previous one. We still
+have enterprise sales that's more top
+down where a company comes to us, we're
+like, "Hey, we're trying all the
+different VIP coding tools. We heard
+it's good for our business. Can you help
+us kind of evaluate Replet?" And we go
+into that and um and there we're often
+winning because Replet has built um uh a
+history of just like being uh super
+trusted on security, on compliance, all
+that basic enterprise stuff you still
+you still have to do. Let's talk about
+sort of what what the limits are today
+of what you can do with a product like
+Replet like what what kind of systems
+can you build in replet and what do you
+still need to have sort of traditional
+uh software engineering approaches to
+&gt;&gt; I can confidently say to any
+entrepreneur out there that you can
+build a SAS product a consumer product
+um like an automation product on replic
+comfortably
+&gt;&gt; if you want to build like new cloud
+platform or you want to build like a new
+machine learning system. That's not
+exactly what we're focused on today.
+Some people still figure it out. Replet
+is a versatile tool. We give you have a
+virtual machine. We give you a general
+purpose agent and if you have some
+technical knowledge, you can bring that
+and you can build sophisticated things.
+&gt;&gt; But if you want to build things entirely
+vibe coded without worrying about the
+technical details, we have so many
+examples on our website and what we talk
+about uh in our marketing. uh we you
+know that there's so many success
+stories now that I can confidently tell
+an entrepreneur with no technical
+knowledge that they can build right
+&gt;&gt; uh a piece of software so there's a lot
+of consumer apps there are a lot of um
+there are a lot of uh you know vertical
+SAS products there are people that are
+starting uh like replet native agencies
+I was talking to
+uh someone from Iceland yesterday and he
+was telling me they're getting so much
+business because they're 60 to 70%
+cheaper
+and more effective than traditional
+agencies and they're all vioding on
+replet. So they they get a client that
+that client wants an application not
+everyone knows that they can build the
+application themselves. So they're going
+in it's probably a period of time and
+they're able to make a lot of money that
+that way. you know, the internal tools,
+automations, those tend to be kind of
+fairly simple uh programs like you're
+building an internal org chart, you're
+building um a CPQ system like a quote
+configurator where it's like pulling
+from Hopspot or Salesforce. We have a
+lot of MCP and integrations that allows
+uh to do that. Um
+&gt;&gt; how how do those integrations work? Like
+have you gone through and built
+integrations to all Okay.
+&gt;&gt; Yes. Yes. We spent a lot of times
+partnering with companies building those
+integrations and now there's the what's
+happening with the skills call
+revolution where you know companies are
+putting out skills and MCPs and we just
+vet them and integrating into into the
+product and so as you're talking to
+replet and you're like I want to
+integrate stripe and so we already built
+a set of skills and sometimes code and
+things like that and we'll search a
+database we'll bring all that in and now
+it's in context and know the agent is
+Like it's sort of like Neo in the Matrix
+where like you you download a new skill
+and you're like, "Oh, I know how to fly
+a helicopter now." So it's so cool to
+see the agent is like, "Oh, let me
+search this set of skills that I have
+and suddenly it knows how to do that."
+But we spend a lot of time just making
+sure they're secure and they're safe.
+&gt;&gt; That makes sense. Yeah. Having built a
+dev tool community, like how is that
+different? How do you build the sort of
+like ground swell of support to pull
+yourself into those organizations? Is it
+different than how it how you would have
+done it traditionally?
+It's it's a little different in that you
+need to show what's possible. I think
+with with developers with more
+traditional, you know, CS trained
+developers, they know what's possible.
+They know they'll read your docs.
+They'll figure out what's possible.
+They're on hacker news all the time and
+they'll generally kind of are much more
+resourceful in knowing what's possible.
+With replet, there's a lot of education
+that needs to be done. So we have like a
+Devril uh team, but they're not the
+traditional Devril. They're they're more
+like educators.
+&gt;&gt; Yeah.
+&gt;&gt; They're like, you know, going and
+spending a lot of times just teaching
+people what's what's possible. Our
+documentation, I think, is a lot simpler
+than your typical dev tool
+documentation. So you have to be really
+good on content. you know, Stripe got,
+you know, popular for this you being
+really good on documentation
+with if you're building a dev tools for
+non-developers, you have to go above and
+beyond on content. You have to produce a
+lot of video content as well.
+&gt;&gt; Um, also the agent itself needs to be
+imbued with characteristics that is able
+to talk to non-developers and tell them
+what's possible and be a brainstorming
+partner. Also this is why we also moved
+from purely just prompting to also uh a
+canvas and more visual interface so that
+people can explore things uh more easily
+and we have buttons where it says like
+create different variations of this and
+so we're adding a lot of different
+shortcuts just to show people what's
+possible on the enterprise side when we
+go and we talk to leaders we're like
+reserve any judgment don't pay for
+replet we're going to come in bring the
+group that's most excited about AI and
+we're going to do a hackathon How do you
+when you see someone how are you like
+yes this is going to be the person who's
+going to be so excited to use this? We
+think a lot about that because you know
+typically when you think about ICPs
+you're thinking about oh that's someone
+who's went to school for this degree or
+someone who is a product manager or so
+which is still true you can do that but
+often times because we're able to sell
+to sales departments marketing product
+design
+the set of traits that we think makes it
+like the champion the person who's most
+excited about replet who's going to
+spread it inside the organization who's
+going to build who's going to do the
+educ ation evangelism. They tend to be
+very entrepreneurial.
+&gt;&gt; Yeah.
+&gt;&gt; They're the kind of person that could
+start their own company, but they're
+able to kind of be very influential
+internally. They're kind of like what YC
+talks about like PGSA, like resourceful,
+someone who's not going to get blocked,
+who's going to figure out what other AI
+tool I need to integrate, what can I
+like go learn in order to figure it out.
+So that entrepreneurial kind of founder
+mindset I think is very important.
+&gt;&gt; Got it. I mean while we're on the topic
+of YC, you know, I'd love to hear about
+your your experience here like how how
+did YC influence you know what how
+Replet started and what it became?
+&gt;&gt; The main realization from YC is how much
+you can get done in 3 months. So when we
+when we came in and Sam stood uh uh when
+he was still running it, Sam stood in
+front of the batch and said for the next
+three months tell your friend you're
+going to be missing. You're not going to
+be able to help them move. you're not
+going to be able you'll come back into
+their lives later, but for the next
+three months, you need to be
+hyperfocused on this company and you're
+going to be able to achieve great things
+if you really go intensely into it. When
+we did YC, we had the we had a
+whiteboard
+&gt;&gt; and a countdown to to demo day.
+&gt;&gt; Mhm.
+&gt;&gt; Uh and a number of like a just a very
+simple list of things we need to
+achieve. Yep.
+&gt;&gt; And every day we wake up, we erase that
+number and we change it to the
+countdown. Um and and when replet got
+got into YC, it was still a ripple.
+That's the name, right? It was still
+just like a command line with like you
+just type a little bit of code and run
+it.
+&gt;&gt; We exited YC, we already had like um web
+development, we had like the initial
+aspect of hosting, we had code
+intellisense, we had like so many sort
+of IDE features like got a lot more
+feature complete just in three months.
+And that that is an empower thing sort
+of what we talked about with
+programming.
+uh just the fact that like oh you can be
+so intensely focused and you can work so
+hard and achieve so much in three months
+and now every agent release there is
+it's not three months it's more like
+four weeks where we bring everyone
+because some people are still kind of
+remote or other offices bring everyone
+to the office we provide breakfast lunch
+and dinner coffee 24/7 and we're like
+we're just going to hit this like very
+very ambitious goal and that's like the
+YC mentality. Another thing is the
+compound growth, especially when you're
+spinning up a new product or a new
+initiative. This idea of like I don't
+know where PG came up with the number
+seven, but like 7% week overweek growth
+&gt;&gt; is like a very good way to bootstrap a
+new new product line. So, we're
+constantly doing sort of we're
+constantly going back to the YC basics
+and doing them and all of that we
+learned here.
+&gt;&gt; Tell me about um how how did YC change
+your life?
+There are a few ways. One is before we
+got into IC, we couldn't raise all that
+much money. We raised like maybe
+$500,000
+and you know VCs did not want to meet
+us. It was like the doors were not
+really open for us. Uh after YC you
+immediately first of all demo day you
+got introduced to a lot of VCs. Um, and
+then we were lucky because we got
+rejected from YC four three or four
+times and then we got invited to do YC
+because Paul and Sam saw us on Hacker
+News.
+&gt;&gt; Yeah.
+&gt;&gt; Uh, and so we got a direct relationship
+with Paul and Sam and then at the end I
+was like I want an intro to Mark and
+Dreon
+&gt;&gt; and you can still ask the partners here
+like they they'll they'll try a lot to
+to get you intros but I was like bold
+enough to ask for that and so they got
+me an intro to him. I went and had
+breakfast at his house and pitched
+Replet and A16Z ended up leading our
+seed round.
+&gt;&gt; Nice.
+&gt;&gt; Uh and and like my network just expanded
+tremendously after getting into YC and I
+don't think we would have been as
+successful without YC. Perhaps we would
+have quit
+&gt;&gt; if we couldn't fund raise or
+&gt;&gt; so it gave it gave our our company life.
+&gt;&gt; Yeah. Yeah. For us it was very similar.
+We were complete outsiders and I think
+having
+&gt;&gt; having you know somebody sort of welcome
+you in made made an enormous difference.
+&gt;&gt; Yeah 100%.
+&gt;&gt; So you guys just announced uh agent 4.
+So what is that like the fourth major
+revision of your um of your product?
+&gt;&gt; Yeah. So we kind of an act of trying to
+predict the future and based on what
+we've seen at the time starting in kind
+of 2024 we thought that broadly
+the AI capabilities have massive step
+changes uh twice a year.
+&gt;&gt; Mhm. Uh so if you think about 2025
+um there was the like vibe coding
+revolution that happened in earlier 2025
+and then there was the the you know the
+the autonomous revolution that happened
+in late 2025 with Opus 4.6 that led to
+openclaw and and things like that. Uh
+but I can tell you the same thing
+happened in 2024. Mid 2024 cloud came
+out and um uh Cloud Sonnet and for the
+first time we could generate like a lot
+of code as opposed to like GPT3.5 which
+has that that laziness component. Um and
+then late uh 2024 we started seeing
+initial signs of the labs kind of um
+doing long horizon reasoning. And so the
+&gt;&gt; so that observation we're like okay we
+want to align our road map to AI
+capabilities.
+&gt;&gt; Um and so every six months we release a
+new uh a new agent version. Um and it's
+an active predicting what's possible.
+was also pushing the edge of what's
+possible. So, for example, agent 3 was
+the most autonomous agent on the market.
+We want we knew that autonomy was coming
+and we're like, okay, we want to be able
+to run the agent for like two, three,
+four hours. People should be able to put
+put in a big prompt, go to launch, come
+back and and see the software fully
+fully built. And so, okay, what do we
+need to do to update our platform? for
+example, like we had we had to rewrite
+everything on the back end to have these
+long running containers in the
+background doing work while the user is
+not in front of the computer. And so we
+did all of that work and although
+autonomy didn't arrive until like maybe
+like like true autonomy until like
+uh November and and December, Replet
+agent had demonstrated where the world
+is headed by by September,
+&gt;&gt; right?
+&gt;&gt; With agent 4,
+there were a few things. one parallel
+agents. We thought that was finally
+potentially possible to do parallel
+agents. The the the thing that sucks
+about autonomy is that you can put in a
+big prompt and you were kind of sitting
+back and just like watching it work like
+what do you do next?
+&gt;&gt; Okay, so that question, what do you do
+next? You should be able to design,
+should be able to kick off other type of
+work. Um should be able to chat with
+your agent and and plan for other
+things. And so we wanted a more
+asynchronous nature to the product. Uh
+so we started building towards a multi-
+sort of Asian architecture and power
+Asian architecture. We had to solve
+merge conflicts and so many things to
+make that work.
+&gt;&gt; Also as as the agent is building we want
+to also unblock you from designing. So
+we also had a kind of a more
+asynchronous design agent and we're like
+okay what what is the best interface for
+that? So we designed this canvas.
+&gt;&gt; Yeah. So now we have a built-in design
+capability inside replet to um to be
+able to explore the next page you're
+going to build or the next feature we're
+going to build while the agent is
+building and then once you're ready
+you'll kick that off into another thread
+&gt;&gt; and it starts. So people are now sitting
+in front of replet and just experiencing
+the state of flow.
+&gt;&gt; Yeah
+&gt;&gt; because agents are slow that's fine but
+they can work in the background
+&gt;&gt; and finally uh teamwork. Once you solve
+parallel agents, you've also solved
+teamwork because every time someone
+jumps into the session, you can start an
+entirely new, you can fork entirely new
+VM for them and they can work in
+parallel to you.
+&gt;&gt; And also because the orchestrator knows
+how to subdivide tasks. You can also
+prompt in the same chat window and we'll
+figure out how to make all that work.
+And because we had the canvas, it was
+it's it's such a joy to just see other
+cursors and people the the product just
+becomes a lot a lot more live. So all
+these components became uh Asian for oh
+final one I forgot.
+&gt;&gt; We wanted it so that when you make a
+mobile app when you make a website when
+you make uh a deck when you make a video
+all of that should have the context of
+your project. previously on replet and
+now every other tool. It's basically you
+need different tool for a website,
+different tool for mobile app. So now
+replet like you built a really cool web
+app. It's like maybe I maybe I need an
+app. You could just say make a mobile
+app.
+&gt;&gt; We'll like generate a mobile app. It
+will lay it out on the canvas. When you
+hit deploy, it deploys your web app to
+the web. It deploys your app to test
+flight or the uh or uh or your Android,
+whatever it is. So, so now you can run
+your entire company on Replet.
+&gt;&gt; What What kind of skills do people need
+to develop to to be able to make the
+most of of products like yours? Like
+what what is the you know what what do
+people need to get practice at? Like in
+your mind, is it is it people have to
+get good at prompting or is it more that
+the system is going to get better at
+just understanding whatever it is you're
+asking it to do?
+&gt;&gt; I actually think we're headed to like a
+postprompting world.
+Um and you can you can sense that in the
+sort of open claw and all the
+derivatives and the way people are using
+it um they're more giving it high level
+goals like optimize my marketing funnel
+you know things like that so prompting
+will be there it's like a layers of
+skills prompting will be there whenever
+you want to do more interactive type
+work but also you should be able to give
+your agent highle commands so I think
+perhaps agent five or maybe sooner you
+should be able to tell replet every day
+build me a SAS company and like try to
+market it and see what works and make me
+some revenue like you should be able to
+give it like
+&gt;&gt; that's pretty high level.
+&gt;&gt; Yes,
+&gt;&gt; I think we're almost there uh in order
+to be able to do that. So what kind of
+skills do you need? Understanding what
+is possible is going to be important. So
+playing with these tools a lot having
+this like playful mindset of adopting
+these tools, playing around with it,
+being plugged in
+&gt;&gt; is super important. At some point, I
+think it was kind of a drawback or a
+flaw to be someone who's like constantly
+reading the news or being online,
+&gt;&gt; but actually now it's very important to
+know what's happening, what's coming
+down the line.
+&gt;&gt; Yeah.
+&gt;&gt; Um I think um not giving up is
+important. Like the thing that you try
+to do today that they cannot do, try it
+again in a month.
+&gt;&gt; Yeah. And I tell some replet users if if
+whatever you're trying to build replica
+and build today, try it in a couple
+weeks. It might be able to build it. Um,
+and so that that mindset of like I'm
+going to keep trying is is is important.
+Idea generation is still going to be
+important. Obviously, we're going to get
+to a point where where AI is going to be
+really good at helping you generate
+ideas. Um, but being generative, just
+constantly thinking about problems you
+want to solve. Um, and just being
+creative and like figuring out what what
+what what does the world need right now?
+And um, and being generative is
+important because let's say you're a
+small-time entrepreneur. Um, like you
+know, Peter Levelvel's type of
+entrepreneur or like this guy is very
+famous on Twitter who built these
+products. oftentimes the products go
+through cycles like we build like a
+product that is really good for that
+moment and you can generate like a
+couple million dollars but then that
+product is no longer relevant. So you
+need to be generative and creative in
+order to continuously do that and you
+can make millions of dollars doing that.
+&gt;&gt; If you were starting Replet today,
+what would you do differently?
+&gt;&gt; I mean, I made a lot of mistakes along
+the way. Uh, so if I was starting Replet
+today, I'd probably hope not to make as
+many mistakes. So, you know, culture is
+very important. You know, at some point
+we screw that up and we had to do we had
+to do a reset and lay off and all of
+that stuff. Um
+I think being really honest with
+yourself about like product market fit
+is very important. It's very easy to
+delude yourself.
+&gt;&gt; Getting any kind of user is an amazing
+achievement. Getting any money kind of
+money from users is also an amazing
+achievement and you should celebrate
+every one of those moments. But true
+product market fit is entire entirely
+different. It's like an explosive thing.
+&gt;&gt; Yes. And so being honest about that
+because we've had periods we're like,
+"Oh, it looks like that's successful.
+Maybe it's working
+&gt;&gt; and like you keep going down that path."
+But in reality, you should have changed
+directions a little earlier.
+&gt;&gt; Yeah. When it works, it really works and
+you know it.
+&gt;&gt; In terms of AI development, AI
+technology, what is something that you
+were waiting for where you're like,
+"This is going to unlock so much." You
+know, I'd been waiting for computer use
+models to to get better. They they're
+slowly getting better. They're like one
+of the things that is actually kind of
+disappointing.
+&gt;&gt; It's surprising to me that it's so hard
+to build them because you'd think that
+it'd be the easiest thing in the world
+to get data for. And do you do you have
+a sense of why that is?
+&gt;&gt; Well, language is is a lot easier. uh
+language also like much more can be
+compressed down into like some kind of
+highdimensional space a lot easier than
+like like a video feed right
+&gt;&gt; but still like if we can make progress
+on self-driving surely we can make
+progress on moving the mouse and
+clicking on things so I think it's a
+little bit of a of a mystery that being
+said coding in coding agents turned to
+be a workaround and hack Because a lot
+of things that you could do in front of
+the computer you could do with code
+including you know scripting in Excel
+sheet right the reason Excel sheet
+agents got better is because coding got
+better. The reason like you know some
+commerce agents are starting to work is
+because they can call APIs and they can
+so coding turned out to be a bit of a
+hack or workaround computer use agents
+but there's still a lot of software in
+the world that's like very legacy
+software that computer use agents would
+would be really good at also when you're
+when you're creating a vibe coding
+platform like like Replet you want to be
+able to test the apps that people are
+making and you want to be able to be
+discerning as well like things that are
+functionally right but also UX is not
+very well you'll be able to give the
+user feedback on that
+&gt;&gt; but the models are not very good at that
+so we spend a lot of time
+&gt;&gt; taste question I take it
+&gt;&gt; taste question so we spent a lot of time
+prompting and augmenting
+computer use models in order to to make
+them good at testing because replet has
+like a testing testing agent
+um so that's one that I think will
+unlock a lot of different capabilities
+once we get to computer use agents.
+Um
+I think like
+yeah I think it's become a buzzword but
+like continual learning like the way
+we're hacking around it right now is
+we're writing to files
+&gt;&gt; like the agent will learn some kind of
+skill and like we'll write a skill MD
+file or something like that but true
+learning on the job is like not been
+unlocked yet.
+&gt;&gt; Yeah. Yeah. Uh, and so for us to be able
+to like deploy an agent inside an
+organization and for that agent just to
+continues to get better for that org
+itself is is is such a powerful thing.
+But but that just still seems far away.
+You know, I I I think, you know, one one
+of the common themes I'm hearing here is
+is like we're hey, we're going to have
+like or we already have today with
+Replet like agents to build software and
+and you talked about how we're
+increasing the abstraction until finally
+you can just say, hey, I I want a
+company that just makes money.
+&gt;&gt; How how is this going to work? Like how
+what does that leave left for people?
+And and what does the company of the
+future look like if it's all just agents
+all the way down?
+Um I think I think the company of the
+future is made of builders
+and sales people broadly and sales will
+change and sales will be more like let's
+help companies transform. Let's use the
+technology that we're building here to
+help companies transform. So when sales
+people are more like I mentioned it
+earlier like more like evangelists more
+like educators
+&gt;&gt; but I don't think that part is going to
+go away because a lot of other companies
+will want to talk to someone will want
+to learn from someone right that's how a
+lot of people learn um and they want you
+they trust other humans and so the sales
+probably part is like one of the more
+defensible jobs
+&gt;&gt; interesting
+&gt;&gt; um and then builders uh there's always
+more to automate. There's always I think
+our our job will continuously like get
+higher and higher level. I mean that's
+already the case that with computers we
+became a lot more higher levels like
+computers were literally humans right
+like there was like a you know bunch of
+people like doing computations of
+numbers
+&gt;&gt; tables of numbers and then we're like we
+you take that entire room and you put it
+in a box that's computer and now there's
+my job as like the operator of the
+computer to use a computer for
+productive use.
+uh and there was a lot of still manual
+work in order to make that computer do
+interesting things uh software and now
+we have an agent that's using that
+computer to use so you know different
+layers of abstractions I don't know when
+you have a fully autonomous company
+maybe at some point there's certain uh
+styles of companies that could be fully
+autonomous but I think you need business
+generalists that understand customers,
+understand what people need, understand
+the economy, understand where the world
+is headed, understand AI technology,
+what where have some vision and you want
+to give them so here's like the abstract
+vision of a future company. It's like
+almost everyone is a founder. They wake
+up in the morning and they think how can
+I make the company more successful? How
+can I make the company make more
+revenue? Mhm.
+&gt;&gt; And then they go around the company
+finding problems to solve and then
+creating or deputizing agents in order
+to go solve these these these problems.
+We're already seeing that we actually
+have a team like a vibe coding and
+resident team at Replet
+&gt;&gt; and they have a very vague mission
+unlike like a product team or sales team
+where it's very clear like go around the
+company make it better. So they went to
+the support team and was like, "Okay,
+you know, you're using Zenex and all
+these other tools. What are the main
+problems?" And we're like, "Well,
+we don't have a good way to prioritize
+our uh support queue. Um, for example,
+like there are customers that are paying
+much more than other customers and there
+are customers that, you know, have more
+urgent tickets." And so they built like
+a way to to visualize that visualize
+that and and uh a way to like create
+more priority cues. Um and they spent
+some time with with the support team and
+the seat score started going up
+&gt;&gt; and then they go around they go around
+their HR team. What are the problems?
+Well, onboarding is a problem. There's
+no place for people to to know all the
+benefits and everything that we have.
+Well, let's build an HR internal HR
+platform. So they they do that and I
+think that kind of role is more
+is more where the future is headed and
+more and more people inside the company
+will be more generalist entrepreneurs
+that are trying to make the business
+successful.
+&gt;&gt; Well, thank you very much for joining
+me. A pleasure to have you here at YC. I
+&gt;&gt; appreciate it. Thank you.
