@@ -1,28 +1,29 @@
-const unscheduledList = document.getElementById("unscheduledList");
-const scheduledList = document.getElementById("scheduledList");
-const unscheduledCount = document.getElementById("unscheduledCount");
-const scheduledCount = document.getElementById("scheduledCount");
+const briefsTab = document.getElementById("briefsTab");
+const deepReadsTab = document.getElementById("deepReadsTab");
+const briefPanels = document.getElementById("briefPanels");
+const deepReadPanels = document.getElementById("deepReadPanels");
+
 const briefUnreadList = document.getElementById("briefUnreadList");
-const briefArchivedList = document.getElementById("briefArchivedList");
+const briefReadList = document.getElementById("briefReadList");
 const briefUnreadCount = document.getElementById("briefUnreadCount");
-const briefArchivedCount = document.getElementById("briefArchivedCount");
+const briefReadCount = document.getElementById("briefReadCount");
+
+const deepUnreadList = document.getElementById("deepUnreadList");
+const deepReadList = document.getElementById("deepReadList");
+const deepUnreadCount = document.getElementById("deepUnreadCount");
+const deepReadCount = document.getElementById("deepReadCount");
+
 const articleTitle = document.getElementById("articleTitle");
 const articleMeta = document.getElementById("articleMeta");
 const preview = document.getElementById("preview");
 const statusBar = document.getElementById("statusBar");
 const copyButton = document.getElementById("copyButton");
-const promoteButton = document.getElementById("promoteButton");
-const scheduleButton = document.getElementById("scheduleButton");
-const scheduleDateInput = document.getElementById("scheduleDateInput");
-const selectedTab = document.getElementById("selectedTab");
-const briefsTab = document.getElementById("briefsTab");
-const selectedPanels = document.getElementById("selectedPanels");
-const briefPanels = document.getElementById("briefPanels");
+const queueDeepReadButton = document.getElementById("queueDeepReadButton");
+const markReadButton = document.getElementById("markReadButton");
 const itemTemplate = document.getElementById("articleItemTemplate");
 
 let currentItem = null;
-let currentTab = "selected";
-let pendingSelection = null;
+let currentTab = "briefs";
 
 const INLINE = {
   article:
@@ -65,38 +66,46 @@ function setStatus(message) {
   statusBar.textContent = message;
 }
 
-function splitSelected(articles) {
-  const scheduled = [];
-  const unscheduled = [];
-
-  for (const article of articles) {
-    if (article.scheduled_date) {
-      scheduled.push(article);
-    } else {
-      unscheduled.push(article);
-    }
-  }
-
-  scheduled.sort((a, b) => a.scheduled_date.localeCompare(b.scheduled_date));
-  unscheduled.sort((a, b) => a.title.localeCompare(b.title, "zh-CN"));
-  return { scheduled, unscheduled };
+function setCurrentTab(tab) {
+  currentTab = tab;
+  briefsTab.classList.toggle("active", tab === "briefs");
+  deepReadsTab.classList.toggle("active", tab === "deep-reads");
+  briefPanels.classList.toggle("hidden", tab !== "briefs");
+  deepReadPanels.classList.toggle("hidden", tab !== "deep-reads");
 }
 
-function renderItemList(container, items, scope) {
+function formatReadDate(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.valueOf())) return value;
+  return date.toLocaleDateString("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+}
+
+function renderItemList(container, items, scope, group) {
   container.replaceChildren();
   for (const item of items) {
     const node = itemTemplate.content.firstElementChild.cloneNode(true);
-    node.dataset.filename = item.filename;
+    node.dataset.id = item.id;
     node.dataset.scope = scope;
+    const image = node.querySelector(".article-item-image");
+    if (item.preview_image) {
+      image.src = item.preview_image;
+      image.classList.remove("hidden");
+    } else {
+      image.removeAttribute("src");
+      image.classList.add("hidden");
+    }
     node.querySelector(".article-item-title").textContent = item.title;
 
     const meta = node.querySelector(".article-item-meta");
-    if (scope === "selected") {
-      meta.textContent = item.scheduled_date ? `已分配时间：${item.scheduled_date}` : "待分配时间";
-    } else if (scope === "briefs") {
-      meta.textContent = "未读简报";
+    if (group === "read") {
+      meta.textContent = `已读：${formatReadDate(item.read_at)}`;
+    } else if (scope === "briefs" && item.queued_for_deep_read) {
+      meta.textContent = `已加入详读候选 · ${formatReadDate(item.queued_at) || "待生成"}`;
+    } else if (item.published_at) {
+      meta.textContent = `来源日期：${item.published_at}`;
     } else {
-      meta.textContent = "已读简报";
+      meta.textContent = "未读";
     }
 
     node.addEventListener("click", () => loadContent({ ...item, scope }));
@@ -104,21 +113,13 @@ function renderItemList(container, items, scope) {
   }
 }
 
-function setActiveItem(filename, scope) {
+function setActiveItem(contentId, scope) {
   document.querySelectorAll(".article-item").forEach((button) => {
     button.classList.toggle(
       "active",
-      button.dataset.filename === filename && button.dataset.scope === scope,
+      button.dataset.id === contentId && button.dataset.scope === scope,
     );
   });
-}
-
-function setCurrentTab(tab) {
-  currentTab = tab;
-  selectedTab.classList.toggle("active", tab === "selected");
-  briefsTab.classList.toggle("active", tab === "briefs");
-  selectedPanels.classList.toggle("hidden", tab !== "selected");
-  briefPanels.classList.toggle("hidden", tab !== "briefs");
 }
 
 function escapeHtml(text) {
@@ -162,7 +163,7 @@ function renderMarkdown(markdown) {
       : "";
     parts.push(
       `<section class="wechat-info" style="${INLINE.info}"><div aria-hidden="true" style="${INLINE.infoGlow}"></div><h4 style="${INLINE.infoTitle}">${formatInline(
-        infoTitle || "访谈信息",
+        infoTitle || "来源信息",
       )}</h4>${itemsHtml}${sourceHtml}</section>`,
     );
     inInfoBlock = false;
@@ -195,6 +196,8 @@ function renderMarkdown(markdown) {
         infoItems.push(value.replace(/^-+\s*/, ""));
       } else if (value.startsWith("原始来源：")) {
         infoSource = value.replace(/^原始来源：/, "").trim();
+      } else {
+        infoItems.push(value);
       }
       continue;
     }
@@ -219,45 +222,47 @@ function renderMarkdown(markdown) {
   return parts.join("");
 }
 
-async function loadSelected() {
-  const articles = await fetchJson("/api/selected");
-  const { scheduled, unscheduled } = splitSelected(articles);
-  renderItemList(unscheduledList, unscheduled, "selected");
-  renderItemList(scheduledList, scheduled, "selected");
-  unscheduledCount.textContent = String(unscheduled.length);
-  scheduledCount.textContent = String(scheduled.length);
-  const first = unscheduled[0] || scheduled[0] || null;
-  return first ? { ...first, scope: "selected" } : null;
-}
-
 async function loadBriefs() {
   const payload = await fetchJson("/api/briefs");
-  renderItemList(briefUnreadList, payload.unread, "briefs");
-  renderItemList(briefArchivedList, payload.archived, "archived");
+  renderItemList(briefUnreadList, payload.unread, "briefs", "unread");
+  renderItemList(briefReadList, payload.read, "briefs", "read");
   briefUnreadCount.textContent = String(payload.unread.length);
-  briefArchivedCount.textContent = String(payload.archived.length);
-  if (payload.unread[0]) {
-    return { ...payload.unread[0], scope: "briefs" };
-  }
-  if (payload.archived[0]) {
-    return { ...payload.archived[0], scope: "archived" };
-  }
-  return null;
+  briefReadCount.textContent = String(payload.read.length);
+  return payload.unread[0] || payload.read[0] || null;
+}
+
+async function loadDeepReads() {
+  const payload = await fetchJson("/api/deep-reads");
+  renderItemList(deepUnreadList, payload.unread, "deep-reads", "unread");
+  renderItemList(deepReadList, payload.read, "deep-reads", "read");
+  deepUnreadCount.textContent = String(payload.unread.length);
+  deepReadCount.textContent = String(payload.read.length);
+  return payload.unread[0] || payload.read[0] || null;
 }
 
 async function refreshData(preferredTab = currentTab) {
   setStatus("加载内容中…");
-  const [firstSelected, firstBrief] = await Promise.all([loadSelected(), loadBriefs()]);
+  const [firstBrief, firstDeep] = await Promise.all([loadBriefs(), loadDeepReads()]);
   setCurrentTab(preferredTab);
-
   const candidate =
-    pendingSelection ||
     currentItem ||
-    (preferredTab === "selected" ? firstSelected : firstBrief);
-
-  pendingSelection = null;
+    (preferredTab === "briefs" ? (firstBrief ? { ...firstBrief, scope: "briefs" } : null) : null) ||
+    (preferredTab === "deep-reads"
+      ? firstDeep
+        ? { ...firstDeep, scope: "deep-reads" }
+        : null
+      : null);
+  currentItem = null;
   if (candidate) {
     await loadContent(candidate);
+  } else {
+    articleTitle.textContent = "当前没有内容";
+    articleMeta.textContent = "";
+    preview.classList.add("empty-state");
+    preview.textContent = "当前目录中还没有可展示的内容。";
+    copyButton.disabled = true;
+    queueDeepReadButton.classList.add("hidden");
+    markReadButton.classList.add("hidden");
   }
   setStatus("内容已刷新");
 }
@@ -265,27 +270,35 @@ async function refreshData(preferredTab = currentTab) {
 async function loadContent(item) {
   setStatus(`加载《${item.title}》中…`);
   const payload = await fetchJson(
-    `/api/content?scope=${encodeURIComponent(item.scope)}&filename=${encodeURIComponent(item.filename)}`,
+    `/api/content?scope=${encodeURIComponent(item.scope)}&id=${encodeURIComponent(item.id)}`,
   );
-  currentItem = item;
+  currentItem = { ...item, ...payload };
   articleTitle.textContent = item.title;
-  if (item.scope === "selected") {
-    articleMeta.textContent = item.scheduled_date ? `已分配时间：${item.scheduled_date}` : "待分配时间";
-  } else if (item.scope === "briefs") {
-    articleMeta.textContent = "未读简报";
-  } else {
-    articleMeta.textContent = "已读简报";
+  const tags = [];
+  if (payload.source_url) tags.push(payload.source_url);
+  if (payload.read_at) tags.push(`已读：${formatReadDate(payload.read_at)}`);
+  if (item.scope === "briefs" && payload.queued_for_deep_read) {
+    tags.push(`已加入详读候选：${formatReadDate(payload.queued_at) || "待生成"}`);
   }
+  if (item.scope === "deep-reads" && payload.generated === false) {
+    tags.push("详读正文待生成");
+  }
+  articleMeta.textContent = tags.join(" · ");
 
   preview.classList.remove("empty-state");
   preview.innerHTML = renderMarkdown(payload.content);
   copyButton.disabled = false;
-  promoteButton.classList.toggle("hidden", item.scope !== "briefs");
-  scheduleButton.classList.toggle("hidden", item.scope !== "selected");
-  scheduleButton.textContent = item.scheduled_date ? "修改发送时间" : "设置发送时间";
-  scheduleDateInput.value = item.scheduled_date || "";
-  setActiveItem(item.filename, item.scope);
-  setStatus("内容已加载，可复制");
+  queueDeepReadButton.classList.toggle("hidden", item.scope !== "briefs");
+  if (item.scope === "briefs") {
+    queueDeepReadButton.textContent = payload.queued_for_deep_read ? "已加入详读候选" : "详读";
+    queueDeepReadButton.disabled = Boolean(payload.queued_for_deep_read);
+  } else {
+    queueDeepReadButton.disabled = true;
+  }
+  markReadButton.classList.toggle("hidden", Boolean(payload.read_at));
+  markReadButton.disabled = false;
+  setActiveItem(item.id, item.scope);
+  setStatus("内容已加载");
 }
 
 async function copyStyledContent() {
@@ -308,12 +321,11 @@ async function copyStyledContent() {
     document.addEventListener("copy", listener, { once: true });
     document.execCommand("copy");
   }
-
-  setStatus(`《${currentItem.title}》已复制，可直接粘贴到公众号编辑器`);
+  setStatus(`《${currentItem.title}》已复制`);
 }
 
-selectedTab.addEventListener("click", () => setCurrentTab("selected"));
 briefsTab.addEventListener("click", () => setCurrentTab("briefs"));
+deepReadsTab.addEventListener("click", () => setCurrentTab("deep-reads"));
 
 copyButton.addEventListener("click", async () => {
   try {
@@ -323,50 +335,35 @@ copyButton.addEventListener("click", async () => {
   }
 });
 
-promoteButton.addEventListener("click", async () => {
+queueDeepReadButton.addEventListener("click", async () => {
+  if (!currentItem || currentItem.scope !== "briefs") return;
   try {
-    const title = currentItem?.title;
-    await fetchJson("/api/promote-brief", {
+    await fetchJson("/api/queue-deep-read", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ filename: currentItem.filename }),
+      body: JSON.stringify({ id: currentItem.id }),
     });
+    setStatus(`《${currentItem.title}》已移入详读候选`);
     currentItem = null;
-    await refreshData("selected");
-    setStatus(`《${title}》已移动到精选`);
+    await refreshData("briefs");
   } catch (error) {
-    setStatus(`移动失败：${error.message}`);
+    setStatus(`加入详读失败：${error.message}`);
   }
 });
 
-scheduleButton.addEventListener("click", () => {
-  if (!currentItem || currentItem.scope !== "selected") return;
-  scheduleDateInput.value = currentItem.scheduled_date || "";
-  if (typeof scheduleDateInput.showPicker === "function") {
-    scheduleDateInput.showPicker();
-    return;
-  }
-  scheduleDateInput.click();
-});
-
-scheduleDateInput.addEventListener("change", async () => {
-  if (!currentItem || currentItem.scope !== "selected" || !scheduleDateInput.value) return;
-
+markReadButton.addEventListener("click", async () => {
+  if (!currentItem) return;
   try {
-    const payload = await fetchJson("/api/schedule-selected", {
+    await fetchJson("/api/mark-read", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        filename: currentItem.filename,
-        scheduled_date: scheduleDateInput.value,
-      }),
+      body: JSON.stringify({ id: currentItem.id, scope: currentItem.scope }),
     });
-    pendingSelection = { ...payload, scope: "selected" };
+    setStatus(`《${currentItem.title}》已标记为已读`);
     currentItem = null;
-    await refreshData("selected");
-    setStatus(`《${payload.title}》已设置发送时间：${payload.scheduled_date}`);
+    await refreshData(currentTab);
   } catch (error) {
-    setStatus(`设置发送时间失败：${error.message}`);
+    setStatus(`标记已读失败：${error.message}`);
   }
 });
 

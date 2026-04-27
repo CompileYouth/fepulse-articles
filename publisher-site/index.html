@@ -3,43 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FEPulse 发布助手</title>
-    <link rel="stylesheet" href="./styles.css?v=20260323-2018" />
+    <title>Reading Desk</title>
+    <link rel="stylesheet" href="./styles.css?v=20260427-readingflow" />
   </head>
   <body>
     <div class="shell">
       <aside class="sidebar">
         <div class="sidebar-header">
           <div>
-            <p class="eyebrow">Publisher</p>
-            <h1>FEPulse 发布助手</h1>
+            <p class="eyebrow">Reading Desk</p>
+            <h1>内容阅读台</h1>
           </div>
         </div>
 
         <div class="tab-bar">
-          <button id="selectedTab" class="tab-button active" type="button">精选</button>
-          <button id="briefsTab" class="tab-button" type="button">简报</button>
+          <button id="briefsTab" class="tab-button active" type="button">简报</button>
+          <button id="deepReadsTab" class="tab-button" type="button">详读</button>
         </div>
 
-        <div id="selectedPanels">
-          <section class="article-group">
-            <div class="group-header">
-              <h2>待分配时间</h2>
-              <span id="unscheduledCount" class="count-badge">0</span>
-            </div>
-            <div id="unscheduledList" class="article-list"></div>
-          </section>
-
-          <section class="article-group">
-            <div class="group-header">
-              <h2>已分配时间</h2>
-              <span id="scheduledCount" class="count-badge">0</span>
-            </div>
-            <div id="scheduledList" class="article-list"></div>
-          </section>
-        </div>
-
-        <div id="briefPanels" class="hidden">
+        <div id="briefPanels">
           <section class="article-group">
             <div class="group-header">
               <h2>未读</h2>
@@ -48,13 +30,31 @@
             <div id="briefUnreadList" class="article-list"></div>
           </section>
 
+          <details class="article-group article-group-collapsible">
+            <summary class="group-header group-summary">
+              <h2>已读</h2>
+              <span id="briefReadCount" class="count-badge">0</span>
+            </summary>
+            <div id="briefReadList" class="article-list"></div>
+          </details>
+        </div>
+
+        <div id="deepReadPanels" class="hidden">
           <section class="article-group">
             <div class="group-header">
-              <h2>已读</h2>
-              <span id="briefArchivedCount" class="count-badge">0</span>
+              <h2>未读</h2>
+              <span id="deepUnreadCount" class="count-badge">0</span>
             </div>
-            <div id="briefArchivedList" class="article-list"></div>
+            <div id="deepUnreadList" class="article-list"></div>
           </section>
+
+          <details class="article-group article-group-collapsible">
+            <summary class="group-header group-summary">
+              <h2>已读</h2>
+              <span id="deepReadCount" class="count-badge">0</span>
+            </summary>
+            <div id="deepReadList" class="article-list"></div>
+          </details>
         </div>
       </aside>
 
@@ -62,31 +62,31 @@
         <header class="main-header">
           <div>
             <p class="eyebrow">Preview</p>
-            <h2 id="articleTitle">请选择一篇文章</h2>
+            <h2 id="articleTitle">请选择左侧内容</h2>
             <p id="articleMeta" class="meta-text"></p>
           </div>
           <div class="action-row">
-            <input id="scheduleDateInput" class="hidden-date-input" type="date" />
-            <button id="scheduleButton" class="ghost-button hidden" type="button">设置发送时间</button>
-            <button id="promoteButton" class="ghost-button hidden" type="button">精选</button>
-            <button id="copyButton" class="primary-button" disabled>复制带样式内容</button>
+            <button id="queueDeepReadButton" class="ghost-button hidden" type="button">详读</button>
+            <button id="markReadButton" class="ghost-button hidden" type="button">标记已读</button>
+            <button id="copyButton" class="primary-button" disabled>复制内容</button>
           </div>
         </header>
 
-        <div id="statusBar" class="status-bar">加载文章列表中…</div>
+        <div id="statusBar" class="status-bar">加载内容中…</div>
         <section id="preview" class="preview empty-state">
-          选中左侧文章后，这里会直接加载 markdown 并渲染。复制时不会预先生成独立 html 文件。
+          选中左侧内容后，这里会直接加载 markdown 并渲染。
         </section>
       </main>
     </div>
 
     <template id="articleItemTemplate">
       <button class="article-item" type="button">
+        <img class="article-item-image hidden" alt="" />
         <span class="article-item-title"></span>
         <span class="article-item-meta"></span>
       </button>
     </template>
 
-    <script type="module" src="./app.js?v=20260323-2018"></script>
+    <script type="module" src="./app.js?v=20260427-readingflow"></script>
   </body>
-  </html>
+</html>

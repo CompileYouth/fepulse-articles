@@ -107,6 +107,35 @@ h2 {
   margin-top: 24px;
 }
 
+.article-group-collapsible {
+  margin-top: 24px;
+}
+
+.group-summary {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+}
+
+.group-summary::-webkit-details-marker {
+  display: none;
+}
+
+.group-summary::after {
+  content: "展开";
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.article-group-collapsible[open] .group-summary::after {
+  content: "收起";
+}
+
+.article-group-collapsible > .article-list {
+  margin-top: 12px;
+}
+
 .hidden {
   display: none !important;
 }
@@ -123,7 +152,7 @@ h2 {
   text-align: left;
   border: 1px solid rgba(188, 205, 232, 0.72);
   border-radius: 20px;
-  padding: 14px 14px 12px;
+  padding: 12px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.96) 0%, rgba(248, 251, 255, 0.96) 100%);
   box-shadow: var(--shadow);
   cursor: pointer;
@@ -148,6 +177,7 @@ h2 {
   font-size: 15px;
   line-height: 1.5;
   font-weight: 600;
+  margin-top: 10px;
 }
 
 .article-item-meta,
@@ -156,6 +186,16 @@ h2 {
   margin-top: 6px;
   font-size: 12px;
   color: var(--muted);
+}
+
+.article-item-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 1px solid rgba(188, 205, 232, 0.6);
+  background: linear-gradient(135deg, rgba(47, 107, 255, 0.12), rgba(24, 199, 255, 0.08));
 }
 
 .count-badge {
