@@ -131,6 +131,18 @@
       "queued_at": "2026-04-27T21:34:35+08:00",
       "generated_at": null,
       "updated_at": "2026-04-27T21:34:35+08:00"
+    },
+    "1199a44f6505a89f": {
+      "id": "1199a44f6505a89f",
+      "title": "Anthropic 想做的不是一个设计工具，而是一整套 AI 原生工作栈",
+      "source_url": "https://www.youtube.com/watch?v=WMnk1LFBMqA",
+      "raw_file": "1199a44f6505a89f.txt",
+      "deep_read_file": null,
+      "published_at": "2026-04-18",
+      "read_at": null,
+      "queued_at": "2026-04-27T21:39:54+08:00",
+      "generated_at": null,
+      "updated_at": "2026-04-27T21:39:54+08:00"
     }
   }
 }
