@@ -1,0 +1,132 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260416-154552/links.json",
+  "results": [
+    {
+      "source_id": "dwarkesh-patel",
+      "title": "Jensen Huang – Will Nvidia’s moat persist?",
+      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260416-jensen-huang-will-nvidia-s-moat-persist.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-luyo_rj7/Hrbq66XqtCo.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260416-jensen-huang-will-nvidia-s-moat-persist.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "title": "The Next Wave of AI Companies in Latin America | Tako CEO on The a16z Show",
+      "url": "https://www.youtube.com/watch?v=soVSK6tzAEs",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260415-the-next-wave-of-ai-companies-in-latin-america-tako-ceo-on-the-a16z-show.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ab8xk2nf/soVSK6tzAEs.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ab8xk2nf/soVSK6tzAEs.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260415-the-next-wave-of-ai-companies-in-latin-america-tako-ceo-on-the-a16z-show.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "The AI Model Built for What LLMs Can't Do",
+      "url": "https://www.youtube.com/watch?v=Q-i8ZSUCtIc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260415-the-ai-model-built-for-what-llms-can-t-do.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gix1hbld/Q-i8ZSUCtIc.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gix1hbld/Q-i8ZSUCtIc.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260415-the-ai-model-built-for-what-llms-can-t-do.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "south-park-commons",
+      "title": "AI in the Physical World: Robotics, World Models & Material Science",
+      "url": "https://www.youtube.com/watch?v=CXNFdafIICU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260414-ai-in-the-physical-world-robotics-world-models-material-science.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zpn60bre/CXNFdafIICU.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zpn60bre/CXNFdafIICU.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260414-ai-in-the-physical-world-robotics-world-models-material-science.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "The Future of AI Engineering Teams",
+      "url": "https://www.youtube.com/watch?v=EYDsVSKfKm4",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260414-the-future-of-ai-engineering-teams.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-iahzj1ok/EYDsVSKfKm4.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-iahzj1ok/EYDsVSKfKm4.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260414-the-future-of-ai-engineering-teams.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "DHH: how to escape the \"Apple bubble\"",
+      "url": "https://www.youtube.com/watch?v=w4q-aKyHuA4",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260413-dhh-how-to-escape-the-apple-bubble.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-f4_z1tjb/w4q-aKyHuA4.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-f4_z1tjb/w4q-aKyHuA4.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260413-dhh-how-to-escape-the-apple-bubble.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "title": "AWS Distinguished Eng: Learning From 3000 Incidents And How Engineering Is Changing | Marc Brooker",
+      "url": "https://www.youtube.com/watch?v=u3GjIXP9N0s",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260413-aws-distinguished-eng-learning-from-3000-incidents-and-how-engineering-is-changing-marc-brooker.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gmbkdd7t/u3GjIXP9N0s.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-gmbkdd7t/u3GjIXP9N0s.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260413-aws-distinguished-eng-learning-from-3000-incidents-and-how-engineering-is-changing-marc-brooker.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+      "url": "https://www.youtube.com/watch?v=xCd9ykretlg",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260412-hard-truths-about-building-in-the-ai-era-keith-rabois-khosla-ventures.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9lxpid31/xCd9ykretlg.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9lxpid31/xCd9ykretlg.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260412-hard-truths-about-building-in-the-ai-era-keith-rabois-khosla-ventures.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "Figma CEO on How to Get Good at Design in the AI Era | Dylan Field",
+      "url": "https://www.youtube.com/watch?v=eqPljh_9C9Y",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260412-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-39b699j1/eqPljh_9C9Y.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-39b699j1/eqPljh_9C9Y.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260412-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "AI Genius Predicts the Next 3 Years",
+      "url": "https://www.youtube.com/watch?v=lP86NzlXNf4",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260411-ai-genius-predicts-the-next-3-years.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9i_3es51/lP86NzlXNf4.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9i_3es51/lP86NzlXNf4.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260411-ai-genius-predicts-the-next-3-years.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "url": "https://www.youtube.com/watch?v=tzEWYNQmnmc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/71cb18e3bc3fa154.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

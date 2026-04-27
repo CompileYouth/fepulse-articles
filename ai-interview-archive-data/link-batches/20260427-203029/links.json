@@ -1,0 +1,329 @@
+{
+  "mode": "weekly",
+  "lookback_days": 7,
+  "generated_at": "2026-04-27T20:30:29.238074+08:00",
+  "since": "2026-04-20T20:30:29.238074+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Turing Award Winner: Data Abstraction, Dijkstra, Distributed Systems | Barbara Liskov",
+      "url": "https://www.youtube.com/watch?v=T9CGjbPZeaM",
+      "upload_date": "20260427",
+      "published_at": "2026-04-27T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260427-turing-award-winner-data-abstraction-dijkstra-distributed-systems-barbara-liskov"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "How to build a defensible company in the AI era | Evan Spiegel (Snapchat CEO)",
+      "url": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260426-how-to-build-a-defensible-company-in-the-ai-era-evan-spiegel-snapchat-ceo"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas",
+      "url": "https://www.youtube.com/watch?v=0UnZnonMN9o",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T21:00:01+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260426-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "How to Actually Leverage AI in Your Business",
+      "url": "https://www.youtube.com/watch?v=dbJN0nvIqLg",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260426-how-to-actually-leverage-ai-in-your-business"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+      "url": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
+      "upload_date": "20260425",
+      "published_at": "2026-04-25T22:30:37+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260425-replit-s-ceo-on-the-only-two-jobs-left-in-the-company-of-the-future"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "How To Build A Company With AI From The Ground Up",
+      "url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+      "upload_date": "20260424",
+      "published_at": "2026-04-24T22:00:21+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260424-how-to-build-a-company-with-ai-from-the-ground-up"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "GPT 5.5 and ChatGPT Images 2: Everything You Need to Know in 15 Minutes (4 Real Use Cases)",
+      "url": "https://www.youtube.com/watch?v=Op1TsX3eCtI",
+      "upload_date": "20260424",
+      "published_at": "2026-04-24T09:48:35+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260424-gpt-5-5-and-chatgpt-images-2-everything-you-need-to-know-in-15-minutes-4-real-use-cases"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "From Wall Street King to Federal Prison: Michael Milken's Story",
+      "url": "https://www.youtube.com/watch?v=dshFU7_SU5g",
+      "upload_date": "20260424",
+      "published_at": "2026-04-24T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260424-from-wall-street-king-to-federal-prison-michael-milken-s-story"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "The new rules of AI product management | Cat Wu (Head of Product, Claude Code)",
+      "url": "https://www.youtube.com/watch?v=PplmzlgE0kg",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260423-the-new-rules-of-ai-product-management-cat-wu-head-of-product-claude-code"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”",
+      "url": "https://www.youtube.com/watch?v=7D_8zimKtB4",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260423-plan-b"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "Why Physical AI Is the Next Big Opportunity | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=faqaOVQ5Axk",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260423-why-physical-ai-is-the-next-big-opportunity-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "How Replit Is Enabling a New Wave of Million-Dollar Founders | Amjad Masad & Haya Odeh",
+      "url": "https://www.youtube.com/watch?v=7Doo2X9LPeY",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260423-how-replit-is-enabling-a-new-wave-of-million-dollar-founders-amjad-masad-haya-odeh"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "We Tested GPT-5.5 for 3 Weeks. It's a Beast.",
+      "url": "https://www.youtube.com/watch?v=GROt1Nd4asY",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260423-we-tested-gpt-5-5-for-3-weeks-it-s-a-beast"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig",
+      "url": "https://www.youtube.com/watch?v=5u7AjPardvo",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T18:00:18+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260423-sap-bringing-the-operating-system-of-a-company-into-the-ai-era-with-cto-philipp-herzig"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "How to Make Claude Code Your AI Engineering Team",
+      "url": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
+      "upload_date": "20260423",
+      "published_at": "2026-04-23T22:30:49+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260423-how-to-make-claude-code-your-ai-engineering-team"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "Designing Data-intensive Applications with Martin Kleppmann",
+      "url": "https://www.youtube.com/watch?v=SVOrURyOu_U",
+      "upload_date": "20260422",
+      "published_at": "2026-04-22T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260422-designing-data-intensive-applications-with-martin-kleppmann"
+    },
+    {
+      "source_id": "a16z-deep-dives",
+      "source_label": "a16z Deep Dives",
+      "source_type": "youtube",
+      "title": "Outsmarting Uber: Why Bolt Wins in Europe | Deep Dives with a16z",
+      "url": "https://www.youtube.com/watch?v=NxGe-GzMTzM",
+      "upload_date": "20260422",
+      "published_at": "2026-04-22T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260422-outsmarting-uber-why-bolt-wins-in-europe-deep-dives-with-a16z"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "The AI Sandwich: Where Humans Excel in an AI World",
+      "url": "https://www.youtube.com/watch?v=G0LTv8hQ5Cs",
+      "upload_date": "20260422",
+      "published_at": "2026-04-22T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260422-the-ai-sandwich-where-humans-excel-in-an-ai-world"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "How Stripe Built Their New Website",
+      "url": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
+      "upload_date": "20260422",
+      "published_at": "2026-04-22T22:01:37+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260422-how-stripe-built-their-new-website"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "How to Build for AI Agents and a Claude Code Second Brain in 25 Min | Ryan Wiggins",
+      "url": "https://www.youtube.com/watch?v=KzqpK1uCczw",
+      "upload_date": "20260422",
+      "published_at": "2026-04-22T21:00:39+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260422-how-to-build-for-ai-agents-and-a-claude-code-second-brain-in-25-min-ryan-wiggins"
+    },
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "The Future of Creative Collaboration",
+      "url": "https://www.youtube.com/watch?v=8A0DsIt8fJw",
+      "upload_date": "20260421",
+      "published_at": "2026-04-21T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260421-the-future-of-creative-collaboration"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "Introducing Monologue Notes: For Builders, Makers, Doers",
+      "url": "https://www.youtube.com/watch?v=qeYtwxjP3tg",
+      "upload_date": "20260421",
+      "published_at": "2026-04-21T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260421-introducing-monologue-notes-for-builders-makers-doers"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260407-155139/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "Ex-Head of Eng at Instagram: Career Regrets and Learnings | James Everingham",
+      "url": "https://www.youtube.com/watch?v=VIF5Fm8NdE8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260406-ex-head-of-eng-at-instagram-career-regrets-and-learnings-james-everingham.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6q_ztd4v/VIF5Fm8NdE8.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6q_ztd4v/VIF5Fm8NdE8.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260406-ex-head-of-eng-at-instagram-career-regrets-and-learnings-james-everingham.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260406-billiontoone-is-solving-one-of-biotech-s-hardest-problems.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9q2nlx_9/kkv5rZhrLkc.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-9q2nlx_9/kkv5rZhrLkc.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260406-billiontoone-is-solving-one-of-biotech-s-hardest-problems.txt",
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-04-07T15:51:39.952621+08:00",
+  "since": "2026-04-05T15:51:39.952621+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Ex-Head of Eng at Instagram: Career Regrets and Learnings | James Everingham",
+      "url": "https://www.youtube.com/watch?v=VIF5Fm8NdE8",
+      "upload_date": "20260406",
+      "published_at": "2026-04-06T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260406-ex-head-of-eng-at-instagram-career-regrets-and-learnings-james-everingham"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "upload_date": "20260406",
+      "published_at": "2026-04-06T22:01:12+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260406-billiontoone-is-solving-one-of-biotech-s-hardest-problems"
+    }
+  ]
+}

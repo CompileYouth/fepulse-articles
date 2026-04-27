@@ -1,0 +1,80 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-04-11T14:51:53.937350+08:00",
+  "since": "2026-04-08T14:51:53.937350+08:00",
+  "items": [
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "url": "https://www.youtube.com/watch?v=tzEWYNQmnmc",
+      "upload_date": "20260410",
+      "published_at": "2026-04-10T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260410-ai"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "The AI Too Dangerous to Release (My Honest Take)",
+      "url": "https://www.youtube.com/watch?v=JXuwjGv2mCw",
+      "upload_date": "20260409",
+      "published_at": "2026-04-09T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260409-the-ai-too-dangerous-to-release-my-honest-take"
+    },
+    {
+      "source_id": "google-deepmind",
+      "source_label": "Google DeepMind",
+      "source_type": "youtube",
+      "title": "Teaching the foundations of AI in the classroom",
+      "url": "https://www.youtube.com/watch?v=udnhu43tTfk",
+      "upload_date": "20260409",
+      "published_at": "2026-04-09T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI for Science / Robotics"
+      ],
+      "slug": "20260409-teaching-the-foundations-of-ai-in-the-classroom"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
+      "url": "https://www.youtube.com/watch?v=eyobeqMdbeI",
+      "upload_date": "20260409",
+      "published_at": "2026-04-09T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260409-how-ai-agents-will-transform-the-financial-system-with-circle-co-founder-and-ceo-jeremy-allaire"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "AI Will Never Replace These Businesses",
+      "url": "https://www.youtube.com/watch?v=pyWnKbOEqH4",
+      "upload_date": "20260409",
+      "published_at": "2026-04-09T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260409-ai-will-never-replace-these-businesses"
+    }
+  ]
+}

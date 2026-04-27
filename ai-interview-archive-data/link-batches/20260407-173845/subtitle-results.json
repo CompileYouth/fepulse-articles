@@ -1,0 +1,21 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260407-173845/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "Ex-Head of Eng at Instagram: Career Regrets and Learnings | James Everingham",
+      "url": "https://www.youtube.com/watch?v=VIF5Fm8NdE8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/a20e5241aa00f1d7.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/0e4945ce19c0b592.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

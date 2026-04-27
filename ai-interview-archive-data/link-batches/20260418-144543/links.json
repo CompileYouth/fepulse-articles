@@ -1,0 +1,82 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-04-18T14:45:43.716337+08:00",
+  "since": "2026-04-15T14:45:43.716337+08:00",
+  "items": [
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Claude Design: Everything You Can Build in 16 Minutes (5 Real Use Cases)",
+      "url": "https://www.youtube.com/watch?v=WMnk1LFBMqA",
+      "upload_date": "20260418",
+      "published_at": "2026-04-18T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260418-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
+      "url": "https://www.youtube.com/watch?v=8pncy425QqQ",
+      "upload_date": "20260417",
+      "published_at": "2026-04-17T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260417-ipo-ai"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott",
+      "url": "https://www.youtube.com/watch?v=tNNFJa5pUEg",
+      "upload_date": "20260417",
+      "published_at": "2026-04-17T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260417-scaling-global-organizations-in-the-age-of-ai-with-servicenow-ceo-bill-mcdermott"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "How Vibe Coding is Reinventing the SaaS Era",
+      "url": "https://www.youtube.com/watch?v=MuESM7U3hFg",
+      "upload_date": "20260417",
+      "published_at": "2026-04-17T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260417-how-vibe-coding-is-reinventing-the-saas-era"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "The GPT Moment for Robotics Is Here",
+      "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "upload_date": "20260416",
+      "published_at": "2026-04-16T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260416-the-gpt-moment-for-robotics-is-here"
+    }
+  ]
+}

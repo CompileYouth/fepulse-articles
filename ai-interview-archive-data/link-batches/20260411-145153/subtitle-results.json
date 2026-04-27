@@ -1,0 +1,63 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260411-145153/links.json",
+  "results": [
+    {
+      "source_id": "the-valley-101",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "url": "https://www.youtube.com/watch?v=tzEWYNQmnmc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260410-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zv9zvick/tzEWYNQmnmc.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260410-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "The AI Too Dangerous to Release (My Honest Take)",
+      "url": "https://www.youtube.com/watch?v=JXuwjGv2mCw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-the-ai-too-dangerous-to-release-my-honest-take.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zuhaa340/JXuwjGv2mCw.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zuhaa340/JXuwjGv2mCw.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-the-ai-too-dangerous-to-release-my-honest-take.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "google-deepmind",
+      "title": "Teaching the foundations of AI in the classroom",
+      "url": "https://www.youtube.com/watch?v=udnhu43tTfk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-teaching-the-foundations-of-ai-in-the-classroom.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-u5rmsvfe/udnhu43tTfk.en-j3PyPqV-e1s.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-teaching-the-foundations-of-ai-in-the-classroom.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "title": "How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
+      "url": "https://www.youtube.com/watch?v=eyobeqMdbeI",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-how-ai-agents-will-transform-the-financial-system-with-circle-co-founder-and-ceo-jeremy-allaire.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-i3wx7xpr/eyobeqMdbeI.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-i3wx7xpr/eyobeqMdbeI.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-how-ai-agents-will-transform-the-financial-system-with-circle-co-founder-and-ceo-jeremy-allaire.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "AI Will Never Replace These Businesses",
+      "url": "https://www.youtube.com/watch?v=pyWnKbOEqH4",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-ai-will-never-replace-these-businesses.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-x5v19fx1/pyWnKbOEqH4.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-x5v19fx1/pyWnKbOEqH4.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260409-ai-will-never-replace-these-businesses.txt",
+      "status": "ok"
+    }
+  ]
+}

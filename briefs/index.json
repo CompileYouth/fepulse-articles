@@ -61,18 +61,6 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:02:47+08:00"
     },
-    "1199a44f6505a89f": {
-      "id": "1199a44f6505a89f",
-      "title": "Anthropic 想做的不是一个设计工具，而是一整套 AI 原生工作栈",
-      "source_url": "https://www.youtube.com/watch?v=WMnk1LFBMqA",
-      "raw_file": "1199a44f6505a89f.txt",
-      "brief_file": "1199a44f6505a89f.md",
-      "published_at": "2026-04-18",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
     "15d9bbfd50bb1afc": {
       "id": "15d9bbfd50bb1afc",
       "title": "下一波模型补位，未必是更大的 LLM，而是专门去做 LLM 做不好的事",
@@ -80,10 +68,10 @@
       "raw_file": "15d9bbfd50bb1afc.txt",
       "brief_file": "15d9bbfd50bb1afc.md",
       "published_at": "2026-04-15",
-      "read_at": null,
+      "read_at": "2026-04-27T21:41:00+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:41:00+08:00"
     },
     "1c656a917996d4ba": {
       "id": "1c656a917996d4ba",
@@ -128,10 +116,10 @@
       "raw_file": "1f9ff7bcd60bbd8b.txt",
       "brief_file": "1f9ff7bcd60bbd8b.md",
       "published_at": "2026-04-17",
-      "read_at": null,
+      "read_at": "2026-04-27T21:40:20+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:40:20+08:00"
     },
     "1fa4d357216cfdac": {
       "id": "1fa4d357216cfdac",
@@ -200,10 +188,10 @@
       "raw_file": "3301a03ae0291f2e.txt",
       "brief_file": "3301a03ae0291f2e.md",
       "published_at": "2026-04-15",
-      "read_at": null,
+      "read_at": "2026-04-27T21:40:41+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:40:41+08:00"
     },
     "33337afc3de04564": {
       "id": "33337afc3de04564",
@@ -512,10 +500,10 @@
       "raw_file": "7366e1fce64b3e81.txt",
       "brief_file": "7366e1fce64b3e81.md",
       "published_at": "2026-04-21",
-      "read_at": null,
+      "read_at": "2026-04-27T21:37:55+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:37:55+08:00"
     },
     "7466c5c019ae1305": {
       "id": "7466c5c019ae1305",
@@ -596,10 +584,10 @@
       "raw_file": "84340ee2f6d59157.txt",
       "brief_file": "84340ee2f6d59157.md",
       "published_at": "2026-04-14",
-      "read_at": null,
+      "read_at": "2026-04-27T21:41:04+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:41:04+08:00"
     },
     "94dc1a0a2bdc7d15": {
       "id": "94dc1a0a2bdc7d15",
@@ -608,10 +596,10 @@
       "raw_file": "94dc1a0a2bdc7d15.txt",
       "brief_file": "94dc1a0a2bdc7d15.md",
       "published_at": "2026-04-21",
-      "read_at": null,
+      "read_at": "2026-04-27T21:39:48+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:39:48+08:00"
     },
     "99dd5851f4ab9fdd": {
       "id": "99dd5851f4ab9fdd",
@@ -632,10 +620,10 @@
       "raw_file": "9eba931faab0e86e.txt",
       "brief_file": "9eba931faab0e86e.md",
       "published_at": "2026-04-16",
-      "read_at": null,
+      "read_at": "2026-04-27T21:40:33+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:40:33+08:00"
     },
     "a1927493d713378a": {
       "id": "a1927493d713378a",
@@ -644,10 +632,10 @@
       "raw_file": "a1927493d713378a.txt",
       "brief_file": "a1927493d713378a.md",
       "published_at": "2026-04-17",
-      "read_at": null,
+      "read_at": "2026-04-27T21:39:56+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:39:56+08:00"
     },
     "a19df152dd74d012": {
       "id": "a19df152dd74d012",
@@ -680,10 +668,10 @@
       "raw_file": "a607530946c21852.txt",
       "brief_file": "a607530946c21852.md",
       "published_at": "2026-04-22",
-      "read_at": null,
+      "read_at": "2026-04-27T21:37:20+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:37:20+08:00"
     },
     "aa06a6b0a53eb67e": {
       "id": "aa06a6b0a53eb67e",
@@ -872,10 +860,10 @@
       "raw_file": "e97b00125263b0ef.txt",
       "brief_file": "e97b00125263b0ef.md",
       "published_at": "2026-04-16",
-      "read_at": null,
+      "read_at": "2026-04-27T21:40:38+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:40:38+08:00"
     },
     "ec86fc85e3c97d89": {
       "id": "ec86fc85e3c97d89",
@@ -884,10 +872,10 @@
       "raw_file": "ec86fc85e3c97d89.txt",
       "brief_file": "ec86fc85e3c97d89.md",
       "published_at": "2026-04-22",
-      "read_at": null,
+      "read_at": "2026-04-27T21:36:49+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:36:49+08:00"
     },
     "f3569aced34d2314": {
       "id": "f3569aced34d2314",
@@ -896,10 +884,10 @@
       "raw_file": "f3569aced34d2314.txt",
       "brief_file": "f3569aced34d2314.md",
       "published_at": "2026-04-17",
-      "read_at": null,
+      "read_at": "2026-04-27T21:40:28+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-27T21:40:28+08:00"
     },
     "fd868db0033d5186": {
       "id": "fd868db0033d5186",

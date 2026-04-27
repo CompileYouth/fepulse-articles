@@ -1,0 +1,65 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260418-144543/links.json",
+  "results": [
+    {
+      "source_id": "peter-yang",
+      "title": "Claude Design: Everything You Can Build in 16 Minutes (5 Real Use Cases)",
+      "url": "https://www.youtube.com/watch?v=WMnk1LFBMqA",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260418-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nb2aka8f/WMnk1LFBMqA.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nb2aka8f/WMnk1LFBMqA.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260418-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
+      "url": "https://www.youtube.com/watch?v=8pncy425QqQ",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-ipo-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-0c0uwbvj/8pncy425QqQ.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-ipo-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "title": "Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott",
+      "url": "https://www.youtube.com/watch?v=tNNFJa5pUEg",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-scaling-global-organizations-in-the-age-of-ai-with-servicenow-ceo-bill-mcdermott.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-lvha9rrr/tNNFJa5pUEg.zh-Hans.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-lvha9rrr/tNNFJa5pUEg.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-lvha9rrr/tNNFJa5pUEg.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-scaling-global-organizations-in-the-age-of-ai-with-servicenow-ceo-bill-mcdermott.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "How Vibe Coding is Reinventing the SaaS Era",
+      "url": "https://www.youtube.com/watch?v=MuESM7U3hFg",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-how-vibe-coding-is-reinventing-the-saas-era.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-k8vspp5i/MuESM7U3hFg.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-k8vspp5i/MuESM7U3hFg.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260417-how-vibe-coding-is-reinventing-the-saas-era.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "The GPT Moment for Robotics Is Here",
+      "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260416-the-gpt-moment-for-robotics-is-here.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-aj6erfgg/4EsUaur0nsQ.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-aj6erfgg/4EsUaur0nsQ.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260416-the-gpt-moment-for-robotics-is-here.txt",
+      "status": "ok"
+    }
+  ]
+}
