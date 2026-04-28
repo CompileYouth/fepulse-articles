@@ -32,10 +32,10 @@
       "raw_file": "0e4945ce19c0b592.txt",
       "brief_file": "0e4945ce19c0b592.md",
       "published_at": "2026-04-06",
-      "read_at": null,
+      "read_at": "2026-04-28T13:26:20+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T13:26:20+08:00"
     },
     "10feec6f99918e5d": {
       "id": "10feec6f99918e5d",
@@ -128,10 +128,10 @@
       "raw_file": "1fa4d357216cfdac.txt",
       "brief_file": "1fa4d357216cfdac.md",
       "published_at": "2026-04-11",
-      "read_at": null,
+      "read_at": "2026-04-28T10:57:20+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:57:20+08:00"
     },
     "236ba79241345a6d": {
       "id": "236ba79241345a6d",
@@ -260,10 +260,10 @@
       "raw_file": "3fea1493a11959e3.txt",
       "brief_file": "3fea1493a11959e3.md",
       "published_at": "2026-04-13",
-      "read_at": null,
+      "read_at": "2026-04-28T10:54:43+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:54:43+08:00"
     },
     "401896d610b2e71b": {
       "id": "401896d610b2e71b",
@@ -332,10 +332,10 @@
       "raw_file": "43e58dcbad5f1dd9.txt",
       "brief_file": "43e58dcbad5f1dd9.md",
       "published_at": "2026-04-12",
-      "read_at": null,
+      "read_at": "2026-04-28T10:56:48+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:56:48+08:00"
     },
     "4bbdbb4f5401339a": {
       "id": "4bbdbb4f5401339a",
@@ -356,22 +356,10 @@
       "raw_file": "4f4f73345ea82e38.txt",
       "brief_file": "4f4f73345ea82e38.md",
       "published_at": "2026-03-18",
-      "read_at": null,
+      "read_at": "2026-04-28T11:19:57+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
-    "540e97960149b2b4": {
-      "id": "540e97960149b2b4",
-      "title": "AI 时代很多岗位会被重写，但最稀缺的仍然是定义问题的人",
-      "source_url": "https://www.youtube.com/watch?v=xCd9ykretlg",
-      "raw_file": "540e97960149b2b4.txt",
-      "brief_file": "540e97960149b2b4.md",
-      "published_at": "2026-04-12",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T11:19:57+08:00"
     },
     "5b29fae98e7eb8ad": {
       "id": "5b29fae98e7eb8ad",
@@ -380,10 +368,10 @@
       "raw_file": "5b29fae98e7eb8ad.txt",
       "brief_file": "5b29fae98e7eb8ad.md",
       "published_at": "2026-03-18",
-      "read_at": null,
+      "read_at": "2026-04-28T11:21:24+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T11:21:24+08:00"
     },
     "5f5a4afd7ffd5fbb": {
       "id": "5f5a4afd7ffd5fbb",
@@ -440,10 +428,10 @@
       "raw_file": "6d041eea462ef0cb.txt",
       "brief_file": "6d041eea462ef0cb.md",
       "published_at": "2026-03-17",
-      "read_at": null,
+      "read_at": "2026-04-28T11:17:33+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T11:17:33+08:00"
     },
     "6f73d6460d552386": {
       "id": "6f73d6460d552386",
@@ -464,10 +452,10 @@
       "raw_file": "717614f98774beb6.txt",
       "brief_file": "717614f98774beb6.md",
       "published_at": "2020-09-03",
-      "read_at": null,
+      "read_at": "2026-04-28T10:59:05+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:59:05+08:00"
     },
     "71cb18e3bc3fa154": {
       "id": "71cb18e3bc3fa154",
@@ -476,10 +464,10 @@
       "raw_file": "71cb18e3bc3fa154.txt",
       "brief_file": "71cb18e3bc3fa154.md",
       "published_at": "2026-04-10",
-      "read_at": null,
+      "read_at": "2026-04-28T10:58:11+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:58:11+08:00"
     },
     "728897c05644f883": {
       "id": "728897c05644f883",
@@ -488,10 +476,10 @@
       "raw_file": "728897c05644f883.txt",
       "brief_file": "728897c05644f883.md",
       "published_at": "2026-04-09",
-      "read_at": null,
+      "read_at": "2026-04-28T12:11:50+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T12:11:50+08:00"
     },
     "7366e1fce64b3e81": {
       "id": "7366e1fce64b3e81",
@@ -552,18 +540,6 @@
       "queued_for_deep_read": false,
       "queued_at": null,
       "updated_at": "2026-04-27T21:26:44+08:00"
-    },
-    "8238dcaa1f77d4eb": {
-      "id": "8238dcaa1f77d4eb",
-      "title": "AI 最难替代的，可能不是某个岗位，而是一批真正有人接手的小生意",
-      "source_url": "https://www.youtube.com/watch?v=pyWnKbOEqH4",
-      "raw_file": "8238dcaa1f77d4eb.txt",
-      "brief_file": "8238dcaa1f77d4eb.md",
-      "published_at": "2026-04-09",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
     },
     "828e2ff0c6973657": {
       "id": "828e2ff0c6973657",
@@ -656,10 +632,10 @@
       "raw_file": "a20e5241aa00f1d7.txt",
       "brief_file": "a20e5241aa00f1d7.md",
       "published_at": "2026-04-06",
-      "read_at": null,
+      "read_at": "2026-04-28T12:16:53+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T12:16:53+08:00"
     },
     "a607530946c21852": {
       "id": "a607530946c21852",
@@ -680,22 +656,10 @@
       "raw_file": "aa06a6b0a53eb67e.txt",
       "brief_file": "aa06a6b0a53eb67e.md",
       "published_at": "2026-02-19",
-      "read_at": null,
+      "read_at": "2026-04-28T11:13:29+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
-    "aedc52e594ae14e7": {
-      "id": "aedc52e594ae14e7",
-      "title": "AI 工程团队接下来真正会变的，不只是写代码的速度",
-      "source_url": "https://www.youtube.com/watch?v=EYDsVSKfKm4",
-      "raw_file": "aedc52e594ae14e7.txt",
-      "brief_file": "aedc52e594ae14e7.md",
-      "published_at": "2026-04-14",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T11:13:29+08:00"
     },
     "b1fab6290d9ebad9": {
       "id": "b1fab6290d9ebad9",
@@ -716,10 +680,10 @@
       "raw_file": "b54c84a37bdacf88.txt",
       "brief_file": "b54c84a37bdacf88.md",
       "published_at": "2026-02-25",
-      "read_at": null,
+      "read_at": "2026-04-28T11:15:49+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T11:15:49+08:00"
     },
     "b9a6a963b7a83d6a": {
       "id": "b9a6a963b7a83d6a",
@@ -752,10 +716,10 @@
       "raw_file": "bc05f9d273a43ba3.txt",
       "brief_file": "bc05f9d273a43ba3.md",
       "published_at": "2026-04-13",
-      "read_at": null,
+      "read_at": "2026-04-28T10:56:09+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T10:56:09+08:00"
     },
     "c6e82f4e6f379245": {
       "id": "c6e82f4e6f379245",
@@ -776,10 +740,10 @@
       "raw_file": "d449f55f20a507e0.txt",
       "brief_file": "d449f55f20a507e0.md",
       "published_at": "2026-04-09",
-      "read_at": null,
+      "read_at": "2026-04-28T12:14:56+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T12:14:56+08:00"
     },
     "dcfb24024dc4750d": {
       "id": "dcfb24024dc4750d",

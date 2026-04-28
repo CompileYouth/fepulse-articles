@@ -1,0 +1,37 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260428-132248/links.json",
+  "results": [
+    {
+      "source_id": "ryan-peterman",
+      "title": "Turing Award Winner: Modularity, Dijkstra, Distributed Systems | Barbara Liskov",
+      "url": "https://www.youtube.com/watch?v=T9CGjbPZeaM",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/d19f3d902d5b554f.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "title": "How to win when software is not a moat | Evan Spiegel (Snapchat CEO)",
+      "url": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/b2ed4428c8b843d4.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas",
+      "url": "https://www.youtube.com/watch?v=0UnZnonMN9o",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/2a002e0ab7c895cf.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "How to Actually Leverage AI in Your Business",
+      "url": "https://www.youtube.com/watch?v=dbJN0nvIqLg",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/10feec6f99918e5d.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

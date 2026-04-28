@@ -1,0 +1,66 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-04-28T13:22:48.164917+08:00",
+  "since": "2026-04-25T13:22:48.164917+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Turing Award Winner: Modularity, Dijkstra, Distributed Systems | Barbara Liskov",
+      "url": "https://www.youtube.com/watch?v=T9CGjbPZeaM",
+      "upload_date": "20260427",
+      "published_at": "2026-04-27T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260427-turing-award-winner-modularity-dijkstra-distributed-systems-barbara-liskov"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "How to win when software is not a moat | Evan Spiegel (Snapchat CEO)",
+      "url": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260426-how-to-win-when-software-is-not-a-moat-evan-spiegel-snapchat-ceo"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas",
+      "url": "https://www.youtube.com/watch?v=0UnZnonMN9o",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260426-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "How to Actually Leverage AI in Your Business",
+      "url": "https://www.youtube.com/watch?v=dbJN0nvIqLg",
+      "upload_date": "20260426",
+      "published_at": "2026-04-26T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260426-how-to-actually-leverage-ai-in-your-business"
+    }
+  ]
+}

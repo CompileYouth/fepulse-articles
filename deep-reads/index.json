@@ -143,6 +143,42 @@
       "queued_at": "2026-04-27T21:39:54+08:00",
       "generated_at": "2026-04-27T22:11:09+08:00",
       "updated_at": "2026-04-27T22:11:09+08:00"
+    },
+    "aedc52e594ae14e7": {
+      "id": "aedc52e594ae14e7",
+      "title": "AI 工程团队接下来真正会变的，不只是写代码的速度",
+      "source_url": "https://www.youtube.com/watch?v=EYDsVSKfKm4",
+      "raw_file": "aedc52e594ae14e7.txt",
+      "deep_read_file": null,
+      "published_at": "2026-04-14",
+      "read_at": null,
+      "queued_at": "2026-04-28T10:54:02+08:00",
+      "generated_at": null,
+      "updated_at": "2026-04-28T10:54:02+08:00"
+    },
+    "540e97960149b2b4": {
+      "id": "540e97960149b2b4",
+      "title": "AI 时代很多岗位会被重写，但最稀缺的仍然是定义问题的人",
+      "source_url": "https://www.youtube.com/watch?v=xCd9ykretlg",
+      "raw_file": "540e97960149b2b4.txt",
+      "deep_read_file": null,
+      "published_at": "2026-04-12",
+      "read_at": null,
+      "queued_at": "2026-04-28T10:57:04+08:00",
+      "generated_at": null,
+      "updated_at": "2026-04-28T10:57:04+08:00"
+    },
+    "8238dcaa1f77d4eb": {
+      "id": "8238dcaa1f77d4eb",
+      "title": "AI 最难替代的，可能不是某个岗位，而是一批真正有人接手的小生意",
+      "source_url": "https://www.youtube.com/watch?v=pyWnKbOEqH4",
+      "raw_file": "8238dcaa1f77d4eb.txt",
+      "deep_read_file": null,
+      "published_at": "2026-04-09",
+      "read_at": null,
+      "queued_at": "2026-04-28T12:13:30+08:00",
+      "generated_at": null,
+      "updated_at": "2026-04-28T12:13:30+08:00"
     }
   }
 }
