@@ -1,0 +1,7 @@
+interface:
+  display_name: "访谈详读补全"
+  short_description: "检查 deep-reads 候选并补齐缺失的中文详读正文"
+  default_prompt: "Use $ai-interview-archive-in-depth to inspect pending deep-read items in this repository and generate any missing full Chinese deep reads from raw transcripts."
+
+policy:
+  allow_implicit_invocation: true
