@@ -10,139 +10,139 @@
       "published_at": "2026-04-03",
       "read_at": null,
       "generated_at": "2026-04-07T16:59:47+08:00",
-      "updated_at": "2026-04-07T16:59:47+08:00"
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "2a002e0ab7c895cf": {
       "id": "2a002e0ab7c895cf",
       "title": "一个人把 5 个产品做到月入百万，重点不在神话，而在持续试错的方法",
       "source_url": "https://www.youtube.com/watch?v=0UnZnonMN9o",
       "raw_file": "2a002e0ab7c895cf.txt",
-      "deep_read_file": null,
+      "deep_read_file": "2a002e0ab7c895cf.md",
       "published_at": "2026-04-26",
       "read_at": null,
       "queued_at": "2026-04-27T21:12:24+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:15:46+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "d19f3d902d5b554f": {
       "id": "d19f3d902d5b554f",
       "title": "Barbara Liskov 留下的真正遗产，不只是分布式系统，而是怎样把复杂度关进模块里",
       "source_url": "https://www.youtube.com/watch?v=T9CGjbPZeaM",
       "raw_file": "d19f3d902d5b554f.txt",
-      "deep_read_file": null,
+      "deep_read_file": "d19f3d902d5b554f.md",
       "published_at": "2026-04-27",
       "read_at": null,
       "queued_at": "2026-04-27T21:10:52+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:15:46+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "b2ed4428c8b843d4": {
       "id": "b2ed4428c8b843d4",
       "title": "Evan Spiegel 真正担心的，不是产品没创新，而是很多人太晚才开始想分发",
       "source_url": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "raw_file": "b2ed4428c8b843d4.txt",
-      "deep_read_file": null,
+      "deep_read_file": "b2ed4428c8b843d4.md",
       "published_at": "2026-04-26",
       "read_at": null,
       "queued_at": "2026-04-27T21:20:15+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:21:30+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "28d69408ce3eef1a": {
       "id": "28d69408ce3eef1a",
       "title": "Replit 眼里的未来公司，只会更少人，但每个人都得更像一支全栈小队",
       "source_url": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
       "raw_file": "28d69408ce3eef1a.txt",
-      "deep_read_file": null,
+      "deep_read_file": "28d69408ce3eef1a.md",
       "published_at": "2026-04-25",
       "read_at": null,
       "queued_at": "2026-04-27T21:24:08+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:24:08+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "aa0e51ffd48809ce": {
       "id": "aa0e51ffd48809ce",
       "title": "从零搭一家公司时，AI 改写的不是一两个岗位，而是整套建队方式",
       "source_url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
       "raw_file": "aa0e51ffd48809ce.txt",
-      "deep_read_file": null,
+      "deep_read_file": "aa0e51ffd48809ce.md",
       "published_at": "2026-04-24",
       "read_at": null,
       "queued_at": "2026-04-27T21:25:11+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:25:11+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "b7824aeeb676bd99": {
       "id": "b7824aeeb676bd99",
       "title": "Replit 想推动的，不只是更多人写代码，而是更多人直接做成生意",
       "source_url": "https://www.youtube.com/watch?v=7Doo2X9LPeY",
       "raw_file": "b7824aeeb676bd99.txt",
-      "deep_read_file": null,
+      "deep_read_file": "b7824aeeb676bd99.md",
       "published_at": "2026-04-23",
       "read_at": null,
       "queued_at": "2026-04-27T21:28:35+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:28:35+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "df6911fbfc7b907d": {
       "id": "df6911fbfc7b907d",
       "title": "Every 测了三周 GPT-5.5 后，最明显的结论不是更聪明，而是更能接工作流了",
       "source_url": "https://www.youtube.com/watch?v=GROt1Nd4asY",
       "raw_file": "df6911fbfc7b907d.txt",
-      "deep_read_file": null,
+      "deep_read_file": "df6911fbfc7b907d.md",
       "published_at": "2026-04-23",
       "read_at": null,
       "queued_at": "2026-04-27T21:29:58+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:29:58+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "cd6c0047884c8aef": {
       "id": "cd6c0047884c8aef",
       "title": "Anthropic 产品团队能把 6 个月压到 1 个月，靠的不是喊 AGI，而是先拆障碍",
       "source_url": "https://www.youtube.com/watch?v=PplmzlgE0kg",
       "raw_file": "cd6c0047884c8aef.txt",
-      "deep_read_file": null,
+      "deep_read_file": "cd6c0047884c8aef.md",
       "published_at": "2026-04-23",
       "read_at": null,
       "queued_at": "2026-04-27T21:30:17+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:30:17+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "a787d805eea3ad3f": {
       "id": "a787d805eea3ad3f",
       "title": "面向 AI Agent 设计接口时，重点不是聊天，而是把服务变成可调用能力",
       "source_url": "https://www.youtube.com/watch?v=KzqpK1uCczw",
       "raw_file": "a787d805eea3ad3f.txt",
-      "deep_read_file": null,
+      "deep_read_file": "a787d805eea3ad3f.md",
       "published_at": "2026-04-22",
       "read_at": null,
       "queued_at": "2026-04-27T21:30:59+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:30:59+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "ddc57cc3bb056d25": {
       "id": "ddc57cc3bb056d25",
       "title": "所谓 AI Sandwich，真正想保住的是人的判断和作品归属感",
       "source_url": "https://www.youtube.com/watch?v=G0LTv8hQ5Cs",
       "raw_file": "ddc57cc3bb056d25.txt",
-      "deep_read_file": null,
+      "deep_read_file": "ddc57cc3bb056d25.md",
       "published_at": "2026-04-22",
       "read_at": null,
       "queued_at": "2026-04-27T21:34:35+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:34:35+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     },
     "1199a44f6505a89f": {
       "id": "1199a44f6505a89f",
       "title": "Anthropic 想做的不是一个设计工具，而是一整套 AI 原生工作栈",
       "source_url": "https://www.youtube.com/watch?v=WMnk1LFBMqA",
       "raw_file": "1199a44f6505a89f.txt",
-      "deep_read_file": null,
+      "deep_read_file": "1199a44f6505a89f.md",
       "published_at": "2026-04-18",
       "read_at": null,
       "queued_at": "2026-04-27T21:39:54+08:00",
-      "generated_at": null,
-      "updated_at": "2026-04-27T21:39:54+08:00"
+      "generated_at": "2026-04-27T22:11:09+08:00",
+      "updated_at": "2026-04-27T22:11:09+08:00"
     }
   }
 }
