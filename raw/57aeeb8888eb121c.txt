@@ -1,0 +1,103 @@
+原文： https://www.youtube.com/watch?v=pZNzfQLgGsA
+
+Pointing is really at the core
+of a lot of the interactions
+we have when we collaborate with
+other people for more than half
+a century.
+The mouse pointer has
+been the one constant
+across every website, digital
+documents, and workflow we use.
+What if behind the pointer there
+was an AI model like Gemini
+actually listening to us,
+paying attention to the screen
+and trying to interpret
+whatever we're
+saying another person would.
+I'm Adrienne.
+I am a researcher
+at Google DeepMind.
+My job involves doing
+a lot of prototyping,
+a lot of experiments with
+users, and really trying
+to understand people and how
+to create systems that actually
+satisfy their needs.
+The focus of this research
+project is an experimental,
+AI enabled pointer
+with the ability
+to understand not only
+what you're pointing at,
+but also why it matters to
+you and how to act upon it.
+Our first focus was
+really, how can we
+build a system that can really
+understand fluid user intent.
+Could you get those two
+ingredients and also this one
+and add them to my
+shopping list here.
+Done the way we
+actually made this work
+in our initial prototype was
+by saying keywords like this
+here or there.
+If I hover on the
+pointer knows the data
+that's behind the scene.
+Make this orange by
+typing the word this.
+It added this actual
+text node to the prompt.
+We can really have
+the pointer dig
+through all of the
+layers of data.
+We can have voice,
+we can have text.
+We can have image understanding.
+Can you make this.
+8:00 PM.
+I've updated the draft
+to start at 8:00 PM,
+and then have Gemini write
+code to satisfy the user intent
+whenever they're moving the
+pointer across different apps.
+Can you show me how to go
+from this place to that place.
+Here are the directions
+between the two locations.
+All of these Windows
+are going to be
+communicating with the pointer.
+Creating the prompt on the fly.
+I am using head tracking here.
+Head Gemini.
+So can you generate an image
+based on this whole menu here.
+I would like you to use
+the style in this image.
+OK I'm generating the image now.
+Beautiful Gemini transferred
+the content of the menu here,
+as well as the style from
+the bird into the new image.
+It's really magical
+what you can do
+when we mix voice and pointing
+and visual understanding
+at the same time.
+I imagine a new type
+of operating system
+are showing me content
+I might find useful.
+Me pointing back at the
+content, sharing attention,
+and sharing the Canvas if I was
+working with another person.

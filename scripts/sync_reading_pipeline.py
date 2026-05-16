@@ -29,6 +29,12 @@ from content_store import (
     write_json,
 )
 
+EXCLUDED_BRIEF_SOURCE_URLS = {
+    normalize_source_url("https://www.youtube.com/watch?v=jn_H3vuUC6E"),
+    normalize_source_url("https://www.youtube.com/watch?v=sRKBGVFVYAw"),
+    normalize_source_url("https://www.youtube.com/watch?v=QIa63fYcqvI"),
+}
+
 
 def load_legacy_briefs() -> dict[str, dict[str, str]]:
     mapping: dict[str, dict[str, str]] = {}
@@ -148,10 +154,26 @@ def migrate_raw_documents() -> dict[str, dict[str, str]]:
     return documents
 
 
-def rebuild_briefs(raw_documents: dict[str, dict[str, str]]) -> dict[str, object]:
+def filter_brief_documents(
+    raw_documents: dict[str, dict[str, str]],
+    deep_read_items: dict[str, object],
+) -> dict[str, dict[str, str]]:
+    return {
+        content_id: metadata
+        for content_id, metadata in raw_documents.items()
+        if content_id not in deep_read_items
+        and normalize_source_url(metadata.get("source_url", "")) not in EXCLUDED_BRIEF_SOURCE_URLS
+    }
+
+
+def rebuild_briefs(
+    raw_documents: dict[str, dict[str, str]],
+    deep_read_items: dict[str, object] | None = None,
+) -> dict[str, object]:
     legacy_briefs = load_legacy_briefs()
     existing_index = load_index(BRIEFS_INDEX_PATH).get("items", {})
     index = {"version": 1, "items": {}}
+    raw_documents = filter_brief_documents(raw_documents, deep_read_items or {})
 
     BRIEFS_DIR.mkdir(parents=True, exist_ok=True)
     for path in BRIEFS_DIR.glob("*.md"):
@@ -233,8 +255,8 @@ def sync_subtitle_index(raw_documents: dict[str, dict[str, str]]) -> None:
 
 def main() -> None:
     raw_documents = migrate_raw_documents()
-    briefs_index = rebuild_briefs(raw_documents)
     deep_reads_index = rebuild_deep_reads()
+    briefs_index = rebuild_briefs(raw_documents, deep_reads_index.get("items", {}))
     write_json(BRIEFS_INDEX_PATH, briefs_index)
     write_json(DEEP_READS_INDEX_PATH, deep_reads_index)
     sync_subtitle_index(raw_documents)

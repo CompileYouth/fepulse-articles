@@ -1,0 +1,154 @@
+{
+  "mode": "manual",
+  "lookback_days": 5,
+  "generated_at": "2026-05-11T10:48:27.071670+08:00",
+  "since": "2026-05-06T10:48:27.071670+08:00",
+  "items": [
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+      "url": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
+      "upload_date": "20260510",
+      "published_at": "2026-05-10T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260510-how-to-build-a-company-that-withstands-any-era-eric-ries-lean-startup-author"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Build a Claude Code Personal OS Step by Step in 40 Minutes | Moritz Kremb",
+      "url": "https://www.youtube.com/watch?v=ACRd0Ikg_KI",
+      "upload_date": "20260510",
+      "published_at": "2026-05-10T21:00:31+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260510-build-a-claude-code-personal-os-step-by-step-in-40-minutes-moritz-kremb"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "What No One Understands About AI",
+      "url": "https://www.youtube.com/watch?v=23pp6HX1R7U",
+      "upload_date": "20260510",
+      "published_at": "2026-05-10T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260510-what-no-one-understands-about-ai"
+    },
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "David Reich – Bronze Age shock, the Neanderthal puzzle, & the sudden spread of farming",
+      "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw",
+      "upload_date": "20260509",
+      "published_at": "2026-05-09T01:09:45+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260509-david-reich-bronze-age-shock-the-neanderthal-puzzle-the-sudden-spread-of-farming"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+      "url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-physical-ai"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "The Secrets of Claude's Agent Platform From the Team Who Built It",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260508-the-secrets-of-claude-s-agent-platform-from-the-team-who-built-it"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T22:30:06+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-tokenmaxxing-how-top-builders-use-ai-to-do-the-work-of-400-engineers"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "Palantir CTO: Our National Security Is a 5-Alarm Fire",
+      "url": "https://www.youtube.com/watch?v=4oCDpbMyugU",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-palantir-cto-our-national-security-is-a-5-alarm-fire"
+    },
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "tldraw's Steve Ruiz: The Infinite Canvas & the Death of Traditional Design",
+      "url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
+      "upload_date": "20260507",
+      "published_at": "2026-05-07T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260507-tldraw-s-steve-ruiz-the-infinite-canvas-the-death-of-traditional-design"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "OpenAI vs. Anthropic: The Battle Lines Are Drawn",
+      "url": "https://www.youtube.com/watch?v=4YNHb0XNV1A",
+      "upload_date": "20260507",
+      "published_at": "2026-05-07T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260507-openai-vs-anthropic-the-battle-lines-are-drawn"
+    }
+  ]
+}

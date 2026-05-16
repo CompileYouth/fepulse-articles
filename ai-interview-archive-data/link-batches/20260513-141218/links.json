@@ -1,0 +1,80 @@
+{
+  "mode": "manual",
+  "lookback_days": 3,
+  "generated_at": "2026-05-13T14:12:18.546611+08:00",
+  "since": "2026-05-10T14:12:18.546611+08:00",
+  "items": [
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "Token经济学：AI时代的新货币战争",
+      "url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260513-token-ai"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "Shawn Ryan & Palantir Co-Founder Debate the War in Iran",
+      "url": "https://www.youtube.com/watch?v=QIa63fYcqvI",
+      "upload_date": "20260512",
+      "published_at": "2026-05-12T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260512-shawn-ryan-palantir-co-founder-debate-the-war-in-iran"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "url": "https://www.youtube.com/watch?v=HLJdElh2tFc",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260511-ai-cpu-amd-arm"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Harvard Professor: CS50, What Matters More Than Programming Now, Lecturing Well | David J Malan",
+      "url": "https://www.youtube.com/watch?v=bB2o81DnKHk",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260511-harvard-professor-cs50-what-matters-more-than-programming-now-lecturing-well-david-j-malan"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260511-amex-global-business-travel-the-world-s-first-ai-take-private-with-long-lake-ceo-alexander-taubman"
+    }
+  ]
+}

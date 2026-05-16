@@ -1,0 +1,63 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260513-141218/links.json",
+  "results": [
+    {
+      "source_id": "the-valley-101",
+      "title": "Token经济学：AI时代的新货币战争",
+      "url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-token-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-vsz5fnwd/ppRvzPXGpEw.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-token-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "Shawn Ryan & Palantir Co-Founder Debate the War in Iran",
+      "url": "https://www.youtube.com/watch?v=QIa63fYcqvI",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260512-shawn-ryan-palantir-co-founder-debate-the-war-in-iran.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-agyt2mfq/QIa63fYcqvI.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-agyt2mfq/QIa63fYcqvI.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260512-shawn-ryan-palantir-co-founder-debate-the-war-in-iran.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "url": "https://www.youtube.com/watch?v=HLJdElh2tFc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-ai-cpu-amd-arm.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-xbr5b52j/HLJdElh2tFc.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-ai-cpu-amd-arm.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "title": "Harvard Professor: CS50, What Matters More Than Programming Now, Lecturing Well | David J Malan",
+      "url": "https://www.youtube.com/watch?v=bB2o81DnKHk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-harvard-professor-cs50-what-matters-more-than-programming-now-lecturing-well-david-j-malan.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-c_nvbc0e/bB2o81DnKHk.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-c_nvbc0e/bB2o81DnKHk.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-harvard-professor-cs50-what-matters-more-than-programming-now-lecturing-well-david-j-malan.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-amex-global-business-travel-the-world-s-first-ai-take-private-with-long-lake-ceo-alexander-taubman.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ydz0ioc1/g5TWnUjbeFM.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-ydz0ioc1/g5TWnUjbeFM.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260511-amex-global-business-travel-the-world-s-first-ai-take-private-with-long-lake-ceo-alexander-taubman.txt",
+      "status": "ok"
+    }
+  ]
+}

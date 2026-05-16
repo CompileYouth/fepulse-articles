@@ -1,0 +1,1020 @@
+原文： https://www.youtube.com/watch?v=X5bABLCuIHA
+
+B2B is a business of trust and the trust
+at the end of the day nothing replaces
+the human touch point of trust right you
+pick up the phone you call even today
+like just having somebody a human on the
+other side saying that yes I am with you
+I am managing it gives a lot of trust
+so exciting to sit here and chat with
+Harshill um I followed along I've been a
+fan for a long time um now to give some
+context because I would say that Razer
+Pay really needs no introduction But
+just to set some context, Razer Pay went
+through YC in winter of 15, 2015. Uh and
+it was the first uh Indian company that
+Y Cominator ever invested in. And um you
+know from then till now it's it's the
+largest uh payments platform in India
+and it's grown at breakneck pace. And
+what I think is really interesting about
+the story is I'd love to learn more
+about sort of the early struggles. you
+know, many of the folks in the audience
+were probably um kind of where you were
+in the beginning, right? And um there's
+a lot of lessons and interesting uh
+parts of your journey that I think
+everyone could benefit from. So maybe
+what we do is rewind the clock a little
+bit. And so did you, you know, kind of
+growing up and and in your undergraduate
+um studies, was it always the plan for
+you to start a company? Like what what
+was your mindset at the time?
+&gt;&gt; Yeah. No, definitely not. So I think I
+was a techie by background. Uh love to
+code during college from school days.
+Love to code, love to build stuff and
+when I was graduating college even
+before I started Razer Pay I had no idea
+of finance or finance systems and so on
+like I just love to code. Uh so like
+getting into Razer Pay and getting into
+building payments and in regulated space
+was definitely not in the cards
+completely. But when I graduated from
+college, I went into a job. I got placed
+into an oil company like you get into
+IIT placements and went to work in an
+oil company for uh in Middle East and I
+never really enjoyed it. Oil was not
+really my calling. So I used to spend my
+weekends and evenings and like a lot of
+people I didn't really have a lot of
+life outside work. So I used to spend
+those days uh evenings and weekends
+coding and building stuff. And for one
+of those things we I had to accept
+payments. So uh so I was building a
+social crowdfunding platform most like a
+side project and uh wanted to accept
+payments for it. So went through the
+standard channel standard approach
+approach banks and all of that and
+realized that it was fairly complicated
+to accept payments in India. First it
+was very hard to get just get started
+and even if you could get started like
+the experience was very like really
+really poor because it was not built for
+techies to start accepting payments. was
+built for large companies to start
+exempt events and that seemed like a
+take a typical techy mentality is how
+hard could this be so I thought that
+maybe maybe it's easier and in hindsight
+it was a very dumb question but uh but
+now I but I can say that at that point
+it felt like this seems like such a
+simple problem why is nobody solving it
+and I started spending on my time
+figuring out like what other people are
+doing uh Facebook was very popular then
+so I would go to Bangalore startups
+startups Facebook groups and see what
+other people are doing and I saw almost
+everyone had the same problem when they
+were starting out that payments is
+extremely hard in India. In fact, it was
+easier to accept cash in India than to
+accept digital payments.
+&gt;&gt; And which as a techie made no sense to
+me like the point of technology, the
+point of internet, everything has been
+democratization, right? So, social media
+gives everyone a voice. Internet gives
+everyone a channel. E-commerce gives
+everyone a selling point. So, it
+democratizes, right? So, when when a
+digital system is harder than a physical
+system, it it does the reverse of
+democratization, it creates silos. And
+that felt like a completely incorre. So,
+I started spending a lot of time
+figuring that out and that's how I got
+into payments. But as I say now that it
+was probably a very hard business to get
+into and if I knew what I knew today
+maybe I would have not not started.
+&gt;&gt; Yeah. I I think uh this is actually an
+interesting pattern for for B2B
+companies because I think I I'd love to
+understand because it wasn't what I find
+really interesting is that it wasn't
+your actual idea to begin with. And so
+what kinds of you know as you sort of
+developed that first version of the
+product was there a moment when you said
+you know look this is clearly not going
+to work and maybe I should just go build
+something else or did you know you said
+it sort of naturally led to some
+insights.
+&gt;&gt; How deep did you have to get into the
+weeds in order to get those insights?
+&gt;&gt; Yeah. So we were very clear we wanted to
+build in online payments but we had to
+choose a GTM strategy. So, so at that
+point of time we thought we'll start by
+selling to educational institutes in the
+payments for education because it seemed
+like e-commerce was a small and harder
+market to get into. So, we thought
+education seems large because there are
+a lot of fees payments in India. Most of
+those fees payments were done through
+physical channels or non-digital
+channels. We thought if we can convert
+the fees payments in India into digital,
+it could be a very large opportunity.
+And it sounds logically right like
+massive amount of fees is collected by
+schools and universities and if we can
+distribage
+on that it could be a really good
+opportunity. So that's how we create a
+plan. In fact we applied to YC by saying
+that we're going to go into education
+institutes. What happened is once we got
+into IC we started selling to education
+institutes and I would go I remember
+like I was in Japur and I would go into
+small uh universities and so on and try
+to convince them that hey why don't you
+accept your fees digitally and the guy
+would look at me and say if they've paid
+digitally they're going to pay you 1%
+extra I said yes so he said then why
+don't I charge just 1% more fees right
+so uh and that's when you realize that
+your customer doesn't really care about
+digital collections like a education
+institute didn't really care they knew
+that if they want whatever way they
+charge the fees the guy is going to come
+and pay Because education in India is
+that kind of a business that if you're
+in a college and the guy says I don't I
+don't collect digitally I only collect
+cash you'll go and give cash. He says I
+don't collect check he says you have to
+go to this counter and pay you will go
+to that counter and pay. So nobody
+really cared about smooth easy
+collections in education. So on the
+parallelly we started selling to
+startups because we were working in a
+co-working setup and a lot of startups
+are our friends who wanted digital
+payments. So they said why don't you
+give it to us and we started getting
+traction there. So we quickly pivoted
+our way and said that this is a sector
+that is going even though it's small
+it's growing for us. This is a sector
+that's definitely not working for us. So
+we completely pivoted away into startups
+and I think it was really good decision
+in hindsight.
+&gt;&gt; Interesting. Interesting. That's I love
+how because you were kind of in the
+weeds with the customers and and in
+front of them and like watching them and
+understanding their problem. You kind of
+got those insights. Um I I'm I'm curious
+sort of as you look at the fintech space
+and you mentioned that it wasn't if you
+knew how complicated or difficult the
+problem was you know maybe maybe it
+would have been a different way that you
+would have started. Um but as you look
+at regulated industries as you started
+to continue to build the product um was
+there a moment when you said actually
+this is going to give me um more energy
+or this is actually the the hardest
+problem actually gives you more energy
+or perhaps more moat over time.
+&gt;&gt; Yeah. So let me talk about how our
+journey started. So we decided to start
+into build into payments. We applied to
+IC. We got into IC. We spent the 3
+months of YC without doing single live
+transition because we didn't get an
+approval from the partners. So we got an
+inrincipal approval before YC. It took
+us a year after that to do our first
+live transition. Now very few businesses
+in the tech world have that kind of a
+gestation period. Most tech businesses
+you can start off out of your bedroom
+start selling. You can build an
+e-commerce store start selling and
+typically YC also recommends those go
+and start selling first. We were in a
+business where we couldn't start
+selling. We needed to wait for
+approvals. We needed to wait for up
+things. uh even after getting to YC it
+took us almost a year to do our first
+live transition because that's how
+complicated regulated businesses are. We
+had to wait for a license. We first had
+to get a lot of certifications,
+approvals, license, then the final
+approval then we could do first live
+transition. The so while all of that
+sounds fairly complex the and our teams
+used to discuss that hey it's taking us
+a year to do a first live transition
+like how do we have that patience one
+thing that I kept telling us is that yes
+there are a lot of hurdles but everyone
+coming after us will also face the same
+hurdles. So it's the hurdles become a
+moat over time because unlike most
+spaces in India which get funded. We are
+still in a space where there's still
+much lesser number of companies in
+competition because it's not very easy
+to just bring build a payment gateway
+get an approval started. You don't have
+100 companies coming up in our space in
+a month because not easy to build in
+that. So the the the regulation can seem
+unfair to you at times but the best part
+is it's actually very fair. No, no
+company no matter how big or small they
+are, they have to clear the same light
+of guidelines, same set of rules, follow
+the same one-year process that we
+followed to get an approval and go live
+and very few companies will have the
+patience or the energy to go through
+that effort. So that itself creates a
+very deep mode that it's not easy to get
+into that space. So I'll say regulated
+businesses are hard in the sense that
+you have they have certain set of rules
+you have to comply with but it also
+allows you to build a very deep mode
+once you comply with them because
+everyone coming after you also has to do
+the same job and that makes that that
+allows you to create a lot of
+differentiation on top.
+&gt;&gt; Yeah. And and is that what gave you
+ultimately the conviction because I
+think you know these types of cold start
+problems are very very difficult and you
+had to wait a year you had to go well
+beyond YC to sort of like land that
+first solve that first cold start
+problem. Was there a moment when you
+said actually you know this is going to
+take too long or or are you did you get
+conviction as you were building? So I
+think we every every like say it's easy
+to say today that yeah we had commission
+it it wasn't really the case like every
+single month I would sit my with my
+co-founder and say why are we building
+in this space like why don't we do
+something else why don't we like there
+were companies getting funded in
+e-commerce companies getting funded in
+uh food delivery and so many spaces and
+we said why don't we just do that why
+don't we we we are techies at the end of
+the day we can spend our time coding
+something else we can spend our time
+building something else but we connected
+with the problem so much because we
+spoke to so many founders so many people
+who could be our customers and I That
+gave the highest form of energy. Every
+single customer we started meeting,
+everyone said yes, we have a problem.
+Yes, nobody's solving it. And that gave
+us the conviction that yeah it is hard
+but the hard see if it is hard to sell
+to customers it's a problem. If it's
+hard for other reasons it's not really a
+problem. It's actually a mode because if
+it's hard for other reasons then nobody
+else will get into the problem and and
+if your customers really care about it
+once you build it for them they'll
+really love you. So once we started
+getting customers once we were actually
+able to start onboarding customers the
+customers loved it. Hey finally you are
+there. finally there's something who
+solves for us the way we want it to be
+solved and I think that really created a
+deep mode and we had a lot of lot of
+loss of conviction through this process
+the only thing that he kept us going is
+like there were enough customers as Bice
+says make something people want so as
+long as there were enough number of
+people who wanted what we were building
+I think we were in a good shape
+&gt;&gt; yeah it's it's interesting that's a very
+common theme among really really um
+really generational founders and
+building generational companies is that
+ultimately the customer kind of gives
+you energy Right. And that's that's
+really what what you focus on, not
+investors, not sort of regulatory
+bodies, but really the customers that
+give you that energy. Um, one thing that
+you know is often quoted is that points
+of crisis or, you know, when you kind of
+have these like near-death experiences,
+um, you can either survive them or you
+can actually get out of them stronger.
+And, you know, in our conversations,
+there's some near-death moments or or
+crisis moments. would love to hear a
+moment when you thought maybe things
+were going to end and how you kind of
+tackled it and how did the company get
+stronger because of it.
+&gt;&gt; Yeah, it keeps happening in a business
+we are in. Uh I can tell you one of the
+early days right we got a bank approval
+we got a license I was telling you
+throughout the YC time uh we were not
+live just a week before demo day we got
+a final approval and we actually went
+live and launched in fact before demo
+day we were considering that YC has an
+option that you can delay and do the
+next demo day discussing not to launch
+uh on demo day because you're not ready
+but we got approval week before demo day
+we did techrunch launch we went live all
+great we did the demo day a lot of
+investors were interested about 2 weeks
+after demo day the bank that had enabled
+us pulled the plug. They said like uh
+there were some issues, some uh one
+customer did a complaint and they said
+we can't support you anymore and they
+completely stopped our platform. We had
+at least 50 customers live, merchants
+live who were using us for payments and
+one day all of them were shut because
+the bank pulled the plug. Now this is
+like the like it's the hardest place you
+can be in a payments business because
+your customers want to collect money.
+somebody has finally agreed that they
+want to use a small payment gateway like
+you to accept your money and now you
+have to tell them that hey we your
+business is shut because our bank pulled
+the plug u and I think that was the
+probably the hardest time of the company
+because like a lot of us were in the
+room we tried begging and pleading the
+bank that hey give us some more time and
+they said no we can't and it's done and
+they didn't care and so so I think uh we
+had to take some very like we had to
+discuss what we do because in a payments
+business trust and reliability is so
+critical that once these guys go out and
+say hey raise a pay like duped us or
+whatever and then our business is
+impacted because of them and we had just
+done a YC launch like it could be its
+own set of things and then we'll never
+be able to establish trust. I think the
+one fundamental principle we set is that
+we'll call every single customer and
+tell what is happening exactly why it is
+happening and what we are doing about
+it. We'll I think a lot of times when
+this crisis happens people stop picking
+up calls people stop responding because
+you don't have much to say like what do
+you tell your customers just going to is
+going to pick up the phone and scold
+you. uh we said we'll get the all the
+scolding we'll hear all the abuses but
+we'll never stop picking the phone we'll
+never stop calling these people and
+telling what's happening so we had a
+like six seven of us six of us sat in a
+room started calling each and every
+customer explaining what's happening a
+lot of them understood a lot of them
+didn't understand a lot of them abused
+us and I can tell you like uh when
+Indians abuse they abuse a lot so so
+they're like uh fullon Hindi abuses that
+our team had to and me I personally had
+to listen to but we said it's Okay,
+we'll listen through it. We'll hear them
+out. We'll let them vent their
+frustration. We'll tell them what's
+happening. And we kept doing that and uh
+it took us about four or five days
+before which we could get another
+partner and we could take it live and
+then uh we were able to get a lot of
+these merchants live and even some of
+those merchants some of the merchants
+who even abused us are still live with
+us with razor pay even today. uh because
+yeah
+because at the end of the day like uh
+B2B is so unlike B2C B2B is a business
+of trust right that's and in
+particularly in financial institutions
+it's a business of trust and the trust
+at the end of the day nothing replaces
+the human touch point of trust right you
+pick up the phone you call even today
+like for when customers get raise a
+support query or questions we have a
+rule that if it crosses two or three or
+four exchanges you pick up the phone and
+call the customer be like the just
+having somebody a human on other side
+saying that yes I am with you and I'm
+going to I am managing it gives a lot of
+trust uh even though the efficiency
+might be weaker the trust coming out of
+that is stronger so for example a lot of
+companies are using AI to replace uh
+support today and we've taken a call
+that we are using AI in everything
+except replacing customer support
+because in customer support in in our
+case customer support is not about
+solving the problem it is a channel to
+establish trust that hey we are here
+there's somebody as a human spending his
+time on solving a problem and we can't
+take that away so it I think that
+fundamentals got us set up for us
+because of the crisis because we learned
+that even when we had the worst of worst
+happening to us just because we were
+picking the phone and ask saying that
+hey I'm on top of it and I'm spending my
+time just figuring this out. Give a lot
+of trust to these people.
+&gt;&gt; That's that's dedication. That's very
+inspiring. I think um that's a hugely
+important lesson for building any
+company but certainly very very much for
+a trustbased company. One of the
+interesting things about our
+conversation was this notion of
+conviction that you guys had very early
+on and you know this was a time and I
+think you know folks probably realize uh
+maybe some of the folks here are a
+little bit too young to remember you
+know the UPI systems wasn't there uh
+demonetization has not happened yet um
+and so early days there are many
+competitors particular competitors from
+overseas competitors locally and you
+know they would say things like, "Oh,
+you know, we're going to we're in this
+space already. Um, you don't know
+anything. You don't have the background.
+We're going to crush you. How about we
+just buy you?" Or, you know, um, and
+they're certainly motivated by some
+amount of fear associated with that,
+right? So, what was your mindset at the
+time? Like what gave you conviction to
+keep going when in some of those cases,
+I think some founders probably would
+have said, "Well, you know, maybe we we
+pack it up and and join one of these
+companies or maybe we're not going to
+win."
+&gt;&gt; Yeah. And I I think that that happened
+very early like in in our space it
+actually happened very early when we
+were in YC even before we launched we
+started getting acquisition offers uh
+from from one of the some of the largest
+payment companies in the world uh
+started saying that hey because of YC we
+got noticed uh so some of the large
+payment companies so founders of them
+reached out and said why don't you join
+us why did you build India for us and so
+on I think it uh and I think some of
+those were actually exciting because the
+companies were really good uh I think
+what kept us going is a India is very
+very hard and very different so when we
+met a lot of these uh companies global
+companies I felt they didn't understand
+how complex India is and the worry from
+that perspective was not that what will
+happen today but our worry was that two
+years years out the amount of investment
+India needs uh so India is a massive
+opportunity today but at 2014 2015 if
+you looked at India India like the
+payment volume was $60 billion right the
+total GMBB that's what I put in my
+business plan B my YC uh application I
+put the payments market of India is $60
+billion today raise alone does $180
+billion right so that is the way the
+market has grown in last 10 years right
+so it's so hard to
+it's so hard to plan for India now if I
+told a company that hey for a $60
+billion market we need $500 million to
+build it's going to be very hard uh to
+convince them but if I if somebody
+understood that it's $60 billion market
+is going to scale up massively right and
+there's a lot of opportunity that is
+going to have even today I feel 180 is
+very small India is going to be a
+trillion plus market at least in
+payments right but it's very hard to
+explain that to a global player who's
+not seen that because most other markets
+in the world are not growing at that
+pace. So I think for us it was very
+clear that if we have to solve India, we
+have to think a very long-term
+perspective and if if we were able to
+consider that we need to have a partner
+who is going to be able to understand
+that that is a long-term play of India
+and we didn't find that. So I think for
+us the answer became very clear then
+unless we feel that what we want to
+achieve we can achieve faster with
+somebody else there's no reason to work
+with somebody else and we never found
+that.
+&gt;&gt; Yeah your your insights were pretty
+unique in that regard I think. Um so it
+did work and it did start to take off
+and you know um there was a period I
+think um in sort of 2017 2020 um even
+before the pandemic where you guys had
+grown some insane multiple like 40x um
+at what was amazing about that wasn't
+just the growth it was that you guys did
+it with record capital efficiency
+what was your mindset in that because
+you know I think You know, we get a lot
+of questions obviously about how much
+money do I need to raise? Um, I need to
+do this thing and therefore I need to
+raise a lot of capital to do it. Um, but
+you guys were able to grow, you know, at
+a break neck pace but say very very
+capital efficient and very lean. What
+was what was that mindset?
+&gt;&gt; Yeah, it is uh in fact it's again a
+great thing in hindsight but if you know
+the 20185 to 2020 time period it was not
+really considered a good thing for a
+company to burn less money. Like there's
+a there's a time when people were
+investors expect you to burn a lot of
+money. So we raised like when we raised
+our series A funding we raised like
+about 11 10 11 million. We didn't really
+have that much burn. Our burn was less
+than $200,000 a month. So we took that
+money and we put it in bank FDS uh fixed
+deposits in India. Uh the interesting
+part was the interest on the deposits
+was more than our burn. So we became
+profitable and uh our investor was very
+unhappy with that because he was like
+we've given you this money to burn and
+grow. Why are you why are you making
+profits out of it and we had to explain
+that because they were investing a lot
+of other consumer companies which were
+burning massive amount of money and here
+we were we had $11 million we growing
+their money just because of interest
+rate and that made them very unhappy. So
+it was a very hard conversation in
+hindsight but I think for us it was very
+clear we are in a B2B business right in
+a B2B is a very logical business right
+unlike B2C which in my belief because
+I'm a B2B founder I find it very
+illogical because you have to in B2C you
+have to first get the customer spend a
+lot of money get the spend a lot of
+money to grow the customer spend a lot
+of money to uh build engagement and then
+at some point through some other channel
+you monetize that customer in B2B it's
+very simple you add a value to a
+business the business pays you for it
+it's a simple business that you go to a
+business you say hey I'm adding this
+value to you this is what I need to
+charge for it. Either the business likes
+it or dislikes it. But that's how it is.
+There's no point of burning money for
+it. There's no point of spending money
+to engage and all of that because the
+business is going to be logical. He uses
+you today because you add value. If you
+tomorrow stop adding value, he uses
+somebody else. There is there is modes
+and there is depth in product but at the
+end of the day it's about the value you
+add to that their life. So I think for
+us it was very clear. We told the
+investor that like I can burn a lot more
+money and grow a lot faster. It's not
+going to do anything because there's no
+point of that. It's not a DAO mama
+business where I can have that DAO and I
+can say hey tomorrow this is going to be
+worth this much value. It has as much
+value as the value I'm adding to him
+today. If I stop adding that value it's
+going to move out tomorrow. And that
+makes the business far more logical but
+also there's a lot of intensity to the
+business because every day you have to
+fight for your share. You're the
+business uh decision maker on the other
+side is every day evaluating are you
+still adding more value than you're
+charging me for? Because if you're not
+then you're going to find something
+else. And it it is easy to say but it's
+harder to constantly compound especially
+as or gets larger. So to give an example
+like you said like UPI was launched uh
+in 2016 April 2016 actually we just
+celebrated 10 years of UPI. April 2016
+is when UPI was launched. U there were a
+lot of payment gateways at that point of
+time and I don't know if people here
+would remember but in 2016 when UPI was
+launched there was a lot of skeptics a
+lot of people didn't believe that UPI
+will take off. The two largest banks of
+the country hadn't integrated on UPI
+till demonetization happened till
+November 2016. So most payment gateways
+in India actually didn't integrate UPI
+at all because they felt that with
+without the two largest banks of the
+country being on UPI, who will use UPI?
+Uh right. So and that's where the value
+of being small is so high because we had
+nothing to lose. We had 10,000
+merchants. We were very small. We had
+launched in 2015. This is 2016. Uh in uh
+in September October 2016, we became the
+first payment gateway in the country to
+go live on UPI much before the largest
+banks of the country had gone live. And
+then and then November is when the
+largest banks went live and then
+demonetization happened and no other
+payment gateway was ready to support UPI
+at the scale at which we were. So all
+the largest uh companies we were only
+seringmemes before that but the largest
+companies at that point of time zomato
+swiggy book my show all of them went
+live on razor pay in a period of couple
+of weeks because suddenly everyone
+wanted UPI and we were the only payment
+offering that now that's the advantage
+of being a small player that you can
+make these bets early on that worst
+thing and we discussed with our team the
+worst that will happen that UPI doesn't
+take off it's fine we are still fighting
+the battle anyway but if it does take
+off it creates a unique wedge for us and
+we can go out and So that bet that early
+bet played out in a massive way for us
+because it took 6 months for any other
+payment gateway to go live on UP after
+we went live and in that 6 months we
+were able to enter spaces that we
+couldn't have entered uh if there was no
+differentiator for us to play on and
+that is how it compounded for us.
+&gt;&gt; That's that's such a classic I think
+lesson.
+&gt;&gt; Yeah, it's such a classic lesson. I mean
+we we talk a lot about you know being
+able to be faster, right? your rate of
+building product, your rate of learning,
+your ability to adapt to markets and
+those advantages acrew to startups. This
+is a such a classic story and and such
+an amazing indication that that works.
+Um I'm curious um you know as we look at
+the age of AI there's obviously multiple
+things that it's fundamentally shifted
+our thinking on product on how we run
+companies right both of those things and
+I'm curious how you think about the
+product and I think you guys recently
+launched you know core AI functionality
+layering in the fundamental sort of AI
+backbone for running a business um how
+do you guys think about in integrating
+AI into the
+Yeah, I think AI is such a fundamental
+shift. So, first we have to calibrate
+ourselves a lot, right? So, I think it
+starts at the top. So, I am like I and
+the leadership are spending so much time
+on AI like I am addicted to cloud code
+so much right now. uh I was I was
+meeting the anthropic team yesterday and
+I was telling them that that you need to
+start having de addiction programs
+because like we sp I'm personally
+spending so much time on cloud code on
+openclaw and so on and it's so much fun
+and exciting and it allows like I think
+as most founders like we start building
+companies because we love building we
+love coding but over time you the layers
+get built in the company gets large and
+you end up becoming people manager and
+honestly no founder gets into building a
+startup to become a people manager so I
+think AI is such an amazing tool because
+it allows you to get back to building in
+from ship inform uh and I think I
+personally I've been loving that but the
+advantage of that is that when you spend
+your time doing that you understand the
+power of the tool you understand the
+power the technology brings in and that
+is allowing us to make some very
+fundamental decisions so like couple of
+months back we just sat down and said if
+I were to start razor it today how would
+I build it right and we just started
+putting down on drawing board that how
+would our integration look like how
+would our onboarding look like how would
+our support look like how would our
+platform look like how would people
+interact with us how would people use us
+and we just put it all down on a And he
+said okay like let's make that happen
+this because that's the incumbent policy
+right like you start believing that hey
+we have everything we are well set and I
+mean the payment disrupted a lot of
+incumbents to get where we are and it is
+because of the UP example was the same
+reason everybody felt that we we are the
+largest payment player we are doing all
+the cards and everything if something
+changes we'll respond to it but the
+respond to it the the market changes
+faster than you can respond so if you're
+going to respond when the market is
+starting to change you're already too
+late so we said that we going to do the
+Same thing with AI and we're not going
+to act like an incumbent. We're going to
+act like a startup. We're going to
+decide what changes are happening and we
+are going to bring these changes before
+a new startup brings those in. So we
+completely reinvented the platform end
+to end. We launched it a couple of
+months back and the traction has been
+massive because like it fundamentally
+allows you and some of this is not
+perfect yet because AI is still
+evolving. The tech is there but not
+fully there but you have to go with that
+belief that it's going to get there.
+It's improving every day. And so we had
+to spend a lot of time building this
+rewiring our teams rewiring and it's not
+easy because when you have large pools
+of capital sitting large pools of teams
+sitting doing something that doing every
+day asking them that hey we'll hurt
+ourselves in short term but you know
+going to private ourselves completely to
+what is going to make sense longterm it
+is hard and every team has an incumbent
+fallacy but it's the only way to survive
+in the world that we're heading towards.
+AI is going to bring down time to build
+so rapidly that the only differentiation
+is going to be how fast can you move,
+how fast can you really decide what to
+build because the build itself is a very
+short process. I think that's the only
+mode I think I think we've seen that
+tech itself was the only mode in tech
+became how fast can you execute because
+a lot of other things came down. There's
+not the capital mode came down the
+infrastructure mode came down. I think
+AI is going to bring down the building
+mode as well because build itself is
+going to be very easy. The only thing
+you have to spend time is what to build,
+how to build it, how should it look
+like. But just the build itself is going
+to compress massively and every single
+company will have to go through the
+transformation. Now some of them are
+going to take the time and say, "Hey,
+I'll respond to the market." And any
+company who takes that call that we're
+going to respond to the market is
+already dead. The only way to survive is
+to figure out what the market is going
+to be and move today. And that's the
+call we had to take.
+&gt;&gt; This is true founder mode right right
+here.
+Um, that's amazing. That's amazing. Um,
+you know, as as you look at your
+journey, your startup journey. Um, you
+know, you've you've grown from, um, you
+know, a few people maybe in an apartment
+in in Jaipur when you started to now
+sort of one of the generational
+companies. How have you think you've
+changed you know as you scale? Certainly
+the business changes, the organization
+changes. Um but one of the things that
+we often hear is that founders that
+choose to build um and have this
+intensity to build they change. They
+become a better version of themselves or
+a more formidable version of themselves.
+As you reflect on your journey, what has
+changed about you?
+&gt;&gt; Yeah know I think there are a lot of
+learnings in the 10 years and it's not
+that we did everything right. I did a
+lot of mistakes. Uh let me speak about
+like for example some of the mistakes
+like the founder mode that you spoke
+about like I loved that essay when it
+came out because we went through that
+same journey. What happens as a founder,
+you typically start a company, you are
+into it every day. The first two, three
+years, you're ramping up. You're
+figuring out, you're in the trenches.
+Then the company starts taking off. Then
+you start hiring a bunch of executives.
+You start hiring a lot of leaders and
+you start feeling that, hey, now I have
+good leaders that can take care of what
+I used to do and I don't need to spend
+my time on that. I can just manage the
+leaders. And that's what the essays say,
+manager mode. And a lot of founders
+shifted to manage mode. I myself shifted
+to manager mode for a couple of years
+where I said, I have the best leaders.
+The leaders know what they are doing.
+Why do I need to get into everything
+like let me just manage the leaders and
+that's the worst mistake you can do. Now
+there's a fine line between
+micromanagement and being in founder
+mode, right? So you don't want to be
+micromanaging everything. But the things
+that really matter to you, the founder
+has to get into it. For example, as a
+product company, the product vision, the
+pro direction, the way a founder is
+going to think about it, no leader can
+ever think about it. So like I think and
+we had to all and I've spoken to a lot
+of founders who had to go through the
+journey where you start acting in
+manager mode, you start getting your
+leaders and you get the best leaders. We
+had like raise some amazing leaders. But
+at the end of the day, what
+differentiates a company is the
+founders's conviction on something that
+your day to day-to-day execution people
+can't take. And those decisions have to
+come from founders. So, and I think the
+fundamental point point is that nobody's
+going to care about your company as much
+as you do. And that that is never going
+to change. It's not going to happen on
+day one. It's not going to happen on day
+year 10. It's not going to happen on
+year 20. And I think every every company
+whether it's Facebook or whether it's uh
+any large company is run by the founder
+the founders slowly and quickly realize
+that nobody no good leader can care
+about your company as much as you do and
+I think we had to go through the
+journey. So I think that journey took
+almost 10 years for me to personally see
+that hey I need to be into the core
+things that matter to the company is
+something I need to be there and I need
+to spend my time on it and everything
+else I can delegate and I think that
+learning took a lot of time. Um, one
+last quick question for me. So, as as we
+look at, you know, the over 2,000 people
+that are here that maybe reflect where
+you were when you started, what advice
+would you have for folks to take
+actionable steps to get building and to
+get started on a on a company?
+&gt;&gt; Yeah. I think the the core premise of
+like entrepreneurship, right? Like AI is
+making a lot of stuff easier, right? So,
+people are think, hey, maybe
+entrepreneurship will get easier. I
+don't think entrepreneurship is going to
+get easier because of AI. I think the
+fundamental tools required to be build a
+company are getting easier but the core
+aspect of entrepreneur is the ability to
+connect with the problem deeply and
+spend all of your time and effort in
+solving that problem right and I think
+with AI my worry is that because it's
+easier to build it's easier for people
+to latch onto problems that they don't
+really care about right because it's
+easier to say hey I can whiteboard
+something I can build something and
+deploy this and I can start going live I
+think what every founder really needs to
+think is is this something that you can
+spend your next 10 years of your life
+building because that's what it's going
+to take. It is can be easy to build and
+deploy a software on AI today. It can be
+very easy to deploy a website on AI
+today. But is there a problem statement
+that you can spend your 10 years of your
+life building because that's what it's
+going to take if you're going to make
+build a last successful company. AI is
+going to make the build process easier.
+The company building part is still going
+to take 10 years of your life and every
+day spending that hour. So need to find
+a problem statement statement that you
+closely connect with not just because
+something is cool or because AI allowed
+me to make that that code that Y
+project. The only thing that's going to
+work is is that a problem statement that
+you can spend all of your time and
+effort for next 10 years solving for
+because that's what it's going to take
+at the end of the day.
+&gt;&gt; Inspiring. We're going to leave it
+there. Everyone give it up for Harshell
+Matur from Razer Pay.
+&gt;&gt; Yeah. Thank you. Thank you.

@@ -150,6 +150,20 @@ def plain_text_from_transcript(text: str) -> str:
     return cleaned.strip()
 
 
+def strip_source_header(text: str) -> str:
+    return re.sub(r"^(?:原文|原始来源)[:：]\s*https?://\S+\s*", "", text, count=1).strip()
+
+
+def is_mostly_english_text(text: str) -> bool:
+    letters = re.findall(r"[A-Za-z]", text)
+    if not letters:
+        return False
+    han = re.findall(r"[\u4e00-\u9fff]", text)
+    if not han:
+        return len(letters) >= 30
+    return len(letters) >= len(han) * 2
+
+
 def youtube_thumbnail_url(source_url: str) -> str | None:
     normalized = normalize_source_url(source_url)
     parsed = urlparse(normalized)
@@ -213,27 +227,11 @@ def build_brief_from_article(article_text: str, source_url: str) -> str:
 
 
 def build_brief_from_transcript(transcript_text: str, source_url: str) -> str:
-    plain = plain_text_from_transcript(transcript_text)
-    chunks = [chunk.strip() for chunk in re.split(r"\n{2,}", plain) if chunk.strip()]
-    if not chunks:
-        chunks = [plain]
-    picked: list[str] = []
-    total = 0
-    for chunk in chunks:
-        normalized = re.sub(r"\s+", " ", chunk)
-        if len(normalized) < 60:
-            continue
-        remaining = 620 - total
-        if remaining <= 0:
-            break
-        snippet = normalized[:remaining].rstrip("，、；：,;: ")
-        picked.append(snippet)
-        total += len(snippet)
-        if total >= 480 and len(picked) >= 2:
-            break
-    if not picked:
-        picked = [plain[:520].strip()]
-    text = f"> 原始来源：{source_url}\n\n" + "\n\n".join(picked[:3]).strip() + "\n"
+    text = (
+        f"> 原始来源：{source_url}\n\n"
+        "这条内容的原始字幕已经入库，但当前自动同步步骤还不能把字幕稳定整理成可读的中文简报。"
+        "为避免把原文开头片段直接当成简报展示，这里先只保留来源，并标记为中文简报待整理。\n"
+    )
     return ensure_cover_image_markdown(text, source_url)
 
 

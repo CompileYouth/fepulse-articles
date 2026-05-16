@@ -1,0 +1,63 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260509-112502/links.json",
+  "results": [
+    {
+      "source_id": "dwarkesh-patel",
+      "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
+      "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-david-reich-why-the-bronze-age-was-an-inflection-point-in-human-evolution.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-trfeim2s/sRKBGVFVYAw.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-david-reich-why-the-bronze-age-was-an-inflection-point-in-human-evolution.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+      "url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-physical-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-nevu4bkd/oU_V5GlHq7I.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-physical-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "How Anthropic Decides What Goes Into Claude",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-anthropic-decides-what-goes-into-claude.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-q5dqq9g5/lLypHkIVLqc.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-q5dqq9g5/lLypHkIVLqc.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-anthropic-decides-what-goes-into-claude.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "How Garry Tan Rebuilt A $20M Startup For $200",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-garry-tan-rebuilt-a-20m-startup-for-200.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-djdtn673/57lDpTwiW6g.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-djdtn673/57lDpTwiW6g.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-garry-tan-rebuilt-a-20m-startup-for-200.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "How Palantir Became a $300B+ Company",
+      "url": "https://www.youtube.com/watch?v=4oCDpbMyugU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-palantir-became-a-300b-company.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-c1hb6vmj/4oCDpbMyugU.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-c1hb6vmj/4oCDpbMyugU.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260508-how-palantir-became-a-300b-company.txt",
+      "status": "ok"
+    }
+  ]
+}

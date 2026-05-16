@@ -17,7 +17,6 @@ const articleTitle = document.getElementById("articleTitle");
 const articleMeta = document.getElementById("articleMeta");
 const preview = document.getElementById("preview");
 const statusBar = document.getElementById("statusBar");
-const copyButton = document.getElementById("copyButton");
 const queueDeepReadButton = document.getElementById("queueDeepReadButton");
 const markReadButton = document.getElementById("markReadButton");
 const itemTemplate = document.getElementById("articleItemTemplate");
@@ -79,6 +78,21 @@ function formatReadDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.valueOf())) return value;
   return date.toLocaleDateString("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+}
+
+function isHttpUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === "http:" || url.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
+
+function renderSourceLink(url, label = url) {
+  if (!isHttpUrl(url)) return formatInline(label);
+  const escapedUrl = escapeHtml(url);
+  return `<a class="source-link" href="${escapedUrl}" target="_blank" rel="noopener noreferrer">${formatInline(label)}</a>`;
 }
 
 function renderItemList(container, items, scope, group) {
@@ -159,7 +173,7 @@ function renderMarkdown(markdown) {
       ? `<ul style="${INLINE.infoList}">${infoItems.map((item) => `<li>${formatInline(item)}</li>`).join("")}</ul>`
       : "";
     const sourceHtml = infoSource
-      ? `<p style="${INLINE.infoSource}">原始来源：${formatInline(infoSource)}</p>`
+      ? `<p style="${INLINE.infoSource}">原始来源：${renderSourceLink(infoSource)}</p>`
       : "";
     parts.push(
       `<section class="wechat-info" style="${INLINE.info}"><div aria-hidden="true" style="${INLINE.infoGlow}"></div><h4 style="${INLINE.infoTitle}">${formatInline(
@@ -260,7 +274,6 @@ async function refreshData(preferredTab = currentTab) {
     articleMeta.textContent = "";
     preview.classList.add("empty-state");
     preview.textContent = "当前目录中还没有可展示的内容。";
-    copyButton.disabled = true;
     queueDeepReadButton.classList.add("hidden");
     markReadButton.classList.add("hidden");
   }
@@ -275,19 +288,18 @@ async function loadContent(item) {
   currentItem = { ...item, ...payload };
   articleTitle.textContent = item.title;
   const tags = [];
-  if (payload.source_url) tags.push(payload.source_url);
-  if (payload.read_at) tags.push(`已读：${formatReadDate(payload.read_at)}`);
+  if (payload.source_url) tags.push(renderSourceLink(payload.source_url, "打开 YouTube"));
+  if (payload.read_at) tags.push(formatInline(`已读：${formatReadDate(payload.read_at)}`));
   if (item.scope === "briefs" && payload.queued_for_deep_read) {
-    tags.push(`已加入详读候选：${formatReadDate(payload.queued_at) || "待生成"}`);
+    tags.push(formatInline(`已加入详读候选：${formatReadDate(payload.queued_at) || "待生成"}`));
   }
   if (item.scope === "deep-reads" && payload.generated === false) {
-    tags.push("详读正文待生成");
+    tags.push(formatInline("详读正文待生成"));
   }
-  articleMeta.textContent = tags.join(" · ");
+  articleMeta.innerHTML = tags.join(" · ");
 
   preview.classList.remove("empty-state");
   preview.innerHTML = renderMarkdown(payload.content);
-  copyButton.disabled = false;
   queueDeepReadButton.classList.toggle("hidden", item.scope !== "briefs");
   if (item.scope === "briefs") {
     queueDeepReadButton.textContent = payload.queued_for_deep_read ? "已加入详读候选" : "详读";
@@ -301,39 +313,8 @@ async function loadContent(item) {
   setStatus("内容已加载");
 }
 
-async function copyStyledContent() {
-  if (!currentItem) return;
-  const html = preview.innerHTML;
-  const text = preview.innerText;
-
-  if (window.ClipboardItem && navigator.clipboard?.write) {
-    const item = new ClipboardItem({
-      "text/html": new Blob([html], { type: "text/html" }),
-      "text/plain": new Blob([text], { type: "text/plain" }),
-    });
-    await navigator.clipboard.write([item]);
-  } else {
-    const listener = (event) => {
-      event.preventDefault();
-      event.clipboardData.setData("text/html", html);
-      event.clipboardData.setData("text/plain", text);
-    };
-    document.addEventListener("copy", listener, { once: true });
-    document.execCommand("copy");
-  }
-  setStatus(`《${currentItem.title}》已复制`);
-}
-
 briefsTab.addEventListener("click", () => setCurrentTab("briefs"));
 deepReadsTab.addEventListener("click", () => setCurrentTab("deep-reads"));
-
-copyButton.addEventListener("click", async () => {
-  try {
-    await copyStyledContent();
-  } catch (error) {
-    setStatus(`复制失败：${error.message}`);
-  }
-});
 
 queueDeepReadButton.addEventListener("click", async () => {
   if (!currentItem || currentItem.scope !== "briefs") return;

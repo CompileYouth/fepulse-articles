@@ -1,0 +1,30 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260508-103739/links.json",
+  "results": [
+    {
+      "source_id": "south-park-commons",
+      "title": "tldraw's Steve Ruiz: The Infinite Canvas & the Death of Traditional Design",
+      "url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260507-tldraw-s-steve-ruiz-the-infinite-canvas-the-death-of-traditional-design.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6frza7mr/hNUEaFmPAwc.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6frza7mr/hNUEaFmPAwc.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260507-tldraw-s-steve-ruiz-the-infinite-canvas-the-death-of-traditional-design.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "every",
+      "title": "OpenAI vs. Anthropic: The Battle Lines Are Drawn",
+      "url": "https://www.youtube.com/watch?v=4YNHb0XNV1A",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260507-openai-vs-anthropic-the-battle-lines-are-drawn.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-1y0a7cf6/4YNHb0XNV1A.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-1y0a7cf6/4YNHb0XNV1A.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-1y0a7cf6/4YNHb0XNV1A.zh-Hans.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260507-openai-vs-anthropic-the-battle-lines-are-drawn.txt",
+      "status": "ok"
+    }
+  ]
+}

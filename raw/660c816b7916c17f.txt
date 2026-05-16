@@ -1,0 +1,1511 @@
+原文： https://www.youtube.com/watch?v=4oCDpbMyugU
+
+The reason we're going to win in
+whatever domain it is is that we're
+crazy. Even we don't know what we're
+going to do when we get punched in the
+face. And I think that's actually an
+exceptional quality.
+&gt;&gt; You're the CTO of Palanteer.
+&gt;&gt; So, how do we give our service members
+that Iron Man? How do I make them super
+human?
+&gt;&gt; You were the 13th employee.
+&gt;&gt; Most people were working at Calendar
+apps here. There was these 12 people who
+were like, "Yeah, we're going to solve
+problems in national security."
+&gt;&gt; Palinger was a bunch of heretics early
+on.
+&gt;&gt; We're not here to ring the next sale.
+We're here to transform the institution.
+that has led to a culture that is wildly
+focused on outcomes.
+&gt;&gt; What are shamisms?
+&gt;&gt; I describe for deployed engineers as
+people that metabolize pain and excrete
+product.
+&gt;&gt; I have to ask you about some of these
+like magical AI weapons. The clash
+between anthropic and the Pentagon. You
+need people making these decisions who
+are accountable to the American people.
+What made the Paler culture unique? It
+wasn't actually clear that we're going
+to succeed at all, but I'd rather fail
+working on something this important than
+succeed on building something completely
+trivial and worthless.
+CEO and co-founder
+of
+&gt;&gt; Now I'm here.
+&gt;&gt; Sean Senko is one of my favorite
+American innovators. He's been leading
+Palunteer for over 20 years as its CTO
+now and built a lot of what the company
+stands for. He's lieutenant colonel in
+the army. That's right. After making a
+billion dollars and changing the
+innovation world, he's also serving in
+our armed forces because he loves
+America. He has a great new book out
+that's a bestseller called Mobilize.
+He's going to tell us about the crisis
+of the American industrial base, how to
+revive what made us great, and how to
+prevent World War II. Let's hear from
+this patriot. Welcome to American
+Optimus. Really excited to have my
+friend Shan Sankar with us today. Sean,
+thanks for joining.
+&gt;&gt; Great to be here with you, Joe.
+&gt;&gt; So Sham, you've been a key leader, a
+palunteer. You're the CTO there. You're
+lieutenant colonel in the army. Uh you
+have an awesome new book out, Mobilize,
+uh which uh I think you're in town in
+Austin here. You're getting an award
+tonight. So you're the man of the hour.
+How's everything going?
+&gt;&gt; Look, it's going great. I think the I'm
+so excited about the kind of the vibe in
+the country right now, the opportunity
+to fix so many of the problems that
+we've been staring at as it relates to
+the defense industrial base, our
+national security, mobilizing the
+country. So I'm pumped.
+&gt;&gt; It does kind of feel like the world came
+our way a little bit, huh? Like from
+from the last 20 years. Yeah, I I think
+there there's certainly a number of us
+who've kind of been seeing inside and
+outside of government seeing like the
+trends of the world. I mean, part of the
+thesis of the book is if you really go
+back to 2014, you have the
+militarization of you have the
+annexation of Crimea, the militarization
+of the Spratley Islands in 15, Iran with
+breakout capability for the bomb. You've
+had a pogram in Israel, the Houthis
+holding Red Sea trade hostage, global
+trade hostage from the Red Sea. It it's
+pretty hard to look at this and not
+think perhaps we've lost deterrence. And
+as a country that spends a trillion
+dollars a year on defense, you know, how
+is this happening? Why is this
+happening? And I think there are a lot
+of lessons from our past. You go back to
+World War II, the early Cold War, the
+fundamental innovative American spirit
+that actually provided for our defense.
+Now we have a huge number of founders
+who've shown up to invest in the
+national interest. We have uh bold
+leadership uh throughout our military
+services to seize that opportunity. And
+I'm I think this is the moment.
+&gt;&gt; I was really really worried in 2015 2016
+where things were going and it kind of
+like I think a lot of us respond to that
+by jumping back in and getting our
+friends to jump back in. It does it does
+feel like it's gone the right way the
+last 10 years.
+&gt;&gt; I agree.
+&gt;&gt; Well, you know, let's go back a little
+bit before we dive into into into the
+book and pound here. Tell us a little
+bit about your upbringing. Your father
+grew up in a mud hut in India. You and
+your family were nearly murdered in
+Nigeria. And how did you make it to
+America and what does this country mean
+to you?
+&gt;&gt; Yeah, my my father was the youngest of
+nine kids. He grew up in a single room
+mud hut in uh in South India. Uh dad
+studied pharmacy and as a very young man
+22 23 years old. He he left India to go
+build the first pharmaceutical
+manufacturing facility in Africa. This
+was in Nigeria. And uh dad was very
+successful in his 20s. Uh you know he
+built this factory. He ran it. Um uh
+while I was born in India, my my parents
+were obviously living in Nigeria. When
+we were about three years old, when I
+was three years old, there was an armed
+robbery at the house and there was five
+armed robbers that came in. They
+decapitated the dog. They pistol whipped
+dad. They threatened to kill him. Hor
+threatened horrible things to mom. That
+was a really that was a seinal moment
+for dad. We left all of our earthly
+possessions behind in Lagos and uh
+resettled in Orlando. But you know that
+that dad from that point forward always
+had this counterfactual about the
+gratitude for life in particular the
+gratitude for America um that but for
+this nation we'd be dead in addition
+Legos
+&gt;&gt; and why America versus somewhere else or
+any other nation is was there was there
+a reason why America was the one? Well,
+of course. I I think if you go So, I
+think there's there's like this
+situational idiosyncratic factors like
+dad had a childhood friend who was
+living in LA and had built a business
+selling knickknacks at theme parks and
+this friend called dad up and said,
+"Hey, I know this horrible thing
+happened to you. There's this place
+called Orlando. All the theme parks seem
+to be going there. You know, I need
+someone I can trust." But, of course, I
+think the more strategic factors are the
+the American soft power. You know, dad,
+despite never having been to America,
+had a fully formed conception of the
+promise of this city on the hill from
+great Hollywood movies from the export
+of of of uh the vision of the country.
+And so, of course, you know, even he not
+having been here knew you'd be lucky to
+be here.
+&gt;&gt; You know, you're the CTO of Palunteer.
+You you've made, you know, infinite
+money at this point. And, you know,
+you're a husband and a father. Yet, last
+year you joined the US Army Reserves.
+Why'd you do that? in part to honor
+dad's sacrifice like this country has
+given us more than we deserve to have
+and I think a sign of a of a functioning
+society is that those who succeed in it
+are willing to invest their time,
+energy, money, resources, attention and
+and give back. Uh I think that the micro
+reasons are like this is the example I
+want to set for my children. Um I want
+to make sure that they have the same
+gratitude as maybe a generation removed
+from the visceral violence that we
+escaped. uh they should have the same
+gratitude that that I had that dad
+imparted in us. Um and I think I'm not
+sure I had a lot of differentiated
+skills to give the army at 24, but I
+think at 44 uh I've learned a thing or
+two along the way that I think can
+hopefully help the army go faster.
+&gt;&gt; You've definitely learned a lot to help
+the military as you've been doing for a
+long time. Let's go back to the early
+days of Palunteer briefly. I guess you
+were the you were the 13th employee when
+we
+&gt;&gt; lucky number 13.
+&gt;&gt; That's actually that's that's funny. uh
+you know I guess our our friend Gabe who
+ended up working there later and
+introduced us uh I remember recruiting
+you there's a restaurant which you which
+you seem to remember better than me cafe
+this is in
+&gt;&gt; Singaporean restaurant yeah
+&gt;&gt; what was your initial impression of this
+company
+&gt;&gt; um just incredible high agency you know
+it's like most people were working at
+kind of like calendar apps or
+something in the valley at the time and
+here there was like these 12 people who
+were like yeah we're going to solve
+problems in national security and
+obviously given my family background And
+it that that tugged at my heartstrings.
+I was I was kind of ruined like what
+what could I work on that wouldn't feel
+meaningless after seeing the opportunity
+that that you guys were chasing? And I
+think, you know, if you're being super
+candid, it didn't it wasn't actually
+clear that we're going to succeed at
+all. But I'd rather fail working on
+something this important than succeed on
+building something completely trivial
+and worthless.
+&gt;&gt; Was the team was it uniquely talented or
+mission? Is it is it just the mission
+driven thing was the thing that stood
+out by far?
+&gt;&gt; Well, both. I mean the people Bob Mcgru
+you know I was like these people were
+enormously talented.
+&gt;&gt; I was I was cowering my my my lack of
+intelligence in in in in face of them
+but also just like how you know you
+combine the talent with the orientation
+to the mission.
+&gt;&gt; It was charismatic.
+&gt;&gt; And so the mission driven side fit
+really well. You you came in and
+actually taught a lot of us a lot about
+things. I guess you figured out
+yourself. You seem to know how to
+structure the business side and
+transparency and processes and all these
+things like where did that come from?
+Uh, you know, Karp would say sometimes
+you have a superpower. Your superpower
+is defined by not what you're, you know,
+what you're particularly good at per se,
+but what what you can do that other
+people can't do. And I think there's a
+journey of discovery and kind of
+organizing the team and getting us to
+execute and having this ruthless focus
+on working backwards from the customer's
+problem. That's kind of my jam.
+&gt;&gt; What made the pallet culture unique or
+what still makes it unique? Like tell
+us, I guess I didn't remember this. I
+guess we made you live with a for a
+while.
+Yeah, I I think there was some agency in
+that decision here, but it was Aki and I
+were roommates for a very long time. Aki
+was the the founding back-end engineer
+and um it was I wouldn't say that it we
+always had a great relationship. We
+still do. I I think Aki and I like never
+saw each other at home. We only saw each
+other at work because we were always at
+work. But it was very convenient to to
+live like I think it was two walking
+blocks away from the office.
+&gt;&gt; This was my policy that Peter's policy.
+You pay people more if they live near
+the office. It works. work. Well,
+&gt;&gt; we don't do that anymore, do we?
+&gt;&gt; No, we don't. At some point in Palatoto,
+we ended up competing against ourselves.
+The subsidy went away because literally
+the whole radius was occupied by us.
+&gt;&gt; That's fair. That's fair. The intent
+doesn't matter anymore. I still think it
+maybe should matter for some offices,
+but I guess maybe it's too obnoxious,
+too. That's the problem. It's like we
+were kind of like getting away with
+things. Now that I I have a spouse, I
+probably would have done things slightly
+differently. We were pretty
+&gt;&gt; It works for certain phase.
+&gt;&gt; Yeah, it's like it's like young people.
+It's a little different. I guess Alex
+Cart made the team a bet they couldn't
+live in the office for a month, but that
+was more that was more of the hedgehog
+guys. I think
+&gt;&gt; it it was but I mean I think it's so
+uniquely the craziness of the counter
+culture. It's like Yeah. So if you live
+in the office for a month, fortunately
+we did have like a shower stall there,
+but if you live in the office for a
+month, I will I will ensure that there's
+like barbecue every Friday in
+perpetuity. Uh and yeah, I think he I
+guess so. Um but you know, Andy, I think
+actually pulled it off. I love it. He
+still comes over for magic like once a
+week here. I just saw him. So FDE for
+deployed engineers. I think you coined
+the term. Uh I do remember thinking and
+talking about how it was like really key
+to get engineers out in the field and
+get experience, but you kind of like
+branded and structured and like created
+the whole thing like tell us about this.
+What are FDES? I mean everyone now wants
+FDES like everywhere in the valley. It's
+very fun to see like this thing that we
+created just like everywhere now.
+&gt;&gt; I can't say it was founded with perfect
+foresight but I think it it really
+started with Karp's intuition. that part
+did have foresight which is um you know
+we are not going to build a we're not
+going to succeed as a company by just
+having sales people interacting with the
+customer that actually there's a lot
+more to learn from the customer uh and
+you need the substance provider to be
+colllocated with them and then I think a
+series of things kind of happened in the
+early days where we would try to be a
+little more conventional we' try to give
+the software to the customer and
+actually it would not end up working not
+because the software didn't work but
+because of some underlying
+infrastructure problem or you had to
+like discover that actually to get get
+the software to work, the whole stack
+had to work. Things that were beyond
+your control, you had to take wildly
+more ownership.
+Uh, and then I think the the first real
+deployment, which was like this 18 hours
+a day, seven days a week for two weeks
+just to get it to work was like a really
+grounding experience that actually the
+only way to solve for the product that
+must exist is through back propagation.
+You have to have really technical people
+sitting with the customer understanding
+figuring out what's the right product.
+The ability to like mutate and ship that
+product and then like anneal those
+lessons back into the core product. I
+often think about as like vector math.
+You have four deployed engineers who are
+they're kind of hackers. They're kind of
+dopamine hit in life comes from solving
+the problem. Never mind that this is a
+caricature, but never mind that it's
+basically maggyver like duct tape and
+bubble gum. The point is you solve the
+problem.
+&gt;&gt; On the other end, you have the
+traditional product engineer and their
+dopamine hit comes out of building the
+thing the right way.
+&gt;&gt; Uh, and never mind it doesn't solve a
+problem anyone cares about. Don't you
+see how beautifully built it is? And so
+if you can figure out a way to get these
+things to move in tension, that's how
+you kind of sail up wind.
+&gt;&gt; We always call them backend engineers
+and then the forward deployed engineers.
+I remember is is that what's the term
+now for the core engineers back home?
+&gt;&gt; Product engineers.
+&gt;&gt; Product engineers back home. And it's
+it's interesting because nowadays with
+AI, I guess it's easier to to be more
+across the spectrum or or do you still
+do you still have the really strong
+distinctions though?
+&gt;&gt; I think actually so we still have the
+really strong distinction because it's
+like are you accountable to your
+customer succeeding? Are you accountable
+to the product succeeding?
+&gt;&gt; Obviously, you want both of these things
+to work. And so there's a question of do
+you think you're going to get them to
+work by collapsing it to a single person
+who's accountable for both or do you
+think you're going to get to work by
+wiring up an elegant tension that you
+manage between the two? I think the
+thing that most people don't understand
+about this is um it is an unstable
+equilibrium. So if you're going to
+pursue a strategy like this, it actually
+requires a dictator to sit between these
+two organizations to manage that tension
+to make sure it's a productive tension.
+It doesn't get counterproductive and to
+to make the strategic calls along the
+way.
+&gt;&gt; There is like I guess what Karp would
+call a dialectic between the two where
+there's like truths about what you need
+on both sides that you have to
+compromise between. Huh.
+&gt;&gt; Then the the uh personality conflicts
+here get very big. You know, the uh the
+the the person who gets from 0 to one
+thinks they're doing 80% of the work.
+&gt;&gt; Y
+&gt;&gt; the person who's getting from one to n
+thinks they're doing 80% of the work.
+Let's just say there's the first 80% and
+the second 80%. And as a consequence,
+they don't quite appreciate that you
+like you both need each other.
+&gt;&gt; Oh yeah. Whenever something in attacks
+90% done, it's like there's actually a
+lot more to do to actually make it work.
+What are shamisms? We talk about this
+now a lot. What does that mean to
+Palunteer? I mean, I I guess I've coined
+a few things over time that seem totally
+normal to me, but um uh I describe for
+deployed engineers as people that um
+that metabolize pain and excrete
+product. That's one that has gotten
+pretty popular here. Uh but I think
+that's that's a good that's a good way
+of thinking about about the role really.
+Uh gamma radiation. So, what's your
+theory of growth? Like how do you as an
+individual expect to get better? I think
+too many of us have bought into this
+vecow farm-like mentality of a linear
+ladder that you kind of climb that has
+perfect predictability and uh to I like
+to present an alternative theory which
+is the Incredible Hulk. You know, how
+did Bruce Banner, the mildmannered
+physicist, turn into the Incredible
+Hulk. It wasn't through progressive
+overload. It's not like he lifted a
+little bit more weight every single
+week. It was through a near fatal dose
+of gamma rays. Could have turned him 50%
+chance he died, 50% chance he turned
+into the big green monster. And I think
+that's a much much more rewarding way to
+think about your own growth. How do you
+find yourself take throw yourself off
+the deep end into situations you may not
+be qualified for and let that unleash
+the Hulk within you?
+&gt;&gt; A lot of people stop growing because
+they stop they stop taking risks because
+they already see themselves as
+successful and they don't want to expose
+themselves anymore to hard things. Huh.
+&gt;&gt; Yeah. So many so many uh and they you
+know so much of it is also like there's
+weird social pressure. How do I explain
+the growth I'm having to my significant
+other or to my friends or to my family,
+you know? So I need labels. I need all
+these things that are actually truly
+anti-growth but have the appearance of
+growth and in growth it often you can
+only connect the dots retrospectively.
+It's very hard to know how will I grow
+from this experience but you can know
+that if it's really hard and it's going
+to push you you're going to grow in some
+way.
+&gt;&gt; Yeah. No, definitely the hardest things
+in life you always end up shaping who
+you are and you hopefully in positive
+ways if you react right. I want to ask
+about the business side because you've
+you're a CTO but you've run you still
+help run the whole business. You've ran
+the whole business for a very long time
+on the business side of Palunteer which
+is unique obviously because it's very
+technical but you know one thing that I
+found interesting is is you became a lot
+more disciplined over time. So I think
+in the old days we would like chase a
+lot of stuff and then now you would just
+be very blunt and say that sounds great
+but here's why it's not going to work.
+And it it comes across I think to some
+people as cynical if they don't if they
+don't know you very well but but it but
+it actually just learn to say no to like
+a ton of stuff. Tell me about this.
+Well, I think some of that is just
+experience like and in particular, it's
+interesting coming from someone calling
+me cynical because I'm kind of a wildly
+optimistic person. Um, but you you kind
+of figure out what are the conditions
+for success. You know, you think naively
+in the beginning it's like, well, if the
+product's great, this is going to work.
+But then you start understanding there
+are all sorts of conditions that need to
+be true at the customer, how the
+customer thinks about the world, where
+they are in terms of understanding their
+own problems. um the the nature of the
+value you can add, how enduring is the
+value going to be, how well shaped is it
+to be?
+&gt;&gt; So, it's actually the value itself
+you're going to add is really important
+consideration to even bother engaging or
+not.
+&gt;&gt; Yeah. I mean, I think the the the the
+most valuable part of for deployed
+engineering that I don't think people
+understand is it changes what your
+reward function is. In a traditional
+software company, your reward function
+is can I sell the software.
+&gt;&gt; You don't actually really have a
+visceral understanding of what how much
+value does that software create? What
+could you do to make it more valuable?
+you only distantly observe that in a
+tenuated way through renewals or
+something, right? But the forward
+deployed engineer often is actually
+doing the work before you have a
+contract. You know, it's kind of it's
+leading sales and you have a visceral
+sense that actually you're only going to
+get the sale if you're delivering value.
+&gt;&gt; Uh and that allows you to keep chasing
+up the value curve here and that that
+that has led to a culture that is wildly
+focused on outcomes. Are we is like does
+any of this work matter existentially
+like we're not here to ring the next
+sale. We're here to transform the
+institution. But then a lot of times uh
+you know you could add value and you
+know the Ford FL engineer would make
+something that worked really well for
+them but you still it's not still not
+worth trying to sell it to them. Like
+what what are some of the reasons why
+sometimes
+&gt;&gt; um you know some of the problems at the
+institution require you to one
+acknowledge that you have a problem and
+two be willing to actually break glass
+to to recognize that you're going to
+have to restructure this. And I just as
+a as a cheat code, you can think about
+it is we're usually incredibly
+successful with founder-led institutions
+or where the the leadership acts as if
+they are founders because they they have
+an ownership mentality over the entire
+outcome and are willing to reimagine
+everything in order to achieve the goal.
+I think a lot of this actually is very
+congruent with the military like you
+must win. Winning matters and people are
+willing to reexamine particularly as
+closer and closer you get to the
+fighting force they're willing to
+reexamine literally everything. uh in
+order to achieve that goal. And so
+finding commercial companies that have
+that same perspective is is is really
+important.
+&gt;&gt; I like the extreme uh example you gave.
+I was introducing a company, I won't say
+which recently, that has hundreds of
+billions of of cash and very very large
+company, but they're the financial
+operators and they're not really as
+focused maybe on on on existential
+problems of their companies because
+they're rich no matter what. Whereas the
+opposite would be like the mission to
+like save a pilot in the Middle East or
+work with special forces. How would you
+put that?
+&gt;&gt; No, I think I think that's well said.
+It's like do you need to get better? You
+know, are you are you waking up? Um does
+every incremental improvement actually
+motivate you? Uh and I think you know
+some companies are kind of running on
+autopilot.
+&gt;&gt; Uh and uh I would say that there periods
+of extreme growth for us are always
+periods of extreme disruption in the
+market. You could say part of the reason
+the chat GPT moment was so valuable for
+us is it actually set an expectation
+with CEOs. Hey, wait a second. My
+software is supposed to work. You know,
+because if if you so many of the stuff
+on if you go go back to COVID and supply
+chains, people spent in the years
+leading up to COVID, they spent5
+billion, 10 billion dollars on their ERP
+system. They were so proud of it. It was
+the greatest thing since sliced bread
+and then it fell over like a paper tiger
+within a week of COVID happening. So,
+what you know, go back to the earnings
+call. What were CEOs talking about on
+the public company earnings calls? Zoom,
+Teams, these were the IT investments
+that saved their business. What a
+condemnation of the software industrial
+complex that actually they couldn't
+build anything that was resilient to a
+reality that their customers were
+experiencing. In those moments, people
+are become incredibly open-minded and
+their expectations become very high. And
+you you you now have purchase to to to
+deliver outcomes that they're going to
+appreciate.
+&gt;&gt; I love it. I want to get to the topics
+of the book and we'll circle back maybe
+some of the military stuff we're doing
+because everyone's asking me to hear
+what we're allowed to say. But let's
+let's talk about mobilize a little bit.
+So, you know, between our support in
+Ukraine and the attacks in Iran, like is
+our industrial base keeping up? Like,
+what are the problems? Where are we
+right now?
+&gt;&gt; Look, I think the lesson of Ukraine is
+that we went through 10 years of
+production and 10 weeks of fighting. And
+if you set that in a historical context,
+like that's a five alarm fire. You
+&gt;&gt; So 10 years of stuff got used in 10
+weeks.
+&gt;&gt; Yeah. It took us 10 years to make a
+quantity of material that we expended in
+10 weeks.
+&gt;&gt; That's terrible.
+&gt;&gt; That math doesn't really work for very
+long, obviously. Uh, and so then you
+have to understand like how did we get
+here? What did it used to be like? We
+have these great memories of World War
+II where we just in our mind flipped a
+switch and converted auto factories to
+build war material. But that's not
+really what happened. What really
+happened is you had this uh Danish
+immigr. He was formerly the number two
+at Ford where he perfected mass
+production. Then he became the number
+two at GM. And Roosevelt ahead of a
+consensus, remember the country was
+incredibly divided in the leadup to
+World War II. There were a lot of people
+who wanted to be isolationists. That's
+Europe's war. It's not our problem. We
+shouldn't get involved.
+Roosevelt figured out in 38 and 39 how
+to bring Wiludson in and start
+mobilizing for production. And we had
+the benefit of len lease a moment where
+we were providing material to our
+allies. We ourselves were not fighting.
+But that that 18 months it required
+basically 18 months to to build and
+retool factories to enable us to do this
+sort of stuff. You could argue that
+Ukraine should have been our lend lease
+moment. Not because, you know,
+regardless of your politics of how much
+support we should have had, we should
+have recognized we are incapable of
+producing at a rate for our own national
+security. And we got here through a frog
+boil, which I kind of document in the
+book. It's a consequence of having won
+the Cold War. You know, because if you
+go back to 1989, not that long ago, when
+the Berlin Wall still stood,
+only 6% of major weapon system spending
+went to defense specialists, what we
+think of today as prime contractors
+whose only business is defense. 94% of
+the money for major weapon systems went
+to dualpurpose companies, companies that
+were invested in our national economy,
+but also our national security. And
+we've kind of forgotten the the stories
+of their involvement. Like Chrysler,
+yes, they make minivans. They also make
+missiles. They are the prime contractor
+on the Minute Man, the original Minute
+Man missile. Ford made satellites until
+1990. General Mills, the serial company,
+made torpedoes and inertial guidance
+system.
+&gt;&gt; That sounds like crazy today, right?
+&gt;&gt; It sounds and you could say why, you
+know, why is that even rational? Well,
+General Mills, the serial company, had a
+mechanics division to make machinery to
+process grain. Everything they learned
+about building that type of machinery,
+they were able to repurpose it into
+machine tools and factory production
+that subsidized our national security.
+We lived in a world where every car,
+camera, and serial box that an American
+bought was actually subsidizing the R&amp;D
+against our national security. And
+these, you know, national security is
+not a end unto itself. It's a means to
+an end. And that that end is the
+economic prosperity of America. And so
+getting those things to be aligned I
+think is is really critical and
+particularly in a world where so much of
+the R&amp;D spending from the 60s was driven
+by the government. Now the vast majority
+of the spending is driven by the
+commercial sector.
+&gt;&gt; You wrote that the Pentagon started
+breaking in 1961. What what do you mean
+by that?
+&gt;&gt; We brought in a a brilliant businessman
+Robert McNamera. But I think one of the
+things we really got wrong is that
+McNamero ran Ford at an era when Ford
+was entirely supply constrained. The
+demand for cars was essentially
+unlimited. Any car that he made, they
+could sell.
+&gt;&gt; That is a distorting school to go to,
+right? It it teaches you actually that
+the only thing you need to do is manage
+your supply chain, grind your suppliers,
+focus on efficiency, not on
+effectiveness. There was not enough
+competition. So actually the auto
+industry that McNamera learned all his
+lessons in when it met Japanese
+competition in the 70s got destroyed and
+had to reinvent itself. But the Pentagon
+didn't reinvent itself based on all
+those lessons of of Japanese
+competition. And so it kind of started
+this steady process. You know it would
+be it would be intellectually dishonest
+to place all the blame on one person
+like Magmare. I think even just stepping
+back structurally
+defense is a monopoly. You know it's the
+opposite of a monopoly. Monopoly, you
+have one seller of a thing. In a
+monopoly, you have one buyer of a thing.
+&gt;&gt; It's the only buyer.
+&gt;&gt; And that it's really hard to be a buyer
+if you really believe in the free
+market. It's the fact that you have so
+many disperate customers with so much
+signal. You get to aggregate it. You get
+to work against it. If one customer is
+low vision, doesn't want to buy your
+thing, there might be a hundred other
+customers who have the vision and do
+want to buy your thing, right? But in a
+world where you have one buyer, now you
+have this single point of veto. And I
+think our history would suggest it's
+part of the the fun part of writing the
+book was documenting it. I I I talk I
+talk about the I call them heretics and
+heroes. If you really look at the
+history of defense innovation, almost
+none of it happened because of the
+system. All of it happens.
+&gt;&gt; It's always the heretics who break the
+rules who do it, right?
+&gt;&gt; We can go all the way back to Winston
+Churchill. So Churchill as the head of
+the Royal Navy
+&gt;&gt; Yeah. World War I before
+&gt;&gt; Yeah. Exactly. built the tank. How crazy
+it that that the that the British army
+was like, I got horses. I don't need
+these tank thing. Go away. And and he
+built land ships as a rogue renegade
+effort.
+&gt;&gt; I love that he called them it had to be
+land ships. wouldn't be in his job jar.
+&gt;&gt; It's one of my favorite books actually
+is when he writes about before World War
+I and it's like he just like fired all
+these bureaucrats and push everyone out
+of the way. I feel like it'd be harder
+today to have someone that strong able
+to push through but but is needed. Huh.
+&gt;&gt; Yeah. You build up, you know, the
+entropy of the universe is against you.
+You you build up these bad practices.
+And I think part of his understanding is
+like you it's not an ad hominemum
+critique. It's a structural critique. Uh
+the other example I love is Andrew
+Higgins, this foulmouthed Scott Irishman
+down in Louisiana. He was a huge Anyone
+from Louisiana knows Higgins. you know,
+he he he was a boat builder and in the
+in the 20s he observed how Chinese
+bootleggers were able to build these
+shallow draft boats uh to kind of outrun
+the policing
+and he and he used that to inspire his
+own boat building. So Higgins he built
+the boat um the Navy wouldn't let him
+compete. Then finally there was a
+enterprising marine first lieutenant who
+got him in. He won the competition. Then
+the Navy tried to steal his IP and build
+the boats themselves. They couldn't they
+couldn't even steal the IPing. In the
+end, 92% of all boats in World War II
+were Higgins boats.
+&gt;&gt; 92%. The ones
+&gt;&gt; the boys would not have landed at
+Normandy or Ewima without the Higgins
+boats.
+&gt;&gt; I mean, you see this even in the Civil
+War, you had like I have upstairs a
+Gatling gun with the patents from the
+1860s, but they weren't used because
+people were ignoring them because they
+didn't think it made sense. Like like
+the renegades would figure things out
+that don't always get in, I guess, until
+later. Huh.
+&gt;&gt; Yeah. And it's equally important to have
+the renegades inside of government. Like
+some of the fun stories are like Higgins
+on the outside, but you had Admiral
+Rickover who built the nuclear navy.
+When Rick Over wanted to build a
+nuclearpowered submarine, Oppenheimer
+himself told him, "I don't think this is
+going to work." Imagine the hood. Like
+in the face of Oppy telling you this,
+you're like, "No, I think you're wrong.
+I'm going to do it." And he did it in
+six years.
+&gt;&gt; I love it. I love it. What are some of
+the stories? Is there anyone with with
+where Palanteer itself got to be a
+renegade and push something through?
+&gt;&gt; Well, the the fun part was documenting
+for the first time Colonel Drew Kukor's
+story. So here you have this uh this guy
+who grew up in Southern California,
+single mother uh Mormon. Uh he was
+didn't have a lot of money. So he went
+to ROC to go to college, joined the
+Marines, and he became the founding
+father of really Maven, the Intel the
+the AI enterprise kind of marquee
+project. And kind of looking at the
+amount of this guy had to deal
+with. You know, they his nickname was
+the Iron Dome of Pentagon This
+whole project started it in the basement
+of the Pentagon, which is kind of the
+equivalent of a garage in Palo Alto, I
+guess, for for these sorts of things,
+and now it is one of the most successful
+programs, but he he suffered personal
+and professional slight, IG
+investigations, all all completely made
+up horseshit because the bureaucracy was
+threatened by the amount of success that
+he was really having here. Uh, and it's
+it's a great lesson of like what it
+actually takes to be a heretic, how much
+you have to be willing to sacrifice for
+the ultimate outcome at your at the
+expense of your career. It feels like
+there's so many stories of heretics like
+with the airplanes from the 30s and 40s
+and with locked special groups early on
+and like how come how come they don't
+just like stop the bureaucracy from
+trying to kill heretics anymore? Like
+why is it always like almost win and
+almost stop all these things?
+&gt;&gt; Well, that question you just asked is
+why I wrote the book. We we have to
+remember that we need the heretics. Uh
+you you we have them by the way. It's
+not like we're missing them. It's like
+heretics require two two things. the
+space for their heresy to exist and a
+little bit a modicum of protection from
+the top to enable that to happen right
+here. And so
+&gt;&gt; you just need a little bit of
+protection.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; I feel I feel like this is like every
+company needs to do this for their most
+talented people because because the
+organizations always reject the talent
+and your job as leader to keep them.
+Like we were I mean Palenter was a bunch
+of heretics early on, right? It's
+basically like like I felt like I was
+like the leader of a bunch of heretics
+and we were just like beaten by the
+mainstream people for years and years
+and years. And so it's really fun we're
+now it's very funny now to be attacked
+as like this like in military industrial
+like leaders now because we were just
+like beaten by the bureaucracy forever
+as these outsiders like do do you still
+feel like an outsider? Are you an
+insider now because you're lieutenant
+colonel and palenteer is winning like
+like how does that is your mindset
+changed
+&gt;&gt; constitutionally I'm I'm going to always
+feel like an outsider. I always I always
+feel like I'm the the heretic looking
+in. Maybe I relish that role a little
+bit which is why it appeals to me. Um
+but but absolutely in the beginning of
+balance really like we tried to go
+through the front door and very much got
+you know the front door was not an
+accessible door.
+&gt;&gt; So disrespected so disrespected like
+people just wanted us to die. We
+&gt;&gt; and I I there's a positive piece of that
+you know you carry that chip on your
+shoulder to like earn your place every
+day and you you recognize your product
+has to be 10 times better than the
+alternatives and you know there's like a
+fire in your belly from it. Um but it
+was yeah was it's I think it's it's
+motivating. It's motivating to know look
+why should it be easy for us? It wasn't
+easy for any of these guys.
+&gt;&gt; And so chapter 11, you said factory is
+the weapon. What's your framework for
+reviving manufacturing? I'm working on
+this in a few ways. We're starting to
+scale up some things. I we still have a
+lot of work to do. How are you thinking
+about this?
+&gt;&gt; You can kind of break down like what are
+the laws of physics and what are the
+laws of man? And ideally, our factories
+are marginally if if if how do we break
+down the laws of man that are
+constraining the factory? How do we
+qualify this part? How do we do this?
+This is just the way we've done it. you
+know, a reimagination of these
+processes. I do think you I'm I'm a
+onetrick pony in the sense that I think
+of everything starts with the people and
+if you look at I don't think it's fair
+to say that America is not great at
+manufacturing like the mo look at SpaceX
+look at Tesla like we have modern
+manufacturing marvels they just think
+about manufacturing differently
+&gt;&gt; so how do we bring a kind of software
+continuous iteration colloccating R&amp;D
+with production mindset a bias towards
+vertical integration to really get after
+these things squeezing out the dead
+weight loss that happens through what I
+think is the legacy of global ization of
+like, hey, we're going to just really
+like push out our supply chains. We're
+going to optimize on cost instead of
+innovation.
+That's kind of the the precursor starts
+with that. Then recognizing the Ukraine
+example is really important because what
+we got wrong to to summarize it would be
+we thought the stockpile was the
+deterrent. It's not the stockpile. It's
+the ability to generate the stockpile.
+And this is the frog boil that happened
+which is like, well, how many of these
+weapons do we really need? We're not
+using them. Maybe we can have a little
+less, a little less. Let's make it a
+little more fancy. let's make it more
+exquisite. Well, now that it's more
+expensive, we can afford even less. And
+you kind of got into this doom loop and
+a recognition that frankly in World War
+II, the Germans were superior engineers.
+&gt;&gt; Uh we just could produce more and that
+counted for a lot and they produced
+small exquisite quantities. So today we
+look like the Germans and the Chinese
+look like we did
+&gt;&gt; which is why we got to fix that in
+100xit. Well, we're working on it with
+Seronic and others. What are you seeing?
+any companies in particular you're
+working on you're excited about for
+scaling up manufacturing?
+&gt;&gt; Well, I think I think a lot of the new
+entrance are going to have a huge role
+to play. Hadrien, Seronic, Androl. Uh
+but I also think like reinvigorating the
+existing industrial base is a huge part
+of this.
+&gt;&gt; We have a huge number of um smaller very
+small they're not even mediumsized
+enterprises. They're small businesses
+that make parts. they're they're coming
+up on a succession challenge where the
+the the owner sole proprietor type thing
+or limited partnership and it's going to
+need to be transitioned. You need kind
+of outside capital to reinvest in the
+machine toolings and modern processes.
+So I think I think we're going to have
+to get both of these things to work.
+Certainly we're going to need a high low
+mix. We're going to our exquisite stuff
+is exquisite
+&gt;&gt; as we see with Epic Fury. This stuff
+really works. The real problem is that
+we don't have a hundred times more of it
+and we're going to need to invest in in
+scaling the low end of this as well uh
+to to kind of fight the future war.
+&gt;&gt; Few more questions on on defense. If you
+were in charge of fixing the culture at
+the Pentagon to protect heretics and to
+make sure we're scaling all this stuff
+up like what are the number one or two
+things you'd focus on? I you know I
+think culture follows from execution and
+you know Bill Perry who was deputy
+secretary of defense during the last
+supper and subsequently the secretary of
+defense like he had this fork in the
+road where he could think about I could
+try to either fix the system or I could
+make sure that stealth and GPS happen by
+going around the system and he chose the
+latter and I think that's the wise move
+which is like how do you deliver the
+incredible successes that motivate the
+next generation of heretics that set the
+path for those who are willing to see it
+because if you try to fix the system
+you're going to lose. you're going to
+get bogged down in trench warfare and
+you know I I think you you you got to
+fix it through inspiration.
+&gt;&gt; Isn't this always a problem though that
+it's never worth fixing these really
+hard problems the government just as we
+just always just go around them and so
+this thing just gets nastier and nastier
+and more and more broken.
+&gt;&gt; I think that is a problem. I I think
+that what I would offer you though is
+like can you fix the system by literally
+trying to fix the system or do you have
+to fix the system by getting parts of it
+to work kind of like eat your way
+through the elephant.
+&gt;&gt; Yeah. I've always thought we should just
+fire a ton of the core and just build
+new things around it, but that's
+apparently not appropriate.
+&gt;&gt; There's a Chesterton fence question
+there, too, though. You know,
+&gt;&gt; what Yeah. What do we need that we don't
+know we need?
+&gt;&gt; And and so I think a lot of it comes
+down to people.
+&gt;&gt; There's so many tens of thousands of
+people doing things that are don't seem
+necessary to me. Am I crazy?
+&gt;&gt; Uh it's we're not as efficient as we
+could be. My my the only push back I'd
+have on that is we built 154 different
+airframes in World War II. I think
+probably 10 of them really mattered.
+Yeah.
+&gt;&gt; So part of part of what's gotten us to
+this situation is a fixation on
+efficiency over effectiveness. Like you
+it's a pathing question. You have to get
+to effectiveness first then you can work
+on
+&gt;&gt; just build the most effective things
+around it and not don't worry about
+trying to take it take it apart and
+&gt;&gt; yeah it's very much like we manage
+everything as if it's a one to end thing
+when sometimes there's a zero to one
+thing and those things have to be
+managed differently.
+&gt;&gt; I guess I'm probably better at zero to
+one anyway. I should do more zero to one
+things around it and not worry about
+this giant mess in the middle. is is the
+is the right strategy.
+&gt;&gt; Yeah. Well, I think the zero to one
+things as they scale end up replacing
+and fixing it, right? It is easier to
+fix and lead with momentum than
+&gt;&gt; Yeah.
+&gt;&gt; I have to ask you about some of these
+like magical AI weapons that we're using
+right now. I know you can't tell us
+everything, but this has been
+interesting to watch the war from afar.
+And I think Israeli fighter jets
+supposedly in the first 20 minutes hit
+500 targets and obviously Palanteer was
+involved very much in in helping take
+all the data and and and decide things
+there. What are you allowed to tell us
+about how these things work?
+&gt;&gt; Uh, unfortunately, not not a huge
+amount, but I I think what you could say
+there's there's a way in which there's
+nothing new under the sun. It's it's
+just the udaloop. You know, John Boydy's
+observe orient act. And whoever uh
+whichever side is able to go through the
+udaloop fastest is the side that's going
+to win. And so you could think about the
+the application of of of AI to the drug
+trronal targeting process as about
+providing an advantage to cut through
+the fog of war and to be able to apply
+effects to your adversary before they
+understand even what's happening and
+respond to it. A way of tying national
+intent to the targeting and fires
+process. Uh and I I would say Epic Fury
+is a leapfrog in capability, but I think
+it also shows that there is another 10x
+100x to go. that's illuminated by what's
+already been done here.
+&gt;&gt; So as as AI improves and as the
+infrastructure improves, we can actually
+do an even much better job next couple
+years.
+&gt;&gt; Oh yes,
+&gt;&gt; sorry better not screw with us.
+&gt;&gt; That's deterrence and that's the whole
+point.
+&gt;&gt; That is the whole point. Let's look
+ahead. The clash between Enthropic and
+the Pentagon over the cutting edge AI is
+obviously a preview of some of these
+kind of tough questions. Uh you can
+imagine AI is 100 times better and
+there's people working on it and it's
+and it's interesting questions around
+like what you want the government to do
+or not. You have obviously some of the
+very best minds in the private sector.
+these days working on this. It used to
+be those best minds were in the
+government. So it's it's kind of more
+aligned like how is this dynamic going
+to function where the best minds are
+outside the government but then having
+to work with it and might have different
+opinions about things.
+&gt;&gt; Well, one of the things I really hoped
+helping stand up detachment 2011, you
+know, how do we build more of a bridge
+between Silicon Valley and the
+department?
+&gt;&gt; So detachment 2011 is is what you're
+serving in as a lieutenant colonel.
+&gt;&gt; That's correct. Yeah. And I I think part
+of it is like we have to walk many miles
+in each other's shoes to understand
+these things. You know, I I think
+there's a lot of historical analoges
+that that suggest if you you know, if
+you really believe in democracy, you
+need people making these decisions who
+are accountable to the American people.
+They're elected or appointed and
+accountable to elected officials.
+Uh if you go back, the the analog I like
+historically is thinking about Theodore
+Hall. Theodore Hall was one of the
+youngest scientists in the Manhattan
+Project. He joined the project at 18
+years old, right out of Harvard, genius
+physicist.
+&gt;&gt; He had an older brother, Edward Hall,
+who was actually the inventor of the
+Minute Man missile. But you know there
+were two types of traitors in the
+Manhattan project. There were those who
+were committed communists like Klaus
+Fuks always a spy got him to the
+program.
+&gt;&gt; Y
+&gt;&gt; Theodore was not that sort of trader. He
+was naive. Theodore thought look I'm a
+genius at physics so I must be a genius
+at geopolitics. And in his conception of
+the world the only way to have world
+peace was for two countries to have the
+bomb. Mhm.
+&gt;&gt; So without any penchant for communism or
+even a ill will towards America, he
+thought this was his moral duty was to
+walk into the Soviet trade mission in
+New York in 1944 and give them secrets
+to the bomb. But what happened was not
+world peace. Every death since 1949 from
+communism, which is the year the Soviets
+got the bomb, you could say that blood
+is at least partially on Theodore Hall's
+hands. Uh and so I think we we we live
+in a world where many smart people
+struggle with epistemic humility. what
+are the limits of my knowledge? How do I
+have how do I have some humility around
+that? You know, because the alternative,
+you could say theore was essentially
+tyranny by tech bro. You know, he
+decided global policy and it had huge
+consequences. On the other end, there's
+a true deep commitment to democracy even
+when it feels uncomfortable.
+&gt;&gt; How do you think about the future of
+warfare with AI and like prosecuting war
+without humans in the loop? I mean,
+obviously there's things where right now
+like if something's incoming, you're
+going to want the AI to target it and
+destroy it for you. And I'm learning a
+little bit about this from Seronic uh
+and other companies I'm involved in. If
+you have hundreds of, you know, ships
+having a war and China has hundreds of
+ships and they're reacting in real time
+with AI, you're probably going to want
+to react in real time with AI, too. And
+you're going to probably want to give
+more leeway in response in order to in
+order to beat them. Like there's ways
+you have to use AI there. And then it
+goes kind of higher and higher up like
+for targeting, for example, and for, you
+know, at what point should human be in a
+loop or not in the loop? And it's it's a
+it's it's interesting because Congress
+probably has some opinions on this and
+they're trying to figure out how to
+regulate it and and like obviously, you
+know, we're probably not ready for AI to
+be making certain high level decisions,
+but there's other ones they have to make
+or we lose and and like like how do how
+do you see this?
+&gt;&gt; Yeah. Well, I I think there's a lot of
+complexity and nuance to the issue and
+you have to kind of slice it in layers.
+First of all, we've had autonomous
+weapons since the 70s and 80s. You know,
+you think about like the Aegis system
+that defends a carrier. uh when it
+senses an incoming threat coming at the
+speed of a missile, it's firing off to
+protect the ship. And you don't have the
+time for a human to do many of these.
+&gt;&gt; Wouldn't make sense for a person to have
+to say, "Yes, the ship's already hit."
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Exactly. Then you can kind of even
+look at something like uh a weapon uh a
+weapon that you fire from a fighter jet.
+Well, it's your radar system that's
+telling you that it's detecting an
+adversary. and you you as a human have
+weapons release, but then it's also the
+guidance system that's that's going and
+closing that kill chain. So there
+there's a lot of this that's actually
+happening already by computers. So I
+would posit that this is more of a
+difference of degree than kind. And
+because we're miscatategorizing it as a
+total difference of kind, we kind of
+have some derange conversations around
+it.
+&gt;&gt; Y
+&gt;&gt; and so we need to have a riskbased
+decision of like what is the risk to our
+force, you know, nobody is trying to
+jump the shark and have killer robots.
+It's really like how do we have
+something that doesn't advantage the
+adversar's udaloop over ours and mean
+that we're showing up to a gunfight with
+a knife? Uh and so you have to measure
+the risk as you go. And I think uh
+you're going to have to feel your way
+through that, right? And I think much to
+the department's credit, they want the
+Frontier Labs, they want everyone who's
+really smart about this to have a seat
+at the table and to help work through it
+together. But recognizing that like
+policy has to be set by policy makers
+&gt;&gt; to play devil's advocate because I 100 I
+agree with what you said and I 100%
+agree we have to stay ahead of our
+adversaries um and use AI for these
+things to play devil's advocate there's
+some people on the outside don't know
+this stuff as well they see maybe
+there's some heretic inside of the
+department of war who builds a program
+that does create some kind of thing that
+you might call a killer robot and maybe
+breaks the rules and then all of a
+sudden you have something that is very
+scary and causing problems. I mean, it
+sounds ridiculous when I say it, but if
+people are worried about this, like how
+like what should we be talking to them
+about it? Like how how are we going to
+protect people not for this not to
+happen?
+&gt;&gt; Well, if you're concerned about that,
+like why why aren't you worried that
+someone in a garage is going to create a
+killer robot? You know, I think the
+probability of that happening is really
+no different. So then that becomes
+almost like a technical question, not a
+ma matter of will. You know, it's like
+it's just not how weapon systems are
+developed. Like, you know, you'd have to
+believe that there's a conspiracy where
+a rogue actor can go do something like
+this in the in an organization the size
+of the department. And I I think it it
+under it fundamentally underestimates
+the moral fiber of people who are in our
+uniform services. Like these are people
+who take the law incredibly seriously,
+who work very diligently, who have put
+their lives on the line to defend the
+nation, to defend all of us. Uh and I
+think we owe them the benefit of the
+doubt in this capacity here.
+&gt;&gt; Yeah, we trust your bureaucracy to stop
+crazy things from happening in some
+ways, which is ironic, but it's true, I
+guess. Yeah. I've
+&gt;&gt; trust people, you know, you know, it's
+not the faceless bureaucracy that I'm
+trusting. It's like these are Americans.
+These are exceptional human beings. They
+care about what they're doing. This is
+their craft. They're not yoloing it. You
+know, if you have some cartoon
+caricature of who they are, okay, fine.
+Maybe from the degeneracy of the last 30
+years of media that always paints the
+ultimate bad guy as the corrupt
+bureaucrat or the corrupt military
+official, but that's not reality. Um,
+and I think I think they deserve more
+from us.
+&gt;&gt; Yeah. Yeah, I think I think like a
+random PhD student in a in a garage is
+probably more danger with AI than anyone
+in these in these that we were serving
+with in the department of war.
+&gt;&gt; I don't disagree.
+&gt;&gt; Yeah. And you know, it's actually
+interesting taking the other side of
+that. It does seem like recent wars
+thanks to AI, thanks to new technologies
+are are actually a lot safer, like a lot
+less death. Is that is that a trend
+you'd hope we should are we going to see
+that going forward where hopefully
+Americans lose a lot less lives based on
+based on this technology?
+&gt;&gt; Yes and no. So yes, in the sense that
+like yes, this is this is an empirical
+trend. I think 70 million people died in
+World War II from all causes and
+effects. You know, that that's not even
+a quantity we can contemplate today. You
+know, like hundreds is is is is we we we
+struggle with, right? Um the the part
+that's no is like the the part I don't
+buy the idea that these sorts of robotic
+weapons are going to somehow mean that
+humans don't have to do the fighting.
+You certainly want the robots to draw
+first blood. You want them to serve as a
+deterrent, but the will of the nation to
+actually win and prevail in these
+consequences is always going to come
+down to brave humans willing to put
+themselves in harm's way when the moment
+calls for it in order to prevail. So, it
+shouldn't let us off the hook of the the
+moral weight and the consequence of what
+it means to actually fight a war. Which
+is why we're a peaceloving nation who
+does not want to fight a war. We want to
+prevent the wars from happening. We want
+to prevent adversaries from having so
+much leverage over us like a nuclear
+bomb that actually peace is no longer
+possible.
+&gt;&gt; Well said. So Sean, we started this
+podcast to push back against cynics and
+the doomers. Uh what's the best case for
+an optimistic future for America? What
+do we need to get right over the next
+decade?
+&gt;&gt; Well, you know, I've always said I think
+America's greatest risk is not homicide,
+it's suicide. Uh and so I I I think
+reminding ourselves of what we have in
+common and reigniting the national
+spirit for innovation and excellence. Um
+we are a great nation. There's no nation
+who has more to be proud of than we do.
+And that is ultimately the case for
+optimism. I'd say, you know, one one
+more maybe off offthe-wall comment is in
+the end, the reason we're going to win
+in whatever domain it is is that we're
+crazy. You know, even we don't know what
+we're going to do when we get punched in
+the face. And I think that's actually an
+exceptional quality. It speaks to the
+plasticity and adaptability of the
+American mind uh and and how we
+innovate.
+&gt;&gt; Alex always told me I'd be very
+successful if I didn't get arrested from
+a bar fight. So, I guess I guess that's
+a good note to end it on. Thanks, Sean.
+Thank you, Joe.

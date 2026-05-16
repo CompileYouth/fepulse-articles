@@ -1,0 +1,182 @@
+{
+  "mode": "manual",
+  "lookback_days": 5,
+  "generated_at": "2026-05-15T11:52:25.209431+08:00",
+  "since": "2026-05-10T11:52:25.209431+08:00",
+  "items": [
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人｜机器人特辑",
+      "url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "upload_date": "20260515",
+      "published_at": "2026-05-15T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260515"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with Jacob Helberg",
+      "url": "https://www.youtube.com/watch?v=xjlYpGaxIPA",
+      "upload_date": "20260514",
+      "published_at": "2026-05-14T18:01:32+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260514-pax-silica-inside-the-trump-administration-s-tech-strategy-with-jacob-helberg"
+    },
+    {
+      "source_id": "eric-schmidt-ai",
+      "source_label": "Eric Schmidt",
+      "source_type": "youtube",
+      "title": "Innovation, Investment, and Partnerships: Eric Schmidt at Milken 2026",
+      "url": "https://www.youtube.com/watch?v=wMOfeRYTm2g",
+      "upload_date": "20260514",
+      "published_at": "2026-05-14T08:00:00+08:00",
+      "topic_buckets": [
+        "宏观产业与未来判断",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260514-innovation-investment-and-partnerships-eric-schmidt-at-milken-2026"
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "source_label": "The Pragmatic Engineer",
+      "source_type": "youtube",
+      "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+      "url": "https://www.youtube.com/watch?v=K-Xv8D8NjTk",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T08:00:00+08:00",
+      "topic_buckets": [
+        "AI 基础设施",
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260513-typescript-c-and-turbo-pascal-with-anders-hejlsberg"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "Token经济学：AI时代的新货币战争",
+      "url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260513-token-ai"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "Claude Code Can Be Your Second Brain",
+      "url": "https://www.youtube.com/watch?v=in7i-EVDDlk",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260513-claude-code-can-be-your-second-brain"
+    },
+    {
+      "source_id": "google-deepmind",
+      "source_label": "Google DeepMind",
+      "source_type": "youtube",
+      "title": "Reimagining a 50-year-old interface (the mouse pointer) with AI",
+      "url": "https://www.youtube.com/watch?v=pZNzfQLgGsA",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI for Science / Robotics"
+      ],
+      "slug": "20260513-reimagining-a-50-year-old-interface-the-mouse-pointer-with-ai"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "upload_date": "20260513",
+      "published_at": "2026-05-13T22:30:29+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260513-paul-graham-founder-of-y-combinator-live-from-stockholm"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "Shawn Ryan & Palantir Co-Founder Debate the War in Iran",
+      "url": "https://www.youtube.com/watch?v=QIa63fYcqvI",
+      "upload_date": "20260512",
+      "published_at": "2026-05-12T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260512-shawn-ryan-palantir-co-founder-debate-the-war-in-iran"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "url": "https://www.youtube.com/watch?v=HLJdElh2tFc",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260511-ai-cpu-amd-arm"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Harvard Professor: CS50, What Matters More Than Programming Now, Lecturing Well | David J Malan",
+      "url": "https://www.youtube.com/watch?v=bB2o81DnKHk",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260511-harvard-professor-cs50-what-matters-more-than-programming-now-lecturing-well-david-j-malan"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+      "upload_date": "20260511",
+      "published_at": "2026-05-11T18:01:04+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260511-amex-global-business-travel-the-world-s-first-ai-take-private-with-long-lake-ceo-alexander-taubman"
+    }
+  ]
+}

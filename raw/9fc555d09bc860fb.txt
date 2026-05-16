@@ -1,0 +1,1389 @@
+原文： https://www.youtube.com/watch?v=lLypHkIVLqc
+
+A year from now, where do you think the
+platform will be?
+&gt;&gt; We want to experiment with directions
+where claud actually gets so good at
+understanding itself. It figures out
+what model you should be using, it
+figures out how to spin up all the sub
+agents, you don't have to think so much
+about what kind of architectures are
+there because cla is actually able to
+understand itself enough that it can
+write itself on the fly. In that world,
+if Claude is on the fly, your agents on
+the fly are becoming what they need to
+become in order for you to do what
+you're trying to do, the platform has to
+seriously scale.
+&gt;&gt; How close are we to Claude making me a
+billion dollars? is that's really what
+I'm asking.
+[music]
+&gt;&gt; Angela, Caitlyn, welcome to the show.
+&gt;&gt; Thanks for having us.
+&gt;&gt; Yeah, thank you.
+&gt;&gt; So, for people who don't know, you both
+work on the platform at Anthropic. So,
+Angel, you're the head of product for
+the cloud platform and Caitlyn, you are
+the head of engineering for the cloud
+platform. Um, I'm I'm really psyched to
+talk to you because a you've been
+launching a bunch of stuff. You have
+cloud manage agents that uh came out
+recently. You've been launching new
+features for it. And I think that it it
+comes at this really interesting time
+where it makes me think about what
+actually is a platform in AI for a model
+company because in the GBT3 days, the
+platform was a completion endpoint. you
+just like send a prompt to get a
+response. Um, after that it was like a
+completion endpoint with tool calling
+and a couple and like chat sessions like
+that kind of stuff. And now it like with
+cloud manage agents you're essentially
+getting a cloud on a computer um with
+memory and all this other stuff. Um, so
+I'm just trying to I' I'd love to help
+I'd love for you to help me unpack that
+trajectory and like what it means to
+build a platform in AI.
+&gt;&gt; Yeah. Um, I think like you know your
+your characterization is like very
+accurate. I think like as we've kind of
+like as a lot of these kind of like
+technologies have evolved with the LM
+like first starting and then I think
+like uh putting that behind an API was
+very fun. A lot of people were like wow
+I could like do some at the time I think
+it was very cool. Now we'll probably
+look back at it and be like oh that was
+like really basic. Um and then you know
+I think like we've moved more and more
+towards like a slightly more like
+stateful world as you kind of like want
+to persist the kind of like sessions
+state um to be able to make sure that
+the kind of performance of the model is
+like better and better. I think that
+that's probably like actually the the
+through line like as a lot of these kind
+of like um as we make improvements to
+Claude and as it continues to get better
+and like more autonomous we find
+ourselves like basically needing to kind
+of like evolve the platform to be sort
+of like higher and higher order
+abstraction but it's in the pursuit of
+like helping you get the best outcomes
+out of something like I think in the
+very beginning you know we were very
+like everyone was very exploratory it's
+like you'd have no idea what people were
+going to build with these LLMs and you
+wanted to kind of have as much
+possibility out there as um as available
+and then as those use cases started to
+kind of narrow down like people started
+building products with it. People
+started now like building agents with it
+and more and more of that is about you
+know like customers coming to us and
+being like how do I get the best out of
+claude? Um how do I like set up my
+tools? How do I run the loop? And so on
+and so forth and you have some people
+who are like really really experimenting
+and they're on the edges and that's
+great. And then you have like just a
+whole host of other folks that are
+coming in who are like I kind of want a
+lot of this stuff like out of the box.
+Um and in our pursuit for get make
+making sure that like claude is
+basically producing the best outcomes we
+find ourselves like enriching the
+platform to be richer and richer and
+richer and that's in you know contained
+in that is like both the state it's like
+the tools that you start to see us
+adding um and contains a lot of kind of
+like almost like sort of the cloud
+components of a lot of these types of
+things. Um but it's in pursuit of the
+same mission of like just making things
+literally as easy as possible. And I
+think in probably you know the forward
+state of a lot of these things in terms
+of maybe the philosophy of what a
+platform ultimately ends up doing it
+probably ends up just being like
+whatever in it's like the set of
+primitives and infrastructure that
+enables you to basically get the outcome
+as fast as possible um with actually as
+little of work as possible and I think
+that that tends to follow a certain form
+factor at least in this current state
+&gt;&gt; um but yeah
+&gt;&gt; how would you characterize like what the
+primitives are today so maybe that's
+just asking what are the primitives in
+cloud manage agents.
+&gt;&gt; Yeah. So, cloud manage agents is built
+on all of our same primitives that you
+could otherwise build on directly. So,
+the messages API um and within the
+messages API, we've built a whole bunch
+of I guess maybe innovations around the
+API, like you could just get tokens in
+and out if you really wanted to, but um
+you know, you can use some of our
+built-in tools. You can build you can
+use stuff like code execution, spawn a
+sandbox, and execute work. um you can
+use I guess like you know web search and
+all these sorts of different things and
+so I think we've taken what we see as
+all the most powerful of those things
+and put them together into a harness and
+a set of infrastructure that is you know
+just the way to get what we think is the
+best outcomes out of claude. So, I'm
+sitting here feeling this sense of I've
+been thinking of it as like time
+deflation like my time gets more
+valuable in the future as opposed to uh
+the opposite whatever but whatever the
+the opposite would be my time gets less
+valuable in the future. [laughter] Um uh
+and and and the reason is because we're
+so for example internally for us we're
+building an agent we're building some
+agent products where it's like agents
+that do specific things for us
+internally and then hopefully for
+customers and in order to do that we've
+like you know we have a couple Mac minis
+with you know cloud running in a loop on
+the Mac mini right and a lot of that and
+it's like a thousand line Python file or
+whatever and a lot of that mirrors what
+you guys are building in cloud managed
+agents and so for for for me and I think
+for a lot of people building on cloud or
+on the cloud platform or ecosystem
+there's there's at least I feel this
+maybe we should just wait for you guys
+to build it. Um but then I don't know
+what the lines are and uh and I yeah I'm
+sort of wondering
+if if I want to build an agent like what
+is the best path to do that in a way
+that aligns with what you guys are
+doing?
+&gt;&gt; Yeah. Um I think you know this is this
+part of the the kind of platform
+business is actually somewhat similar to
+any other form of the platform business
+where you do have customers like like
+yourself who are building and you know
+you're kind of thinking should I go
+ahead and do it because maybe I have
+this like immediate need but at the same
+time I don't kind of want to like you
+know repeat the work per se and you
+could have just when you could have just
+gotten it for free um out of the
+platform.
+&gt;&gt; Um
+&gt;&gt; and also infrastructure sucks. It's so
+it sucks so much to like spin up servers
+and I can't believe you do that all the
+time. [laughter]
+that part. Everyone's like that's how I
+started. But I I will actually say um
+part of why we ended up building cloud
+manage agents was because Anthropic
+ourselves had gone through enough of
+these iterations where we built products
+that were agents that you could run
+autonomously in the cloud and we did
+that stand up the infrastructure so that
+it works well sort of work enough times
+that um we ourselves were like okay
+we're done building this for ourselves.
+We're we're doing it once in a way
+that's going to really work from
+everything that we've learned, but also
+for all the people who are doing it.
+Like you can run whatever you're running
+on a couple Mac minis maybe, right? And
+for a lot of people that could work, but
+I think if you're building agents into
+your product and you're running
+something really at scale, right? Like
+that's where it really starts to become
+more and more challenging to get that
+infrastructure right.
+&gt;&gt; That's really interesting.
+&gt;&gt; Yeah. And then maybe to answer the other
+part of your question, I think we have
+like two pieces of the philosophy here.
+one is is a bit in the way that we kind
+of design manage agents which is that we
+try to have it be modular enough like we
+want to be opinionated about some pieces
+that we feel like should be you know
+very well like married to the cloud
+model um but then we uh like oftent
+times like the way we want for example
+we want claude to like very specifically
+use like file systems um that's like a
+very particular like cloud
+&gt;&gt; in a specific way or just file systems
+in general
+&gt;&gt; just file systems in general we we also
+really want to lean into skills I know
+like a lot of folks like skills but like
+that's something that we like we want to
+have our hardest be really opinionated
+about that and so we're kind of
+particular about like those kind of
+primitives being the case. So like use
+the file systems, use the skills,
+they're really basic. Um but at the same
+time like we still find people who are
+like still trying other methodologies to
+go do that and we want to kind of like
+help you you know when you build to
+start uh just kind of starting the best
+foot. Um so that's one piece uh on some
+of the kind of more opinionated ones.
+But as each one of these kind of like
+you know endpoints or or um APIs that we
+have as part of the suite, we try to
+like open them up a little bit um in
+certain areas. So there's like things
+that you know we're looking uh kind of
+forward to and being like you know from
+maybe it's not available today but in
+our design um we are trying to make it
+flexible enough for people to kind of
+like add in different pieces because we
+recognize that this API or suite of APIs
+is not necessarily going to solve like
+maybe everything in its original
+construct and they're going to be pieces
+that need to kind of open up. Um and
+then the second bit is like you know
+we're we're kind of public about this is
+like when we do design a lot of these
+things we do put out like blog posts and
+sort of like reference implementations.
+So if you did want to kind of at least
+be inspired by that construct but still
+maybe make your own on the messages API
+um you can definitely do that.
+&gt;&gt; I think that's to the to the point you
+just made that's something that's that's
+coming up for us. Again, we have, you
+know, clouds running on a Mac Mini with
+a Python file and a couple other like
+uh, you know, bigger, more serious
+implementations on like, you know, cloud
+infrastructure that we're trying to
+figure out what to do with. And I think
+I I told the team that we were talking
+today and I think one of the uh one of
+the questions that they have or or one
+of the feelings of conernnation that
+they have considering using cloud
+managed agents for this kind of thing
+for spinning up agents for our customers
+is just right now it's a like we have a
+playground. We have we just have like a
+little we have a server or a Mac Mini.
+We can just like pipe stuff to to
+Claude. It can do anything that cloud
+code can do. It has a file system, it
+has a browser, it has like all this
+stuff. If we want to, you know, switch
+it switch it out to GBT 5.5 or Gemini or
+whatever, it's like pretty easy to to do
+that. Um,
+so is that kind of and I feel like they
+they they feel like they're we're going
+to get if we use a cloud manage agent,
+we're going to get locked in and it's
+not going to we're not going to have the
+flexibility to do all the stuff that we
+want. And it it there there's also a
+worry that features are going to come to
+cloud code itself that won't be in cloud
+managed agent for a little while and
+that it'll prevent us from being at the
+edge which is sort of what we promise to
+our customers and really to ourselves
+like we just love being like just doing
+whatever the new thing is. How do you
+think about that?
+&gt;&gt; Yeah. So I think the what's nice about
+the way that we work internally I guess
+is like so we run the platform and the
+platform for what most people think of
+it as is our externally facing APIs and
+our suite of APIs. Um the other rest of
+what our team actually does is internal
+platform in the sense that all of our
+firstparty products are built directly
+on the same platform as everybody else.
+And so what's cool about that is we're
+we spend all of our time, not all of our
+time, but a lot of our time working with
+the teams internally who are building on
+top of the platform and kind of enabling
+the features that they will build
+sharing ideas and these sorts of things.
+And so I think over time you'll maybe
+see less and less divergence of um you
+know like what might be available in
+cloud manage agents, what might be
+available in co-worker cloud code that
+might sit on top of the same
+infrastructure, right? Like that's I
+think one way to think about that.
+&gt;&gt; Yeah. And then I think you know on your
+point around or your team's point around
+like you know having some kind of like
+model lock in fear I think that that's
+like valid like many folks kind of have
+that consternation. And I think we're
+kind of at this place where there's a
+bit of like an evolution here where you
+know if you look back um maybe even just
+a couple months ago it was very standard
+to kind of build a very very very
+generic harness. It's super generic and
+then you can kind of hot swap models
+across all of those things. And I think
+for kind of an older generation of
+models across labs that kind of worked
+like okay a lot of things were were
+moving at a pace where I think that that
+was like mildly reasonable. I think now
+um for the next kind of generation of
+models and as we kind of see it forward
+I think you kind of see this a little
+bit from every lab like everyone's
+taking like slightly different um
+techniques and perspectives on how they
+want to kind of advance their particular
+form of the model. And so in theory, I
+guess you could do kind of the superset
+of all those things, but more often than
+not, I think, you know, like when you
+build agents for your company or for
+your customers, you do want to deliver
+like an outcome ultimately for them. And
+so I think that that level of
+abstraction of like what you're actually
+hot swapping stops becoming this like
+really generic harness and hot swapping
+the model and it gets more to like the
+harness and the model get very paired.
+you still need redundancy and you still
+might want to use other models for
+things, but you probably do it at the
+layer of like the agent, meaning like
+the harness plus the model um rather
+than necessarily the other architecture
+of like you know really really generic
+harness and and hot swapping everything
+underneath.
+&gt;&gt; That's really interesting. Is that how I
+don't know the cursors of the world are
+doing things like do they have a
+separate harness for each model or is it
+a generic harness that they're kind of
+hot swapping the models in and out of?
+Do you know?
+&gt;&gt; Um I'm not entirely sure. My uh
+intuition would be that like I don't
+know about cursor in particular but
+there have been like teams that we have
+talked to who have kind of fallen on
+similar kind of perspectives and it's
+mostly because they're just trying to
+squeeze the most out of each model to
+kind of like uh almost like harness
+engineer like every single like nuance.
+Um and you know one example that we have
+it's it's not an external customer per
+se but um something that we've done a
+lot internally like we recently launched
+like memory for example with with manage
+agents um and we tried a bunch of
+different different harnesses ourselves
+like we tried one that was like the one
+that we ended up launching um we tried a
+bunch of others using a bunch of
+different other techniques and um at
+least personally for myself like when I
+saw the kind of like eval suite from
+like the team but each one of these
+harnesses performed drastically
+differently and so I think like just
+even looking at something like that um
+shows you that like you can actually
+hill climb a tremendous amount by just
+like harness engineering the right
+pieces together and I think if you were
+to just take that forward across like
+all model combinations across all
+different labs all different kinds of
+providers um there is a lot of alpha in
+that kind of construct and so I wouldn't
+be surprised if more than just ourselves
+have experimented with that level of
+like you know unit tying
+&gt;&gt; it's really interesting that there's
+this path dependence where you make some
+choice for how you do requests and
+responses or how you do tool calls or
+whether you're you have the model want
+to use file systems or not and then that
+sort of like
+&gt;&gt; changes the trajectory of all these
+different models.
+&gt;&gt; Yeah. And it feels like maybe at the
+time like such a small almost like you
+know kind of like footnote um but it
+ends up uh becoming very big. Do you
+think that that will end up affecting
+the model's generalizability in the
+sense that at some point um they they'll
+just have these sort of uh maybe locked
+in lanes of stuff that they're good at
+because they're you know cloud is really
+good at file systems and OpenAI is you
+know GPT is good at some other things
+like yeah how is that going to uh how's
+that going to flow through the model's
+like personality and behavior if it's
+like locked into a specific way of doing
+things?
+&gt;&gt; I do think it does actually kind of tend
+to lock the model. So like what um what
+we end up like kind of treating as like
+the right path and the right primitives
+need to be like very carefully thought
+through. Um and so like I think in the
+in some eras uh you know like of of
+other models uh they become really
+really really good at like reasoning and
+then they almost like overoptimize on
+that level of reasoning and there's
+other perspectives around like okay like
+yes we wanted to be really good at like
+a computer like maybe the computer part
+is the the interesting part and so if
+you think through maybe some of the the
+primitives which we could get right we
+could get wrong but at least we'll like
+go through the thought process of like
+that will probably at least lead us you
+know one path or the other um I think
+it's hard to say like you know which
+direction per se will ultimately be
+true. But I do think there's a lot of
+like path dependency it ends up taking.
+So being really like thoughtful about
+what you choose to actually include or
+give kind of the model more natively is
+really important.
+&gt;&gt; Are there any of those path dependencies
+that you've had to undo?
+&gt;&gt; H
+um
+probably um I can't I can't speak enough
+about that at the anthropic level. I've
+only been here like a couple of months,
+but I have to imagine that that has been
+the case. Um I mean we've experimented
+like even at other labs like that the
+kind of like primitives that we have to
+take a look at are constantly changing.
+Um and you do kind of hit like a little
+local maxima and rethink like okay maybe
+there's like a more generic approach.
+&gt;&gt; Yeah. Yeah. Interesting. Um I want to
+take a take a step back and and ask you
+something that maybe I should have asked
+at the beginning which is like who who
+is cloud manage agents for? Right. Like
+I I set one up earlier today. We we've
+got some people already using it in
+production inside of every and I just I
+just did one today. I really loved the
+um the sort of like getting started chat
+experience that you that you had and the
+sort of um some of the examples that you
+had and it it felt to me like even if I
+was not technical I might want to use
+this to set up an agent. It it might be
+a little bit complicated but what I
+actually did is I just and I'm sorry to
+say this but I did it in the codeex
+inapp browser. So, I had Codeex driving
+the uh the manage agent setup and it
+like I had a Slackbot working pretty
+pretty quickly. It was like it was
+really cool. So, how do you think about
+when you're designing stuff when you're
+designing cloud manage agents who it's
+for?
+&gt;&gt; Yeah. So, it's interesting because I
+think you're right that especially with
+that quick start experience which we
+actually felt pretty strongly about
+launching not specifically for the sake
+of making it so that non-technical
+people could go and build agents but
+actually just for anybody technical or
+not to be able to wrap their head around
+the primitives like
+&gt;&gt; here's what it can do and here's how it
+fits together
+&gt;&gt; exactly like you know the the kind of
+education portion of it. Um but I think
+when we think about who it's for we
+think about a couple different things.
+One is we're seeing people internally
+within companies build automation or
+build really powerful platforms or
+systems like we've seen people say I
+want you know a full endto-end software
+development platform right and like
+manage agent is a perfect solution for
+something like that or you know I want
+to automate a little process over here
+where like legal has to review my
+marketing copy right and things like
+that um
+&gt;&gt; and so you shouldn't have to reimplement
+memory and like all that stuff
+&gt;&gt; when you're doing that right you can get
+started really quickly and you can get
+something running quickly. The other
+user that's top of mind for us is people
+building into their products that they
+expose to their customers. Um, and so
+that's the other one where actually yes,
+like you do still want a lot of
+customization. You do still want to make
+something that's going to be really
+powerful for your product, but we still
+like definitely definitely believe that
+not spending your engineering resources
+on the infrastructure and on all the
+little harness engineering tweaking sort
+of stuff is like
+&gt;&gt; why couldn't we have talked like a month
+ago? you would have saved us [laughter]
+so much time.
+&gt;&gt; We'll just need to talk more. [laughter]
+&gt;&gt; But I am I am sort of curious. Okay, so
+maybe infrastructure is one of these
+things, but um when you see people
+setting up agents, what do they what do
+you see them think the hard thing is and
+what ends up actually being the hard
+thing and are they the same?
+&gt;&gt; Good question. I I maybe this is I don't
+know, spicy. I'm not sure, but I think I
+think people think the harness
+engineering part is the hard part. Um,
+and so actually like you know in the
+past we launched the agent SDK which is
+what you guys I think are using um on
+your Mac minis and for a lot of people
+they were like okay great I don't have
+to do the harness engineering part where
+I have to do prompt caching and I have
+to maximize my context window and all
+these sorts of things.
+&gt;&gt; I think we're just actually using just
+claude inbat like the claude-p command.
+Wow.
+&gt;&gt; It's it's pretty good.
+&gt;&gt; Yes. Cool. Nice. [laughter]
+Okay. Cool. And but regardless like you
+guys did that because it takes off your
+hands building the harness, right? Um
+but I do think what we saw with a lot of
+customers was okay now I want to go and
+take that thing and like get it into
+production and scale it and everybody
+hits an infrastructure wall. Like
+everyone hits the same problem of like
+oh wow I either need to like keep a
+server constantly running or I need to
+use infrastructure that will spin up and
+spin down and I need to store the
+transcript data and I need secure
+sandboxing and all these sorts of
+things. And so um you know and like if
+you boot a cloud code session or you
+boot the agent SDK in a sandbox and like
+that's the thing that you have running
+but your sandbox loses connection and
+dies or whatever your whole agent dies
+right and so I think the infrastructure
+part especially is the wall that most
+people end up hitting but they're more
+expecting that the actual harness
+engineering and like getting the most
+out of the model is the part that's
+going to be harder.
+&gt;&gt; Yeah, I totally agree with that. I was
+just going to say like you know we we
+talked to so many people who are now at
+a place where they're like prototyping
+really quickly and they're super excited
+and it's like it's doing the thing and
+then yet there's like a class of people
+who are you know really pushing and
+being like okay I I do want to hill
+climb I really want to edit the hardest.
+Um but then once you have that thing
+like productionizing is just a freaking
+nightmare. Um especially for the more
+interesting kind of long running async
+ones that you want to do a bit more
+remotely that are a bit more autonomous.
+Um, and everyone kind of runs into that
+wall and was a big inspiration for why
+we built what we built.
+&gt;&gt; I feel like uh one of the like examples
+of the shape of an agent is OpenClaw.
+&gt;&gt; Um, and in particular the the thing that
+it has brought to us internally is you
+have an always on agent in Slack that
+has its own personality and has its own
+like part of the world that it like ends
+up working on. Are you guys like is is
+that a possible future for like okay a
+one-click agent that lives in my Slack
+that yes I can go set up all the
+internals but like I don't have to
+really think about all of the um you
+know the technical infrastructure stuff
+um because I I think you you all have
+the the beginnings of that but it's
+still like a lot of steps from the
+current manage agent to something that's
+always on in my Slack that I have to
+like set up and customize. So is that
+does that fall in the realm of
+platform's job or is it like too far in
+the product direction?
+&gt;&gt; No, it definitely is uh something that
+we really want to do. I think like you
+know we we focused a lot on kind of the
+infrastructure piece to start because
+that's where we just see a lot of these
+like pain points.
+&gt;&gt; Um but yes like I think in like it's
+like you know I don't want to say
+exactly say final shape but in its like
+advanced shape we actually want to make
+it so that you can kind of deploy these
+agents really really easily. Like um
+we've made like some light steps in this
+direction. Like for example, we included
+vaults um as one of the primitives as
+just kind of
+&gt;&gt; and vaults store your like keys and
+stuff like your oath keys,
+&gt;&gt; credentials.
+&gt;&gt; Credentials.
+&gt;&gt; Yeah. um as like you know kind of
+solving some of the lower level pieces
+as a starting point but once you kind of
+wrap some of these more sort of like
+agent identity type of primitives in a
+more secure way and you can handle it
+really easily and it works with like the
+whole like system then uh you know I
+think it's very natural for us to get to
+a place where maybe you are either
+one-clicking uh Slack integration or
+alternatively even maybe just telling
+you know Claude like add Slack and it
+just like handles absolutely everything
+and then before you know it your little
+bot is just pinging you on Slack.
+&gt;&gt; I love it. I uh can't wait for that
+world. [laughter]
+Um what are the best internal use cases
+of agents? Because I think there's this
+big question happening right now where
+okay yeah everyone's in codeex or cloud
+code but then now we have these agents
+that are out in the cloud now everyone
+inside of a company can like have their
+own agent there are team agents there
+are companywide agents. So what are the
+patterns that you see for when people
+make really useful internal agents what
+they do and what they look like? Yeah, I
+would say we similar to and we've
+actually seen a few examples of these in
+some of the more like AI pill companies
+like um Stripe built minions and they
+talked about that a lot as their kind of
+like endto-end development platform that
+their engineers could use. Um I think
+ramp did something similar and um we've
+done similar things as well, right? Like
+yeah, we've built kind of platforms
+internally that are you know I have
+agents running that I can talk to from
+Slack or from wherever, right? And um at
+a certain point that becomes actually
+like a pretty thin layer on top of
+managed agents like you don't have to do
+very much to accomplish.
+&gt;&gt; That's what I was thinking like I looked
+at minions or whatever ramp does and I
+was like it why why you know so is it is
+it actually useful to have a sort of
+like thin coding agent that anyone in
+the company can use or like why not just
+install the cloud app in Slack? Yeah, I
+would say the difference in a platform
+like that and some of the things that
+we've done internally is there's a lot
+of customization that you might want to
+do on you know the development
+environment where an agent is actually
+running and able to verify its changes
+right and and things like that. It's
+like here's how our CI/CD works like
+&gt;&gt; Yeah, exactly. And so, you know, I think
+for lots and lots and lots of people
+like cloud code is an excellent tool,
+right? And and you can run cloud agents
+with cloud code and and that is really
+great. But I think if you're trying to
+do a bit more endto-end development,
+right, and you maybe want to bake in
+more custom things, then you could start
+with something like managed agents and
+build a layer on top of that and end up
+with something that's maybe closer to
+that endto-end experience. It also seems
+to me like there's something in
+particular about having a team that you
+need to work with that makes a the
+manage agent shape important as opposed
+to it just all works in cloud code. Like
+I guess technically you could like sync
+the skills between everyone's cloud
+code, but like there's something about
+just we all have one agent that does
+this thing that seems to work. Yeah, I'm
+really glad you brought that one up
+because I think like um that's actually
+like one of the more common areas where
+we see uh a lot of the opportunity is
+that uh to your point, you know, there's
+a lot of like individual productivity
+that's happening whether you're a
+developer or a non-developer. There's
+like so many tools that you're using to
+just like make yourself like more
+automated, more, you know, high
+leverage. Um but then when you get to
+the team layer, suddenly everything gets
+like massively more complex. Like number
+one, obviously it can't like sit on your
+laptop. And yes, you could maybe like,
+you know, put it in the cloud, but it's
+again more for yourself um to kind of
+like handle with your laptop closed. But
+then you go to like, okay, well, now
+like the three of us want like, you
+know, a couple agents that interface
+with each other and work with each
+other, and then maybe we're automating a
+process kind of end to end. And
+especially for some of the more complex
+processes that you kind of envision
+being like really transformed with AI,
+you do need like um you do need that
+kind of like team orientation. Um, and
+that needs to happen at like a layer
+that's a slightly higher bit of
+abstraction than just a single agent.
+Um, and I think some of the teams
+exploring, you know, kind of multi-agent
+architectures and things like that are
+really exciting, but it needs to be
+built on top of a little bit of like a
+platform that everyone kind of spin up
+and down and control. Um, and I think G
+from Versell like had a really good
+perspective on this in a way where I
+think his company Versell is obviously
+incredibly like AIDS and he kind of
+describes it as sort of like an AI like
+software factory like internally. Um,
+and I think that's exactly like the
+right mindset. And that like produces
+um, you know, like extremely high
+leverage organization that's really just
+like creating a tremendous amount of
+productivity, but not just for
+themselves, just like for every single
+process that they have in the company.
+&gt;&gt; And I I really want to go back to this
+like, okay, agent use cases. We've got
+coding agents that that anyone can use
+in the company. Like what are the other
+ones that are that you see people
+standing up that are really useful?
+&gt;&gt; We've seen a few. So, one of the fun
+things that we get to do is just kind of
+work with our internal teams of
+different functions and like help them
+identify because we actually just get to
+learn a lot as a result of doing that.
+And so, the silly example I brought up
+earlier of like legal team needs to
+review marketing copy [laughter] was one
+of the ones that
+&gt;&gt; very real.
+&gt;&gt; Yeah. Like extremely real like we like
+blew people's minds with like very basic
+agents that just give people the right
+setup to be able to do that. So, you've
+seen that.
+&gt;&gt; Well, what does that actually do? So
+it's like there there's marketing copy
+and there's a legal agent that is just
+like watching what everything marketing
+does and it's like stop like
+how does it work?
+&gt;&gt; It's more like okay [laughter] I'm a
+marketer and I've written some copy
+right and in the past maybe you would
+have opened a ticket or something and be
+like can you please review this copy?
+Um, but instead you submit it to this
+like, you know, little app that we built
+on top of agents that is like, "Okay,
+cool. Now I'm gonna go
+&gt;&gt; as an agent review first and then put it
+in Legal's inbox as a already first pass
+review was done." And maybe actually
+like the agent is it's clear enough that
+it can say, "Okay, marketing, you're
+good, right?" Or maybe it's still like,
+"No, this needs like an extra human
+review." And so, yeah, just and that's
+the sort of thing where again, just thin
+layer on top. Um but you can build the
+you know you have access I have access
+we can both see the outputs and we can
+work together on that.
+&gt;&gt; Okay but then so for example why is that
+not a skill? So it's a it can it very
+much can be a skill and that actually is
+like if you you would probably build
+that agent as a you know legal reviewer
+agent right and so you would have MCP
+servers or whatever it is that help you
+access external context you would have
+skills that help you understand like
+here's what rules we have to follow and
+not follow right and all those things
+and you put all those things together
+but then you can just fire off a session
+with that agent and then I think the
+last piece you need and this is where
+I'm saying it's a really thin layer is
+just like the form factor on top where
+like different people can collaborate
+together and like work with that agent
+and multiple agents can be involved in
+the system. Um, and so I think it goes a
+little bit broader than a skill because
+you kind of still need like the right
+form factor for the agent to be able to
+go run and then for people to be able to
+interact with it. Another core bit of
+why it's like not a skill is because or
+not exclusively a skill is because you
+actually do need human in the loop. Um,
+and so like if you were to automate the
+whole thing and you were just, you know,
+like taking the skill and looking at
+yourself from like legal skill for
+example, like in that world, of course,
+you could have just like done a pure
+skill. Um, but if you need a human in
+the loop to be like, okay, like I want
+to review and I do want to check and I
+want to like we're looking at like legal
+things and so there's a bit of like, you
+know, authentication that's sort of
+necessary. Um, in order to automate that
+entire process, you kind of need like
+agents to go do the thing. And so
+because you need to spin up sort of
+separate sessions for that to happen,
+some sort of stitching is necessary that
+can't be instantiated in a single skill.
+&gt;&gt; That's really interesting. Yeah. Um
+Okay. So just to push on that a little
+bit. So what is the best practice for
+you? You create an agent that uh it's
+its job is to make sure that when
+marketing is writing something, they can
+get it approved really quickly by legal.
+And sometimes it'll approve things
+immediately. Sometimes it sends stuff to
+legal. And ideally, it's like getting
+better all the time, so it can do more
+and more, right? What is the best
+practice for who owns that agent once
+it's built? Because one of the things
+that we found is if you don't have a
+human who's responsible for the agent,
+it gets stale very quickly. And then it
+ends up being kind of this like dead
+thing that's just like out there doing
+stuff, but it's not necessarily good.
+And also, uh, even if it kind of works,
+there's all there are going to be all
+these times where legal's like, "You
+asked me to approve this, but I don't
+really need to approve this thing. Like,
+let's update your prompt." So, like, how
+does that all work when it works? as
+well.
+&gt;&gt; So, it's actually really interesting
+because so the form factor thing, right,
+like the app that sits on top of that
+that we originally built. Um, one of our
+teams worked on that, right? And and
+like kind of sitting with these teams
+and understanding what they needed. Um,
+and they were kind of like, okay, here
+you go, and we're going to go do other
+stuff now and like let us know how this
+goes for you. Um, and then a really cool
+thing actually ended up happening where
+people on those teams who were using the
+tool were like, "Oh, I wish like this
+little thing could get tweaked or this
+thing could get better." Um, and they
+like popped open cloud code and like
+made some of the changes to the actual
+And so,
+&gt;&gt; and then is your team responsible for
+approving the PR? Does it just like go
+in? Uh, usually my team's responsible
+for reviewing the PR if it's a system
+that we actually own. But um, but yeah,
+like people can kind of self-s serve
+making changes to those things, which I
+think is really cool. So, um, it is I I
+do think we're still in a stage for a
+lot of teams, a lot of companies. Like
+even going back to, you know, like
+Stripe has minions, right? Like Stripe
+has a large developer productivity team.
+Uh, we used to work at Stripe so we
+spend a lot of time with them, but um,
+they have a large developer productivity
+team. They're awesome and they're
+obviously putting a lot of work and
+energy into building platforms and tools
+like this. And so I think we're
+definitely still in a place where
+something like managed agents or being
+able to build on top of our platform is
+really powerful, but you still kind of
+need the like AI pill and technical
+people within a business to then go like
+create something really excellent on top
+of that that works well for whatever
+you're trying to do.
+&gt;&gt; That's interesting. Yeah, I I love the
+anyone can open a PR to to do this
+because everyone's using cloud code. One
+of the things that I find talking to
+people who are in infrastructure roles
+at companies where this is starting to
+happen is like you you know that you
+know the meme where it's like um there's
+there's a person and he's like going
+like this and he has like daggers in his
+like back and he's like cover [laughter]
+&gt;&gt; it's like infrastructure people are that
+for like now anyone can like
+&gt;&gt; can can submit PRs. Yeah. Um, how do you
+how do you deal with that and how do you
+do that? Well, because obviously like in
+an ideal world, you would love for a
+legal to be able to submit PRs to
+improve this agent. And also,
+&gt;&gt; um, sometimes they're probably going to
+submit stupid stuff that wastes time.
+And so, what are the what are the right
+ways to either organizationally, like
+culturally or technically like make that
+possible without ruining your your
+lives? For this particular one that
+we've constructed that Caitlyn's given
+as an example, we actually have like a
+couple layers of abstraction away from
+like that kind of like PR layer. So at
+the very beginning, it kind of like
+started that way and to kind of like
+basically prevent users from kind of
+footing themselves a little bit. Uh they
+kind of get to a place where oftent
+times their way of interacting with the
+agent that they own like the whether it
+it's the marketing team who owns the
+marketing agent requesting or if it's
+the legal team, you know, owning the
+agent that does the review. um they
+actually engage with those agents
+through Claude itself. So they actually
+spend more of their time like kind of
+talking directly to Claude and then
+Claude will oftentimes figure out what
+should be the right way for them to go
+and handle it so that they're not kind
+of like you know hopping straight down
+to the absolute core bit and doing
+something that may result in you know
+some complications
+&gt;&gt; and they're talking to Claude or Claude
+code like claude chat or claude code or
+co-work
+&gt;&gt; it's a different instantiation of of of
+claude um that we made that actually is
+a managed agent in of itself. So it's
+just kind of like manage agents all the
+way down um in that construct. Uh but we
+found that each layer if we kind of tune
+and and prompt each variant of the
+managed agent it helps to solve like you
+know different parts of the problem for
+users. So at the end state for you know
+like that marketing person or that legal
+person it is like a really simple
+interface where the way that we tell
+them is like you're just talking to
+claude but under the hood it's many many
+clouds engaging with each other to get
+to the part where then they the clouds
+themselves are doing the more complex
+work that the human doesn't really
+necessarily need to interpret.
+&gt;&gt; Interesting. You guys just launched
+multi-agent orchestration. What are the
+coolest what are the coolest things that
+people are doing with that?
+Um, one of the more interesting ones is
+like um I think people are using it to
+like construct sort of different harness
+techniques and that one I'm personally
+very excited by um because like there's
+different techniques that people have
+experimented with where um you know like
+for example we recently did like the
+advisor strategy one but really if you
+were to genericize it you just separate
+like execution from advice and there's
+also one where you can have like two you
+know modes where there one is generating
+someone something and the other one's
+adversarial to it and then there could
+also be sort like you know you split it
+into a bunch of different like little
+tiny pieces and then they kind of
+recombine and then there's ones where
+maybe it's kind of something closer to
+like best of end kind of like style of
+thing and then there's so many more and
+like in each one of these different
+types of like architectures or
+strategies they are good for very
+specific use cases. So some of them are
+much better for like uh deep research or
+wide research type of uh style use
+cases, right? And there others that are
+like these are like the kind of ones
+where they all sort of swarm together
+are better for like bug hunting for
+example. Um and so like that's like
+really cool to see that like if we can
+make the primitives very lego like um
+then people can put them together to
+solve things at a slightly higher form
+factor which is more like an
+architecture or like a strategy. Um and
+they get much more like interesting
+results out of that. Um, and that's like
+really exciting to see because it also
+suggests that you can actually hill
+climb at u multiple layers um of
+abstraction.
+&gt;&gt; How do you know if an agent is
+successful? How do you measure success
+for an agent?
+&gt;&gt; Yeah, I mean there's like evals and
+stuff like that which everyone has
+talked about like ad nauseium. One
+direction that we we really like is like
+uh this kind of verifiable outcome. Um
+we've been somewhat opinionated on that
+one and it's almost like in the absolute
+end state of you know we talked a little
+bit about what's what's a platform the
+end of things. Um, going from that
+philosophy, it's like our kind of
+principle of like maybe the end state of
+some of these things is that everything
+should kind of compress down to an
+outcome and like a budget and that's
+probably like about it. Um, and
+everything else should be figured out
+for you to kind of resolve exactly
+across those parameters. And so for us,
+we're kind of yes, we still have evals.
+We have a lot of these other things that
+we measure um that are domain specific
+like you know some coding evals would be
+like you might want to measure like just
+the actual PR getting merged. Those are
+more verifiable. But as we get to the
+place where um you know like an outcome
+is actually a spec that you are just as
+a human able to define and our ability
+to interpret that and regrade itself
+over and over is closer to what we care
+about.
+&gt;&gt; Claude, make me a billion dollars. Your
+budget is $10.
+&gt;&gt; Exactly. [laughter] And then say no
+mistakes go. Exactly.
+&gt;&gt; Maybe mythos could do that. Yeah.
+Um, and then one of the things that
+we've been running into that I'm curious
+if you have a solution for is agents
+like get outdated pretty quickly. Um,
+sometimes because there's no human
+attached to them. Sometimes like they're
+just running an old model or there's an
+old or in an old architecture or
+whatever.
+And it feels like there needs to be a um
+end of life cycle for agents. like we've
+talked about having like a little like
+funeral for them and like having like a
+little page on our website that's like
+here's all the decommissioned agents and
+stuff.
+&gt;&gt; Um
+&gt;&gt; like h how do you manage especially in a
+in a really big company? How do you
+manage the all the agents that are like
+sort of out there but and maybe they're
+like in Slack like pinging stuff once a
+week but you're like this is super
+stale. How do you make sure that uh you
+you retire them as quickly as you are
+making them? So, one of the things we
+have actually done is we have made
+skills that help you do things like
+upgrade to a new model when a new model
+comes out, right? Like we've actually
+put a good amount of work into making it
+easier to do exactly what you're talking
+about. Um, and I think maybe some of the
+most like AGI pill people are like
+running agents that are monitoring their
+agents to see if their agents are, you
+know, like outdated and in need of that
+sort of stuff. But I think for you know
+the way that we like to talk to
+customers who ask us this question I do
+think the the most interesting
+instantiation of this is there's a new
+model and now I need to go upgrade my
+agent or maybe be done with those agents
+because you know the new model in
+enables me to build agents that are way
+more powerful and do more interesting
+things than the old agents did right but
+I think that upgrade process and that
+migration process is like something
+people have had to wrap their heads
+around as like it's like a breaking
+change and and I have to like put actual
+energy into making that work. Um, and
+obviously, sorry to talk about evals,
+but like if you have evals, this process
+is easier and things like this, but um,
+I do think that's one of the things
+we've tried to do is how do we give you
+skills and how do we give you the right
+like just tools to make that process
+easier. Um, and then you could go be
+agilled and choose to actually automate
+more of that with more agents.
+&gt;&gt; Yeah.
+&gt;&gt; So, a year from now, we're back at code
+with Claude. Um, where do you think the
+platform will be? What will I be able to
+do? Uh, and how it will be different
+from what I can do today.
+&gt;&gt; Do you want to go first?
+&gt;&gt; You can go first. A year is a long time.
+It's in this in this industry
+especially.
+&gt;&gt; How close are we to Claude making a
+billion dollars? [laughter] That's
+really what I'm asking.
+&gt;&gt; Probably won't be sitting here. Yes.
+Yes. [laughter] We will be asking for
+this.
+&gt;&gt; I mean, yeah. like we want to get closer
+and closer to that that state where I
+think we we kind of okay so a couple
+things I think in a year from now I mean
+one thing that we'd love to get really
+really close to is actually that kind of
+like simplicity and this might be a
+significantly higher order of
+abstraction I don't know what the form
+factor will look like or whatever but
+the kind of parameters we will care for
+from users will be that outcome and of
+course it has to be verifiable there are
+some parameters that that have to be
+restrictive and and the budget and I
+think like we'd want to experiment with
+with directions where cloud actually
+gets so good at understanding itself
+it it figures out what model you should
+be using. It figures out how to spin up
+all the sub aents. I actually don't
+think you need to think so much about
+harness engineering in that world today.
+You know, you don't have to think so
+much more aggressively about like tool
+construction for example. Like we've
+kind of made that a little easier and
+you get to delete a little bit of that
+scaffolding
+&gt;&gt; less prompt engineering too.
+&gt;&gt; Yeah. Exactly. Exactly. Exactly. And I
+think if you just keep going up that
+stack like today a lot of the innovation
+is happening at this kind of like like
+really high level almost like harness
+architecture like level which is really
+fun but I think a lot of that honestly
+also kind of goes away where you almost
+like don't have to think so much about
+like model selection. you don't have to
+think so much about what kind of
+architectures are there because we
+probably could have would have like gone
+through enough iterations with Claude
+where Claude is actually able to
+understand itself enough um that it can
+almost like write itself on the fly to
+figure out what is necessary in that
+kind of like two parameter world of like
+outcome and budget. I don't know that
+we'll get there like in a year, but I
+feel like we might be able to do like
+the outcome part of that with like maybe
+you know some bars of some error bars on
+on the budget side.
+&gt;&gt; Really cool.
+&gt;&gt; Yeah. Um okay, that was really cool. I'm
+going to give you a slightly more boring
+answer, which is in that world, if
+Claude is like on the fly, your agents
+on the fly are like becoming what they
+need to become in order for you to do
+what you're trying to do, the platform
+has to like seriously scale
+&gt;&gt; that it does.
+&gt;&gt; Um, and so I do think some of this will
+be what are the right abstractions that
+actually enable that, right? Like
+somewhere on the primitive to higher
+order realm, right? But I do think so
+much of what our team is going to be
+doing is making sure that the tokens
+that people want to come in and out of
+claude um are going to be able to come
+in and out of cloud because our system
+is scaled to meet not just the demand
+but like in that world where it's just
+like you have agents that are like
+literally constantly running and
+recreating themselves and and doing this
+sort of work. Um you just need a system
+that you know can handle longunning
+requests, can handle a bunch of
+differently shaped things. And so I
+think for us it's going to be I never
+want the ability of the platform itself
+to be able to scale to get in the way of
+what people would otherwise be able to
+accomplish with these things. And so I
+think that's something that's going to
+probably be very front of mind when
+we're talking in a year.
+&gt;&gt; Awesome. I'm excited. Um thank you so
+much for joining. I really learned a
+lot.
+&gt;&gt; Thanks for having us.
+Oh my gosh, folks. You absolutely
+positively have to smash that like
+button and subscribe to AI and I. Why?
+Because [snorts] this show is the
+epitome of awesomeness. It's like
+finding a treasure chest in your
+backyard, but instead of gold, it's
+filled with pure unadulterated knowledge
+bombs about chat [snorts] GPT. Every
+episode is a roller coaster of emotions,
+insights, and laughter that will leave
+you on the edge of your seat, craving
+for more. It's not just a show, it's a
+journey into the future with Dan Shipper
+as the captain of the spaceship.
+So, do yourself a favor, hit like, smash
+subscribe, and strap in for the ride of
+your life. And now, without any further
+ado, let me just say, Dan, I'm
+absolutely hopelessly in love with you.

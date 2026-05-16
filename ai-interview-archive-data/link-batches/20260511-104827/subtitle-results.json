@@ -1,0 +1,97 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260511-104827/links.json",
+  "results": [
+    {
+      "source_id": "lennys-podcast",
+      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+      "url": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-how-to-build-a-company-that-withstands-any-era-eric-ries-lean-startup-author.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tjquww3y/PoJ1vTdHpks.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-tjquww3y/PoJ1vTdHpks.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-how-to-build-a-company-that-withstands-any-era-eric-ries-lean-startup-author.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "peter-yang",
+      "title": "Build a Claude Code Personal OS Step by Step in 40 Minutes | Moritz Kremb",
+      "url": "https://www.youtube.com/watch?v=ACRd0Ikg_KI",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-build-a-claude-code-personal-os-step-by-step-in-40-minutes-moritz-kremb.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6ugjvnym/ACRd0Ikg_KI.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-6ugjvnym/ACRd0Ikg_KI.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-build-a-claude-code-personal-os-step-by-step-in-40-minutes-moritz-kremb.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "What No One Understands About AI",
+      "url": "https://www.youtube.com/watch?v=23pp6HX1R7U",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-what-no-one-understands-about-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zarru94e/23pp6HX1R7U.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-zarru94e/23pp6HX1R7U.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260510-what-no-one-understands-about-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "dwarkesh-patel",
+      "title": "David Reich – Bronze Age shock, the Neanderthal puzzle, & the sudden spread of farming",
+      "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/ba08e5fc4349567e.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+      "url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/eff9cfd033a9ebe0.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "every",
+      "title": "The Secrets of Claude's Agent Platform From the Team Who Built It",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/9fc555d09bc860fb.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/963c8f14d61a0143.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "Palantir CTO: Our National Security Is a 5-Alarm Fire",
+      "url": "https://www.youtube.com/watch?v=4oCDpbMyugU",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/660c816b7916c17f.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "south-park-commons",
+      "title": "tldraw's Steve Ruiz: The Infinite Canvas & the Death of Traditional Design",
+      "url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/baed961694a1527c.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "every",
+      "title": "OpenAI vs. Anthropic: The Battle Lines Are Drawn",
+      "url": "https://www.youtube.com/watch?v=4YNHb0XNV1A",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/d4cc1f3b0f8b147f.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260516-104516/links.json",
+  "results": [
+    {
+      "source_id": "dwarkesh-patel",
+      "title": "Building AlphaGo from scratch – Eric Jang",
+      "url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260516-building-alphago-from-scratch-eric-jang.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-yvyhf44l/X_ZVSPcZhtw.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260516-building-alphago-from-scratch-eric-jang.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑",
+      "url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/6eac6eda4b92dc54.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "every",
+      "title": "Codex Taught Me How to Play Piano",
+      "url": "https://www.youtube.com/watch?v=JQLzSzDs3EY",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260515-codex-taught-me-how-to-play-piano.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-v_v6qu02/JQLzSzDs3EY.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-v_v6qu02/JQLzSzDs3EY.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260515-codex-taught-me-how-to-play-piano.txt",
+      "status": "ok"
+    }
+  ]
+}

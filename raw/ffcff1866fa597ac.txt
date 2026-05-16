@@ -1,0 +1,1219 @@
+原文： https://www.youtube.com/watch?v=XAbKflCncDo
+
+Hi listeners, today Aladdin and I are
+here with Tuhin Stuba, the founder and
+CEO of B 10, the AI inference cloud.
+We're here to talk about capacity
+constraints for AI compute, why
+inference is the last market, how the
+workload is changing, the open-source
+and perhaps multi-chip future, and what
+30x scale in a year looks like. Tuhan,
+welcome back.
+&gt;&gt; Hi. Great to see it. Thanks for having
+me.
+&gt;&gt; All right. You are in one of the uh
+craziest markets, AI inference. Uh uh
+it's very important. There's a lot going
+on. You guys have grown 30x over the
+last year. And I think I can say you're
+expecting to do more than a billion
+dollars in revenue this year.
+&gt;&gt; Mhm.
+&gt;&gt; What's going on? Tell us about scale.
+&gt;&gt; Yeah. No, it's been it's been nuts. I I
+think what's happened over the last
+honestly at 24 months but just kind of
+keeps getting bigger and bigger is that
+I think everyone is re realizing that
+you can put AI everywhere. Um you have
+you have all these great options
+available from closed source to open
+source models. the open source models
+have c crossed some sort of chasm in
+terms of their baseline capability and
+that I think RL techniques and post-
+training is um for specialized models um
+has
+become mainstream enough and you know
+there's enough examples of it work of it
+working the customers realizing they can
+you know kind of own their inference um
+more and more and what that's meant for
+us is um more you know the longtail
+models
+coming true. Customers in a lot of that
+intelligence themselves and as the
+application layer just gets you know
+bigger and bigger and bigger and that's
+growing when we are we are just someone
+index on that and we've been around to
+be able to collect the demand.
+&gt;&gt; There's an existential question in here
+that I think everybody is uh continually
+asking of does the independent
+application layer get to exist at all
+versus the labs like how do you you have
+to believe this why do you believe it?
+Yeah, look, I I I think it'd be it'd be
+a sad thing if it didn't exist in
+general, and I think that's like my but
+you know, sadness is fine. Um the
+all the time sadness is fine. Um but
+like that's not the reason why I think
+the application layer will exist. I
+think the application layer will exist
+for a number of reasons. One is because
+you know I think this idea um that what
+is what is valuable to a company um is
+you know the the user signal that they
+can gather that only they can gather um
+and to the extent that that is encoded
+um in a model I think a lot of their
+business will um be at risk but to the
+to the extent that it is encoded in
+workflows um that is where they will be
+able to develop notes. So a good I think
+a good example of that is say a company
+like a bridge where the clinicians edits
+of the notes and what they do with those
+notes after the fact and the um the
+thing that happens in um inside the EMR
+three steps down and that becomes a
+workflow that only
+&gt;&gt; can you explain what a bridge does?
+&gt;&gt; Sorry. So bridge is a um ambient um
+scribe um that is used by physicians in
+um
+like you know almost all hospitals in
+the US. I think large investor um great
+chef's amazing great great company great
+team um great product um and you know
+they they've basically
+uh you know got this very very deep
+integration into into hospitals into
+clinician workflows and my argument
+would be here is that actually you know
+it's very very hard for um a frontier
+model company to be able to eat away at
+that because they just don't have access
+to that user signal and what will happen
+over time is the folks who have access
+to that user signal can start to
+post-train models on that reward signal
+and and start to get long long horizon
+agentic models running that and I think
+to the extent that that is possible and
+that signal is differentiated and unique
+and in and is um somewhat
+um
+rare to to get access to there will be
+an application layer and I think you
+know like support company is another
+example of that where you know a support
+a support task isn't oneshotted
+Usually at a company like Ban when a
+ticket comes in there's like what like 1
+2 10 20 actions that get taken and that
+is where you know someone can develop a
+specialized model.
+&gt;&gt; So there's almost two versions of this
+then there's new companies like a bridge
+or decagon or some of these other things
+that you mentioned that are doing
+&gt;&gt; these new types of applications that are
+using AI and they sell it to customers.
+&gt;&gt; The other is enterprises building things
+inhouse or building their own models.
+What proportion of the market today do
+you think is um these new application
+companies versus enterprises just
+adopting AI? Yeah. And how do you think
+that looks in a couple years?
+&gt;&gt; Yeah, I I think that's a that's you we
+did I think you asked me the same
+question two years ago on
+&gt;&gt; I had to be repetitive. Yeah.
+&gt;&gt; It it is crazy consistent.
+&gt;&gt; The answer is just that it's crazy that
+the answer is still I think I think if
+you look by inference count
+&gt;&gt; Yeah.
+&gt;&gt; it'd be 99% the full.
+&gt;&gt; Yeah. Um I think that is that kind of
+represents the scope of the opportunity
+here is that the majority of the market
+hasn't come online and and and um and
+added AI into the
+&gt;&gt; Yeah. most of enterprise adoption is
+well ahead of us and I think that's one
+of the very exciting things about AI.
+&gt;&gt; Yeah.
+&gt;&gt; There's just so much still to come and
+people are underestimating that I think
+&gt;&gt; 100%. And but but what's cool is that
+we're seeing the transition happen.
+Right. Before it was like hey are they
+are they using AI tools?
+&gt;&gt; I don't think that was immediately
+obvious two years ago. I think it's
+obvious now that yes they are. are they
+using closed source model APIs? Um I
+think they're starting to get there. I
+think once you do that and then you kind
+of see what is possible then comes the
+whole custom model adoption. I think
+that is all that is ahead of us
+&gt;&gt; today.
+&gt;&gt; So if the majority of your customer base
+today is as you described the the former
+like application companies AI natives
+the um fast growing I mean some of them
+are at considerable scale now like the a
+bridge cursor um
+&gt;&gt; open evidence
+&gt;&gt; open evidences of the world. uh what you
+know what do they what do they teach
+you? What does that push the company to
+do? How do you think about serving them
+versus evolving for the enterprise?
+&gt;&gt; Yeah. Um I I think firstly like you just
+learn a lot by building with the
+companies greatest scale doing the most
+interesting things. Um we we think of it
+two ways like I think there's like the
+the the most obvious way which is just
+build for the highest scale. um you know
+most uh the customers that will push you
+the most from technologically and
+everything kind of will fall into play.
+I think the Stripe evolution as a
+company showed that we're like Stripe
+now like serves like so many enterprises
+but 12 years ago that wasn't the case
+but they just built for the frontier and
+kind of went with them. Um I think the
+second way we think about that this is
+to just think about building for
+companies that are serving enterprises.
+So yes we don't serve the enterprise but
+our customers serve enterprises. Um a
+bridge service open evidence decagon um
+all these writer gamma all these clay
+all all these companies serve
+enterprises in mass and what we actually
+get like a translation of the
+requirements from them which is like you
+know they're like hey we need this data
+retention we need this type this where
+models need to be deployed um this is
+the types of GPUs or the latencies
+they're okay with this is the model
+requirements from like a transparency
+perspective that they care about and so
+I think that is actually the more nuance
+answer. It's that if you listen to what
+their needs are, we actually get a full
+translation of what the enterprise would
+require. Like I would say that by
+serving companies like a bridge and open
+evidence, we're probably pretty well
+suited to go serve the healthare system
+given that they are selling and latent
+health given that they are selling to
+them.
+&gt;&gt; How much of a shift are you seeing in
+terms of the types of open source models
+that are being used? And so I think
+we've seen an evolution where two three
+years ago I think the main thing was
+kind of mistral and then a few other
+things and then meta kind of came along
+with llama and then it kind of really
+shifted
+&gt;&gt; in terms of the misperformant models or
+of Chinese origin and different ways.
+&gt;&gt; Do you see that sort of mix reflected in
+terms of what's being used by our
+customers? Yeah.
+&gt;&gt; Yeah. I I I think customers at least the
+customers we are serving are very and
+these are like the fastest growing AI
+companies in the world that are very
+forward thinking. they they want to use
+the best model and they they are
+optimizing. I think there is there there
+are a there's a subset of tasks which I
+think is small today where people really
+start to start with cost.
+&gt;&gt; Mhm.
+&gt;&gt; Um but everyone comes from capability
+first because that's really where the
+economic growth is being unlocked where
+the value is being delivered and then
+they optimize. And I think that's like
+actually been, you know, and so with
+that in mind, you know, you you you name
+like you name it. Everything from GPTOSS
+all the way to um Moonshot model to Deep
+Seeks um
+&gt;&gt; to um Canopy or Oreus, which is like
+really good text to speech
+&gt;&gt; um models um
+&gt;&gt; customers generally want to use
+whatever's at the frontier. And and I
+think the um the difference has just
+been um I think we have a lot more
+visibility into how to run these and how
+to run these really well and secondly
+that they're good. Now
+&gt;&gt; there have been a number of different
+concerns raised about the use of Chinese
+models in particular security or is
+there something embedded in the models
+or you know Trojan horses or other
+things.
+&gt;&gt; Um a do you think there's any real
+concern there and b you know people
+often talk about how there should be
+like US counterweights to this from a
+geopolitical perspective. Do you think
+that's something that's legitimate or
+something we should be worried about or
+how do you think about the sort of
+origins of these models versus their
+uses?
+&gt;&gt; Yeah, look, I I I think these these
+models firstly are fantastic. They're
+amazing. We work with these teams.
+They're truly awesome. Um, I'd say look
+I I don't it it is hard for me it is
+hard for me to see and I I could be
+wrong but like you know if if I if I if
+I network bound these models that
+they're not magically you know going to
+be able to cross those network
+boundaries and so data is there and you
+know I I don't and we I've never seen
+any real evidence um except from some
+very early models that I think people
+picked up on very quickly that there is
+some agenda or bias built opportunities.
+Um I do think that to some um to some
+extent is I I think there is importance
+to the US that we develop our own
+models. I think that that would be a
+massive loss if that there are five
+companies, you know, five different labs
+in China that are creating open source
+models. Um and we're struggling to get
+one stood up. So it's necessary. Um I
+also think it's inevitable. Um, and you
+know like the to deepse the deepseek
+moment a year ago. Um, I remember
+someone saying to me and I thought it
+was like very well said which is like
+and the world's changed a lot but they
+said hey you know we should kind of just
+forget
+&gt;&gt; that this is a Chinese model. We should
+just act like this came from
+&gt;&gt; from meta and and build and build with
+that in mind.
+&gt;&gt; It's like you know I think you're kind
+of missing the forest from the trees.
+&gt;&gt; Like there's two there's two scenarios,
+right? either America does not ever come
+up with good open source models.
+&gt;&gt; I think there's probably a fundamental
+problem there or we will get there and
+we need to be ready for that world.
+&gt;&gt; Yeah, that makes sense. It's interesting
+because um you know like you I I think
+it's very important for the US to have a
+strong open- source footprint here.
+&gt;&gt; Um at least for now it looks like
+effectively the Chinese government is
+subsidizing at least a large subset of
+these models and that subsidy or surplus
+is effectively just being passed on to
+US enterprises who are adopting these
+models. In other words, it's a way for
+the Chinese government to effectively
+subsidize US enterprise.
+&gt;&gt; Yeah.
+&gt;&gt; In an indirect manner. And I think
+that's a little bit lost right now. Um
+but you know, it's always interesting to
+weigh that against some of the other
+concerns that are raised. So I
+appreciate your your comments on this.
+Well, and I think the concern also just
+there just becomes it's like what
+happens if we aren't able to like I if
+it is fun like I I think if you think of
+the economics here which is deepseek by
+most deepseek is a a very good model
+&gt;&gt; um you know like and like you can argue
+whether it's at the absolute frontier or
+not but like let's let's go back three
+months
+&gt;&gt; and it's there and so think about
+everything and we're doing a whole lot
+of things three months ago and so let's
+just think about that well um
+&gt;&gt; you know if
+you could run deepseek probably 20% of
+the cost
+&gt;&gt; of running openthropic models um in
+production um with comparable better
+latency probably better reliability if
+we don't have access to that
+intelligence
+&gt;&gt; in that form I think it's just a massive
+loss um and as a country like we won't
+be able to innovate as fast because like
+the cost of intelligence going down
+control of intelligence what we have
+seen just means more intelligence
+intelligence being embedded in more
+places
+&gt;&gt; yeah an important note uh here that we
+didn't mention explicitly is that the
+state-of-the-art models the ones that
+are most far ahead on the frontier are
+actually still the closed source
+anthropic open AI Google etc.
+&gt;&gt; Yeah. What has been actually maybe you
+can just characterize like workload a
+little bit like how of tokens being
+served on base 10 like how many of them
+are uh from custom models of some kind
+versus like vanilla open source today
+&gt;&gt; it is all custom it's basically
+&gt;&gt; so like 95% plus
+&gt;&gt; 95% like and I think that's really cool
+to be honest like look we have we have
+two businesses we have we have we have
+three business we have we have three
+businesses right now um and help you No,
+no. So we have like dedicated dedicated
+inference which is basically custom
+model inference. Um your SLA is your
+SLA. Then we have shared inference which
+is shared inference endpoint. Um shared
+SLAs's. Um and then we have a training
+business. Um um I'd say 95% of the
+tokens today are on the the the first
+business and almost all of them
+um there's probably a yeah for almost
+all of them the customer is making some
+modifications to the model with their
+with their own data um specialized for
+the use case and I think what's even
+more important is um they might be
+compiling in different ways no one is
+just running the vanilla open source
+weights like you you might be
+customizing it for quality but you also
+might be customizing it for performance.
+&gt;&gt; You made an acquisition of a research
+team a few months ago. You've mentioned
+uh post- trainining customization. Uh
+what was the rationale behind the
+acquisition? What is that team doing
+today?
+&gt;&gt; Yeah. Um so the the rational around the
+acquisition was you know we we are
+infrastructure and product people. Um we
+have product people um and now a really
+good infrastructure people and the um
+and we didn't have much of a um research
+capability ourselves and and what we saw
+was um the market moving heavily and
+heavily like that we could accelerate
+the market itself um with post training
+um resources either productized or
+honestly even just as resources for that
+market. Um, so PAS was a a company that
+was a base 10 customer. So they were
+post training models and running them on
+base on base 10. And I think what they
+realized was um that they would
+eventually need to become an inference
+company. Um, and what we realized was
+like, hey, we we really needed that
+expertise because it is it represents a
+way for us to get closer to the customer
+earlier. um and you know be able to
+support them all and it just made sense
+um as a like pairing them together and
+um just as as I said in the opening
+statement here which is you know as more
+and more post train models have come up
+we've realized that like the the demand
+for people to for people to either
+um for software loops to do post
+training or for post training expertise
+is very high and we're really really
+investing um in that Um there also a
+bunch of Australians. Um you know I like
+to think that we had a b a bit of alpha
+there. Um but yeah that that's been
+fantastic. They're working with all
+sorts of customers. Um and it it's also
+very interesting when you when you
+um start, you know, we were doing a lot
+of research on the performance side and
+less so on the post-raining side. Um
+it's interesting as we've started to do
+a lot more research on the post training
+side. Um, you start to see how linked
+inference and post- training are and
+like you know even even when you think
+about stuff like quantization and when
+you should do that and like you know h
+how how training um how how you train
+the model affects how you need to
+quantize for inference and how paired
+these problems are
+&gt;&gt; um has become like very apparent and
+more and more like the post training
+inference are kind of both sides of the
+same problem. So because inference will
+ideally will be get more post training
+where inference creates data you do eval
+post post train on the um on that reward
+function that you that you found of
+those evals and and hopefully to set up
+the entire look.
+&gt;&gt; Plenty of folks from uh Ant and Open AI
+Sam Greg etc have said in recent months
+that like inference is super strategic
+inference talent is strategic capacity
+is strategic. Uh so between that and
+post-training these are uh very uh
+difficult to gather like capabilities.
+&gt;&gt; Yeah.
+&gt;&gt; Um I imagine that lots of your customers
+go to you guys for advice on like how to
+do this progression of moving to custom
+models. Like what do you tell people
+about the life cycle and when they
+should invest in that?
+&gt;&gt; Yeah, I I think it's hey go find go
+prove to yourself with the best-in-class
+model that you have something worth
+optimizing. Um and and I think you know
+a lot of you know if a customer comes to
+us you there was that meme which was
+like it was like two years ago it feels
+like no GPUs pre-product market fit.
+It's like no post training pre-product
+market fit is what
+is what I'd say.
+&gt;&gt; So people that you're working with here
+are very very at scale first. Yeah, they
+they they have a user signal that they
+know how to optimize and they've shown
+that they can, you know, they can serve
+customer value and that value and that
+they have something special around that
+value and once you have that value, it's
+like, okay, now how can I do that
+better, faster, and cheaper with the
+idea being that, hey, if you need to be
+very good at customer support, you can
+you maybe don't need to be that good at
+coding and that a specialized model
+might be a better fit for that problem
+and you can do it better, faster,
+cheaper.
+&gt;&gt; What about the capacity side? you uh
+started with you unifying capacity
+across all the clouds and neoclouds. How
+do you think about this when everybody
+keeps talking about a a supply crunch
+and a multi-year supply crunch?
+&gt;&gt; I think um
+you know there's so much narrative
+around the supply crunch. Um and no
+matter like as much as we hear about it,
+I don't think people realize how bad it
+really is. like there is you know there
+is very very little slack compute
+available like you know we run pretty
+large clusters ourselves and we run them
+at like uncomfortably high utilization
+you know we when I'm saying we're like
+mid90s utilization
+&gt;&gt; um most of the time um there is we have
+made we we have we sit in
+18 different clouds now we have 90
+clusters around the world across 18
+different clouds and like you
+Initially we started we like built this
+technology to be able to like kind of
+create one runtime fabric that spans all
+these different clouds and try to
+abstract that away from our customers um
+as a way to think about reliability,
+latency, failover, all these things that
+we think are going to be very important
+for very mission critical use cases. um
+that same technology like just our
+ability to get compute wherever humanly
+possible um has been really really
+helpful in our ability to get supply and
+and what what I mean by that is we can
+be introduced to a new provider in a
+different country um and have it up and
+running with the whole base 10 inference
+stack
+&gt;&gt; as part of the fabric. Yeah,
+&gt;&gt; fabric in half day half maybe less. uh
+um even for and that gives us enormous
+flexibility. Um
+even for us it is hard for us to grow.
+We have a we have a I think it's yeah
+say that um we have a a 4M standing
+meeting for the company where we
+basically like like how do we like how
+do we how do we manage capacity for the
+demand right now I think the second part
+which people don't really um the two the
+the second part that people don't really
+understand is um that there are also a
+lot of um
+suppliers right now um that It's kind of
+grifty, you know, like I I I think, you
+know, they haven't run they haven't run
+data centers before, you know, they
+don't understand SLAs's for especially
+for inference. Um, and so like, you
+know, even when there is capacity
+available, um, there's a lot of D like
+there's probably we we run a lot more
+and we have redundancy so it's fine. But
+if you, you know, there's probably like
+a dozen good like clouds and I'd
+probably like put like three or four of
+them in like the the gold tier.
+&gt;&gt; Mhm.
+&gt;&gt; Um, and I think that just means that
+like supply like not only are we supply
+crunched, we're supplier and
+operationally crunched onto people who
+can who can run these data centers as
+well. So,
+&gt;&gt; how far ahead can you actually buy
+capacity right now? In other words, like
+is there uh any any slack in the market
+if you buy two years ahead or five years
+a you know?
+&gt;&gt; You mean like act like contract length
+or actually like hey I want this in
+January 28.
+&gt;&gt; Yeah. Either one. Yeah. I mean it's more
+the I want this in January 28 or at
+least I have some visibility into my
+future sale.
+&gt;&gt; Yeah. Um you could buy that but you got
+to also remember how quickly the market
+is how quickly the market is moving. Um,
+and like you know that gets balanced
+somewhat off like the fact that the H100
+is such a great chip. Yeah.
+&gt;&gt; Um, and like and then you know
+&gt;&gt; it's crazy. It's four years, four and a
+half years old. The price is going up
+still.
+&gt;&gt; Maybe as a useful nine years.
+&gt;&gt; Yeah.
+&gt;&gt; Um, so you know that that's that's good,
+but at the same time at the same time,
+you know, yeah, yes, you can do that.
+Um, but you know, you're making a lot
+like you're making a lot of bets.
+&gt;&gt; Yeah. um as part of that and then in
+terms of I think that's the big thing
+that's changed over the last six months
+is that the term length that people want
+um has just gone up. So like if you if
+you wanted
+um a thou 1 a,000,24
+B200s
+&gt;&gt; Mhm. um which is you know um from a good
+cloud right now you're not getting that
+less than a 3 to 5 year contract
+&gt;&gt; right now with a probably a 20 to 30% TC
+TCV prepaid um so like actually what
+becomes important when acquiring
+capacity um is you need to have enough
+demand to supply it um to serve then you
+also need like a low cost of capital um
+which is which is actually changing the
+dynamic pretty significantly. Does that
+does that impact how you think about
+going public as a company? Because
+arguably
+&gt;&gt; Yeah.
+&gt;&gt; I think you'd go sooner.
+&gt;&gt; Yeah. Exactly.
+&gt;&gt; Yeah. I think you need like I I think
+the
+&gt;&gt; and I think there was demand for that.
+Um but I think you know the pool the it
+it also you know one one of our one of
+the one of the realizations that we had
+recently and we're we're software people
+um and so we don't we don't pick like
+this a lot of the time is that you know
+our business has like very interesting
+working capital. um requirements like
+you know um and and I think even and
+that as a result of that it has very
+interesting financing
+&gt;&gt; um requirements and we're not at least
+right now we're not even going down to
+the
+&gt;&gt; debt there's also things you could do in
+terms of debt or other structures that
+yeah
+&gt;&gt; yeah and yeah I've learned a lot about
+that debt
+&gt;&gt; recently given the uh supply crunch uh
+in France being one of you know the top
+couple markets you going after you have
+um plenty of people who understand this
+problem and therefore you know some
+competition. How do you uh how do you
+think about like what are the factors
+that create a dominant player here or a
+winning player? Is it as you mentioned
+cost of capital? Is it access to supply?
+Is it software? Is it demand?
+&gt;&gt; Yeah.
+&gt;&gt; Just being excellent everything.
+&gt;&gt; Yeah. It's um look I I think what's so
+interesting about inference is GP
+&gt;&gt; is it operations? I guess I think yeah I
+think like GPUs as a service is not
+sticky. I think that's been seen like
+customers generally just see that as as
+commodity. Um inference with the
+software layer included is incredibly
+sticky. Um you know like just just like
+you know none of our top 30 customers
+have ever churned. You know we're
+talking
+like 400% annual NDR
+&gt;&gt; um around our business. And so it's like
+very it's um it's very very sticky. So I
+think that software layer is very
+important. The optimist in me is like oh
+there's so much value in the software
+and I we will build the best software
+layer for inference that exists. I think
+you know as I think it's becoming clear
+now access to inference computers
+&gt;&gt; is a strategic strategic advantage and I
+think that is like the I think that is
+the um strategy that even the labs are
+going after which is like if we have the
+if if we have all the compute good luck
+running inference
+&gt;&gt; yeah yeah in a world of constraint
+compute the number one thing to own is
+compute
+&gt;&gt; and so you know just owning it in and of
+itself is an asset and I think people
+underappreciate that
+&gt;&gt; yeah you can't you can't make a good hot
+chocolate without milk and you know the
+um
+&gt;&gt; unless you're a vegan.
+&gt;&gt; Unless you're vegan. No one wants a
+vegan inference. So,
+&gt;&gt; well, I got to ask you, people might
+want um they want they might want
+alternative milk, right? So, like when
+you the H100 is a great chip, people,
+you know, want a B200, they want GB200,
+they want, of course, tons and tons of
+Nvidia. um when you think about making a
+bet you know several years in the future
+do you believe that there's a like
+multi-chip world like what do you what
+do you think happens from a compute
+perspective um on chip side
+&gt;&gt; yeah um I think
+I think you know like diversification
+everywhere is a
+&gt;&gt; same way I want to water many models I
+think you know we want to water many
+most things um and I think
+&gt;&gt; you'd be sad if it didn't happen
+&gt;&gt; yeah and I think everyone would be sad I
+I I will
+um to some extent which is um yeah and I
+think there will be inference specific
+chips. I think you have like decode
+specific chips I think and we're looking
+at
+&gt;&gt; Nvidia said this.
+&gt;&gt; Yeah. Yeah. I mean that that was a whole
+Grock um LPU thing. It's like you know I
+I think I think that is um very
+straightforward and and makes sense. I
+think people really really really
+underestimate supply chain stuff with
+Nvidia like how good they are at that
+CUDA how good CUDA is the developer
+ecosystem around it. Um and you know we
+it the ability like to me like one of
+the most important things the
+infrastructure company in this moment is
+how fast you can move and you can move
+fastest with Nvidia today. Um, and I
+think that is the reality. And like it
+just like given the scale that they
+operate at, given the scale that they
+operate at, it's um it's hard to it's
+hard to see um a it's hard to see the
+the and I'm not saying it won't happen
+like the short-term like in the next
+couple years how anyone's going to be
+able to compete for that. E especially
+with you know so much of the other the
+other players like what you need um to
+be able to compete here is the ecosystem
+to form around you. And if you tie up
+all your supply with one buyer, which
+you know, a bunch of the other chip
+providers have done, it's actually hard
+for that ecosystem to form. You know,
+like if if you think about if if you're
+a big lab and you have a proprietary
+deal with one chip type where you get
+90% of the supply, it's actually in your
+best interest to make sure you get 95%
+of the supply, everything just get built
+for you. No one else can ever use it.
+when you think about reacting to the
+market um what do you think is like
+happening with the actual workloads that
+you have to go invest in right like
+obviously code agents and long horizon
+agents over time have become a big deal
+people talk a lot more about CPU compute
+video inference is different
+&gt;&gt; um I don't know if it's that sandboxes
+like what what's important for you guys
+to invest in now
+&gt;&gt; yeah look I I I think there's for for us
+all the runtime stuff is obviously very
+important and what that means is like
+once we run on how we run what kind of
+workloads we support like do we get very
+good at diffusion transformers yes um
+coding agents need sandboxes we should
+go build sandboxes um there's all sorts
+of new speculation techniques to get
+faster imprints we need to do that um
+even stuff like um KV cacheware routing
+and you know that stuff's a bit old now
+but like getting continuing to be very
+good at that and um
+somewhat disentangling prefill and
+decode and starting to treat them as
+separate problems I think that's you
+something we're very focused on and
+we're seeing massive gains there. That's
+at the runtime level. Um I'd say you
+know beyond that you know everything we
+think about is how to create more of
+that
+loop between inference post training
+because we think that just begets more
+inference. Um and so like we we will
+build a partner in almost everything
+there. It's like you know we're going to
+work with you know the best eval company
+of the world to make sure that's very
+well integrated like brain trust um into
+and around base 10 you know we will
+partner with or on the sandboxes side
+built the best sandboxes experience um
+that will exist um and then we'll create
+the the best training APIs to make it so
+continual learning becomes somewhat of a
+solve problem. It's not just like a
+discrete thing. That's I think the core
+base 10 product. thesis is like how do
+we build that loop and then everything
+out out around that becomes how do we
+make sure that we can do everything we
+can to um ensure that gets the biggest
+possible that's access to compute that's
+on infrastructure make sure we can get
+compute anywhere make sure we have
+access to our own compute um and then I
+think it's all the primitives that come
+after that just that just become
+incredibly like margin creative both for
+us and our customers um which is you
+know stuff like you know sandboxes and
+like the um async batch inference like
+how do we drive utilization by having a
+first class batch inference experience
+to me this is like what an inference
+cloud looks like it's like you are very
+good at inference and then you you start
+to do all the things tangential or that
+loop into inference and partner and
+where necessary and build where
+necessary um but we really do want to
+own like start with that core inference
+story and then go down to unblock supply
+creep margin and go up the stack to
+unlock value
+&gt;&gt; what uh would surprise people about some
+of the issues you discover only at
+scale. I'll give you an example. I was
+surprised when uh you guys ran into
+scale limitations like fundamental
+limitations with some of the hyperscaler
+products that you were consuming. Yeah.
+&gt;&gt; And I because I kind of think of you
+know the AWS GCPs of the world is
+supporting infinite
+&gt;&gt; scale. I mean I I think you just and
+like again like I think very very large
+companies that run services at big scale
+is probably the same stuff. is that all
+the edge cases
+&gt;&gt; um just become
+&gt;&gt; you actually experience them
+&gt;&gt; you experience them and like you know
+and you like I'll give you a few
+examples here like you you see you know
+you start seeing you know yesterday we
+had for the first time ever we saw some
+kernel panic um as that only happened
+because some um uh fluent bit worker was
+creating too many logs and and the scale
+was too big and it was all into one node
+and it was happening to two two terms at
+the same time by two different workers.
+Um so you see all like the systems level
+and kernel level problems. Um but then
+you start to see I think the craziest
+stuff is like you start to see wi with
+LLMs.
+um that these runtimes are pretty
+immature even how we use KV cache is you
+know um you know probably a little less
+sophisticated than most people see than
+most people see and we we we are
+starting to see the the limitations of
+the current and the next set of
+primitives that need to be built from a
+scale security a performance perspective
+but I I think it's really at the runtime
+level and the systems level and then but
+the edge cases are I'd say a lot more
+systems level than they are LOM
+specific.
+&gt;&gt; What are the things that keep you up at
+night?
+&gt;&gt; Capacity. Um I I think you know
+&gt;&gt; quick answer. Yeah.
+&gt;&gt; Yeah. I think capacity. I I think the
+other one is probably just this market's
+so big and it's so like it it represents
+um a moment when you should be as
+aggressive as possible. Um, and you
+know, re really, you know, we've grown a
+ton obviously over the last 12 months,
+the last few months, but the answer is
+always just go, you know, go bigger, go
+faster. And I think that's really really
+fun. It's also a little exhausting and
+it's also like we are we are all in
+somewhat uncharted territory in terms of
+how fast and how big you can go and how
+things can get. But I but I think the
+big one is comput. I think like there's
+no world in which there's enough compute
+to you know get the amount of the the
+amount of value that we want to get out
+of LMS in the next 5 to 10 years
+&gt;&gt; or we have to invent a lot of new stuff.
+&gt;&gt; Yeah. To Yeah.
+&gt;&gt; Maybe if we just talk a little bit about
+uh what you're learning scaling you know
+30x is like an aggressive thing to go
+through as a company. Um you've brought
+in a a lot of um really amazing talent
+like um Danny and Samir and Stephen Day
+folks on both the the technical and the
+um go to market side like what do you
+what do you think is working about how
+you are recruiting and scaling or what's
+your philosophy on that?
+&gt;&gt; We were very very flat like until I
+don't know 12 to 18 months ago. I
+remember I went on a walk with a lot
+actually and a lot was like you just
+need leaders and I and like it's
+actually like so contrary to um
+everything you know as engineers you're
+like oh
+&gt;&gt; it's it's all everything is overhead
+everything is overhead um and
+&gt;&gt; you once told me I think that you you
+didn't you were like hey Sarah Sarah
+what about we just have engineers
+instead of sales people
+&gt;&gt; yeah yeah bad
+&gt;&gt; everybody learns it the same we're all
+about but I like you know you you said
+it so clearly at the time a lot and I
+think that's what we've noticed which is
+like actually having a leadership team
+&gt;&gt; um that you can trust that you can trust
+um is is is so important. And I I think
+the the two or three things that I'll
+say is like you want people where you
+can give them whole problems.
+&gt;&gt; And so like you know if if you are if
+you feel like you are micromanaging if
+you feel like you need if you feel like
+you know you you have to be involved in
+everything I think that's a bit of a
+copout as a founder because you're just
+like I just need to be involved in
+everything. It's like no you probably
+just don't have the right people. Um I
+think the second thing is um be very
+very clear what you're optimizing for
+because I think when you're very very
+clear what you're optimizing for the
+people on and like if it's something
+generic like we want the smartest
+hardworking people like you can't do
+much with that like with us what we
+cared about was hey actually we don't
+care about a lot of people who have done
+this before. We care about first people
+who think first principled first
+principles work has to be um a high
+priority but they also have to be very
+kind and nice and you know care about
+the collaborative environment. we don't
+have a hero culture. Um, you know, we
+very low ego. Um, and you know, if you
+need if you need a manager like um it's
+probably not it's probably not the right
+place um to be. But I think once you
+have when you have that clear rubric,
+the the people become very apparent that
+will fit into it and the people that
+don't um fit into it also become very
+apparent. I think what's more like we've
+hired amazing people like you mentioned,
+but I think what's a lot more
+interesting is like I think we've we
+haven't had a ton of like turnover there
+unnecessarily. Like pe people tend to
+work um cuz we cuz we have a we are very
+clear in what we want. It took us a
+while to get there though.
+&gt;&gt; What about the idea of like an
+operations culture? And we were talking
+to Alysa Henry about this and she's
+like, "Well, the hard thing about cloud
+is actually just operations. I slept
+with a pager under my pillow for a
+decade. I don't think I've seen you
+detached from your Slack channel.
+&gt;&gt; Yeah. For
+&gt;&gt; my phone's buzzing right now. The the
+I'm not a
+I'm getting anxious. So um
+&gt;&gt; and and you've you've been concerned
+before like do people get it like you
+know what is distinctive about that? I I
+think I think like one I think if you've
+worked at an infrastructure company like
+we we were once in a meeting with a
+bunch of AWS execs and this was you know
+like very senior AWS folks who all their
+pages went off multiple times um during
+our 45minute meeting you know like it's
+a I I I think like it's it's it's very
+much just a cultural thing um but yeah
+like I don't you know our like inference
+can't go down and like you know we you
+know you you you learn to
+you know what's like I think air my
+co-founder when his pager goes off his
+seven-year-old said is that a P 0
+is that is that is that a P 0 and so you
+know I I think that is you just have to
+get used to that's the culture you live
+in and it it just changes the speed um
+but also it's you know becomes like a
+you know a cultural thing I think it's
+very very it reject it rejects people
+that don't fit into it very very quickly
+like engineers who avoid pedro dude.
+&gt;&gt; Yeah. You know, when we when we have
+pers like everyone on the call like
+you're like there's been a joke that
+there may as well be a siren that goes
+off in the office when they're in. So
+&gt;&gt; So people have been talking ad nauseium
+in the AI community about Jeban's
+paradox. Yeah. Um where if you decrease
+the cost of it's a it's really a
+question around price elasticity and
+availability. If you decrease the cost
+of a good, say intelligence as a good,
+um people actually consume more of it.
+&gt;&gt; Um like the personal or business ROI of
+it, the demand for it goes up, not down.
+Um do you see this? And are you are you
+working against yourself trying to make
+these models more efficient? Do people
+just use them
+&gt;&gt; more or less?
+&gt;&gt; Yeah, I think you think about this from
+a developer perspective and consumer
+perspective. I think like I think
+consumers just want the best answers and
+the and and the best experience that's
+somewhat um governed by you know more
+intelligence to some extent. I think
+when you go to the developers from the
+developers perspective um they will
+insert more intelligence if you make it
+cheaper like that's you know and they
+will they will they will insert more
+intelligence anyway but if you make it
+more cheaper they they'll insert a hell
+of a lot more intelligence and you see
+this with agents is that agents are just
+longer running now and I think that's
+what we have seen with the cost of
+inference going down which is you know
+folks are just like okay we can we can
+run this for longer or we can make it do
+a bit more work and we'll get to um a
+larger end. I think like like compute
+scales from an inference perspective as
+well. Um and you know I think we are
+seeing that with almost all our
+customers which is you know they either
+they either start with like this is the
+quality of answer I I need to get to and
+this is the amount of inference like I
+need to do to get there or this is the
+base level model that I can start with
+that I can work with to get there. And I
+think the more we drive down the costs
+um what they realize is um more
+intelligence just means better user
+experience.
+&gt;&gt; I just want a better answer.
+&gt;&gt; Better answers, better experiences, more
+dollars, more revenue. So yeah, I think
+I think
+&gt;&gt; inference going down just begets more
+like it it is truly like I think we're
+kind of
+&gt;&gt; in a world that is you know it is the
+last market, right? Like even if there's
+AGI, all that's left is imperance.
+&gt;&gt; Yeah. So you do not see in your
+customers a uh like this this answer is
+enough and this action is enough
+dynamic?
+&gt;&gt; No.
+&gt;&gt; Yeah. It's going to keep going for a
+long time like
+&gt;&gt; how do you view all this kind of
+evolving towards the future? So
+basically this is one of the it seems
+like it's going to be one of the biggest
+markets of all times. We have this
+massive shift where we're moving from
+software and seats and digitization into
+actual intelligence selling units of
+cognition. Yep.
+&gt;&gt; Selling agentic workflows.
+What does this all look like in a couple
+years? Like what is your view of this
+future world?
+&gt;&gt; I think for the for consumers, it's the
+best possible thing, right? Like every
+everything is somewhat
+smarter. You know, your doc you get
+better care because your doctors have
+access to better
+&gt;&gt; better tools. Um there's more, you know,
+like there's all this stuff about there
+being less software engineers. I think
+we just build more software.
+&gt;&gt; Mhm. I think we just build a ton more
+software and like you know like I I see
+you know we're not slowing down hiring
+of software engineers we're just
+building more things um and that for the
+consumers that just means better tools
+more software um all those all those
+good things
+&gt;&gt; almost like everybody has their own team
+for everything right you have an agent
+which helps with your doctor you have an
+agent that helps you learn stuff you
+have an agent that helps you organize
+your life
+&gt;&gt; concierge it's concierge
+everything for everyone
+&gt;&gt; yeah and and I think like what that
+means what that that's amazing I think
+that's great and I think that the the
+And education, same thing. You have
+content education like you get
+personalized access to everything. I
+think then you go one step back and how
+um affect developers. I think it's you
+know um and and companies I think if you
+don't embrace this
+&gt;&gt; I think it's the extinction moment
+&gt;&gt; for for a bunch of folks which is like
+you know everything needs and I I don't
+think that means that
+&gt;&gt; you know flaw design needs figma. I
+don't think that's a thing. I I I think
+like what what's more what's more
+interesting is just like you know
+&gt;&gt; all these workflow and software
+companies need to figure out what is the
+intelligent or intelligent inserted
+versions that that drive the amount the
+all that user value for those end
+consumers that we talked about.
+&gt;&gt; Yeah, very exciting. Thank you so much
+for joining us today.
+&gt;&gt; Yeah, thanks guys.
+&gt;&gt; Find us on Twitter at no prior pod.
+Subscribe to our YouTube channel if you
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. That way, you get a new
+episode every week. And sign up for
+emails or find transcripts for every
+episode at no-briers.com.

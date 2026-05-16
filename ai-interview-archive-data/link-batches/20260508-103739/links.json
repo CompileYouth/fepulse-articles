@@ -1,0 +1,36 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-05-08T10:37:39.746143+08:00",
+  "since": "2026-05-06T10:37:39.746143+08:00",
+  "items": [
+    {
+      "source_id": "south-park-commons",
+      "source_label": "South Park Commons",
+      "source_type": "youtube",
+      "title": "tldraw's Steve Ruiz: The Infinite Canvas & the Death of Traditional Design",
+      "url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
+      "upload_date": "20260507",
+      "published_at": "2026-05-07T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260507-tldraw-s-steve-ruiz-the-infinite-canvas-the-death-of-traditional-design"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "OpenAI vs. Anthropic: The Battle Lines Are Drawn",
+      "url": "https://www.youtube.com/watch?v=4YNHb0XNV1A",
+      "upload_date": "20260507",
+      "published_at": "2026-05-07T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260507-openai-vs-anthropic-the-battle-lines-are-drawn"
+    }
+  ]
+}

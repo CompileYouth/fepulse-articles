@@ -1,0 +1,82 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-05-09T11:25:02.087770+08:00",
+  "since": "2026-05-07T11:25:02.087770+08:00",
+  "items": [
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
+      "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-david-reich-why-the-bronze-age-was-an-inflection-point-in-human-evolution"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+      "url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-physical-ai"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "How Anthropic Decides What Goes Into Claude",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260508-how-anthropic-decides-what-goes-into-claude"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "How Garry Tan Rebuilt A $20M Startup For $200",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-how-garry-tan-rebuilt-a-20m-startup-for-200"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "source_label": "Joe Lonsdale",
+      "source_type": "youtube",
+      "title": "How Palantir Became a $300B+ Company",
+      "url": "https://www.youtube.com/watch?v=4oCDpbMyugU",
+      "upload_date": "20260508",
+      "published_at": "2026-05-08T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "AI 基础设施",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260508-how-palantir-became-a-300b-company"
+    }
+  ]
+}

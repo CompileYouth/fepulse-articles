@@ -1,0 +1,123 @@
+{
+  "batch_file": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/link-batches/20260515-115225/links.json",
+  "results": [
+    {
+      "source_id": "the-valley-101",
+      "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人｜机器人特辑",
+      "url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260515-item.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-jnydsish/ZvHIuIIZ3Is.zh.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260515-item.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with Jacob Helberg",
+      "url": "https://www.youtube.com/watch?v=xjlYpGaxIPA",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260514-pax-silica-inside-the-trump-administration-s-tech-strategy-with-jacob-helberg.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5w1s97le/xjlYpGaxIPA.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-5w1s97le/xjlYpGaxIPA.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260514-pax-silica-inside-the-trump-administration-s-tech-strategy-with-jacob-helberg.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "eric-schmidt-ai",
+      "title": "Innovation, Investment, and Partnerships: Eric Schmidt at Milken 2026",
+      "url": "https://www.youtube.com/watch?v=wMOfeRYTm2g",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260514-innovation-investment-and-partnerships-eric-schmidt-at-milken-2026.txt",
+      "status": "error",
+      "error": "No public subtitles found."
+    },
+    {
+      "source_id": "the-pragmatic-engineer",
+      "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+      "url": "https://www.youtube.com/watch?v=K-Xv8D8NjTk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-typescript-c-and-turbo-pascal-with-anders-hejlsberg.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-v8jo923a/K-Xv8D8NjTk.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-v8jo923a/K-Xv8D8NjTk.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-typescript-c-and-turbo-pascal-with-anders-hejlsberg.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "Token经济学：AI时代的新货币战争",
+      "url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/67e9be7a194d1590.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "every",
+      "title": "Claude Code Can Be Your Second Brain",
+      "url": "https://www.youtube.com/watch?v=in7i-EVDDlk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-claude-code-can-be-your-second-brain.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-n19gbg2z/in7i-EVDDlk.en-orig.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-n19gbg2z/in7i-EVDDlk.en.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-claude-code-can-be-your-second-brain.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "google-deepmind",
+      "title": "Reimagining a 50-year-old interface (the mouse pointer) with AI",
+      "url": "https://www.youtube.com/watch?v=pZNzfQLgGsA",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-reimagining-a-50-year-old-interface-the-mouse-pointer-with-ai.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-rit1bk7y/pZNzfQLgGsA.en-j3PyPqV-e1s.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-reimagining-a-50-year-old-interface-the-mouse-pointer-with-ai.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "y-combinator",
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-paul-graham-founder-of-y-combinator-live-from-stockholm.txt",
+      "subtitle_files": [
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-kg8toyva/QHJkUw31YX8.en.vtt",
+        "/var/folders/6w/ktjszlb500s8jrbylc4wlxvh0000gn/T/aiia-sub-kg8toyva/QHJkUw31YX8.en-orig.vtt"
+      ],
+      "cleaned_txt": "/Users/bytedance/Documents/my-projects/fepulse-articles/ai-interview-archive-data/20260513-paul-graham-founder-of-y-combinator-live-from-stockholm.txt",
+      "status": "ok"
+    },
+    {
+      "source_id": "joe-lonsdale",
+      "title": "Shawn Ryan & Palantir Co-Founder Debate the War in Iran",
+      "url": "https://www.youtube.com/watch?v=QIa63fYcqvI",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/926e9647184069dc.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "the-valley-101",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "url": "https://www.youtube.com/watch?v=HLJdElh2tFc",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/02b6ba08d1358a8e.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "title": "Harvard Professor: CS50, What Matters More Than Programming Now, Lecturing Well | David J Malan",
+      "url": "https://www.youtube.com/watch?v=bB2o81DnKHk",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/1c1a125322e15be8.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+      "subtitle_path": "/Users/bytedance/Documents/my-projects/fepulse-articles/raw/d83277c1ef7fd278.txt",
+      "status": "exists",
+      "note": "subtitle index reused"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-04-28T20:01:15.032345+08:00",
+  "since": "2026-04-26T20:01:15.032345+08:00",
+  "items": [
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Turing Award Winner: Data Abstraction, Dijkstra, Distributed Systems | Barbara Liskov",
+      "url": "https://www.youtube.com/watch?v=T9CGjbPZeaM",
+      "upload_date": "20260427",
+      "published_at": "2026-04-27T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260427-turing-award-winner-data-abstraction-dijkstra-distributed-systems-barbara-liskov"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "version": 1,
   "items": {
+    "02b6ba08d1358a8e": {
+      "id": "02b6ba08d1358a8e",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "source_url": "https://www.youtube.com/watch?v=HLJdElh2tFc",
+      "raw_file": "02b6ba08d1358a8e.txt",
+      "brief_file": "02b6ba08d1358a8e.md",
+      "published_at": "2026-05-11",
+      "read_at": "2026-05-16T11:11:21+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:11:21+08:00"
+    },
     "057e14bd4180a7c5": {
       "id": "057e14bd4180a7c5",
       "title": "AI 时代真正稀缺的，可能是把想法写清楚的人",
@@ -8,10 +20,10 @@
       "raw_file": "057e14bd4180a7c5.txt",
       "brief_file": "057e14bd4180a7c5.md",
       "published_at": "2026-03-25",
-      "read_at": null,
+      "read_at": "2026-05-16T11:37:33+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:37:33+08:00"
     },
     "065051024926280b": {
       "id": "065051024926280b",
@@ -20,10 +32,22 @@
       "raw_file": "065051024926280b.txt",
       "brief_file": "065051024926280b.md",
       "published_at": "2026-03-31",
-      "read_at": null,
+      "read_at": "2026-05-16T11:33:11+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:33:11+08:00"
+    },
+    "0cf59ac557f52bc3": {
+      "id": "0cf59ac557f52bc3",
+      "title": "Pax Silica：美国想怎样重建 AI 供应链",
+      "source_url": "https://www.youtube.com/watch?v=xjlYpGaxIPA",
+      "raw_file": "0cf59ac557f52bc3.txt",
+      "brief_file": "0cf59ac557f52bc3.md",
+      "published_at": "2026-05-14",
+      "read_at": "2026-05-15T12:22:53+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-15T12:22:53+08:00"
     },
     "0e4945ce19c0b592": {
       "id": "0e4945ce19c0b592",
@@ -56,10 +80,10 @@
       "raw_file": "115fb453e6bb2e95.txt",
       "brief_file": "115fb453e6bb2e95.md",
       "published_at": "2026-04-02",
-      "read_at": null,
+      "read_at": "2026-04-28T13:33:05+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T13:33:05+08:00"
     },
     "15d9bbfd50bb1afc": {
       "id": "15d9bbfd50bb1afc",
@@ -80,10 +104,10 @@
       "raw_file": "1c656a917996d4ba.txt",
       "brief_file": "1c656a917996d4ba.md",
       "published_at": "2026-04-01",
-      "read_at": null,
+      "read_at": "2026-05-16T11:22:43+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:22:43+08:00"
     },
     "1c7545a4a02856be": {
       "id": "1c7545a4a02856be",
@@ -92,10 +116,10 @@
       "raw_file": "1c7545a4a02856be.txt",
       "brief_file": "1c7545a4a02856be.md",
       "published_at": "2026-03-19",
-      "read_at": null,
+      "read_at": "2026-04-29T21:37:22+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-29T21:37:22+08:00"
     },
     "1c790df0a6da96e1": {
       "id": "1c790df0a6da96e1",
@@ -104,10 +128,10 @@
       "raw_file": "1c790df0a6da96e1.txt",
       "brief_file": "1c790df0a6da96e1.md",
       "published_at": "2026-03-24",
-      "read_at": null,
+      "read_at": "2026-05-16T11:38:21+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:38:21+08:00"
     },
     "1f9ff7bcd60bbd8b": {
       "id": "1f9ff7bcd60bbd8b",
@@ -133,18 +157,6 @@
       "queued_at": null,
       "updated_at": "2026-04-28T10:57:20+08:00"
     },
-    "236ba79241345a6d": {
-      "id": "236ba79241345a6d",
-      "title": "当 AI 开始成为公司的信息层，组织结构先被重写了",
-      "source_url": "https://www.youtube.com/watch?v=YTVSwOY19Qs",
-      "raw_file": "236ba79241345a6d.txt",
-      "brief_file": "236ba79241345a6d.md",
-      "published_at": "2026-04-02",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
     "24d1d1a75f397b3e": {
       "id": "24d1d1a75f397b3e",
       "title": "AI把写代码变快之后，真正卡住团队的地方暴露了",
@@ -152,10 +164,10 @@
       "raw_file": "24d1d1a75f397b3e.txt",
       "brief_file": "24d1d1a75f397b3e.md",
       "published_at": "2026-03-22",
-      "read_at": null,
+      "read_at": "2026-05-16T11:43:42+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:43:42+08:00"
     },
     "2ada7d681e1ab768": {
       "id": "2ada7d681e1ab768",
@@ -164,10 +176,10 @@
       "raw_file": "2ada7d681e1ab768.txt",
       "brief_file": "2ada7d681e1ab768.md",
       "published_at": "2026-03-27",
-      "read_at": null,
+      "read_at": "2026-05-16T11:36:32+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:36:32+08:00"
     },
     "2f112e05d33c7b15": {
       "id": "2f112e05d33c7b15",
@@ -176,10 +188,10 @@
       "raw_file": "2f112e05d33c7b15.txt",
       "brief_file": "2f112e05d33c7b15.md",
       "published_at": "2026-03-20",
-      "read_at": null,
+      "read_at": "2026-05-07T10:53:11+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-07T10:53:11+08:00"
     },
     "3301a03ae0291f2e": {
       "id": "3301a03ae0291f2e",
@@ -200,10 +212,10 @@
       "raw_file": "33337afc3de04564.txt",
       "brief_file": "33337afc3de04564.md",
       "published_at": "2026-04-01",
-      "read_at": null,
+      "read_at": "2026-05-16T11:21:56+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:21:56+08:00"
     },
     "33cbb91fa8ac7603": {
       "id": "33cbb91fa8ac7603",
@@ -224,10 +236,10 @@
       "raw_file": "3957cd51f5b5aca1.txt",
       "brief_file": "3957cd51f5b5aca1.md",
       "published_at": "2026-03-18",
-      "read_at": null,
+      "read_at": "2026-05-07T10:48:46+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-07T10:48:46+08:00"
     },
     "3ade1cea58fea692": {
       "id": "3ade1cea58fea692",
@@ -236,10 +248,10 @@
       "raw_file": "3ade1cea58fea692.txt",
       "brief_file": "3ade1cea58fea692.md",
       "published_at": "2026-04-01",
-      "read_at": null,
+      "read_at": "2026-05-16T11:21:16+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:21:16+08:00"
     },
     "3cfc7f313552f642": {
       "id": "3cfc7f313552f642",
@@ -248,10 +260,10 @@
       "raw_file": "3cfc7f313552f642.txt",
       "brief_file": "3cfc7f313552f642.md",
       "published_at": "2026-03-22",
-      "read_at": null,
+      "read_at": "2026-05-16T11:40:38+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:40:38+08:00"
     },
     "3fea1493a11959e3": {
       "id": "3fea1493a11959e3",
@@ -272,22 +284,10 @@
       "raw_file": "401896d610b2e71b.txt",
       "brief_file": "401896d610b2e71b.md",
       "published_at": "2026-03-19",
-      "read_at": null,
+      "read_at": "2026-05-07T10:49:32+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
-    "40610b9e063a3fbe": {
-      "id": "40610b9e063a3fbe",
-      "title": "OpenClaw 真正难的不是能力，而是你愿不愿意熬过那段折腾期",
-      "source_url": "https://www.youtube.com/watch?v=DIa0MYJzM5I",
-      "raw_file": "40610b9e063a3fbe.txt",
-      "brief_file": "40610b9e063a3fbe.md",
-      "published_at": "2026-03-29",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-07T10:49:32+08:00"
     },
     "40c587c863939ab1": {
       "id": "40c587c863939ab1",
@@ -320,10 +320,10 @@
       "raw_file": "40f835d2eb3644bd.txt",
       "brief_file": "40f835d2eb3644bd.md",
       "published_at": "2026-03-25",
-      "read_at": null,
+      "read_at": "2026-05-16T11:37:17+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:37:17+08:00"
     },
     "43e58dcbad5f1dd9": {
       "id": "43e58dcbad5f1dd9",
@@ -336,6 +336,18 @@
       "queued_for_deep_read": false,
       "queued_at": null,
       "updated_at": "2026-04-28T10:56:48+08:00"
+    },
+    "448f2313570518bb": {
+      "id": "448f2313570518bb",
+      "title": "AI 正在压缩护城河，但 B2B 生意最后还是回到信任",
+      "source_url": "https://www.youtube.com/watch?v=X5bABLCuIHA",
+      "raw_file": "448f2313570518bb.txt",
+      "brief_file": "448f2313570518bb.md",
+      "published_at": "2026-05-06",
+      "read_at": "2026-05-07T10:33:56+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-07T10:33:56+08:00"
     },
     "4bbdbb4f5401339a": {
       "id": "4bbdbb4f5401339a",
@@ -361,6 +373,18 @@
       "queued_at": null,
       "updated_at": "2026-04-28T11:19:57+08:00"
     },
+    "57aeeb8888eb121c": {
+      "id": "57aeeb8888eb121c",
+      "title": "DeepMind 想把鼠标指针变成能理解意图的 AI 入口",
+      "source_url": "https://www.youtube.com/watch?v=pZNzfQLgGsA",
+      "raw_file": "57aeeb8888eb121c.txt",
+      "brief_file": "57aeeb8888eb121c.md",
+      "published_at": "2026-05-13",
+      "read_at": "2026-05-15T12:25:21+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-15T12:25:21+08:00"
+    },
     "5b29fae98e7eb8ad": {
       "id": "5b29fae98e7eb8ad",
       "title": "滑雪年卡模式为什么在坏雪季里失灵了",
@@ -380,10 +404,10 @@
       "raw_file": "5f5a4afd7ffd5fbb.txt",
       "brief_file": "5f5a4afd7ffd5fbb.md",
       "published_at": "2026-03-29",
-      "read_at": null,
+      "read_at": "2026-05-16T11:34:30+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:34:30+08:00"
     },
     "641185b5d2a4d4f2": {
       "id": "641185b5d2a4d4f2",
@@ -392,10 +416,34 @@
       "raw_file": "641185b5d2a4d4f2.txt",
       "brief_file": "641185b5d2a4d4f2.md",
       "published_at": "2026-03-21",
-      "read_at": null,
+      "read_at": "2026-05-16T11:45:07+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:45:07+08:00"
+    },
+    "660c816b7916c17f": {
+      "id": "660c816b7916c17f",
+      "title": "Palantir 真正卖出去的不是软件，而是把痛点变成产品的部署文化",
+      "source_url": "https://www.youtube.com/watch?v=4oCDpbMyugU",
+      "raw_file": "660c816b7916c17f.txt",
+      "brief_file": "660c816b7916c17f.md",
+      "published_at": "2026-05-08",
+      "read_at": "2026-05-16T11:17:53+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:17:53+08:00"
+    },
+    "67e9be7a194d1590": {
+      "id": "67e9be7a194d1590",
+      "title": "Token经济学：AI时代的新货币战争",
+      "source_url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "raw_file": "67e9be7a194d1590.txt",
+      "brief_file": "67e9be7a194d1590.md",
+      "published_at": "2026-05-13",
+      "read_at": "2026-05-16T11:10:08+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:10:08+08:00"
     },
     "6b24242c798d3fed": {
       "id": "6b24242c798d3fed",
@@ -404,10 +452,10 @@
       "raw_file": "6b24242c798d3fed.txt",
       "brief_file": "6b24242c798d3fed.md",
       "published_at": "2026-04-01",
-      "read_at": null,
+      "read_at": "2026-05-16T11:23:24+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:23:24+08:00"
     },
     "6c97a5bd06d11918": {
       "id": "6c97a5bd06d11918",
@@ -416,10 +464,10 @@
       "raw_file": "6c97a5bd06d11918.txt",
       "brief_file": "6c97a5bd06d11918.md",
       "published_at": "2026-03-23",
-      "read_at": null,
+      "read_at": "2026-05-16T11:39:57+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:39:57+08:00"
     },
     "6d041eea462ef0cb": {
       "id": "6d041eea462ef0cb",
@@ -433,6 +481,18 @@
       "queued_at": null,
       "updated_at": "2026-04-28T11:17:33+08:00"
     },
+    "6eac6eda4b92dc54": {
+      "id": "6eac6eda4b92dc54",
+      "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人｜机器人特辑",
+      "source_url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "raw_file": "6eac6eda4b92dc54.txt",
+      "brief_file": "6eac6eda4b92dc54.md",
+      "published_at": "2026-05-15",
+      "read_at": "2026-05-16T11:07:28+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:07:28+08:00"
+    },
     "6f73d6460d552386": {
       "id": "6f73d6460d552386",
       "title": "陶哲轩怎么看AI改变数学研究",
@@ -440,10 +500,10 @@
       "raw_file": "6f73d6460d552386.txt",
       "brief_file": "6f73d6460d552386.md",
       "published_at": "2026-03-21",
-      "read_at": null,
+      "read_at": "2026-05-16T11:44:42+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:44:42+08:00"
     },
     "717614f98774beb6": {
       "id": "717614f98774beb6",
@@ -468,6 +528,18 @@
       "queued_for_deep_read": false,
       "queued_at": null,
       "updated_at": "2026-04-28T10:58:11+08:00"
+    },
+    "726cc9630b4f9fe4": {
+      "id": "726cc9630b4f9fe4",
+      "title": "为什么糟糕的管理者往往不会立刻被清理掉",
+      "source_url": "https://www.youtube.com/watch?v=76v7xbi_USc",
+      "raw_file": "726cc9630b4f9fe4.txt",
+      "brief_file": "726cc9630b4f9fe4.md",
+      "published_at": "2026-05-06",
+      "read_at": "2026-05-07T10:32:51+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-07T10:32:51+08:00"
     },
     "728897c05644f883": {
       "id": "728897c05644f883",
@@ -517,17 +589,17 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:25:53+08:00"
     },
-    "7fbf1430b0695ed2": {
-      "id": "7fbf1430b0695ed2",
-      "title": "当AI开始代写代码，工程师真正要盯住的只剩这一件事",
-      "source_url": "https://www.youtube.com/watch?v=owmJyKVu5f8",
-      "raw_file": "7fbf1430b0695ed2.txt",
-      "brief_file": "7fbf1430b0695ed2.md",
-      "published_at": "2026-03-19",
-      "read_at": null,
+    "76b6734f803d84d6": {
+      "id": "76b6734f803d84d6",
+      "title": "Joe Lonsdale 眼里的 AI 加速，不只是模型，而是把多年进展压进几年",
+      "source_url": "https://www.youtube.com/watch?v=23pp6HX1R7U",
+      "raw_file": "76b6734f803d84d6.txt",
+      "brief_file": "76b6734f803d84d6.md",
+      "published_at": "2026-05-10",
+      "read_at": "2026-05-16T11:15:47+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:15:47+08:00"
     },
     "80449d32e61e9651": {
       "id": "80449d32e61e9651",
@@ -548,10 +620,10 @@
       "raw_file": "828e2ff0c6973657.txt",
       "brief_file": "828e2ff0c6973657.md",
       "published_at": "2026-04-01",
-      "read_at": null,
+      "read_at": "2026-04-28T13:34:26+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-28T13:34:26+08:00"
     },
     "84340ee2f6d59157": {
       "id": "84340ee2f6d59157",
@@ -565,6 +637,30 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:41:04+08:00"
     },
+    "89b3e77b30452325": {
+      "id": "89b3e77b30452325",
+      "title": "大厂工程晋升游戏，为什么明知荒谬还得继续玩",
+      "source_url": "https://www.youtube.com/watch?v=aPfnP4iAIH8",
+      "raw_file": "89b3e77b30452325.txt",
+      "brief_file": "89b3e77b30452325.md",
+      "published_at": "2026-05-04",
+      "read_at": "2026-05-07T10:39:11+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-07T10:39:11+08:00"
+    },
+    "8f0cfc262f0f23c6": {
+      "id": "8f0cfc262f0f23c6",
+      "title": "Paul Graham：创业者到底要不要去硅谷",
+      "source_url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "raw_file": "8f0cfc262f0f23c6.txt",
+      "brief_file": "8f0cfc262f0f23c6.md",
+      "published_at": "2026-05-13",
+      "read_at": "2026-05-15T12:25:01+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-15T12:25:01+08:00"
+    },
     "94dc1a0a2bdc7d15": {
       "id": "94dc1a0a2bdc7d15",
       "title": "Monologue Notes 推的不是更复杂的知识管理，而是更轻的想法捕捉",
@@ -577,18 +673,6 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:39:48+08:00"
     },
-    "99dd5851f4ab9fdd": {
-      "id": "99dd5851f4ab9fdd",
-      "title": "AI 把复制软件这件事变得太容易之后，我们为什么还要继续做产品",
-      "source_url": "https://www.youtube.com/watch?v=5nMa3p3qw1w",
-      "raw_file": "99dd5851f4ab9fdd.txt",
-      "brief_file": "99dd5851f4ab9fdd.md",
-      "published_at": "2026-03-29",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
     "9eba931faab0e86e": {
       "id": "9eba931faab0e86e",
       "title": "机器人行业的 GPT 时刻，可能已经不是比喻，而是创业方程式变了",
@@ -600,6 +684,18 @@
       "queued_for_deep_read": false,
       "queued_at": null,
       "updated_at": "2026-04-27T21:40:33+08:00"
+    },
+    "a0e5d6438dd30f28": {
+      "id": "a0e5d6438dd30f28",
+      "title": "递归为什么可能成为 AI 的下一条 scaling law",
+      "source_url": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
+      "raw_file": "a0e5d6438dd30f28.txt",
+      "brief_file": "a0e5d6438dd30f28.md",
+      "published_at": "2026-05-01",
+      "read_at": "2026-05-07T10:45:22+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-07T10:45:22+08:00"
     },
     "a1927493d713378a": {
       "id": "a1927493d713378a",
@@ -620,10 +716,10 @@
       "raw_file": "a19df152dd74d012.txt",
       "brief_file": "a19df152dd74d012.md",
       "published_at": "2026-03-18",
-      "read_at": null,
+      "read_at": "2026-04-29T21:07:14+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-04-29T21:07:14+08:00"
     },
     "a20e5241aa00f1d7": {
       "id": "a20e5241aa00f1d7",
@@ -649,6 +745,18 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:37:20+08:00"
     },
+    "a94b051cf3558e92": {
+      "id": "a94b051cf3558e92",
+      "title": "Eric Jang：用 LLM 重新从零搭一遍 AlphaGo",
+      "source_url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw",
+      "raw_file": "a94b051cf3558e92.txt",
+      "brief_file": "a94b051cf3558e92.md",
+      "published_at": "2026-05-16",
+      "read_at": "2026-05-16T11:05:47+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:05:47+08:00"
+    },
     "aa06a6b0a53eb67e": {
       "id": "aa06a6b0a53eb67e",
       "title": "Alexander Wang 真正在推的，不只是更强模型，而是个人超级智能的普及",
@@ -668,10 +776,10 @@
       "raw_file": "b1fab6290d9ebad9.txt",
       "brief_file": "b1fab6290d9ebad9.md",
       "published_at": "2026-03-24",
-      "read_at": null,
+      "read_at": "2026-05-16T11:38:59+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:38:59+08:00"
     },
     "b54c84a37bdacf88": {
       "id": "b54c84a37bdacf88",
@@ -704,10 +812,10 @@
       "raw_file": "b9da33e33244a4c1.txt",
       "brief_file": "b9da33e33244a4c1.md",
       "published_at": "2026-03-25",
-      "read_at": null,
+      "read_at": "2026-05-16T11:37:23+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:37:23+08:00"
     },
     "bc05f9d273a43ba3": {
       "id": "bc05f9d273a43ba3",
@@ -721,18 +829,6 @@
       "queued_at": null,
       "updated_at": "2026-04-28T10:56:09+08:00"
     },
-    "c6e82f4e6f379245": {
-      "id": "c6e82f4e6f379245",
-      "title": "AI 时代真正稀缺的，已经不是写代码的人",
-      "source_url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
-      "raw_file": "c6e82f4e6f379245.txt",
-      "brief_file": "c6e82f4e6f379245.md",
-      "published_at": "2026-03-20",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
     "d449f55f20a507e0": {
       "id": "d449f55f20a507e0",
       "title": "AI 教育真正缺的，不是学生兴趣，而是把误解变成基础理解的课堂",
@@ -745,6 +841,18 @@
       "queued_at": null,
       "updated_at": "2026-04-28T12:14:56+08:00"
     },
+    "d83277c1ef7fd278": {
+      "id": "d83277c1ef7fd278",
+      "title": "Long Lake：用 AI 改造传统企业的并购打法",
+      "source_url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+      "raw_file": "d83277c1ef7fd278.txt",
+      "brief_file": "d83277c1ef7fd278.md",
+      "published_at": "2026-05-11",
+      "read_at": "2026-05-16T11:12:29+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:12:29+08:00"
+    },
     "dcfb24024dc4750d": {
       "id": "dcfb24024dc4750d",
       "title": "AI 正在把设计稿和代码变成同一种东西",
@@ -752,10 +860,10 @@
       "raw_file": "dcfb24024dc4750d.txt",
       "brief_file": "dcfb24024dc4750d.md",
       "published_at": "2026-03-22",
-      "read_at": null,
+      "read_at": "2026-05-16T11:43:58+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:43:58+08:00"
     },
     "def1ae1b83c8efd3": {
       "id": "def1ae1b83c8efd3",
@@ -764,10 +872,10 @@
       "raw_file": "def1ae1b83c8efd3.txt",
       "brief_file": "def1ae1b83c8efd3.md",
       "published_at": "2026-03-25",
-      "read_at": null,
+      "read_at": "2026-05-16T11:37:46+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:37:46+08:00"
     },
     "e013c6a7218fa326": {
       "id": "e013c6a7218fa326",
@@ -776,10 +884,10 @@
       "raw_file": "e013c6a7218fa326.txt",
       "brief_file": "e013c6a7218fa326.md",
       "published_at": "2026-03-30",
-      "read_at": null,
+      "read_at": "2026-05-16T11:34:15+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:34:15+08:00"
     },
     "e58d2ceca9fe36ed": {
       "id": "e58d2ceca9fe36ed",
@@ -788,22 +896,10 @@
       "raw_file": "e58d2ceca9fe36ed.txt",
       "brief_file": "e58d2ceca9fe36ed.md",
       "published_at": "2026-03-24",
-      "read_at": null,
+      "read_at": "2026-05-16T11:39:43+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
-    },
-    "e75438cdff99ec22": {
-      "id": "e75438cdff99ec22",
-      "title": "把大模型真正接到物理世界，瓶颈已经不只是模型能力",
-      "source_url": "https://www.youtube.com/watch?v=Oru2Jxr1xHU",
-      "raw_file": "e75438cdff99ec22.txt",
-      "brief_file": "e75438cdff99ec22.md",
-      "published_at": "2026-04-03",
-      "read_at": null,
-      "queued_for_deep_read": false,
-      "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:39:43+08:00"
     },
     "e976bd034942bebb": {
       "id": "e976bd034942bebb",
@@ -812,10 +908,10 @@
       "raw_file": "e976bd034942bebb.txt",
       "brief_file": "e976bd034942bebb.md",
       "published_at": "2026-03-22",
-      "read_at": null,
+      "read_at": "2026-05-16T11:43:02+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-16T11:43:02+08:00"
     },
     "e97b00125263b0ef": {
       "id": "e97b00125263b0ef",
@@ -841,6 +937,18 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:36:49+08:00"
     },
+    "eff9cfd033a9ebe0": {
+      "id": "eff9cfd033a9ebe0",
+      "title": "魔法原子把发布会开到硅谷，背后是中国 Physical AI 的供应链打法",
+      "source_url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "raw_file": "eff9cfd033a9ebe0.txt",
+      "brief_file": "eff9cfd033a9ebe0.md",
+      "published_at": "2026-05-08",
+      "read_at": "2026-05-16T11:16:45+08:00",
+      "queued_for_deep_read": false,
+      "queued_at": null,
+      "updated_at": "2026-05-16T11:16:45+08:00"
+    },
     "f3569aced34d2314": {
       "id": "f3569aced34d2314",
       "title": "AI 冲击企业软件时，真正难被替代的不是页面，而是整套组织系统",
@@ -853,17 +961,17 @@
       "queued_at": null,
       "updated_at": "2026-04-27T21:40:28+08:00"
     },
-    "fd868db0033d5186": {
-      "id": "fd868db0033d5186",
-      "title": "AI 把做一款像样的移动应用，压缩成了一个晚上的流程",
-      "source_url": "https://www.youtube.com/watch?v=oS53by4Hwvo",
-      "raw_file": "fd868db0033d5186.txt",
-      "brief_file": "fd868db0033d5186.md",
-      "published_at": "2026-04-01",
-      "read_at": null,
+    "ffcff1866fa597ac": {
+      "id": "ffcff1866fa597ac",
+      "title": "Baseten 怎么看定制模型、推理云和算力瓶颈",
+      "source_url": "https://www.youtube.com/watch?v=XAbKflCncDo",
+      "raw_file": "ffcff1866fa597ac.txt",
+      "brief_file": "ffcff1866fa597ac.md",
+      "published_at": "2026-05-01",
+      "read_at": "2026-05-07T10:48:17+08:00",
       "queued_for_deep_read": false,
       "queued_at": null,
-      "updated_at": "2026-04-27T21:02:47+08:00"
+      "updated_at": "2026-05-07T10:48:17+08:00"
     }
   }
 }

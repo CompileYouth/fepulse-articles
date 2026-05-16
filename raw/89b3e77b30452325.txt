@@ -1,0 +1,1291 @@
+原文： https://www.youtube.com/watch?v=aPfnP4iAIH8
+
+You have to play the game. It's totally
+irrational not to play the game.
+&gt;&gt; This is John Miles White. He was a
+director of engineering on PyTorch in
+MSL. And since he quit recently, we
+talked freely. I feel like our goals
+should not be written in a way where
+shipping a thing we intend to delete is
+a success. The general perception is the
+supply of engineers is like way over
+supplied.
+&gt;&gt; We also talked about the incentives in
+big tech. You ran promotions in AI Infra
+for a long time. You know, the only
+reason you do anything is because
+there's a clear story about how it's
+going to get you a promotion.
+&gt;&gt; You saw this. I saw this. What could you
+do, though?
+Here's the full episode.
+I'm curious if you're bullish on MSL,
+like after you were working there for a
+bit and kind of seeing it from the
+inside. O, this is a I guess like a a
+more radical question, but I guess I
+will be honest. Um, I am very bullish on
+Meta as a company that I am now a
+stockholder of, but not an employee. I
+am very bearish on Meta if you're an
+employee who's not a stockholder. Uh,
+which is turns out to not be really
+anyone, but like you know, I think you
+can think of yourself as mostly employee
+if you're mostly getting cash and mostly
+not equity. the more senior folks are
+the ones who are more mostly stockholder
+than employee. Um
+I and I think that's the the tension is
+I do think like my sense is that it's
+enforced with I don't get the perception
+is unique to MSL. My perception is that
+I think just meta as a place to be an
+employee is less enjoyable than it used
+to be but it actually is being run very
+effectively if what you care about is
+the bottom line of the business. Uh and
+so like I continue to invest in meta and
+I suspect I will continue to invest
+because I do think it's actually from a
+business perspective run quite well but
+I do think pretty uniformly I think it's
+not unique to MSL I do think it's a much
+more stressful time to be an employee
+there than before.
+&gt;&gt; What's the part that makes it where
+you're saying employees might not uh
+enjoy working there as much as they used
+to?
+&gt;&gt; I I think that I mean I think this is
+true of all of Silicon Valley. I think
+in general like there was a a lot of
+sense that like it was incredibly easy
+to lose your good employees and so you
+had to do everything impossible to
+sacrifice to retain them and you were
+constantly constrained by an under
+supply of employees and I think
+basically everyone in Silicon Valley's
+view as far as I can tell is that that's
+mostly not true outside of like a small
+set of like AI researchers and frontier
+labs where I think people do still
+behave this way. In fact, maybe behave
+this way more than ever before. But I
+think for everyone else, the general
+perception is the supply of engineers is
+like way over supplied. And especially I
+think actually people's concern is with
+AI maybe they're really oversupplied. I
+think what happens is a new market
+dynamic which is like I think as an
+employer you're thinking I don't
+actually have to make so many sacrifices
+to acquire and retain talents and so
+therefore I'm going to make fewer of
+them. And this can play out in a million
+ways, but it can be like compensation,
+but it can also be things of like do we
+do things that upset the employees or do
+we not? And how hesitant are we? Um how
+much do we give them a voice and how
+much do we not give them a voice? I
+think that stuff has changed a lot in
+the years I was at Meta. Um but my
+impression is meta is not in any way
+unique here. This is just a general
+property of all of Silicon Valley. Um
+but I do think you know as an employee I
+think it the the like the labor supply
+and demand situation is super different
+from when I started and I think it is a
+thing that is going to make generally
+being an employee rougher period.
+&gt;&gt; It it feels like it can be subtle as
+well like what you described of I guess
+employees having less leverage. you
+could see that affecting
+um maybe even like reorg decisions or
+things like that where it's like you
+know if people leave that is part of the
+calculus of the reorg and that is less
+of a downside in now and maybe in the
+future. So I can see there being a lot
+of downstream effects where uh things
+just don't go as well for for employees.
+&gt;&gt; Oh yeah. I mean there's just so much
+stuff that in the previous versions of
+meta was done that arguably was a bad
+decision for the business but made sense
+from the context of retaining talent. Um
+you know and I think that the company is
+just doing less of that. But on the flip
+side I mean I guess to be clear I didn't
+say as explicitly before I do think for
+most people like fundamentally just like
+the possibility you might get laid off
+is the number one emotional thing that
+causes people stress and living in a
+world where you know that is both
+happened recently and may happen again
+in the future. I think sort of like is
+probably beats out all the other
+questions of sort of lifts and like food
+and stuff. I think I think when prior to
+the layoffs when those things got taken
+away, people freaked out and were like
+this is unforgivable. But then like once
+they're like, "Oh wait, uh actually you
+guys might just fire me." So now I'm
+much more tolerant of you taking away my
+food away. Um but I do think that like
+that that fundamentally like it probably
+drives for most people like the vast
+majority of it. And I actually think for
+as well this probably is one of the
+things that makes say MSL more stressful
+than the other frontier labs is the
+sense that it might have layoffs in the
+sense that I think you know so far there
+have been fewer rounds or at least
+perceived to be fewer rounds some of the
+smaller startups like open AAI and
+Robic. I
+&gt;&gt; I think another thing that is oftentimes
+used for retention is the promise of
+growth or I guess career growth for an
+employee. And you know I know you you
+ran promotions in AI Infra for a long
+time. I was curious like if you saw
+things change over the years. I observed
+a lot of divisions of meta would really
+like stop talking about like well your
+comp is why you're here and we pay you
+good money and you enjoy the work and
+that's why you stay and a lot of people
+were like no the only reason you do
+anything is because there's a clear
+story about how it's going to get you a
+promotion and you would like especially
+this was really striking when I moved
+from data infra where is one of the
+places I was in earlier in infra moving
+to AI infra and I was in infra for a
+while before I came to sort of pipe
+George of AI infra and then later MSL.
+One of the things that blew my mind is
+like there was not a single person I
+would meet on any team in AI infra whose
+first and foremost goal wasn't
+promotion. This was a thing that sort of
+came up in data infra but was not like
+90% of people's attention. And when I
+started at Meta it was just like not
+ever a thing. Uh actually like you know
+I used to manage one of your previous
+guests Adrian and like Adrian and I were
+talked about career growth back in the
+day and one of the things that was
+really amazing was like we started this
+or growth that actually had never had
+anyone above IC7 ever in history
+um on the suicide to be clear there were
+some other rules that hadn't but like um
+at least this is what we were told I
+actually don't know for a fact it was
+object objectively true but we were told
+this by several people um I think in
+that world you just you weren't focused
+on promotion so it wasn't a big thing,
+but then it became a thing where it was
+like this is the thing like you will one
+get more money more promoted but also
+you'll have a title that you can use for
+your next job and like everything is
+driven by promotion dynamics. Um
+actually I would say the orc I sound by
+far most strong in was monetization.
+um which is like when monetization would
+hire people out of AI infra, it would
+always literally be like here is a very
+detailed plan of work you will do in
+order to get promoted and that was a
+thing that worked very effectively. But
+it also my experience like wrecked tons
+of teams and I managed a bunch of those
+teams now to fix them but they were
+teams where like basically everyone
+agreed the thing we were working on was
+bad. No one thought it would succeed,
+but people were like, "Oh, but I have to
+ship it because that's my promo bar."
+And you get into the state where it's
+sort of just impossible to even make
+good decisions about software anymore
+because the promotions were so
+important. And then I think what
+happened as the market became less
+promployee is that people were like,
+"Oh, no, no, no. You you should be
+afraid of being laid off. You should not
+be worried about the positive chance of
+a promotion." Um, but I don't know that
+that was a I don't think that was a good
+cultural fix, but I do think it's been a
+bit of like an attempt to undo some of
+the damage from before. But I do think
+that like sort of promotional mindset
+was incredibly intense everywhere. And
+and ironically, it led to this thing
+which I found really troubling, which is
+the thing that would actually let you
+develop real skills that would do better
+in your career going forward
+increasingly got decoupled from the
+promotions. You know, and I've seen a
+lot of people on Twitter over the years
+say this and I find it very compelling
+which is people are like the main thing
+that's wrong with the engineering
+cultures at the big tech companies is
+the promote culture and I really agree.
+Uh I actually think Meta ironically my
+perception seems to be doing better at
+this than many of the other companies
+that have even more formal processes and
+more anonymous parties involved. But I
+do think they'll like oh what really
+matters is that you like ran a roll out
+that affected 10 other systems. This
+causes people to like not build clean
+systems. It causes them to build systems
+that maximally are coupled to the other
+systems in order to be able to hit the
+promo bar. And that I think actually I
+met so many people who didn't even like
+the work they were doing because they're
+like well this is what will get me
+promoted. Uh, and so I do think that
+stuff was really unfortunate and
+especially I think actually in the AI
+world has been especially unfortunate
+because it means like unless someone is
+clear how using the AI tooling is going
+to get them promoted, they may not do
+it. But it is without doubt in my mind
+the only thing that's going to matter
+for actual professional development and
+growth and actually being able to do
+more interesting work in the future.
+Yeah, I definitely saw some some unusual
+behaviors, but we're all trying to play
+the game because it helps people get
+promoted and you retain people and all
+that. So,
+&gt;&gt; yeah. I mean, unless your VP is ready to
+fix that and totally shut it down, like
+you have to play the game. It's totally
+irrational not to play the game. And I
+think, you know, you either if you don't
+want to be in that, you have to leave
+the or if you're there, you've got to
+play the game. You cannot be the one who
+sort of unilaterally disarms. But it is
+I mean it was it was mind-blowing to me
+to see this culture I think was unique
+to both Marization and AI infra but it
+was completely dominant in AI infra and
+it was really it was not great for any
+parties and funny thing is it was like
+it wasn't even good for the people who
+were in it like they themselves had
+gotten into this rat race that seemed to
+be demoralizing to them you saw this I
+saw this what what could you do though
+when I was in it too the people who were
+talking about it they were not
+necessarily saying Yeah, this is this is
+good. They were saying, "Yep, I'm doing
+this that I don't believe in, but we
+both know that I need to do this for
+this reason, so I'm doing it."
+&gt;&gt; I think there are sort of two high
+sources of uncertainty that compete, and
+I don't quite know how they balance out,
+but I think one is like I think people
+have a ton of agency in choosing the
+culture of the team they want to be on.
+And if they're in a situation like that
+and they don't love it, Meta has a lot
+of teams that don't have that culture.
+There are a lot of teams like PyTorch
+was one of them where people were just
+like genuinely in it for the love of the
+craft and like people loved engineering
+as engineering and PyTorch in a way that
+I think was not present in a bunch of
+other parts of meta. I think people
+wanted to come to PyTorch for that
+reason and I think people came and were
+happy for that reason. So I do think
+people just have agency in that sense
+which is like yeah within the context of
+that machine you got to follow the rules
+but it's not like you're forced to be in
+that machine. There were other rules. um
+not everyone would get them and vet was
+very choosy but I think many people
+could and it was worth doing. I think
+the alternative though is also is like
+even within a team managers can differ a
+lot and how much they push on this. And
+I have personally at least been a person
+who I think mostly benefited from
+actually trying to bet on be on the
+stable team that will gradually succeed
+over time and we'll have a healthy
+culture and not collapse and not do
+things like overlevel ourselves. But it
+does mean that you get promoted slower.
+And this is where I think I I do
+struggle with this a bit, which is I
+think like if at the end of the day what
+you really want to do is do something
+like compute your total sum of earnings
+over your entire lifetime. It may be
+better to be in the orgs that get
+promoted really fast and get fired
+really fast, but there are a lot of
+those orgs at meta where people are
+like, well, they're the stars. Oh,
+actually, no. It turns out they're
+terrible and lied to us, so we got rid
+of all of them. This happened a bunch of
+times in the year meta. Um, it might be
+that that is actually economically
+rational. I'm not sure. But certainly I
+think for myself about emotionally
+rational and feeling like I enjoy the
+craft of stuff. Being on the teams and
+PyTorch was like this. I mean, one of
+the challenges actually PyTorch had with
+hiring was actually the perception that
+PyTorch held a higher bar. People would
+be like, "Oh, I've heard you guys are
+actually like much tougher about
+promotions." And I'd be like, "Yeah,
+honestly, we are." Like, honestly, like
+our eights are like as good as you're
+going to get anywhere in this whole
+world. And you know, if you want to be
+the best engineer you're ever going to
+be in your entire life, you should work
+with them. But like Rates probably are
+better than the 10ens in a couple of
+other teams. Um, if you want to be a 10,
+you maybe should be in that team
+instead. uh and I think for some people
+that would really turn them off. But I
+think part of this was again the like
+sort of like agency and selection
+mechanism as I think PyTorch selected
+people who actually just loved
+engineering as engineering and then
+there were people who were willing to
+tolerate slightly fewer promotions and
+ironically one things I think was
+interesting though was that it became a
+bit of like um magic thing that kind of
+turned out well which is because people
+perceived Pyarch to hold such a high bar
+it was much easier for us to convince
+people outside of PyTorch that actually
+our people were ready for eight or nine
+or And whereas other teams when they
+tried to make this argument, they're
+like, "Oh, but you you guys are not well
+known for holding a high bar. Maybe you
+guys are just overselling these people."
+But in PineTorch, people were like, "Oh
+yeah, like you you guys hired our guy
+and thought he was pretty bad, so
+actually we think you probably are
+credible." Um, and I think that that
+like again it's like in the short term
+doesn't actually accumulate as fast, but
+I think in the long term does have a ton
+of benefits. Whether it is the absolute
+like compensation maximizing algorithm,
+I'm not sure. And that's where I have a
+little bit like torn up torn. But for
+me, I was also like I was willing to get
+20% less compensation to be in a place
+that I was more proud of.
+&gt;&gt; Actually, that's funny because I
+remember someone from PyTorch would join
+one of our collaborations for instance.
+You know, we someone would join and go,
+"Oh, he's a five." But really, he's like
+a seven. like he's he's better than all
+of our engineers, but we don't know why
+he's a five, but he's a five. That was
+not uncommon working with that or
+&gt;&gt; Yeah. I mean I mean again, this is like
+I mean would it would come out like flat
+out in like opportunity chats where we
+tried to hire someone and they're like,
+"Hey, you know, Pike George is cool, but
+like aren't you guys like really
+underleveled?" That would be like the
+first question people would ask and have
+to be like maybe or maybe we're holding
+the right levels. Uh you know, you got
+to decide where you want to take a
+chance on us. But you know but I think
+the flip side is you know that you know
+we really did train people like a lot of
+people who were in PyTorch really
+learned to be remarkably good.
+&gt;&gt; I know before PyTorch you you worked on
+some of the data and experimentation
+tools at Meta. How was that work and
+like how was your experience growing in
+in early Facebook before all this promo
+craziness? Well, I came into a wild ride
+uh which was actually honestly an
+amazing experience and you know some of
+my happiest years of my life from like
+my first two years of meta but also some
+of the most fearsome and scary years
+were also there. But like um I joined
+the team that I signed up for and when I
+signed up it was supposed to be called
+data science before I arrived because I
+asked for a six-month leave to work on
+Julia um the programming language I was
+one of the core contributors to. I asked
+for a six-month leave between finishing
+grad school and going to Facebook at
+that time. Uh and during that six-month
+period, the guy who hired me quit and
+then the team that was called data
+science that I was hired into got split
+into two teams. One called core data
+science and one called data science
+infrastructure. And then that itself
+became really tricky because I wound up
+joining core data science but really
+loving collaborating with the data
+science infrastructure people who were
+the ones who own the experimentation
+tools. um working in the experimentation
+tools was like honestly like I think to
+this day the most most people who know
+me from meta are like oh yeah John was
+really helpful for that stuff. I
+actually think like almost nothing I
+worked on as an IC ever went anywhere
+close to being as valuable to the
+business as the experimentation stuff.
+Um and I don't think I was ever as good
+at any of the other stuff. Uh I really
+loved being in that space. Um and I
+think it was like really influential to
+the business. Um that said, I was on
+this core data science team that was
+like an insane ball of stress. You know,
+I joined it was been radically reorged.
+It had new managers. I actually wound up
+really liking the new managers, but that
+was still a source of churn. But then a
+few months into it, someone who actually
+was on the data science infrastructure
+team, which is particularly what's
+amusing, but attributed his team to
+being core data science uh because he
+perceived that to be sort of the team he
+really was on when he wrote this paper.
+published this paper um in PNAS, the
+proceedings of National Academy of
+Science, called something like emotional
+contagion and social networks. Um that
+wound up just becoming like the absolute
+singular worst piece of PR for meta as a
+business that year. Um just absolute
+disaster. I mean I was like really
+really trying to prevent this from
+happening but I didn't have the
+authority to prevent it. But like you
+know at least people perceive I was on
+the side who was not happy with this
+decision. Um but it meant that I you
+know was on this team where I was doing
+the data science infrastructure work
+that was sort of very inward facing and
+very safe but I was affiliated with a
+more researchy division that was
+publishing these papers that went from
+becoming sort of a PR win to a PR
+nightmare very rapidly. Um and that team
+I think was one of the most my formative
+experiences at Meta because it really
+was like well what happens if this team
+just gets fully disbanded and this was
+like in a world where there weren't
+layoffs. was like, "Well, Meta doesn't
+do layoffs, but this team maybe has got
+itself to a state where it's going to
+get laid off." Um, you know, and the guy
+who wrote this paper wound up having to
+do like a companywide Q&amp;A where
+effectively he sort of just apologized
+to the entire business as his Q&amp;A. Um,
+it was really just like a mind-blowing
+experience and it was like one where
+it's like, you know, I came as an IC4
+and all of a sudden we were like in
+these meetings with like, you know, the
+head of legal being like, well, why did
+you guys do this? uh and you know having
+to have these discussions with them on a
+regular basis and really trying to
+figure through like what was the future
+of our team um but it was great um that
+blew over for what it's worth and then I
+spent several years just working on our
+experimentation tools you know I was
+like one of the main developers of uh
+Deltoid 3 which is I think now just
+called Deltoid because I think it's been
+deltoid for so long they just refer to
+it as Deltoid but at one point it was
+like the third iteration um and I worked
+a ton on that and then especially was a
+great example of how career growth can
+actually happen which is
+I was on the team and then all of a
+sudden almost all the senior engineers
+left the team in the span of like six
+months and then I went from being like
+and at the point maybe I was already an
+IC5 when they all left. I'm not sure but
+I went from being like one of the people
+on the team building experimentation
+tools to the only one who remembered how
+anything worked left and suddenly I went
+from being sort of random IC5 to like de
+facto TL for a bunch of stuff. Um, which
+was actually an amazing opportunity for
+growth. And I think people understate
+how often these things can happen in
+tech. Um, but it meant that I wound up
+like really being like able to drive a
+bunch of the vision for the AB testing
+tools for years, which were, you know,
+hugely successful at Meta. Um, and it
+really was like some of the most
+fulfilling work I ever did at Meta.
+And just to give people context, Deltoid
+is the AB testing framework or the thing
+that you opt in, you know, one code path
+to A, one code path to B and you measure
+all the the downstream benefits of
+ideally your test, right?
+&gt;&gt; Yeah. Yeah. I mean, uh, I I think one of
+the things that's actually kind of
+mind-blowing to me is like, you know,
+actually, it's one of these decisions
+where maybe I did make bad career
+decisions, which is like, uh, as far as
+I can tell, every time I've ever looked
+at it, the stat product, which I now
+don't know what it state is after they
+got up at OpenAI, is just like is
+deltoid. Uh, this is one of the things
+where like, you know, stuff in meta,
+when you've been at Meta, you work on
+these things like awesome in data sour,
+but when people are like, what's data
+swarm? I'm like, it is literally
+airflow. And it's not like
+metaphorically airflow like the guy who
+wrote Airflow built data quit and like a
+week later open sourced airflow. Uh you
+know in the deltoid it's like not quite
+the same because it's not the same
+people left and built stats sig. But my
+perception is that for most people who
+will be watching this if they've ever
+seen statig my perception is that like
+almost the entire UI is the same. Almost
+all the functionality is the same. Um,
+that's one of these things where I like,
+you know, probably should have built a
+steeltoid startup many years earlier and
+I did not have the wisdom to do that.
+&gt;&gt; I think there was another one called
+Optimizely as well. Yeah. So, I've I've
+seen many companies, it seems like a
+very repeatable playbook where you just
+take something that people take for
+granted that's state-of-the-art from a
+big tech company and you just give it to
+everyone in the industry and it actually
+creates like a billion dollar company.
+is pretty I it's it's hard, but at least
+the product market fit and idea part are
+relatively solved since it's creating so
+much value for these big companies. For
+this podcast, I produced transcripts for
+every episode for convenient skimming
+and I built a custom tool to automate
+that. Recently, I noticed in the Barbara
+Liskoff transcript, my simple
+speechtoext tool was getting a lot of
+things wrong. For instance, the clue
+programming language is spelled all caps
+clu, not clue. So to fix this, I used
+cursor 3, picked the strongest version
+of Opus 4.7 extra high, and had an agent
+make a plan to fix that. And while I was
+waiting, I figured I'd trigger a few
+more agents for code cleanups and
+front-end improvements. Um, it generated
+a reasonable plan with rich system
+diagrams. It applied all the changes
+within minutes and worked on the first
+try. So if you want to build something
+with the flexibility of sending off a
+bunch of agents with frontier models of
+your choice, you can go to cursor.com to
+try out cursor 3. You know, I saw before
+you worked at Meta, you were working on
+the Julia programming language, and I
+actually wasn't familiar about it, so I
+I read into a little bit and looks like
+it was part of these data science
+language wars basically where there was
+R versus Julia versus Python. What is
+Julia and what what is the context on
+that war there?
+&gt;&gt; Yeah. Well, certainly I think I made it
+more of a part of the war. I don't think
+it had to necessarily be part of it. Uh
+although I do think also like the simple
+fact of the reality is like programming
+languages are products and products
+exist in an ecosystem where they're in
+zero sum competition and claim claiming
+that they're not in zero sums
+competition is like a very cute thing
+that people say is appropriate but is
+clearly false and I think just makes
+everyone worse by misleading them. Um
+but like um I mean so Julia for me and
+essentially sort of why did Julia so so
+appealing? I mean for me what Julia's
+pitch was like we should be able to
+write code in a highle language that
+looks like Python or like mat lab which
+is really the language it was originally
+designed to destroy. It was really
+designed to get rid of mat lab. It was
+made by MIT math people who wanted to
+get rid of mat lab. Um and it really
+like targeted that market much more than
+data science at start and sort of I
+think I was involved in pushing it
+towards data science. But you know to me
+the thing I always do when I give talks
+about Julie is be like listen let's look
+at the R function for distance like
+compute a distance matrix between a
+bunch of vectors. So you like you know
+pairs of vectors and you get all the
+distance matrix.
+Um, if you look at like that function
+and you actually try to figure out how
+it's implemented in R, what you find is
+like C code that is very reasonable C
+code that is just a bunch of for loops
+like you know loop through all the rows
+and all the columns and then compute the
+distance at that row and you're done. If
+you basically take that code verbatim
+and just trans like translate it naively
+into R, you're going to take some type
+information away. you going to get rid
+of some like ins and float signatures,
+but otherwise you can basically write
+four loops that look exactly the same.
+VR code is going to be like somewhere
+between a thousand to 10,000 times
+slower than C. And this to me was the
+thing that just like drove me insane
+where I'm just like, wait, what? Like
+these two programs are like 80% the
+same. Why is one not as fast? And Julia
+really was all about this notion that
+like that was unacceptable. And that's
+what made it so appealing when the first
+p like the first post by the original
+founders went out. I was like, "Oh, you
+guys are doing the thing I wanted people
+to do, which is like
+not claim that it is impossible to make
+high level languages fast, which is like
+so much of actually how the Python R
+community sometimes behave is to be
+like, oh well, we can't be fast, but
+also fast isn't important." And to me,
+like that that double hit of like, well,
+we can't be it and is not important
+really didn't work for me. So Julia
+really resonated. I think I probably as
+the guilty party of trying to make it
+more part of the data science wars
+because I was myself a heavy user of R
+and was just so disappointed in R. Um
+just so incredibly disappointed in how
+often I would try to do a project and R
+just like fought me at every step of the
+way. Um but Python is also like this. I
+if you look at all the really great
+libraries like PyTorch like you know
+deep down at the end of the day you're
+going to look at C++ code or you're
+maybe even looking at like handwritten
+assembly or handwritten like kernels for
+GPUs. Um or at least you're looking at
+something written in a much lower level
+language. Um and so Julia was really
+like about trying to solve that. And I
+don't think it totally won which I think
+is probably why you didn't know about
+it. I think it was very hip at one point
+and has become less hip but it's
+actually doing okay. Like it's I think
+it's in the top 25 programming languages
+by users in the world. I think it's a
+real a real language that's really out
+there. But for me, the thing that really
+matters is even though I don't know that
+it's killing it, Julia is like the only
+people still actually fighting that
+fight. Well, what's the intuition behind
+why R is like 10,000 times slower when
+the code is, you know, the symbols are
+relatively similar to the C.
+&gt;&gt; Fundamentally, any code that's slow is
+slow because it's doing stuff it doesn't
+need to do. Like that's just sort of the
+most basic fact about slow code is that
+the reason you're slow is because you
+could have done something else and you
+did something slower instead. And
+something like R is doing this, but even
+you see this in Python, it's not quite
+as dire, but it's still there is you
+wind up paying an enormous amount of
+overhead cost for the possibility that
+someone might do something more dynamic.
+And because they might do it. And to
+give you the example which is really
+astonishing about R is in R for instance
+the brace that you use to in define a
+block is an operator that can be
+overridden and the user can redefine. So
+they can make braces mean something
+else. But so that means when you see a
+brace in code, you can't just be like, I
+know what this is. I can move on. You
+have to be like, no, I need to look up
+and check. Did the user redefine this?
+Um I think I think it's brace and not
+parenthesis but it's been a while so I
+haven't delve in but it may also be
+parenthesis or it's possible I flop
+flipped them. We can like you know check
+offline and see whether my memory is
+good but like you just wind up with so
+much stuff like this that is so like
+maybe changed and you don't know whether
+it changed. So you need to go check
+whether it changed and the checks are
+very expensive especially if you're
+doing something like adding two 60 bit
+64-bit integers. That's like one machine
+cycle. Like it is one machine cycle. But
+a check like does addition still mean
+what I think it is? Could be hundreds to
+thousands of machine cycles. And so you
+wind up like swapping in things that are
+very inefficient places that you don't
+need. And this is particularly R is
+amazing. Like there's this amazing paper
+by a couple of students uh and a a
+senior professor named Yan Vitec. But
+it's about the design uh called
+something like uh evaluating design of
+the R programming language. And one of
+the things they look at is like
+especially R has an especially tricky
+thing which is unlike Python. R is also
+a lazily evaluate laying language where
+the arguments to functions are not
+evaluated before you start the function
+body. They wait until the function kicks
+off and they just are passed as promise
+objects. And what they look at is they
+look at like well how often are these
+promises could have been affect like
+eagerly evaluated and how often is the
+overhead of these promises worth and
+their conclusion is like 70% or maybe
+more maybe it's 90% I forget the numbers
+you basically have no reason you needed
+to do this like almost never do you need
+this but you actually pay like an
+enormous overhead cost for having agreed
+to do this. Um, and a good example I say
+in Python also is like in Python you can
+like manipulate the symbol table using
+functions in the inspect module. And so
+what that means is like you can never be
+sure of what something's bound to. You
+always have to be afraid and check. Um,
+and just sort of general the lack of
+invariance like that's what makes a
+language fast is like you have lots of
+invariance. What makes your language
+slow is you have lots of stuff you might
+have to go confirm at runtime. and ours
+is just incredibly pervasively like
+this.
+&gt;&gt; I looked at some of your popular past
+tweets and I thought maybe we could
+discuss some of them. So sure
+&gt;&gt; one of them this is the most popular
+tweet that I think you ever wrote and
+you you said that you're continually
+continually disappointed by how many
+grad students and postocs get the
+impression that industry is a safe
+position of last resort they can always
+fall back on if things sour in their
+academic careers and I thought that was
+interesting because I thought the I
+thought the opposite was also very
+commonly true where people might you
+know want to avoid industry so they go
+and get higher education. So I curious
+your you know your thought on this and
+what what made you think this
+&gt;&gt; really what drove me nuts was there were
+just a ton of people who fundamentally
+wanted to be professors or postocs and
+were in a PhD program and they were like
+well if I fail out I'll go into
+industry. Um, and this like one is that
+you would interact with people during
+interviews who like clearly didn't want
+to be there. Just like so unambiguously
+did not want to be there and clearly
+viewed this as like a failure that they
+were interviewing. And you're like,
+well, that's not really like a positive
+sign that we want to hire someone who
+like doesn't seem like they're going to
+enjoy the job. But in addition, a bunch
+of people, and this is what drove me so
+insane because I think it like all
+parties involved in the academic system
+hurt students doing this, is that like
+so many people just assumed that when
+they finally decided to get an industry
+position, it was going to be trivial and
+then they didn't find it trivial. I
+think a lot of academic people were
+like, well, smart people are in academia
+and the dumb people are in industry, so
+if I need to go compete with the dumb
+people, it will be easy. Um, and I think
+there was a lot of that. Um but you know
+there was a person I mean I give you an
+example there was a person who was like
+effectively a CS professor who I
+interviewed and this person like could
+not figure out how to pass values
+between the various functions that they
+were calling in the interview. Like
+literally they were like what I would do
+is I would call this function. It would
+print out in the ripple and it would
+read it as a human and then I would go
+like type it into this other piece of
+code and I was like oh you are better at
+programming than this right because like
+you're a professor of computer science
+and they're like no no this is how I
+work and I was like oh this is not going
+to set you up for success if we actually
+have to get you writing code and broad
+here.
+&gt;&gt; I saw a few other popular tweets that
+you had. they were about um like
+favorite statistics papers and favorite
+recommendations of statistical books
+that you're saying, "Oh, everyone's got
+to read these. How come you have such
+strong recommendations on statistical uh
+literature?" And then also, what are
+those recommendations? I
+&gt;&gt; I love statistics and I think I'll never
+not love it, but I think it's the
+craziest field. And what I mean by crazy
+is it's a field that fundamentally sells
+people the idea that they can use
+statistical methods in real life. But in
+reality, what they do is do pure
+mathematics and study how statistical
+methods work in a idealized theoretical
+world. And in pure math, like you know,
+as an undergrad, I did pure math and I
+loved things like number theory. In pure
+math, it's just you're just period. It's
+pure. You prove it. It's internally
+coherent. There's no attempt to like
+reconcile with reality. reality doesn't
+even matter. You're just like, there's a
+rules. We follow the rules. We're in
+this internally consistent system. And
+then in super applied fields like
+software engineering, you're just like,
+well, the thing runs like the code runs.
+I I don't know what to tell you. Like, I
+can't prove this code runs, but like we
+ran it in broad and it had like eight
+nines of reliability, which makes it
+better than like most of the software
+ever written by humans. We're good. Um,
+statistics is this super crazy field
+where you reason in about mathematics
+but then make all these claims about how
+it's going to be useful to people in
+practice. And this I think is where
+opinions come in so strongly is that I
+think some people just like are very
+very honest and hold themselves to a
+super high bar. And some people I think
+are super cavalier about stuff and are
+like roughly just like well I said it
+was true and then you're like well is it
+true? And they're like, uh, you're like,
+"Let's really dig into the proof." And
+they're like, "Fine." You know, one of
+their four people I love, love, love
+more than anybody is Larry Wasserman.
+I've never met the guy. Uh, so I don't
+know what he's like as a human, but like
+his books are like to me the embodiment
+of like hyper intense honesty. He just
+seems like a person just like I cannot
+tell a lie. And just like therefore like
+everything you get from Wasamin is
+exactly true. like he tells you exactly
+what he's assuming. He tells you exactly
+what's imply and he's also extremely
+clear about being like I actually don't
+claim these other things that you might
+want me to claim because they're not
+true. Um and I think a ton of statistics
+books are not like that. Ton of was like
+use our methods they're great. Um and so
+I think Wasam is really at the at the
+top. Another book that someone
+recommended to me sort of halfway
+through my career at Meta that I loved.
+Um I think it's called something like
+introduction to agnostic statistics is a
+book by a guy named Peter Erin and he's
+I think another person I like who's sort
+of just like incredibly concerned with
+whether the things he says are true or
+false and he's hyper rigorous and hyper
+careful. And again I think a lot of
+people in statistics are not hyper
+rigorous and hyper careful. So, I love
+the book and so the recommendations I
+gave was like literally anything you can
+get by Larry Wasserman. Buy and read. If
+you want to learn statistics, like I
+don't think any book has ever been
+better than the books he's written in my
+entire life. I've never seen anything
+come close to being as good. The Peter
+Arino book I think is probably as good
+as like a thing you could be ever read
+if you're like a social scientist or
+someone working more practically. It's a
+little less mathheavy than the Wasman
+books. And I think there is a lot of um
+value in big technology in understanding
+some statistics or doing it rigorously
+because I've been in so many AV test
+review meetings and I think a lot of
+people who kind of just enter the
+industry and you know they they see the
+UI and they go I got a green bar here
+please give me the approval to ship my
+my code path. Um but actually if you
+kind of dig in, you ask some wise and
+you're like wait there was it was red
+yesterday why is it you know what's
+going on here uh the the understanding
+is very superficial and people are just
+trying to they're just trying to move
+forward whether or not it's actually
+statistically you know beneficial across
+the user base.
+I mean that's a I mean ironically it's a
+great example of sort of everything we
+talked about today summed up as like a
+story I have when we were trying to get
+deltoid 3 to ship out you know at that
+point deltoid one was still the default
+and there was a person who came to us
+and this person was actually like
+otherwise great and I loved interacting
+with them but this interaction was
+really I was like this reflects a lot of
+cultural pathology of our company where
+they're like hey I can't let you ship
+delta dirt and I'm like why why can't
+why can't we ship it and they're like
+our hold out goes from being
+statistically significant ificant win
+for the company to being not
+statistically significant in delta or
+dirty and I think it's a regression and
+I was like all right it might be a
+regression but maybe it's also the truth
+they're like I actually don't know which
+it is but you guys are going to wait
+until the half is over and we've decided
+we hit our goal and then you can ship
+delt
+and I was like oh but wait I was like
+your your win is so close to the border
+between you did nothing and one that
+literally like mild tweaks in our code
+have turned it off. It's like I feel
+like that's not a win people be so
+concerned about and especially this
+notion that like you're almost
+significant so therefore you failed or
+you're just barely not significant you
+know you win or fail that I think is
+this super dangerous culture. I mean one
+of the worst things I ever saw was a
+team that I managed to squeeze and one
+of the things they told me was they're
+like hey you know we have to do this
+thing because we made a goal. And I was
+like, "Okay, but what are we gonna do
+next half?" So they're like, "Oh,
+definitely on July 2nd, we're gonna
+delete this code." And I was like,
+"Wait, then why aren't you shipping it?"
+They're like, "Well, because we can't
+miss our goals." And I was like, "I feel
+like our goals should not be written in
+a way where shipping the thing we intend
+to delete literally a day later is a
+success." And they're like, "Yeah,
+that's fair." And I was like, "What do
+you mean fair? Come on, man. Like, don't
+do this." And initially, you know, I
+convinced them not to do it. I was like,
+"I'm the manager. I can decide the
+ratings. we don't have to just like do
+this but people really like firmly
+believe this and I think the statistics
+thing like the problem is like a lack of
+understanding of statistics bleeds into
+other weird pathologies of how people
+are evaluated and the two together
+become like extra dangerous.
+&gt;&gt; Coming to end just like a few questions
+kind of like reflecting on your career
+so far. Do you have a regret that maybe
+other people could learn from?
+&gt;&gt; Oh yeah. People ask me this so much as
+over the years, especially as I became
+like a more senior manager and then a
+director that I like, you know, have a
+keen answer because I've been asked this
+a million times. I for like my first
+several years had Javi as my skip. Um,
+for people who don't know him, he's
+currently I think the COO of NetApp, but
+you know, he was first the head of
+growth and then the head of growth and
+adance and then I think now he runs like
+roughly 50% of Neta. Um, but like Javi
+was my skip and every time my actual
+manager, this guy named Danny would be
+like, "Jobby wants people to come to his
+office hours, no one shows up and he
+feels like it's a waste of his time.
+Someone should go." And I basically just
+was like, "Well, I don't have anything
+like actually that valuable to say to
+Jav, so I'm just going to waste his time
+and I don't want to be the person who
+wastes his time." So, I never went. And
+I look back and I'm like because
+especially as I started running office
+hours as I had a large at work where I
+couldn't do like one-on- ones with
+everyone and had to do office hours and
+people wouldn't go and I was like man I
+wish people would come to my office
+hours and like I Javi was also feeling
+this way and he's like man I wish I
+would gave anything for one of these
+people to show up but like I just never
+showed up and I look back and I'm like
+first of all this was an amazing
+opportunity that I wasted but in
+addition it's not just that I wasted it
+for myself I also probably just like
+made his life worse off by not actually
+getting him to be able to take advantage
+of this thing he was offering us. And so
+I was like this is a decision that
+basically harmed both parties that I did
+out of fear. Um I'm sure there's
+probably a million other examples of me
+doing this that are not as clear in my
+head, but this is one where like you
+know Danny probably came to like our
+team once a week and told us to show
+sign up and none of us ever did. Um, and
+I think of this every time where I'm
+like, listen, if like you know something
+important about the future of this org
+or this team or even if you just like
+honestly have any questions at all, if
+you have a leader who's showing up and
+saying, "I want to hear from you folks,
+go." Um, I think especially like if
+you're a more junior I see watching
+this, like I think it is hard to
+understand how painful it is at director
+and above to actually know what it's
+like on the ground. you're just like so
+removed from being an IC3 and IC4
+anymore. Just so removed and not just
+from their place in life, but also like
+what's happening to them, what's true in
+the codebase, what the team dynamics
+are. You know, like you know, there were
+points where I had like a manager
+managing managers managing managers, you
+know, there's just so much indirection.
+I think people way way should more often
+if a leader says like please show up and
+talk to me, do it. Um the flip side
+obviously is like you come and say
+something weird, you know, that can be
+bad. you know, don't show up and be
+like, I want you to tell me how to get
+promoted. Uh, it's probably like not
+your greatest first conversation, but if
+you're like, hey, I think this part of
+our or could be better. Could you help
+me? Leaders love that. That's what they
+want. And like so many people are afraid
+to do it. And I think it basically makes
+all partieselves.
+&gt;&gt; And then last question for you. With all
+the experience that you have now, if you
+could go back to the beginning of your
+career and give yourself some advice,
+what would you say?
+It's tricky because I think I am a
+person with very strong opinions, but I
+also think I can be more self-conscious
+than I should. And do you think that
+like have more confidence that you can
+do bigger stuff and that as long as you
+hold yourself to a high level
+discipline, the bigger stuff is really
+possible. I think like when I was
+younger, you know, basically at every
+step of the way, like from a high school
+student to a college student all the
+way, I think I tended to way too often
+like cast doubt about what I could do.
+Um, and I think, you know, that is the
+single like biggest set of mistakes I've
+made is just this repeated pattern of
+like not being ambitious enough or not
+believing something was tractable. And I
+think I've gotten a lot better. You why
+I don't like the defeatism in other
+programming language communities. But
+like um I do think it for me is like
+this thing that sort of I think you know
+really could have been better. And I
+think it's true for a lot of people. I
+think of just a lot of people like they
+they overconce themselves of the
+greatness of other people and underconce
+themselves of how much they can achieve
+and that combination means that they
+just like way less try to do risky
+things than they could have. Um and I
+think they like especially I think until
+you interacted with enough people who
+have succeeded I think it's hard to
+realize like how often they're like not
+actually doing that much better than
+you. They just tried and you didn't try.
+Um, so I think that is probably like,
+you know, the the biggest thing that if
+I could go back and tell like
+20-year-old me, um, probably is that.
+&gt;&gt; Thank you so much for your time. I I
+really appreciate it, John.
+&gt;&gt; It's been a real pleasure and thanks for
+having me.
+&gt;&gt; Thank you for listening to the podcast.
+It's a passion project of mine that I've
+really enjoyed building. Another passion
+project that I've been working on kind
+of in secret is building an ergonomic
+keyboard that I wish existed, and I
+finally have a prototype. So, I'd love
+to show you what we've built. It's ultra
+lowprofile and ergonomic, and I couldn't
+find anything like it on the market, so
+that's why we built it. I'll put a link
+to the keyboard in the description. You
+can take a look and learn more about the
+project there. We could definitely use
+your support. Also, if you have any
+feedback for me about the show, I'd love
+to hear it. Comments on YouTube have led
+to guests coming on like Ilia Gregoric
+and David Fowler. I wasn't aware of them
+until someone dropped a comment. Also,
+feedback in the comments helped me learn
+to reduce the number of cliffhers in the
+intros. So, your comments definitely
+make a difference. Please keep letting
+me know what you'd like to see more of
+in the show, and I'll see you in the
+next episode.

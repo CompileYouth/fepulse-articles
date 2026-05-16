@@ -1,0 +1,52 @@
+{
+  "mode": "manual",
+  "lookback_days": 2,
+  "generated_at": "2026-05-16T10:45:16.816458+08:00",
+  "since": "2026-05-14T10:45:16.816458+08:00",
+  "items": [
+    {
+      "source_id": "dwarkesh-patel",
+      "source_label": "Dwarkesh Patel",
+      "source_type": "youtube",
+      "title": "Building AlphaGo from scratch – Eric Jang",
+      "url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw",
+      "upload_date": "20260516",
+      "published_at": "2026-05-16T00:20:46+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "AI for Science / Robotics",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260516-building-alphago-from-scratch-eric-jang"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑",
+      "url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "upload_date": "20260515",
+      "published_at": "2026-05-15T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260515"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "Codex Taught Me How to Play Piano",
+      "url": "https://www.youtube.com/watch?v=JQLzSzDs3EY",
+      "upload_date": "20260515",
+      "published_at": "2026-05-15T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260515-codex-taught-me-how-to-play-piano"
+    }
+  ]
+}

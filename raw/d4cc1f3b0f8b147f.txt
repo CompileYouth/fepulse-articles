@@ -1,0 +1,259 @@
+原文： https://www.youtube.com/watch?v=4YNHb0XNV1A
+
+So we are here at Code with Claude. I'm
+here with Kieran uh GM of Kora and uh
+father of compound engineering and uh
+we've been here all day. Anthropic's big
+developer conference. Um it's it's
+always a good time. We have uh we've got
+a lot of updates for you from the
+conference. Everything that we saw,
+everything that we heard, um everything
+that we didn't hear. We even did a
+little bit of a food review. So we'll
+get get you some of get you some of the
+spicy the spicy takes that you're
+looking for. Um the big news from today
+is that Anthropic did a deal with XAI uh
+and SpaceX to uh basically take the
+entire like all of the uh all of the
+compute in in SpaceX's Colossus cluster
+which uh is really interesting because
+uh the the operative word is is all of
+the compute. It's called the Colossus
+Cluster for a reason. And it's been one
+of those things where I think if you're
+if you've been an anthropic fan for the
+last year, as we have, um you started to
+feel that as people caught on with the
+sort of like claude code movement,
+they've been really compute constrained
+and they've done a lot of stuff where
+it's like they um you know, they they
+banned you from using your cloud
+subscription with Open Claw. Just stuff
+that like kind of made it like wrinkled
+people a little bit. And this seems like
+a move that will allow them to meet the
+demand that they're seeing and and open
+things up in a new way, which I'm really
+excited about.
+&gt;&gt; Yeah. So, everyone gets 2x their usage
+limits and there's no like the windows
+are a little bit more loose, which is
+great because
+&gt;&gt; the worst thing is starting your cloud
+session and then like you're you're
+almost there or you're over your limit.
+So, this is very very cool. It might
+sound boring, but like if you actually
+use the tools, this is great. Yeah, this
+is the best.
+&gt;&gt; Yeah, when I step back and think about
+okay, what did they actually launch uh
+today? They the biggest thing that they
+launched is uh a new cloud manage a set
+of new features for cloud manage agents
+which is their like cloud agent uh
+platform. So they launched uh they
+launched memory for cloud manage agents.
+They launched agent orchestration and
+outcome. So like you basically can give
+the agent an outcome and it goes and
+accomplishes that and comes back only
+when it's done. And to be honest, I was
+I was sort of I think if I step back,
+I'm thinking like there's not anything
+where it's like, "Holy they
+launched Mythos or whatever."
+&gt;&gt; We were hoping for we were waiting. We
+were waiting for Mythos. Yeah. But I But
+you you made like a really interesting
+point, which is sometimes there are
+sneaky things where it maybe doesn't
+seem like a big deal at the time, but
+there it is actually a big deal. And and
+I think if I had to put my finger on one
+of those things,
+the battle lines between OpenAI and
+Anthropic and and all these other model
+companies are are becoming a little bit
+more clear where there's there's a very
+clear uh moment happening where if
+you're doing work on your computer,
+you're going to do it in one of
+&gt;&gt; cloud code or co-work. And like that's
+your that's your work operating system
+for you and and a model to be working
+together. And then there's this other
+parallel battlefront starting to happen
+uh for where and how you provision and
+build uh agents that are meant to be
+longunning and async and probably used
+by a team. Something like open clause
+but uh for actually work.
+&gt;&gt; Yeah. But but actually work. This that's
+the spicy takes that we have here in
+here for um and so cloud manage agents
+is that. So if you want to if you want
+to build an agent that um that exists in
+the cloud that serves lots of requests
+that's really scalable that's their
+solution. I think you know for us we've
+been
+&gt;&gt; we've been thinking about how do we do
+this and and it feels like we're um
+uh it feels like you you have to
+reinvent the wheel a lot and so manage
+agents is sort of doing that and I think
+&gt;&gt; OpenAI does not have that yet. They have
+a they have the agents SDK but they
+don't have a cloud version. I assume
+that that's coming. So, and I think that
+the the battlefronts are starting to
+form and and so it manage agents is
+actually probably a bigger deal than you
+might think.
+&gt;&gt; Yeah. Like whenever cloth code came out,
+it was cool and we didn't think much.
+&gt;&gt; We we thought we were like, "Holy shit."
+&gt;&gt; We were like, "Holy
+&gt;&gt; we were the only people."
+&gt;&gt; Yes, there were some people that were
+thinking that. And I feel with this,
+&gt;&gt; it could be very big. And it's also when
+something new is introduced I'm asking
+myself why do I use this or what does it
+solve or when do I use it and like using
+this you'll figure out we'll figure out
+and we'll see where it's powerful but we
+know like this is painful like
+infrastructure is very hard to do and
+all these primitives is if it just works
+it's very very good and also I think
+anthropic is the best at agent
+orchestration
+&gt;&gt; uh so having them solve this is great
+and bringing in everything like the the
+agent team work or like the like all of
+that stuff the multi- aent thinking
+inside a harness is very interesting and
+I think
+&gt;&gt; it's also like standing still and say
+okay we have all these things uh we have
+it work pretty well we have these
+abstractions of outcomes um and they
+present it to the world and they're like
+okay now everyone like come together,
+figure out what you need to take from
+it, how you build your things with this.
+So, and like they cannot release it
+without people using it and giving
+feedback. So, this is the first step
+which is it's out there. People can
+start using it and now we'll figure out
+&gt;&gt; what we'll do with it. I I feel it's
+it's a beginning of something
+potentially very exciting. Yeah.
+&gt;&gt; Do you have something exciting that you
+want to do with it?
+&gt;&gt; Um, yeah. So, I'm I'm just asking myself
+the question like why wouldn't I run
+this on my Mac Mini? Um, and
+&gt;&gt; and by this you mean like a managed
+agent?
+&gt;&gt; Yeah, managed agents. But what I what I
+do think is if you have an agent that
+just runs and is reliable like it can be
+so valuable and like a Mac Mini going
+down like it's not something you can
+actually have happen in a bigger
+company. So I I think just the
+reliability even though it sounds very
+boring
+&gt;&gt; scalability
+&gt;&gt; scalability just it working is insane
+like if the models do the work always
+and if the infrastructure always works
+you just have something that's reliable
+and the most valuable thing is really
+something that's reliable because
+getting 90% there is easy but like
+&gt;&gt; having it do it all the time and I
+&gt;&gt; very strongly feel this team is very
+good at that so I I just would use it
+immediately just become uh yeah because
+it's coming from here.
+&gt;&gt; You said that they're the best at agent
+orchestration. What do you mean by that?
+&gt;&gt; Yeah, I I think it's uh first of all
+they they think the furthest along with
+this. So they have this idea of dispatch
+in a cowork and cloth code which is like
+that's like a thing you talk to an agent
+and that agent orchestrates other
+things. So you can say, "Hey, start five
+cloth coats." And it's it's a paradigm I
+think is for sure this year going to get
+really big where you talk with one agent
+that will then spin up all the other
+agents for you and you have agent teams
+as well in cloth and
+&gt;&gt; they start to talk to each other. You
+have multi- um agents in in there as
+well. And I I think they're the only
+company that actually see this and do it
+and like also not do it because there
+are swarms that you can do that
+sometimes like waste a lot of uh tokens
+for certain task. But like they have the
+people here that think about it like
+Daisy for example presented today uh and
+she created that system and she's here
+at Anthropic. So like the people that
+like think the furthest are also here.
+So, I just trust them. I know others
+will do this, too. Uh, but like I I I
+know they're ahead. So, I I I feel
+that's a good indication. Yeah.
+&gt;&gt; So, I know that we're uh people are here
+waiting for the the most important part
+of this uh this live uh on the ground
+vibe check, which is the food review.
+&gt;&gt; Yes. Um they there was there was we both
+had the teriyak glazed salmon bowl
+&gt;&gt; without there seemed to be no teriyak.
+Um so there definitely there definitely
+points for it felt healthy to me like it
+felt like yeah we went healthy.
+&gt;&gt; The kind of thing that like you know it
+had like it had whole grains and and
+salad and whatever. And so I think um
+&gt;&gt; points
+&gt;&gt; Yeah. So points points for that but the
+teriyak was missing. Um, so I, you know,
+I I think uh if if I had to rank in
+terms of developer conferences, I would
+put this above build. Um, at Build I
+think I had like a, you know, one of
+those turkey sandwiches with the Saran
+with the the Saran wrap on it. Um, but
+it's it's still kind of like middle of
+the pack uh for for developer
+conferences. Um, but we're we'll uh
+we'll be
+&gt;&gt; we'll be back. We we will we will be as
+always uh here on the ground at uh at
+all of these kinds of events giving you
+the the the updates that you need. Um so
+so if if if if I just summarize the most
+important things from today compute deal
+that's a huge deal very that that puts
+them right back in the race with OpenAI.
+uh cloud manage agents sneak sneaky
+important um some new features there but
+just generally that idea is is sneaky
+important and it seems like something
+that we're going to be talking a lot
+about over the next couple months and
+years.

@@ -1,0 +1,165 @@
+{
+  "mode": "manual",
+  "lookback_days": 7,
+  "generated_at": "2026-05-07T10:03:57.041350+08:00",
+  "since": "2026-04-30T10:03:57.041350+08:00",
+  "items": [
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "How a Non-Engineer Uses Codex",
+      "url": "https://www.youtube.com/watch?v=x9BNBcP_C7Q",
+      "upload_date": "20260506",
+      "published_at": "2026-05-06T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260506-how-a-non-engineer-uses-codex"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "Ex-Amazon VP: Why Bad Managers Don't Get Fired | Ethan Evans",
+      "url": "https://www.youtube.com/watch?v=76v7xbi_USc",
+      "upload_date": "20260506",
+      "published_at": "2026-05-06T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260506-ex-amazon-vp-why-bad-managers-don-t-get-fired-ethan-evans"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Harshil Mathur: AI Is Compressing Every Moat",
+      "url": "https://www.youtube.com/watch?v=X5bABLCuIHA",
+      "upload_date": "20260506",
+      "published_at": "2026-05-06T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260506-harshil-mathur-ai-is-compressing-every-moat"
+    },
+    {
+      "source_id": "the-valley-101",
+      "source_label": "硅谷 101",
+      "source_type": "youtube",
+      "title": "吞噬爱马仕：豪门恩怨、世纪资本恶战与凭空消失的百亿股份",
+      "url": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+      "upload_date": "20260505",
+      "published_at": "2026-05-05T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260505"
+    },
+    {
+      "source_id": "every",
+      "source_label": "Every",
+      "source_type": "youtube",
+      "title": "How We Designed Monologue's Landing Page With Framer",
+      "url": "https://www.youtube.com/watch?v=-4-sumlzoJs",
+      "upload_date": "20260505",
+      "published_at": "2026-05-05T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略"
+      ],
+      "slug": "20260505-how-we-designed-monologue-s-landing-page-with-framer"
+    },
+    {
+      "source_id": "machine-learning-street-talk",
+      "source_label": "Machine Learning Street Talk",
+      "source_type": "youtube",
+      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
+      "upload_date": "20260504",
+      "published_at": "2026-05-04T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究"
+      ],
+      "slug": "20260504-the-ai-progress-chart-everyone-is-misreading-beth-barnes-david-rein"
+    },
+    {
+      "source_id": "ryan-peterman",
+      "source_label": "Ryan Peterman",
+      "source_type": "youtube",
+      "title": "MSL Eng Director: Promo Hacking, Industry Shifts, Regrets | John Myles White",
+      "url": "https://www.youtube.com/watch?v=aPfnP4iAIH8",
+      "upload_date": "20260504",
+      "published_at": "2026-05-04T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "AI 基础设施"
+      ],
+      "slug": "20260504-msl-eng-director-promo-hacking-industry-shifts-regrets-john-myles-white"
+    },
+    {
+      "source_id": "peter-yang",
+      "source_label": "Peter Yang",
+      "source_type": "youtube",
+      "title": "Full Tutorial: 3 Layer System for Context Engineering in 40 Minutes | Ravi Mehta",
+      "url": "https://www.youtube.com/watch?v=wUWljYoQN8g",
+      "upload_date": "20260503",
+      "published_at": "2026-05-03T08:00:00+08:00",
+      "topic_buckets": [
+        "Agents 与应用",
+        "创始人与产品策略",
+        "AI 基础设施"
+      ],
+      "slug": "20260503-full-tutorial-3-layer-system-for-context-engineering-in-40-minutes-ravi-mehta"
+    },
+    {
+      "source_id": "lennys-podcast",
+      "source_label": "Lenny's Podcast",
+      "source_type": "youtube",
+      "title": "Why taste is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
+      "url": "https://www.youtube.com/watch?v=mCO-D3pkviM",
+      "upload_date": "20260502",
+      "published_at": "2026-05-02T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用"
+      ],
+      "slug": "20260502-why-taste-is-beating-titles-in-the-ai-era-max-schoening-head-of-product-notion"
+    },
+    {
+      "source_id": "no-priors-podcast",
+      "source_label": "No Priors Podcast",
+      "source_type": "youtube",
+      "title": "Baseten CEO Tuhin Srivastava on Custom Models, and Building the Inference Cloud",
+      "url": "https://www.youtube.com/watch?v=XAbKflCncDo",
+      "upload_date": "20260501",
+      "published_at": "2026-05-01T08:00:00+08:00",
+      "topic_buckets": [
+        "模型与研究",
+        "AI 基础设施",
+        "创始人与产品策略"
+      ],
+      "slug": "20260501-baseten-ceo-tuhin-srivastava-on-custom-models-and-building-the-inference-cloud"
+    },
+    {
+      "source_id": "y-combinator",
+      "source_label": "Y Combinator",
+      "source_type": "youtube",
+      "title": "Recursion Is The Next Scaling Law In AI",
+      "url": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
+      "upload_date": "20260501",
+      "published_at": "2026-05-01T08:00:00+08:00",
+      "topic_buckets": [
+        "创始人与产品策略",
+        "Agents 与应用",
+        "宏观产业与未来判断"
+      ],
+      "slug": "20260501-recursion-is-the-next-scaling-law-in-ai"
+    }
+  ]
+}

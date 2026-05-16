@@ -1,0 +1,1518 @@
+原文： https://www.youtube.com/watch?v=x9BNBcP_C7Q
+
+Codex is one of those things where three
+months ago, six months ago, it was
+trash. If anyone from OpenAI is on the
+call and listening to that, I stand by
+that 100%. If you have a great
+generalpurpose coding agent on your
+computer, it's actually really great for
+any kind of knowledge work. If it can
+write software on its own, it can do any
+kind of knowledge work on its own.
+&gt;&gt; When I sign on during the day, Codeex is
+the first thing I open. It is pulling in
+whatever I need from Gmail, Slack,
+[music] Notion, Stripe, all of our data
+sources. It's where I spend like 80% of
+my time working overwhelmingly because
+the app itself is just so good.
+&gt;&gt; There's a new operating system for how
+and where you're going to get your work
+done and it's this kind of agent
+management interface.
+[music]
+Hello everybody. Welcome to Codeex Camp.
+Codeex for knowledge work. Psyched to
+have you. Psyched to have you on this
+auspicious GPT 5.5 day after release
+day. Hope you're doing well. Um I'm here
+with our head of growth, Austin. Austin,
+say hello.
+&gt;&gt; Hello.
+&gt;&gt; We're psyched to have you. We are
+psyched to do this. Um Codex is one of
+those things where,
+you know, three months ago, six months
+ago, it was trash. Um, and if anyone
+from OpenAI is on the call and listening
+to that, I stand by that 100%. Um, and
+it was really built for
+um, senior engineers uh, doing pair
+programming. So, it was um, it would
+argue with you, it would make you feel
+stupid. It was just it was like a little
+autistic like it it didn't have any
+emotional intelligence.
+And I think OpenAI had this interesting
+strategy or this interesting theory
+starting with GBT5 that your vibe coding
+was going to happen in chatbt and that
+was where all that stuff was going to
+live and then senior engineers are going
+to use codecs to like do all their
+programming work but we're going to
+hobble the model so it doesn't do
+anything bad. It's in a sandbox all that
+kind of stuff. And I think basically
+what happened is Anthropic figured out
+that
+having a model that's pretty usable and
+fast and smart and also emotionally
+intelligence intelligent on your
+computer that can access your computer
+um is a really really great experience
+for programmers. And it means you could
+throw away a lot of the old uh stuff
+that you used to have in a in a
+programming environment where you it was
+built for typing code. You could just
+type commands into your terminal and
+then it would start working. And then I
+think what Anthrobic figured out is if
+you have a great general purpose, if you
+have a great coding agent on your
+computer, it's actually really great for
+any kind of knowledge work. If it can
+write software on its own, it can do any
+kind of knowledge work on its own. And
+we started to move from this world where
+programmers had been delegating um had
+been delegating their tasks starting to
+delegate their tasks inside of cloud
+code to now any kind of knowledge work
+is being delegated inside of cloud code
+and cloud co-work and all that kind of
+stuff. And I think openai they had this
+original split. It's like oh you're
+going to do all your vibe coding in
+chatbt and I think they saw what was
+starting to happen with cloud code and
+over the last maybe three months or so
+they have done this hard pivot on co
+codeex where it has gone from a senior
+engineer only tool that is really for
+pair programming um to I think like it's
+it is my daily driver for this kind of
+work um I uh I I use codeex for
+everything from deep engineering stuff
+to writing to recruiting. I do a lot
+actually do a fair amount of recruiting.
+It's really good for that and I'll give
+you some use cases um later. But they
+[snorts] sort of figured out that
+um having this general purpose agent on
+your computer with the ability to write
+code, the ability to access your file
+system, the ability to have a browser um
+and wrapping it in a desktop app is like
+the ideal
+uh ideal next step for knowledge work.
+And I think that they built the best
+current version of that. Um, and it what
+it is starting to snap into into focus
+now is that there's a new operating
+system for how and where surface for how
+and where you're going to get your work
+done. And it's this kind of agent
+management interface. And that's whether
+or not you're using cloud code or cloud
+co-work in the desktop app or codeex in
+the desktop app. It's becoming this race
+between the model companies where every
+each model company has their own surface
+like this for agent management, a
+desktop app for agent management that's
+at its core a programming agent that's
+used for knowledge work. Um, Anthropic
+has cloud code and cloud co-work.
+OpenAI has codeex. XAI recently um
+essentially bought cursor um
+and uh and Google is the only one that I
+mean they have anti-gravity but I don't
+think no one is seriously using it for
+that yet but I I imagine Google will do
+this too and that's the race that is the
+race that's happening and so I think for
+us who gets who get all the benefits of
+uh being able to use these tools
+uh it's really important to uh be be
+bouncing around between these. So like
+using for example using codecs so that
+you can feel what it's like to work in
+an agent first world because once you
+add once you add an agent that is like
+the your primary way of accessing and
+using software and the internet and all
+that kind of stuff, it opens up all this
+interesting stuff that wasn't possible
+before because you can send your agent
+out to go talk to other pieces of
+software and come back and um you know
+we can get into into more of the details
+there but I want to get into like the
+more of the concrete use cases but
+that's the world that we're starting to
+live in. You're doing work on your
+computer through codecs or co-work.
+And um and your agent is your interface
+to a lot of the work that you're doing
+and a lot of the a lot of the software
+that you use and a lot of the stuff that
+you do every day. And uh that's actually
+really fun. It's really cool. There's a
+lot of good stuff here. And so I wanted
+to uh I wanted to bring Austin in to to
+help do this because Austin is our head
+of growth and I think he had his real
+agent pill moment. You tell me Austin,
+but probably like three or four months
+ago and the agent pill moment was really
+cla
+on a on a Monday morning being like, "Oh
+yeah, I just was on my computer all
+weekend. Like I I was like 12 hours a
+day. didn't go out or anything because I
+was using cloud code and um you started
+to use it for all those all the kind of
+knowledge work tasks that a that a
+growth marketer would and over the last
+couple weeks as we've been using 55 and
+I've been telling you for a little bit
+you should try codeex it seems like
+you've you've actually just shifted
+everything over to codeex and 55 and so
+I think you're a great person to talk
+about you know sort of what you're
+seeing and how and how that is uh how
+that is um how how this has changed how
+these agent management interfaces have
+changed your workflow and then why you
+like codecs and then I would love to get
+into some demos of your actual codec
+workflow so that we can sort of see
+things uh from your perspective.
+&gt;&gt; Yeah, that sounds great. So I um yes, my
+like agent pill moment was spending a
+week going deep into cloud code in the
+CLI uh probably in like December into
+January, hooking it up to everything I
+do for work and for my personal life and
+finding that I I use Warp as my like CLI
+interface. um and finding that the
+things it could automate, the things it
+could handle for me, and then the way it
+could work as a thought partner to make
+my work better. It was like this is the
+only way I want to do the kind of
+knowledge work that requires um
+strategic thinking and uh data analysis
+and shipping marketing copy, like a
+bunch of stuff that can get you spread
+out across a bunch of apps and tools
+during the day. And in maybe in
+February, you you kept nudging me to be
+like, "You really should try Codeex.
+There were things you liked about it."
+And if someone says that at every if
+anyone on the team says that, like, I'll
+go try it. And I like to push myself and
+play around with more engineeringy
+tasks, especially to see what these
+models are capable of. And so I tried to
+build a personal vioded app in Codeex
+because that was one of the things that
+you said that it was really good for.
+And my immediate response was like I
+think it is better at building the app,
+but I can't tell because it's nothing
+has ever made me feel more stupid than
+codeex like two months ago. Like I
+always I use compounded our compound
+engineering plugin that Kieran Classen
+made for basically everything including
+knowledge work, but especially if I'm
+trying to build an app or ship a PR to
+the to the site. So I made a plan. in
+the plan it comes up with like three
+questions and uh for like which
+direction we should go and uh I had no
+idea what the hell it was talking about.
+It was like do you do one of any of
+these three and every question? And I
+was like, "Please explain this to me um
+in more detail." And his response was
+basically like, "Why?" Like, "Why don't
+you just do what I'm recommending?" And
+I found a way to I I basically stayed in
+codeex for all engineering stuff because
+I I did like the results even if I
+didn't love working in it. But I would
+say 80% of what I was reaching for was
+was cloud code in the CLI. And when we
+got our hands on the new GPT model a
+month ago, the the the the first thing I
+felt was at the very least there's
+parody between the latest Opus model and
+the latest GPT model for the kind of
+knowledge work I do. There's a few
+things that Opus does better. There's a
+few things that that Codeex does better.
+That feels a little more specific to me
+even like I I outside of design, which I
+still really trust Opus for. um it feels
+a little more like, oh, there's some
+stuff I like better than this. But the
+real differentiator to me is that to me
+there's no comparison for how fast and
+powerful the codeex desktop app is as
+just like an app compared to the claw
+desktop app. Like I have never been able
+to get uh co-work to work for me. And I
+think it's because I've been kind of
+ruined by the codeex app. It's so fast.
+The sub agents are so good. the way in
+which it suggests and then um ships
+automations for me is just like it I
+can't imagine not using it. I wouldn't
+be surprised if any week the cloud
+desktop app is like just as good, right?
+like um they could ship versions where
+it's faster and better, but I I'm now at
+the point where when I sign on during
+the day, I codeex is the first thing I
+open. It is pulling in whatever I need
+from Gmail, Slack, Notion, Stripe, all
+of our data sources. This morning I was
+like, "Oh yeah, we need to do a run of
+show for this camp." I messaged Codeex.
+I'm like, "Make the run of show." It
+knows exactly where to look because
+we've already had conversations about
+what we're going to talk about today. It
+pushed it to notion. It sent it to
+Slack. It was perfect. It was like, "Oh,
+yeah. This is exactly what we should
+do." And um yeah, it's where I spend
+like 80% of my time working
+overwhelmingly because the app itself is
+just so good. And then the model has now
+gotten good enough to be the daily
+driver for me.
+&gt;&gt; Yeah. And I I feel I feel the same way.
+Um I'd love to get into and and for
+people someone who someone asked, are
+you we discussing the app or the CLI?
+We're discussing the app, the desktop
+app, and and I think you're making a
+good point that uh both of these
+companies, I think, sort of see the
+endgame here and they're pushing in the
+right direction. And for a while at
+least, it's going to be a horse race
+where every couple every couple weeks or
+every couple months like one is going to
+pull ahead and have this like sort of
+amazing thing going on and then there
+the competitor is going to uh like
+Anthropic for example I think will
+release something in a couple weeks or a
+couple months. I don't have any inside
+information into this but that will make
+it at least parody if not better and
+they're just going to keep trading. Um,
+and at some point I think that'll slow
+down and you'll end up with sort of
+separate ecosystems, but for now they're
+actually fairly easy to switch between.
+It's not it's not trivial, but it's
+pretty easy. Like you can kind of ask
+codeex, hey, can you go grab all my
+cloud stuff? And it'll go do it.
+&gt;&gt; It I think it it feels that way when you
+do it. It's funny. I'm in I'm in New
+York right now. I usually live in LA.
+Most of my friends who are in the
+knowledge work space have been asking me
+about like what they should be using.
+They're all clawed code or cloud desktop
+app build. And when I tell them that I
+have fully transition to codeex, this
+like look of horror shows up on their
+face and they're like, do I? They're
+kind of like, do I really have to? And I
+of course tell them they don't, but I'm
+like, you really should right now. You
+really should. Like I think you would
+get a big benefit from it. And I've been
+showing them why. And it's it's
+interesting and and to me unsurprising
+how resistant people have been to it
+because the when you're a knowledge
+worker and you have all these new tools,
+the cloud desktop app is is game
+changing. It's amazing, right? So the
+idea that the codeex app is maybe 30 to
+40% better is like that's a lot of work.
+Um which we can get into kind of how I
+migrated. I can show some of that. It
+was very easy and the ways that I'm uh
+starting to use it. So I'm happy to dive
+into that and start sharing my screen
+and show
+&gt;&gt; why don't you share your screen? Um, I
+think yeah, I I kind of agree with you.
+It's more of like an emotional thing of
+like, oh, I have to learn a whole new
+thing or whatever, but it's it's pretty
+similar. Yeah, I would love to see some
+of your workflows.
+&gt;&gt; Cool. So, um, this is the Codex app. I
+was going to do like a very very quick
+tour. I think a lot of the audience has
+seen it, but kind of like where I go and
+how I use it. Um, one thing I love about
+the Codex app is like I do think it's
+much better organized than the Cloud
+Desktop app. my the ability to have
+these folders with persistent consistent
+chats inside of it that I can go check
+out. And then especially like the big
+differentiator is that because I do
+think this is much better for
+engineering for like occasionally I will
+ship a PR for one of our products. It's
+great to not have to switch between uh
+the cloud code, the cloud desktop app
+and codeex that I can be here. I can be
+working on our improving our KPI sheet,
+which I'll like show what I was doing
+here. And then I can go down to plus one
+and ship a PR for plus one. And um the
+other thing I found because I did I
+tried the new ver like I tried the
+update to the cloud desktop app last
+week when they when they shipped it and
+the the stress test I put on it was make
+a go to market plan for our new product
+and ship a PR to Sparkle in different
+chats. And it it was so clunky and slow.
+And when you do stuff like that inside
+of codeex, it just works. Like it just
+works really quickly and and well and
+and that's the thing that like once you
+start feeling that, it's very hard for
+me to turn away from it. So I have these
+different folders for um some like
+vibecoded apps that I play around with
+for fun for my personal open claw where
+I can go and manipulate it here. And
+then the one with all of the chats is
+this like every growth OS. All this is
+is a folder with a bunch of um secrets
+and keys. So, it's connected to
+everything we use for every and then
+some project instructional files that
+explain what the every business is, what
+we care about, how we like to work
+together. Um, it has some like reviewer
+agents inside of it that are all
+informed by how compound engineering
+works. Inside of compound engineering,
+uh, Kieran's plugin, there is a compound
+engineering review step. once you do
+some work um that reviews for like
+security and a few different things that
+are oftentimes not as helpful for like
+I'm doing a strategic plan for a go-to
+market initiative and so inside of here
+there's like a fork for it for strategic
+alignment with a company goals for data
+um data accuracy and uh having that
+inside of this folder means that as I'm
+making plans I can get reviews uh from
+the model in like a targeted way um And
+so the first thing I wanted to show is
+like how I was talking to our our
+editor-in chief Kate yesterday to show
+her like how I would recommend getting
+started in codeex. And this is my
+recommended prompt. I I'm happy to put
+it in the chat for people. We can uh put
+it in the email as well. Um and so all I
+did was I'm putting in the prompts here.
+I only have post and panelist access so
+I'll send it later or something.
+&gt;&gt; You can't um read. Okay. Yeah, maybe
+read it out. We can all agree that
+housing is expensive. Rent or mortgage
+doesn't matter what you're paying. It
+stings [music] every month. But Built
+can make it feel a little better. Build
+started out by rewarding members [music]
+for their rent. Now, as of 2026, Built
+members can also earn points on mortgage
+payments wherever [music] they live.
+Every housing payment earns points you
+can use toward flights with top travel
+partners like United and Hyatt, Lift
+[music] Rides, Amazon.com purchases, and
+so much more. This is actually pretty
+cool, and I have some friends that use
+[music] this and like it a lot.
+Something that's underrated is that
+built members also get access to a
+[music] neighborhood concierge. They can
+make restaurant reservations, book
+fitness classes, and find new local
+spots, [music]
+all while still rewarding you at 45,000
+merchant partners. It's like having a
+personal assistant baked into where you
+[music] live. It's simple. Being a
+renter and now owning a home is better
+with built. [music] Make sure to use our
+URL so they know we sent you. And now
+back to the episode.
+&gt;&gt; Yeah. Yeah. Um, okay. I can zoom in as
+well, I think. There we go. Um, so
+through the plug-in tool with codeex, I
+had went in and man and like did the
+manual clicks to connect all the tools I
+use every day like Gmail, Slack, notion,
+and then I went to a new chat inside of
+this folder that was built through cloud
+code. Cloud code built this whole every
+growth OS system. There's a cloud MD
+file in there and it's saved locally.
+it's also um synced and then pushed to
+to GitHub and so I just opened that
+project inside of Codeex when I started
+working here and I uh start a compound
+engineering brainstorm workflow because
+it is again just kind of like a thing I
+reach for of let let's think about this
+thing together me and the me and the
+model and basically what I said is like
+go take a look at the things I use the
+most which are notion Slack and Gmail
+and think of some automations that would
+help me with my work I I find that when
+I'm trying something new, whether it's a
+model or an app. Um, having an agent,
+having a very smart frontier model, like
+tell me how to use it, tell me what it
+should do is like exactly where I want
+to start rather than thinking of it
+myself. And I usually start here.
+Sometimes I will describe a very
+specific problem. But this is very
+helpful for me and I think a good
+generic prop for people to start with.
+And uh, Codeex comes back. It looks at
+what's going on for me and for the
+company right now. And um I thought
+these were really good that like um it
+has this kind of follow-up radar. This
+is a big thing that happens with people
+who do knowledge work, who do
+partnerships, who do social media
+marketing that there's all this stuff
+coming at you across a bunch of
+different sources. Like what if it
+handled the triage for you? Um what if
+it had this kind of like command sensor
+when we run a a camp or an event which
+usually requires a bunch of moving
+pieces and moving parts? uh like Dan
+mentioned for recruiting and hiring. We
+don't use a tool like Ashby or
+something, we kind of have it all synced
+through notion because uh apps like this
+and agents can kind of like handle a lot
+of the pipeline and tracking work for us
+and you can just ask it to automate it
+for you. And so it it does that and it
+asks me like which ones look good, what
+do you want to tweak? For the for the
+sake of this demo, I didn't give it any
+real feedback. I was like, "Looks good."
+And um this is actually the thing I've
+I've always been most impressed with
+codeex for and and for the models is
+that it's like great, I made this
+automation for you. And I do find that
+they just work incredibly well. They
+require very little tweaking to be like
+this is a thing I would and do use every
+day of there's this set of instructions
+that it comes up with based on what it
+knows about me. I can change when it
+runs. I can give it additional insights.
+I can connect it to other things, but
+mostly it just works. There's there's
+one that works for me that just at the
+end of each day now compiles all of the
+stuff that I haven't responded to yet.
+Drafts the replies and we can kind of
+like knock it out together of what to
+say or like actually all I need to do is
+just give like a thumbs up Slack
+reaction to something and it'll do that
+for me. It's kind of like a like a dumb
+agent. Like I think of agents like this
+is like the dumb ones that just do the
+right thing every time and then the
+smart ones like an open claw or a plus
+one the products we have coming that's
+like you'll work back and forth with it
+and like have a have like a more of like
+a creative strategic partner and Codex
+is good at building both and I can I can
+show kind of like the smart agent setup
+but if someone is looking to be like can
+I see what this thing can do to help me
+with knowledge work I would start here
+in like a brainstorming automation state
+because it is And I think you'll also be
+surprised by how fast it is and you're
+like, "Oh, I'm starting to get what this
+thing could do."
+&gt;&gt; This is so sick. I Your your codeex
+usage is far surpassing mine in terms of
+interestingness. Uh [laughter]
+I'm getting a lot of ideas. Um I want to
+just actually pause here. Normally we
+take questions at the end, but I think
+it would be kind of interesting if you
+have a question about what Austin has
+just showed. it would be nice to let
+people come up and um just ask a
+question or two just to see what the
+vibe of the room is like. Um so please
+raise your hand uh if you have a
+question and we will uh call on you. Uh
+Margaret, welcome. Uh please uh
+introduce yourself and ask your
+question.
+&gt;&gt; Hi, can you hear me? I'm Margaret. I'm
+in Plymouth. Um and my question is what
+is your review step look like? So it's
+um saying don't send postarch archive or
+modify without explicit approval. So
+what does that look like? Is that like
+do you call up say hey let's do the
+review flow now or is it doing push
+notifications to your phone or what?
+Thanks.
+&gt;&gt; Yeah. So um for this what I prefer and I
+was actually talking to a friend at
+dinner last night who said they did the
+same thing on their own. They came up
+with this too is like everything I I
+work primarily in codeex. I do all the
+drafting and setup in codeex and then
+it's helpful for my brain to have the
+final review step actually live in the
+external app. So it will draft all the
+Slack messages and then I can go to
+Slack where Slack has that like draft
+reply um tab and I can go and knock them
+out. And I do find that it it like uh
+freshens up my my brain a bit to be like
+here's where I'll just make sure that
+this is what I want to send to a human
+being. Uh same thing for email. It like
+creates all of these drafts in uh in
+Gmail and I'll actually go open Gmail
+and look at them and and knock them out.
+I I know some other people who just have
+it actually come up inside of codeex and
+they're like, "Yeah, sure. Send it. It
+looks good there." Um I do the same
+thing for strategic planning. it pushes
+to a either proof doc uh the the like
+agent friendly markdown file that Dan
+made or a notion doc. I use them for
+some different things and I I just like
+for like the last pass before humans
+engage with it to step away from this um
+agentic space and have a final check in
+another surface. That's really the only
+time that I'm like leaving the app to do
+something.
+&gt;&gt; That's brilliant. Thank you.
+&gt;&gt; Sweet. All right, we'll do one more and
+then we'll keep going. Alex, please uh
+uh introduce yourself and ask your
+question.
+&gt;&gt; Hi, uh my name is Alex. I'm a musician
+and uh I I do a lot of gigs and get uh
+emails from clients all the time. Uh so
+I have to sort my leads from, you know,
+my newsletters and all thatformational
+stuff. So, how do you make sure that you
+prompt um uh codecs to um keep those
+emails safe for me, the ones that you
+know that require a personalized
+response and and um I just want to make
+sure that you know I don't send
+something that, you know, loses me money
+or something.
+&gt;&gt; Yeah. Um, so for me personally, I rely a
+lot on Kora, the internal like the the
+app that uh Kieran runs at every for
+like the AI email assistant that's a
+part of the every subscription. It's
+it's really helpful now that inside of
+Kora there is a um like a CLI and an API
+connector that I can work in codeex and
+tell it tell Kora which is managing my
+email filtering and uh my email rules
+what I want and what I value. Um, the
+way I do that is the same thing I would
+recommend whether you use Kora or not,
+which is to have the agent interview you
+to get an understanding of what the
+rules should be. I always find that I
+get a better result rather than saying
+what I think the rules should be. Um,
+and so I will I'll do a brain dump using
+Monologue, our speech to text app,
+saying, "Here's the problem I'm facing.
+My email's a mess. Let's figure out how
+to triage it." I think it would work
+perfectly well if you wanted to try
+starting it as an automation in in
+codeex or a rule in codeex of saying
+like I think these are the things I want
+to make sure I get I think these are the
+rules I want to set of like never send
+anything for me only draft I think I
+want to go through all emails at 3M on
+on weekdays but um go take a look at all
+my email go do a search spawn sub agents
+to do a search I'm always telling codeex
+to spawn sub aents to do different types
+of work um across different workflows
+and then um come back with a plan. Uh
+come back with a plan for like how
+you're going to set up my my email and
+then um you can read the plan and see,
+oh, it looks like it's actually going to
+um brief or summarize or autoarchchive
+something that might lead to making
+money for you. And that's where you can
+tweak it. And then uh the other step I
+take is that I set um reminders for
+myself um in I use to-d doists for all
+of my like reminder task tracking. It's
+also connected to codeex. So I can just
+message codeex or message my open claw
+and say like just add this reminder to
+my schedule to to check how the new
+automation is working um and like do do
+an audit of it so you can see like it's
+been 72 hours. Let's see if I'm see if
+I've missed anything. You can prompt the
+model to see like what have you been
+archiving. And I find that really
+helpful. But I I I'm really excited by
+all of the work our product GMs at every
+have been doing to make it so that I can
+just prompt codeex or cloud code or you
+know inside of cursor any agent to
+manipulate those apps how I want. It
+works really well with with uh our other
+tools also.
+&gt;&gt; Thanks Alex. I will I will add to that
+like one of the things that we found
+basically because Austin started doing
+it I sort of was like oh that's really
+interesting is that Austin started we
+have plus ones which is our hosted
+openclaw and Austin started setting up
+his plus ones with codecs and cloud code
+and realized that it's just a much
+better experience so rather than for
+example the earlier version of plus ones
+we had like a whole dashboard and a
+whole onboarding experience
+where you had to kind of manually click
+a bunch of buttons and give it a lot of
+context. It's much easier if we just
+expose um plus ones via a CLI to uh
+codeex or cloud code and then you can
+just like talk to codeex and it will
+take everything it knows about you from
+your computer and your past
+conversations and throw it into um throw
+it into a plus one setup and and
+Austin's showing this and it's it's like
+a it's really powerful and it's it's
+part of what I'm saying about how the
+world is changing when you assume every
+user has access to an agent like this.
+uh because we don't have to have a
+settings dashboard. We don't have to
+have an onboarding experience. Um we
+don't have to gather as much context
+manually. It can just be given to us for
+free by codeex. And that's really
+interesting.
+&gt;&gt; Yeah. One of my favorite use cases was I
+got I got really inspired by this
+interview Clarebo did with Lenny where
+she said how much of a breakthrough she
+had when she stopped trying to just use
+an individual open claw as like a master
+supercharged open claw and had this
+suite of six like specified open claws.
+I think that applies to any kind of like
+agent like there's the new uh chatbt
+like provisional agents like I I got
+hooked on that. I think Cla's point was
+really good and my path towards making
+this suite of agents to help with the
+growth function at every was just going
+to codeex going to this folder. Um I I
+actually just sent it the transcript of
+Claire's interview with Lenny and said
+like I want to do this too given
+everything you know about me and my
+work. Um make a plan to suggest six
+agents that we should provision into our
+Slack. Um, consider the fact that we
+might want to make some of them notion
+custom agents, which I find work really
+well, is just like do the same thing
+every day, every time. Some of them
+might need to be smarter automations,
+but like do that, come up with a plan.
+The planet made was really good and like
+I tweaked it a bit um after seeing it,
+but there's that. And then now I have
+this suite of six agents in our in our
+Slack that that work really well for me.
+They still break. Like I I find when
+you're making open calls and personal
+agents right now, like they're going to
+you should accept they're going to break
+a bit. But the really powerful thing is
+that rather than going back and forth
+with the agent or getting frustrated, um
+I just go to Codex and I'm like I I
+either screenshot or I can at Slack in
+Codeex and say like go find this
+conversation where this stupid thing
+happened and fix it. And it it does a
+really good job of just like changing
+the architecture of the agent and making
+a fix from there.
+I love that. Um, yeah, it's it's just a
+it's such a it's such a step change in
+how you work and uh now now I want to
+paste that CLA interview too.
+&gt;&gt; Um, [laughter]
+&gt;&gt; I want I want to show one I want to show
+one thing that I like this is like kind
+of actually my favorite way to use this
+stuff for for knowledge work. Um, it's a
+thing that I like wish I had for so much
+of my career because this is one of the
+most like time consuming to me like
+frustrating things about about knowledge
+work is that we are uh doing a a real go
+to market market public launch for plus
+one soon. We're very excited about it
+and we've been having a bunch of
+internal meetings and Slack
+conversations around like how are we
+taking this to market? What is the
+strategy? What are we going to do? Um,
+and we've done all of the work that like
+kind of like only humans can do, the
+like marketing case, the business case,
+the like the narratives and stuff. Not
+all of it is as refined as it needs to
+be because it still needs to be refined,
+but it's all sitting somewhere. And um,
+I had all these plans this week to make
+the go to market plan, which is like one
+thing I'm responsible for. And an
+inevitable thing that happens that
+happens in everyone's job is like all
+this stuff came up like I've got to do
+interviews for hiring. We found out the
+release date for the new JBT model. Um
+and so I had a day I think it was
+Tuesday in between meetings where I'm
+just kind of like I'm prompting codeex
+this way of hey I I I've kind of done
+most of the work right like in our
+notion every meeting is recorded in a
+single place and all the transcripts are
+there. We've can we talked about this a
+bunch in Slack. I have a template for a
+go to market plan that I really like and
+I can go to codeex and say like could
+you just make the plan like and in my
+head what I'm thinking is like maybe
+it'll get like a six out of 10 or a
+seven out of 10 and we can keep nudging
+and I can keep like going along and so
+it uh it does that. What I'm asking for
+is like why don't you start by make
+doing the compound engineering
+brainstorm step to to just ship a proof
+doc and I can see how close you are and
+um I one thing that it doesn't really do
+super well unless I tell it to and I
+want to install this as like a a
+workflow is it it doesn't go read our
+calendar of upcoming posts and launches
+and so as it was going I was like oh you
+always forget this this is the message
+I'm sending of like actually look at
+everything that's scheduled because I
+have to account for that in the go to
+market plan Um, and then it makes a uh
+makes a plan as a proof talk. I went and
+looked at it and I was like again I I
+maybe have five minutes in between
+meetings and I'm like this is really
+good. Like you kind of have every you
+have the architecture enough that um I
+want you to like factor in one other
+change and then just ship the plan to
+notion. and the plan it shipped to
+notion. I was reading it and I was like
+this is basically
+80 to 90% of the way there. And that's
+that's not because it I'm relying on the
+model to come up with our go to market
+strategy. It's that I'm relying on the
+model to um look at all of the things
+that we've already said and thought
+about the go to market strategy, piece
+it together, and then review it, right?
+Come with what will work with what's
+not. There's a lot of important context
+loading that happens here where like it
+knows what our target ICP is. It knows
+what our goals are. It knows how we
+think about narrative positioning. And
+before this was possible, the only thing
+I could have done was either block off a
+whole day to sit and do this or get done
+with my work for the day at like 6 or 7
+and then stay up all night writing this.
+And this has been such a game changer
+for me. And the the other part of it
+that I think I found is really helpful
+is that I I don't make this plan for
+humans. I make this plan for humans and
+agents and primarily for humans to
+understand through agents. And so when I
+sent it to the team working on the go to
+market, they can read it and it's like
+digestible to humans. But the the thing
+that it's really helpful for is like
+it's the full plan sectioned off
+allin-one. And so Brandon, our COO,
+who's like deep in this product, can ask
+his plus one, can ask codeex, you know,
+it's called code, like let me know what
+Austin's plan is, like summarize it for
+me. Let me know the business case.
+Brandon has to come up with the pricing
+modeling for the plan so he can work
+with an agent against the plan. And um
+as someone who spent so much time in my
+career thinking about like literally how
+the the proposal or go to market
+document looks like how is it going to
+look when I present to the CEO like this
+two-page plan for for like a for a
+budget I'm asking for like is it going
+to make sense to their eyes and like
+really fine-tuning stuff. Giving up on
+that and just saying like is the plan
+really good and is it going to make
+sense to like Dan's agent if he approves
+it. Um for to me makes me work faster.
+It makes the work better. It means that
+I don't have to think about all this
+like kind of dumb stuff that doesn't
+matter. Um that like it's to me a much
+more like powerful and fun way to work.
+&gt;&gt; I totally totally agree with that. You
+said so many things that are interesting
+there. The first one is just normalize
+sending agent documents around. Um and
+that's why we have proof. Uh it's just
+such an easy way to send the markdown
+documents that we generate to each other
+and and to review them together. And
+it's like there I think there's this
+whole strand of AI stuff that's like
+make AI write in your voice. We even do
+this with Spiral, but there's this other
+strand of just like normalize AI writing
+because I would actually prefer to read
+your agents writing than your writing in
+a lot of cases because I know that it's
+just easier for you to get all that that
+thinking together in a format I can read
+if you if you have your agent write it.
+The thing I care about is do you stand
+by it? Have you thought about it? And if
+I talk to you about it, will it be clear
+that if I talk about a particular bullet
+point in it, like you've thought that
+through? And as long as we have the
+trust that that's going to be the case,
+then I absolutely prefer the the agent
+version.
+&gt;&gt; In the future, humans face a new
+problem. What do you do when your
+computer is doing your work for you? One
+answer, take a claw walk. An idea by
+every
+[music]
+the only subscription you need to stay
+at the edge of AI.
+&gt;&gt; Totally. Like uh my friend Rachel Carden
+who runs the great like Substack
+newsletter link bio about uh social
+media had had a really good piece this
+week about frustrations for um uh people
+working in social for like every like
+this pressure they feel that everything
+has to run through AI and the quality
+going down and one reason why is that
+there's that dichotomy of like what do
+you actually stand behind like are you
+running something through AI and you
+like you know maybe your manager did it
+and they don't even know what it what it
+said. And uh the thing I love about
+working at Every is like you you show up
+to a meeting, you you've like shared an
+AI um written document ahead of time and
+the expectation is that you're going to
+stand behind all of it. That someone
+will ask a question of what's in that
+document. And you if you say like, "Oh,
+I didn't even know that was in there."
+It's like you're you're you're exposed,
+right? But the other nice thing is that
+we continue to keep investing in skills
+and workflows and tools to kind of
+ensure that never happens. Like I have
+rules inside of this project file to be
+like if uh don't don't add anything that
+I haven't like said in another context.
+I want your suggestion. Send your
+suggestions to me in the chat, but don't
+put it in a in a document. And like um
+depending on how big the context gets,
+these models can follow or not follow
+those rules, which is another reason why
+I always leave codeex for that final
+review before it goes to the like humans
+I work with.
+&gt;&gt; Yeah. And I think that that that last
+thing that that that I want to point out
+that you said is like a lot of the time
+that you spend working is about taking
+thinking you've already done and putting
+it into a form that other people can
+read and consume.
+And the important part is doing the
+thinking
+there. There is something obviously
+about like I love writing. Writing is a
+good way of thinking. Um, and sometimes
+you actually want to do the writing
+yourself because you want to think about
+it for certain types of things and
+certain types of people, but there's a
+lot of stuff like company strategy where
+a lot of the thinking happens out loud
+in meetings. And there's also times like
+for example, I'm writing something
+that's sort of like a it's like a
+retrospective on the last three and a
+half years of AI and like where I think
+we're going. And
+that's so hard to sit down and write,
+but it's much easier to just like
+dictate. So, I just took a monologue
+and it I'm using the AI to help me like
+figure out what I'm really trying to
+say. And in in those cases, I think it's
+just so nice to record stuff, give Codex
+access to everything, and then just have
+it spit out a strategy doc and go
+through it to make sure it it's stuff
+you agree with. But it's um such a
+timesaver. And especially if you're
+someone who like Austin or like me, like
+you're in meetings a lot and so you
+don't necessarily have huge chunks of
+time in your day to like go do a big
+strategy document because you're just
+trying to stay on top of whatever is
+happening. It helps you do that in the
+cracks of your day and do a lot of that
+thinking. And I just I love it for that.
+&gt;&gt; Yeah, me too. Um, I want to show one
+more thing before we get into more
+questions because like I wanted to show
+kind of like a a more like mix of
+knowledge work and engineering stuff
+that like would never have been possible
+without these kinds of tools and that I
+really love codeex for which is I've
+been rebuilding our um KPI tracker every
+week. Um, I'll just like show it here
+for a bit. So um we have so many
+different parts of our business at uh at
+Eb and uh it's very difficult to
+get all of those um data points in one
+source of truth in a traditional tool
+like even postg which I really like and
+a lot of our data runs through it to get
+one dashboard that is again both human
+and human and agentf facing that is up
+to date with all of the metrics we care
+out. I I haven't found a great solution
+for just like, you know, going to post
+and having it having it do it. So um we
+I've been rebuilding our KPI sheets
+inside of notion with the goal in mind
+of any anyone can point their agent to
+look at it and see how are new paid
+subscription trials doing how are page
+views doing how is uh monologue iOS MR
+doing all versus plan all of this stuff
+because one it helps you work as a human
+but it also really helps you automate
+agentic work so that you can say like if
+your agencies that we're tracking behind
+and on SEO for a keyword we should be
+winning on, they can go just like ship a
+bunch of landing pages for us to try to
+win more on it if the if the source of
+truths are good. And so I have been
+doing this big kind of like to me
+complex uh workflow problem in codeex of
+let's build this sheet together, let's
+have it live in a notion database that
+all of our agents can point at. And I've
+done a bunch of different versions of
+it. The first version was like can
+codeex oneshot this, right? like it has
+all the API keys, it has everything. I'm
+happy to give it the context on like how
+we measure MR and everything. And each
+time it was like a little off. It was
+like maybe 5 to 10% off of the
+formatting, the numbers, the framing.
+And our MR MR number can't be 5% off.
+Like we can't run a business with a
+source of truth that's even 3% off. It
+has to be just exactly right. And so the
+thing that I forced myself to do and
+it's weird now I'm like it feels so
+stupid that I have to do this but it
+makes sense is like I'm going column by
+column end to end to ensure each column
+is exactly right and defensible because
+it's the only way that we can run and
+grow the business reliably and
+especially the only way we can we can
+confidently unleash agents to go take
+actions against what's happening in that
+KPI sheet. And um it's it's like it's so
+interesting to me that I'm frustrated
+that I have to do this that the that the
+model can't do it for me. Um but it's
+just because of how like powerful these
+models are gotten that I expect it to be
+able to do it. But um and this is a
+thing where I'm like you know it's using
+um notion's workers tool which is this
+like dev tool. It's a build always on
+tool calls of our stripe of our social
+um it's like creating little scripts and
+stuff all stuff I don't really
+understand but I understand the outputs.
+I understand that the output is a notion
+database that updates every six hours
+with all of our metrics and it's just
+nice that I can do that and I don't need
+to hire a consultant to do it or like I
+don't need to like um uh yeah take away
+from our uh like our engineers times
+that that work on our data like I can do
+this now and I can do it just by like
+prompting the model and understanding
+how the metrics are supposed to work.
+&gt;&gt; It's amazing. Uh, I can't wait. Is the
+Do you think it'll be ready on Monday?
+&gt;&gt; It'll be ready on Monday. Yeah. [ __ ]
+yeah.
+&gt;&gt; Feeling really good.
+&gt;&gt; Because we've been I mean just having It
+turns out that figuring out how much
+money you're making and how much you've
+grown is truly a philosophical question,
+you know? Um, and you actually do need
+to like go in and like set that frame.
+Um, and so we've been dealing with an
+outdated sheet because it's like it's
+pulling numbers, but is are the numbers
+correct? you know, even even outside of
+AI. Um, and and there's no one way to,
+for example, measure your MR, you just
+want to do it the same way every time.
+So, you have to decide. And, uh, that's
+kind of it's kind of wild that it's like
+almost impossible to tell how much money
+you made in an objective way. You have
+to just like pick. But anyway, uh,
+that's just the way my brain works. I
+want to say before we get into
+questions, one other thing that I use
+this for that was it like blew my mind
+from a knowledge work perspective is
+recruiting. So, we're hiring a lot
+and we were looking for an L &amp; D head of
+L &amp; D, someone to help us run courses.
+And there's this company in New York
+called General Assembly. And when I
+think about people who've run like
+really great courses about technology to
+teach people how to get hands-on with
+like programming or design or anything
+like that, like they're the company that
+I think of from the like 2010s in New
+York. And so I
+my theory was that if we're hiring
+someone to do like build our courses,
+they would probably have a good person
+probably would have worked at GA and
+Jason. Yes. Um
+and
+I think GA's quality has gone up and
+down, but at the beginning they were
+amazing. Um, and uh, so what I did was I
+just said to Codex, "Hey, like can you
+find can you just get a list of GA
+alums? I'm like hiring an an L &amp; D
+director and then I want you to filter
+and sort the list by people who have
+subsequently gotten into AI
+and it did it like it just gave me a
+list of people. The first one I clicked
+on, it was like I was like, "This guy is
+perfect." And then I looked and he
+followed me on Twitter, so I just DM'd
+him. And like I don't know if we're
+gonna end up working with him, but like
+it was just one of those holy [ __ ] light
+bulb moments where normally what we're
+doing is sorting through a ton of
+applications and like trying to find the
+right person. And I we're still going to
+do that, but especially for any kind of
+like outbound effort, it can kind of
+find that needle in the haststack that
+you're looking for really really well.
+So, I highly highly recommend um okay,
+we've got about 10 minutes left. Um and
+I want to take some more time for
+questions. So, if you got a question,
+please uh uh please raise your hand. One
+thing that we have not gotten to
+actually is that if you are here, you
+are getting codeex credits. Uh Austin,
+do you want to uh go through that really
+quick?
+&gt;&gt; Yes. So, uh OpenAI has given us a code.
+I'm about to drop into the chat for 250
+attendees of this camp to get a free
+month of ChatGB to chat GBT Pro lights.
+That's about a $100 value. Um, and you
+can redeem it at this link that uh we
+will drop in the chat right now.
+&gt;&gt; Sick.
+&gt;&gt; Dan Dan, I'm actually gonna I'm going to
+slack it to you so you can drop it in
+the chat because for some reason I don't
+have access.
+&gt;&gt; Okay, I'll do that. Um, so yes, this is
+this is our gift to you as every
+subscribers. We try to do stuff like
+this all the time. We've been we've
+given out I think we've done um cursor
+credits. We've done we've done a lot a
+lot of other stuff. We have more stuff
+like this coming. So we just want you to
+be able to try these tools. Be at the
+edge with us. And um we just love having
+you as as subscribers. So here is the
+link. It's $100. Oh, notion. Yes, we did
+give out Notion. It's $100.
+um
+and
+uh check it out. We will send it out in
+an email. We may actually we may not
+send it out in an email because it's
+only 200 it's limited to 250 people and
+that's pretty much exactly the number of
+people who are here. So if there's any
+left we will send it. Um if there is one
+person there's 251 people here. So
+there's
+if uh that person if you let us know
+we'll figure something out for you. Um
+interesting. Not available on my plan.
+Um
+okay. Uh we will have to deal with this.
+Uh let us
+let us figure out what to do what to do
+here. So
+correction this is only if you do not
+have a plan. This is for new users and
+we'll try to we'll try to get something
+for existing users and send it out as
+soon as we can.
+Cool. All right, let's do some
+questions. Um
+Rich, please ask your question.
+So I I saw at the beginning you were
+using compound engineering as kind of
+part of your workflow.
+Are you using kind of like the
+offtheshelf plugin or is there tweaks to
+it and kind of where does that work and
+maybe not work when you're outside of
+the you know kind of code creation
+workflow?
+So I I find that there's no um
+overwhelming need to fork your own
+version of compound engineering. I used
+it for a long time um for all of my
+knowledge work and it was extremely
+powerful for me. And then um maybe about
+two months ago, the the main thing I
+noticed was reading the agents response
+to especially the review stage of
+watching the reviewers that Kieran and
+Trevan had built that are very specific
+to engineering.
+It I was like, oh this like the thing
+you'll see the agent do is say like um
+I'm supposed to go through through this
+review step. It looks like it's designed
+for engineering. it's thinking about
+security and front-end design when this
+is a go-to market plan. The agent will
+then like change the path. The agent
+will be like, I'm going to review this
+for something else rather than reviewing
+it for security. And so the thing that I
+did was I went and forked a version of
+it that is actually um publicly
+available on our GitHub called compound
+knowledge which is uh built exclusively
+from me taking the compound engineering
+plugin which is also public and you can
+go for it and going inside of I think I
+started in cloud code now I update it
+update it in codeex and saying like I
+want to tweak this to general knowledge
+work. And this is the thing I was I was
+referencing around the like reviewers
+being much more specific to knowledge
+work around like strategic alignment and
+and data accuracy. I think more than
+anything, this is like a really fun way
+to learn um and a fun way to like kind
+of like push yourself on using models.
+You're welcome just to go use this one.
+We'll include it in the in the follow-up
+email to the camp. Um but I think it's a
+cool like I learned a ton just by doing
+this. I had never made like a plugin
+like this before. Um, and to make your
+own version of say you do like social
+media marketing and you want to make
+sure all the reviews go through your
+style guide, your like past performance.
+Um, I I got a ton out of operating this
+way. If you just want the compound
+engineering to make your work better, it
+absolutely works really really well for
+knowledge work just kind of out of the
+box.
+&gt;&gt; Got it. Yeah. No, interesting.
+particularly using kind of all the the
+end of step pieces like compound that
+that's still
+apparently a valuable step for you.
+&gt;&gt; Yeah, the compound step is is really
+valuable. We have um inside of our
+notion a goto database of after you're
+done with a session um you can send the
+learnings from the session to actually a
+teamwide shared compound source of
+truth. Um, whenever I'm done with any
+session in codeex or cloud code, the
+agents are instructed to ask me, should
+we compound this, save it somewhere for
+the learning, and should we turn any
+workflow from this session into a skill
+so that we um can just do it
+automatically each time?
+&gt;&gt; Got it. Cool. No, I'll check that out.
+Thanks.
+&gt;&gt; Cool.
+All right, Rory, please introduce
+yourself and ask your question.
+&gt;&gt; Hi, my name is Rory and I'm in your
+head. Um, are there anything uh about
+the way you work at every um like maybe
+taking some time after meetings like
+getting them a few minutes early so that
+you can do those things that
+um you'd recommend to teams that are
+adopting workflows like yours?
+Is that clear?
+&gt;&gt; Uh yeah, I think so. Like um but to say
+it back to you, like what what I'm
+hearing, which is like a very real
+challenge here, is that um it's that
+it's so exciting and tempting and
+alluring to like spend a lot of your day
+playing with stuff. also spend a lot of
+your day continuing to push on like if I
+just get this automation right or this
+tool right, my work is going to be like
+a hundred times better and easier. And I
+actually find myself a lot like on a lot
+of days spending most of my time not in
+meetings trying to build really good
+tools and automations that work well and
+not making the time to do the actual
+like tasks that have to push the the
+business forward like like uh shipping
+the social posts for the day or or
+whatever. And I I don't really have like
+an awesome answer for it outside of the
+fact that like the the playing around
+one is like kind of core to how we
+operate at every it's it's a thing that
+Dan like pushes all of us to do. It's
+one reason why I love working here. It's
+also like to me the best way to learn
+and and makes me better at everything I
+do. And then um the the the only kind of
+like guidance I've given myself is that
+like these automations in codecs keep me
+on track to get the work done so that
+when I'm too deep in um in like playing
+around and building this like there's
+like a social automation tool I'm
+working on that I've been like deep in
+for a while. Um the codeex automations
+make it so that I like you know make
+sure Brandon gets what he needs for this
+like um some like bisdev plan we're
+we're doing. I I do find myself
+overindexing on learning and and playing
+because of how exciting and powerful the
+models have been and that more I have to
+p like continue to pull myself into the
+the like required day-to-day tasks and
+the the urgent stuff that's happening.
+&gt;&gt; Yeah. And I I also sort of read your
+question, Rory, and you tell me if this
+is wrong, but as like how do we do more
+of the AI stuff, the more of the playing
+even to even get started on this stuff
+in our day-to-day uh if we're like busy
+all the time. And I and what are the
+organizational practices that we have
+for that? And yeah, I just think like
+Austin said, like it's just like a
+culture. It's a cultural thing. Um we
+just love playing around and that's like
+that's part of our job. Um, and I think
+there's this
+there's this thing happening right now
+where the tools and the workflows are
+changing so fast that
+just focusing on how your job currently
+works, you can run as fast as possible
+and someone using a new tool with a new
+paradigm and a new workflow is just
+going to beat you by default. And so if
+you just give yourself some time to play
+around, it may feel like a waste of
+time, but you're leveling yourself up to
+a different game at a different level.
+And I think that's really important. And
+some of the organizational practices
+that we have to help people do that are
+really around. And so one of the things
+we do twice a year is called think week.
+Um and we just literally don't do any of
+our day-to-day work and we just spend a
+week together just like playing around
+with new stuff and building stuff and
+learning and and being together. And you
+don't necessarily have to do a whole
+week of that, but um I think it's really
+good to maybe do that once a quarter for
+a day or something like that. Um, and
+just give people this the time and space
+too if if you can.
+Sweet. Um, all right y'all. So, that is
+our program for today. Thank you for
+coming. Uh, we love seeing you. We love
+doing this with you. Remember, every is
+the only subscription you need to stay
+at the edge of AI. We would love it if
+today you would go tell one of your
+friends to go subscribe to every. Uh, we
+want to get more people in here. We just
+think we're we're right at this amazing
+point in history where we get to surf,
+ride this big wave together and figure
+it out together. And um, please please
+tell your friends.
+&gt;&gt; See you.
+&gt;&gt; Thanks y'all.
+&gt;&gt; Oh my gosh, folks. You absolutely
+positively have to smash that like
+button and subscribe to AI and I. Why?
+Because this show is the epitome of
+awesomeness. It's like finding a
+treasure chest in your backyard, but
+instead of gold, it's filled with pure
+unadulterated knowledge bombs about chat
+GPT. Every episode is a roller coaster
+of emotions, insights, and laughter that
+will leave you on the edge of your seat,
+craving for more. It's not just a show.
+It's a journey into the future with Dan
+Shipper as the captain of the spaceship.
+So, do yourself a favor, hit like, smash
+subscribe, and strap in for the ride of
+your life. And now, without any further
+ado, let me just say, Dan, I'm
+absolutely hopelessly in love with you.

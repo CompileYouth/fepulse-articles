@@ -1,0 +1,1504 @@
+原文： https://www.youtube.com/watch?v=hNUEaFmPAwc
+
+[music]
+&gt;&gt; Steve Ruiz is the designer, founder, and
+CEO of tldraw, an IDE for the infinite
+canvas in the modern web. And he's
+hailing from London.
+And I'm thrilled to have him here. So,
+please give him a warm Thank you. Warm
+welcome to South Park Commons.
+&gt;&gt; [applause]
+&gt;&gt; Um Steve, let's start off just with
+tldraw. What is tldraw? What does it
+stand for? Um
+and we can kind of take it from there.
+Uh tldraw doesn't stand for anything.
+Uh
+I mean, I guess symbolic politically we
+do. Um but uh it's
+I I actually bought the domain before I
+recognized the TLDR. And I bought it for
+something else.
+&gt;&gt; [laughter]
+&gt;&gt; Uh but no, it's a
+it's a it's a tiny little drawing app. I
+think that was the first thing that it
+stood for.
+Uh and that's all it was when I started
+it. It was like an open-source library
+for
+building infinite canvas apps like Miro
+or Figma.
+Um
+there wasn't any open-source for that.
+And I had a couple of months and
+uh was really into it. And so, that's
+what I
+I kind of fell into.
+Um but it ended up being very popular.
+Ended up being something that I guess a
+lot of companies, a lot of teams wanted
+to build something like that. Like um
+And and I think it it caught the
+attention of like the Adobes and the
+Figmas of the world.
+&gt;&gt; Yeah, yeah, yeah. Which is like if I
+recall quickly, that's how you and I
+first met, right? I think so. Yeah,
+yeah. Yeah, because Figma Well, I was
+I mean, this was open-source. I was
+working at a
+uh design tools company um Play in New
+York, which is just shutting down or
+shutting down that product. Um
+But yeah, like there's not that many
+people who know about this domain, like
+the infinite canvas. It's a pretty
+gnarly domain from like a design
+perspective and a
+programming perspective and just
+performant. It's like all the hard
+problems that you have, distributed
+systems like multiplayer, all that [ __ ]
+Mhm. Uh but I was really into it. And I
+was posting about it on Twitter at the
+time. And uh it attracted a lot of
+attention both from people who were just
+following me as I tried to figure out
+how to get the uh
+the shapes to rotate, you know, around
+the center. You got to got to rotate
+each shape around its own center.
+And then you rotate all the shapes
+around the center. And if you do both of
+those,
+Steve has built a Twitter following
+around [laughter] like exceptional GIFs
+sort of displaying like how arrows
+should sort of work around containers.
+Yeah. And um it he's a I I I often like
+describe him as like a world's foremost
+expert on arrows.
+&gt;&gt; If you if you like linking lines,
+I I I I will I will talk to you about
+that. Linking lines all day. But uh uh
+yeah, but it attracted the interest
+interest of
+folks like Figma.
+You know,
+suddenly Scott Belsky is in my like DMs
+being like, "Hey, you should you should
+come work at Adobe." Um And so, the
+embarrassing story is I was tasked by
+Figma to go and close
+Steve and have him join Figma. Um and
+so, we meet up in this lovely cafe in
+London. Um I hadn't realized he was an
+expat. And in over the course of that
+conversation, I learned that you were
+also uh an MFA grad, like a fine arts
+grad student, which we'll get back to
+you. Um
+but over that arc, I realized like this
+guy cares a lot more about tldraw than
+like either of these two outstanding
+offers. And so, I think that that was
+kind of like where we left it off. It's
+like, "Hey, man, if you want to work on
+this third side quest, like I I'd love
+to support it. I think it's actually
+pretty neat." And um you were it sort of
+seemed like that was already kind of
+where you were headed anyway.
+&gt;&gt; I think it had By that time, it had
+So, by that time I had I had quit my
+contracting position just to go
+full-time on it. And then like the day
+after I did that, um I had a a very
+large telecommunications company be
+like, "Hey, we're building a whiteboard
+and we want to build on top of what
+you've built.
+Uh it's not open-source yet. Can I just
+give you lots of money in order to do
+it?" And yes, I'll accept lots of money.
+Should have asked for more.
+Uh
+And then like it but I'm like it's a it
+has to be a sponsorship. Like I don't
+the IP needs to be mine. Like you just
+give me the money. I'll give you access
+to the source code. I'll call you once a
+week. But otherwise, I want to just keep
+working on this.
+Uh but that was very encouraging. And
+then I I started getting other companies
+kind of
+reaching out being like, "Hey, we've
+been talking about doing this thing for
+months or for years.
+But it's always been too big of an ask.
+Like can we just jump onto onto tldraw?"
+So, by the time that we talked, it was
+already like a little bit too much
+momentum to like turn away from. I knew
+I would either like sell it or kind of
+merge it into another company
+or or spin up my own company or or do
+something.
+But it was like the snowball had started
+to to snowball
+um
+a little too much at the time.
+And I seem to recall you also had a
+vision for tldraw that was a little bit
+different than what I think like the
+incumbents kind of saw in the infinite
+canvas. And so, maybe talk start with
+with the with that. Like why why is the
+infinite canvas important? And how is AI
+starting to feed into your vision for
+for what it means? Yeah, so I um
+I was not early on on AI.
+However, I was like early on I mean, I
+was coming from a design tools
+background.
+So, I I
+you know, been a huge user of Figma. I'd
+been a huge, you know, user of
+like Whimsical and and and Miro and all
+these other like kind of collaborative
+whiteboardy type of type of tools. And I
+was I was pretty up on, you know, what
+the team at InVision was working on uh
+with Freehand and Miro and so forth. And
+I'm like,
+man, like
+these use cases are like people love
+this.
+People like love it. Uh like
+collaborative
+infinite canvas whiteboard, whatever. Or
+at least the people who love it really
+love it.
+And and [clears throat] the use cases
+that were on the market were just so
+limited and so kind of like conservative
+like in the sense of like just yeah,
+it's a whiteboard or it's a design tool.
+I'm like,
+you have this like 2D direct
+manipulation like this could be so many
+things.
+Uh
+And after talking to teams that were
+like especially after teams started to
+reach out to me, I was like, "Oh, it's
+not for like lack of desire or lack of
+trying even. It's just like the canvas
+is really hard.
+And and folks don't like
+yeah, like it's like I don't make maps.
+I don't make text editors. I don't make
+data grids. Like there are these certain
+things that I don't want to build. I
+want to
+use. I don't make
+UI frameworks. Like I I use
+whatever the worst UI framework is
+&gt;&gt; [laughter]
+&gt;&gt; at the moment. Uh
+And like yeah, I it just seemed like
+there was an opportunity in the market
+to to do this and also just an
+opportunity to like crack
+this uh
+modality, this kind of
+um UX paradigm.
+And get some some really far out stuff
+in it. Like the I think when I was
+pitching, I would just say like, "I
+don't think we've like seen the
+the the killer use case for a canvas
+yet. You know, like yes, we have like
+big companies that are using this. But
+like I don't I don't think we've seen it
+yet."
+And I I did not have AI in mind at the
+time. But it's turning out that like
+wow, a lot of the tools that are good
+for communicating with other people
+are good for communicating with with
+AIs. And
+the kind of the great UX experience for
+if you want to
+collaborate with a lot of people at the
+same time,
+uh
+you jump on a whiteboard. Mhm. And that
+also turns out to be really the case
+with AI and agents as well. Um in in a
+way that is like
+Like I I've been to the future. I've
+seen it. It's awesome. Like, you know, I
+we had like our our 15 people from our
+company all on the same whiteboard.
+Every
+person from the company had three little
+agents that they could talk to and
+command that were spatial. They they
+were like had places on the canvas. And
+they had a kind of a
+foveated context, you know, to see the
+things that they were near more than the
+things that they were far away. Anyway,
+so uh 45 little agents, you know, plus
+15 people all on the same canvas. It was
+just normal. It was just like it was
+chaos, right? But it was also just
+normal. Like all the UX just worked for
+that situation. Yeah. Um
+So, if you ever want to play with that
+uh that project, it is uh
+&gt;&gt; [clears throat]
+&gt;&gt; fairies.tldraw.com.
+Um
+We
+&gt;&gt; it it looks cartoony. Yes.
+&gt;&gt; But it it genuinely does feel like a
+glimpse of the future, being able to
+work with virtual agents in a canvas
+environment, task them with things to
+do, and they're sort of moving around
+with you constructing stuff in real
+time. And it's wildly emergent and kind
+of like leverages all the things that
+are incredible about these frontier
+models.
+Yeah. I mean, the models are absolutely
+not good at this type of thing yet.
+Hence why they're fairies and not um
+like just terribly ineffective uh
+colleagues, you know, uh virtual
+collaborators. But but it they like
+I don't know. It it's one of those
+experiences where
+it's been like the first time I used
+Figma or something. It's be like, "Oh,
+well, this is obviously something that
+is going to be a Yeah. a a part of
+certain workflows or certain, you know,
+ways of people working together. In this
+case, people work together and working
+with
+um with with agents. And what are some
+of the more surprising like practical
+use cases that you've seen people build
+on top of tldraw? Because there's
+obviously the things that are
+public-facing that we can sort of go on
+the internet and try it ourselves. But I
+imagine there's probably a lot of like
+internal use cases, too, right? What
+what sort of been the the species of of
+products that have emerged because you
+provided this infinite canvas SDK? Yeah,
+it's really far out. Um one of my
+favorite is actually Observable. So,
+Observable is like the
+you know, they have the folks behind
+like D3 or the visualization, it's data.
+Um
+You know, if you go to a New York Times
+election article, right? They're they're
+using a bunch of stuff um
+probably from from Observable.
+Uh
+It was always one-dimensional notebooks,
+right? Like they're kind of like Jupiter
+notebook style um way of of defining
+data and then then visualizing it,
+manipulating, and so on.
+And uh
+they have a new product, like the
+Observable Canvas, where it's basically
+the same thing, just not
+one-dimensional. It can branch. It can
+go off, you know, you can say like,
+"Take this data set, like perform this
+query, and then do like various
+uh you know, visualizations or or
+subqueries or something off of that. And
+if you change something, sorry, I can
+see the graph. I don't know about you
+guys. Uh if you change something kind of
+at the root of this graph, like it'll
+just ripple out to all of the all of the
+leaves and stuff. It's fantastic. And it
+like so many of the the things that we
+would do as designers in in Sketch or
+Figma or other tools
+work so well in that context. For
+example, just, you know, uh a designer
+will
+um
+like a Figma file kind of eventually
+looks like a graph because you want to
+do these iterations really quickly.
+Um and then compare them against each
+other. Same thing with the the data.
+It's like a lineage, right? You sort of
+see ideas. Yeah, you want to Exactly.
+And and it's not just the data, it's not
+just the final design that's important.
+It is like how did you get there, you
+know, which decisions which did you
+make? And it's awesome that we have a
+medium that allows you to kind of like
+have that trace.
+But um
+like we were on a on a call, they were
+showing me this, and that there was two
+different visualizations of the same
+data. And I'm like, "Oh, you know what?
+If you just drop the opacity of the top
+one to 50% and just drag it on top of
+the other graph, like suddenly you have
+this emergent feature,
+you know, that that none of us made, but
+to to visually compare two two graphs on
+top of each other."
+And and
+you know,
+the whole team kind of lost their mind.
+They're like, "Oh, you know,
+&gt;&gt; [laughter]
+&gt;&gt; I've always wanted to do this."
+So, uh that's a great one. Uh we've had
+God, people making uh
+Like there's there's a surprising amount
+of
+&gt;&gt; [snorts]
+&gt;&gt; moments within a bigger app where a
+design tool is needed, but it's like it
+can't be the full app.
+And um design tools are very,
+you know, tough to just kind of drop in.
+Uh so we had a company that was doing
+like direct mailers internationally,
+right?
+And you'd have your design, and you
+you'd
+be able to uh convert the
+the messaging, whatever, to different
+different languages, and the currency to
+different languages, but sometimes the
+the currency or the messaging would be
+like longer or shorter, and you needed
+to just adjust the design just slightly
+slightly for those other languages.
+Like I had like that's a lot of work. Uh
+and
+and to build a UI for that, even though
+it's only one step in this very much
+more complicated logistical flow. Um
+yeah, they use tldraw for that, and it
+just
+just works. And and for for folks that
+are working on trying to create
+horizontal layers or like infrastructure
+for other teams to use, what are some of
+the product principles that you apply to
+what gets rolled into tldraw versus
+where you just politely say like, "Maybe
+you should build that within your app."
+Like how do you sort of think about that
+boundary, and how has your thinking on
+it evolved as you've expanded number of
+customers and and and teams that you
+work with?
+Yeah, that that is really tough. And uh
+so so for example,
+there's always going to be features that
+um
+a customer thinks are undifferentiated,
+but I think are not undifferentiated.
+And I'm I'm saying like I can build the
+undifferentiated stuff.
+Um we're learning that you call those
+features enterprise features. You build
+them anyway, and you sell them, right?
+Uh
+cuz they're like, "I do not want to
+build this. I am willing to pay for
+this, whatever."
+Uh
+it's really really tough to
+synthesize a whole bunch of different
+features that other people are asking
+for and say like, "Oh, this is the
+pattern, right? This person's asking for
+like a measuring tool. This person's
+asking for better kind of like grid
+snapping, or this this one's wants to do
+overlays for like a a web editor or
+something."
+And you kind of like spend a lot of time
+squinting and being like, "Oh, I think
+that's like a custom geometry overlay
+thing, like, you know, uh
+let me try this. Let me try this. Let me
+try this."
+I think the
+it's not what I expected, but uh
+I mean, tldraw isn't it's an NPM
+package, like you just install it. It's
+just like normal web thing, right?
+Um which I'd never seen anyone
+effectively sell. Like normally NPM like
+the code is open source, and then you
+build products on top of it.
+And we have this whole open core model.
+I think the thing that we learned on the
+go-to-market side is just like
+figure out a way to charge for the thing
+that people care about.
+Like whatever the the meatiest part of
+your IP is, like put a price on that. Um
+tldraw is has
+it's like a license It's like it's crazy
+what
+I we got away with or something. But
+like if you wanted to use tldraw, like
+you get a license key, a trial license
+key, it's 100 days.
+Use it at the end of that, like if
+you're a small team,
+you get like a a cheap license.
+Um couple thousand bucks. If you're a
+bigger company, then you talk to our
+sales team, and and we do we negotiate
+every price. There's no price on the
+website.
+Uh and if you're if you're like an
+indie, if it's a side project, we'll
+just give you a hobby license.
+Um
+but that like
+uh number one, boy am I happy we did
+that because
+uh
+the
+that model of building things on top of
+an open source project, like that's
+gone. Like I mean, that got like I don't
+know if you guys followed or on Twitter
+as much as me, but like yeah, like you
+saw what happened with Tailwind. Like no
+one no one it's not going to
+it doesn't work anymore.
+Um yeah, how are you navigating like all
+these business model changes? Cuz I'm
+sure there's like a you know, there's
+this um citywide angst around like,
+"Well, wait, if I am a seller of
+software in this new AI regime where
+a lot of AI can now just reproduce
+software sort of while we sleep, um what
+is it that I'm selling exactly? Like how
+how are you currently going from the
+world in which like tldraw was created
+into this new market that's emerging
+where we have agented customers,
+software just in time as you need it,
+and you know, what role will the
+infinite canvas play in this new
+paradigm?"
+I'm I'm expecting by the end of this
+year to have one of our sales go end to
+end
+where we are talking entirely to an
+agent.
+Like where they're including the
+negotiation of price and all that stuff,
+right? Um
+however, I think
+I'm not sure. I have a I have a view,
+and it may be um
+Let's hear. a view that's overly
+influenced by my own uh investment in it
+being true or something like that.
+Um and a tiny bit of your investment as
+well. Uh
+I think the when when when I'm talking
+to teams and
+you know, convincing engineers not to
+build something is actually quite hard.
+To say like, "You you don't build don't
+make this code, make this other code on
+top of it." Um
+and the the the argument is always that
+like, "You're you're good engineers. You
+could make this. Like there's nothing
+special about me or my team. Maybe maybe
+a little bit in that like
+this is the stuff that
+whatever, I obsess over, whatever. But
+either way, like technically, from a
+technical standpoint, any team could
+kind of build something like tldraw.
+It's just that you wouldn't. Um
+number one,
+like
+the the approach to building a product
+is very different than approach to
+building like a small part of a project
+product. Um the motivations when you're
+building an SDK are to like actually
+solve as many problems as possible uh at
+a level that if I was just building a
+product, if I was just building a a
+canvas for data visualization or
+something, I would just skip off of as
+many things that I could punt on as
+possible, I would. Because that's not
+the point. Um and so the argument to to
+them is like, "Well, number one, you get
+it today instead of having to build it.
+But number two is that like it's it's
+just goes deeper than you needed to go,
+and your users will benefit from that.
+And it'll keep getting better underneath
+you over time.
+And like [clears throat] if you
+contracted this work out, there would be
+no team in the world that you would
+rather contract it to than than the one
+you're talking to. So like
+uh compared to that, compared to what I
+would charge you to build this thing,
+like you're
+you're getting it very cheap. Uh
+now, I think AI
+engineering is going to
+change that somewhat, but like all the
+fundamentals are still the same. Like
+you could build this. You could, you
+know, like uh ask your agents to spin up
+a canvas or whatever.
+But like in the same way that
+like you just
+it would it would be a a superficial
+solution, and I think it would
+matter to the users.
+And if it didn't matter to the users,
+then then absolutely go for it, right?
+Like I wouldn't expect to sell anyone
+anything that doesn't matter to their
+product anyway, right?
+Uh
+and wouldn't you rather, I guess, be
+like
+having your agents build on top of
+something that you know is good rather
+than like also having them build on like
+the underlayers [snorts] for that?
+Like again, I don't
+like if I need a UI framework, I don't
+like I guess I could probably ask Claude
+to like, "Hey, build I don't like React,
+build me something else, right?" You
+know. But like like why? Yeah. Um And it
+seems like you're codifying some of
+these best practices. In some respects,
+some of these design decisions that
+you're making around the infinite canvas
+are becoming like the lingua franca for
+diagramming, for interactive
+diagramming, for how
+intelligence cascades through diagrams,
+right? Tell me a little bit more about
+like, you know, the lead up to the
+present and where you're hoping to take
+it over the next, say, 6 to 12 months.
+Yeah, I mean, the goal was
+to try to synthesize the the pattern,
+right? The like the the premise was that
+the infinite canvas as a as a UX
+paradigm, right? As a type of
+application or a thing that you would
+recognize inside of an application is
+essentially commodified.
+That anyone in the room would be able to
+identify it.
+And then [clears throat] anyone in the
+room coming to a canvas
+uh
+or at least most people, anyone who's
+used a couple of these things before
+would like
+know how to use it, would know how to
+select things, know that like if you
+hold shift and click on things, you're
+going to select multiple things, or if
+you hold alt and drag something, you're
+going to like create a copy of it.
+Um
+and that I could I could synthesize
+those off of all the other canvases and
+that that are out there.
+They're they're actually turned out to
+be a lot of variants within those
+products and and different things that
+are implemented in different ways.
+Like a crazy amount of of variants.
+Which was great cuz then I got to make
+the decision, right? Of like uh this
+these are the UX choices that are going
+to ripple into hundreds or thousands of
+of products. Definitely thousands by
+now.
+Um
+And do you make these choices like a as
+a benevolent dictator? Like how does it
+work like internally? I'm always
+fascinated with how
+CEOs run their businesses. Like how how
+Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah, like what advice would you give to
+designer CEOs who are kind of
+confronting these kinds of
+pattern decisions? I was I was playing
+uh
+I have a kid. I I bought Legos and uh
+my wife and I were just playing the
+Legos um together and uh
+and and I I I
+kind of she had built something and then
+I I reached over and I just started like
+fixing it,
+right?
+&gt;&gt; [laughter]
+&gt;&gt; And and like if you if you asked me, I
+would say like, "You know what?
+Actually, that is a better
+castle or tower or something than it was
+before." But obviously, when you're
+doing Lego, it's a it's a game. Like
+it's not about that. Uh
+and it's it's a completely socially
+inappropriate
+to [clears throat] behave as if it is
+about the end product rather than the
+Yes, exactly. Uh
+Uh but it's uh
+as a founder, there there's still the
+same social uh
+expensive social capital or expensive
+reputation or whatever, but you have to
+do it. Uh-huh. And and I'm I think
+there's different camps. Yeah. And I'm
+in the camp of like
+impose your taste
+like a like a con, like a like a
+like
+like Yeah, like uh
+you know, try not to terrorize people,
+but like
+&gt;&gt; Right.
+Yeah. Like it actually is about the end
+product. Uh
+it's not about the the journey. Yeah.
+So, yeah, I think um
+there have been
+especially since we sell a code product
+and the code itself is part of the
+surface area of what I consider the
+product.
+&gt;&gt; Yeah. And I've gone to to great lengths
+to make sure that the decisions there,
+the APIs or whatever are
+are good and opinionated and like make
+sense.
+&gt;&gt; Mhm.
+Uh
+but on the other hand, you know, sure,
+I've I've had some I've had my my share
+of like, "What the
+&gt;&gt; [laughter]
+&gt;&gt; Who came up with this?" Like this works.
+Why are you obsessing over this detail?
+And it's just like, "Come on, just
+I want it to be good. Uh so And so this
+approach, how does it lend itself to the
+way you hire? Cuz I feel like so much of
+like you know, this is where you're at
+and this is where a lot of these
+startups are at. The company that you
+build is really the team that you
+assemble. What what is sort of your
+unique take on finding folks that are
+like-minded, that are the the merry band
+to work and obsess over the infinite
+canvas? What are the qualities that
+you're sort of seeing repeat themselves
+and rhyme with every person you bring
+onto the team? God, hiring is I I know
+everyone
+says this, but it is true. Like hiring
+is like hard. Um
+Boy, I I think it's a I I try and hire
+like the same person, the same type of
+profile across all roles. Um and that's
+something that I I started with and then
+I got away from and then I've come back
+to.
+Which is kind of a um
+generally full stack, someone who's
+uh at least competent across
+most tech areas, who who leans more or
+less towards uh
+front end. Mhm.
+Um
+but who like spikes in in in various
+places, right? Spikes in design, spikes
+in infrastructure, spikes in like um
+developer experience, things like that.
+I've tried to hire people who've had
+some sort of ownership over a product
+before. Okay.
+Open source maintainer being like the
+best kind of profile for that. Someone
+who's like
+had to deal with the community, had to
+like triage issues that they didn't
+create themselves about something that
+was still theirs. But but someone who
+had to make the logo for the thing,
+&gt;&gt; And presumably have a track record that
+you can go and scrutinize and sort of
+see
+&gt;&gt; Yeah. how they went about it. That's
+nice as well, but
+even folks who've who've done that same
+thing in a inside of a
+company where I can't look at the code,
+like
+it's still like having to come up with a
+name for stuff,
+you know, like that that level of
+ownership is like not everyone does
+that. Uh you can you can have a whole
+career, especially inside of larger
+companies, without having to like
+uh
+stand behind Well, maybe not. I don't
+know. I've never worked in big big tech.
+Um but that
+&gt;&gt; [laughter]
+&gt;&gt; It sounds like uh I'm told that you can
+you can get away with
+not having something be like
+expressive of yourself in some way.
+Yeah. Um and having that kind of like
+personal
+investment in or just relationship to
+the thing. Yeah. Um
+so yeah.
+Now, winding the clock back a little
+bit, Mhm. you started off your career in
+fine arts. You um
+I I feel like the term generalist gets
+thrown around a lot in in in tech in the
+Bay Area. And with you, I feel like you
+set a new standard for me uh of like
+what actually constitutes a generalist.
+Um
+you are self-taught designer and
+developer. And so to the average
+audience member, somebody across the
+street, they wouldn't intuit that
+somebody who is a CEO would necessarily
+come from that background.
+How did that happen? Like what what What
+sort of took you from a fine arts
+background to helming this business? And
+what along the way do you feel like is
+actually central to the work that you
+do?
+Yeah.
+Uh
+I'm going to I'm going to compress the
+the It's It's It's big Okay.
+So,
+I I I studied
+fine art
+uh in undergrad. I I I studied fine art
+at
+University of Chicago and for grad
+school.
+Um
+I was a
+practicing artist, like exhibiting
+artist. I His work is phenomenal, by the
+way. You should check it out online.
+&gt;&gt; Uh
+I'm famous on Twitter this week for for
+notebooks. So, hit me up if you're a
+notebook person. We'll
+We're going to talk about his Twitter
+game in a minute. Uh
+um
+but I I also wrote a lot about about
+about fine art. And then as a day job, I
+worked doing I was like human ChatGPT
+for like lawyers. Like I was like a
+research assistant for attorneys. Huh.
+So, I had this like uh and I also kind
+of built
+portfolio websites for other people or
+maintained them, but but they were very
+lightweight
+WordPress websites, right? I didn't know
+how to code, but I I did know how to
+I was familiar with the way that things
+worked on the internet a little bit.
+Uh
+moved to England.
+Different laws
+in England than in Chicago. So, uh there
+went my day job uh and
+after like 2 years, 1 year and a half,
+had a studio, was still making work, but
+you know, I was now like 4 years out of
+grad school and I was like, "All right,
+I want to kind of combine this
+creativity, like visual creativity with
+with the kind of the more analytical
+side that I'd previously done Yeah. for
+my my day job. Um
+and
+got into design,
+got into product design, got into
+prototyping. Uh But but how? Cuz it's
+like it's like there's these extremely
+simple WordPress websites. Extremely
+intentionally and aggressively. Like I I
+actually was going back to some of my
+earlier um
+notebooks just to take pictures for
+Twitter.
+Uh and I was like, "Wow, I I was like
+[ __ ] like lasered into this. Like,
+all right, if I'm going to do a career
+change, if I'm going to shut my studio
+down, I'm not going to [ __ ] around. Like
+&gt;&gt; Yeah. Like You're burning the boats.
+&gt;&gt; I I have been Well, no, it's just that
+like if you talk to like a practicing
+artist, even if they're, you know, your
+bartender or something like that, that
+person is probably working 40 hours a
+week Mhm. and 40 hours a week in their
+studio. Mhm.
+And like not easy work. Like
+like
+whether they're musicians or or fine
+artists or something like even if their
+work isn't like isn't good or whatever.
+Like it's hard to do that. It's like
+intellectually hard. It's like
+spiritually hard to to try and do
+something great
+every time Mhm.
+and and fail at that pretty much every
+time, but that's that's the point. Like
+you don't make like a
+middle of the road painting. Like that's
+you don't go into it with that. You
+don't try and write like a okay song.
+Like you're you're swinging for the
+fences, you know, every time.
+So, uh
+yeah, if I'm if I'm going to shut that
+down, I don't want to be just a little
+I I don't like rectangle drawing guy.
+&gt;&gt; [laughter]
+&gt;&gt; Like I had a lot of energy to go like
+that went into it. Uh and it was it was
+fun to kind of focus that for the first
+time in my life on on the kind of a
+single target.
+Uh
+and yeah, I was like, "All right, no one
+knows how to use uh at the time it was a
+Framer Framer Classic coffee script. I
+don't know if anyone
+Can I say throwback?
+&gt;&gt; It was a good moment in in design.
+It's really good.
+A bunch of people at
+Facebook had made a little JavaScript
+library for quickly making interactive
+prototypes and spun it off into a
+company. Now you can
+make a website. Yeah.
+&gt;&gt; [gasps]
+&gt;&gt; With it and
+&gt;&gt; [laughter]
+&gt;&gt; But like yeah, no one no one knew how to
+do that but it was it was popular. Like
+Airbnb was using it. Meta was using or
+Facebook was using it and
+who else Uber was was using it. This
+idea that like designers should code and
+designers should like
+iterate on the the thing like not
+through mocks but through like
+interactive stuff
+um
+during the design phase or whatever of
+the thing.
+And I'm like all right, no one knows how
+to do that.
+I'm going to know how to like that seems
+great. That'll be my thing. And yeah, it
+was it was it was highly intentional but
+it was like
+like yeah. The right bet to make. A lot
+of study and a lot of like just doing
+the same thing over and over again.
+Yeah. And yeah, it was it turned out
+actually really really good.
+So before doing Tilt Draw my whole
+career was essentially that like I was
+the
+designer who could prototype who could
+work with code
+to finish the design or to to make the
+design in a way that was like
+rather than putting something over the
+wall and the engineers being like hey
+this doesn't make any goddamn sense you
+know
+like this they looked good in Figma but
+whatever sketch or Photoshop at the
+time. Um
+but the usability of this is terrible.
+Um
+and then you'd have to fix it or
+whatever but it's already late in the
+game and like people are mid sprint and
+it just doesn't work. So much better to
+go really really quickly through a
+couple of cycles
+of of at least getting the the flow or
+the interactions and all that stuff
+right.
+&gt;&gt; Mhm. And still having room to like be
+creative in that. Like rather than
+trying to make it work while you know
+someone's like
+Come on man. Right. I'm going to I'm
+going to
+I'm trying to I'm trying to ship here
+right? Yeah. So anyway that that also
+seemed like a
+it was a great practice for um
+it's great practice for startups
+actually.
+&gt;&gt; [laughter]
+&gt;&gt; Where you do want to um
+move very quickly where things don't
+matter very much in the beginning.
+No one's using this thing anyway at
+least at first and so you have a lot of
+and and like you're throwing away code.
+Yeah. Some of it is good code but like
+it's the code that you need and
+all that stuff. And you have license to
+improve right? Like you don't have to
+just stop because you shipped it. You
+can iterate. Fuss with it make it
+better. I think if you're able to trick
+yourself into
+um
+kind of doing whatever you're doing
+performatively in a way like like well
+I'm not really you know like
+&gt;&gt; [laughter]
+&gt;&gt; like you know like this is this is a um
+It's like I'm cos playing as yeah.
+&gt;&gt; you if you can just [laughter]
+get yourself into that mode at least for
+some people
+that is like such a big unlock.
+I'm like I can do whatever I want cuz
+I'm not I'm not really trying to do
+anything here or I'm not really doing
+the thing. I'll do it later you know.
+And then
+so when you know you people have
+invested in your company And [laughter]
+they'll be like yeah.
+You know it's It reminds me that you
+know Dr. Seuss famously you know wrote
+under the pseudonym Dr. Seuss because he
+always felt like someday he would
+produce the great American novel. Yeah
+he didn't want to didn't want to spoil
+his brand. Yeah.
+&gt;&gt; yeah. That's funny. And it gave him kind
+of license to be creative and to do
+things that were world changing. Yeah.
+Um so you know I feel like you and I are
+of a common school of like designers who
+ship of like getting an idea out there
+and iterating on it which is learn more
+in the process of making itself and and
+more importantly you have to kind of
+confront reality head on rather than in
+the safety of the ivory tower.
+Um
+but as
+as you recognize and I'm sure as
+everybody else recognizes the these new
+technologies are are are upending a lot
+of our core assumptions around how
+design works.
+I've been asking this of all the
+designer founders in my orbit like how
+do you think design is going to be
+evolving through all this and obviously
+like how do those answers then kind of
+feed into the work that you're doing
+which is in the medium of design the the
+infinite canvas. Like where do where do
+you think this is all going like what
+what is going to happen to design on the
+other end of general intelligence and
+what lies beyond it?
+I I think I mean we do not have to get
+to general intelligence in order for
+design to be kind of
+dramatically [clears throat] changed.
+It's already like there's a great talk
+that Jenny Jenny Wen did in Berlin
+couple of months ago and then she she
+was just on the on Lenny's podcast as
+well.
+Just talking about like how the design
+process has changed or whatever.
+This is like there was a kind of a
+discourse around should designers code
+and what would design look like if all
+the designers kind of coded [snorts] or
+you know what what what if the whole
+team was you know the same type of
+designer that I was at the time.
+&gt;&gt; course is charitable. I think it was a
+holy war but
+continue.
+Generous. I
+But it was I mean like for folks who
+for
+uh
+Well now now we're getting to find out.
+It turned out that you didn't need to
+train a whole bunch of people how to
+uh code in order to
+get to a place where
+the designer can ship. You know
+I mean my sales people are shipping like
+it is very weird. I shouldn't let them
+do that. I
+&gt;&gt; [laughter]
+&gt;&gt; you know it's like internal tools and
+stuff. Man it's just amazing. It's so
+such a cool time for
+to to have people be
+able to
+take what they know would make
+something better like to find themselves
+in a in a place where they have the most
+context to make a decision.
+And to have the agency to do it. That's
+always been the the the thing between
+like should designers code or whatever.
+It's just like
+can you get the people with the most
+like the best person on the team to make
+this decision
+into a position where they can actually
+make that decision or into a position
+where they can get into a feedback loop
+with the products or with the users or
+something and then influence the
+product.
+And
+you know
+the whole industry
+has tried to do that with
+um
+with a lot of design process
+with pairing with you know designers and
+engineers and mixed teams and all this
+stuff but like
+honestly the best work that's
+like every team that I talk to like the
+the coolest best features in their app
+like came because like essentially like
+one person or two people just went heads
+down and they did it. And and then they
+sort of asked for permission later or
+they kind of like socialized it later or
+something like that. Like every every
+team has that story. Or beg [snorts]
+forgiveness. Yeah exactly.
+You know you take a little bit of risk
+and insert your
+opinions and stuff in in the product but
+and yeah
+I I do think that we're probably in a
+little a moment where
+it's not that there's no there's not
+going to be no process around design
+like of course there's going to be some
+sort of process around design. Um
+but I think it it needs to be a
+if design wants to like survive at all
+which I don't think it needs to um
+I think it's fine to just have like
+developers with good visual sense and
+style guides and AI agents and
+everything that are able to execute
+against that like style guide or
+whatever.
+Like
+but
+you know the the best designers that you
+know
+should
+and I think
+must
+be trying to get themselves into a
+position where they can they can
+influence the product. Like directly and
+be part of that that iteration cycle
+which is going to go very very quickly
+very very
+quickly. And um
+I think the the days of like
+yo let me mock this up for you. Like
+come on like no way. Like
+that was barely here
+you know last year. Uh
+and yeah I like I uh
+I had two very very good designers
+working for me and I let them go.
+Um
+just cuz I was like like
+the the way that we're working is
+doesn't make sense anymore.
+Uh
+and the same profile that I described
+before but just someone who spiked more
+heavily in design
+would be not just like
+twice as influential or useful to the
+company but like a hundred times more
+influential or useful and and more and
+more every week because the tools and
+stuff were getting better and better and
+better. Like that person would have been
+able to go faster and farther.
+So
+um
+that's sort of
+I don't know that's not a very cohesive
+uh response but I think that um
+and someone who always was the designer
+who could influence the product like
+it's actually quite fun to watch other
+like watch the whole industry deal with
+the
+the emergence of a an entire class of
+designers who who are in the same
+position.
+Um and I think it's going to be better
+for software overall.
+But uh
+yeah it's going to
+we're we're like a couple of months out
+from just that entire industry like I
+think having to really reckon with it.
+If you if you find that Jenny Wen
+talk on YouTube
+like read the comment section. It's it's
+just the the place where this discussion
+ended up happening.
+It's like people just sort of
+confronting the reality that years of
+best practices where like the process
+was how you were measured
+was done away with because now we live
+in a world where it's like the end
+result is in fact
+going to be the difference what matters
+at the end of the day. There there's
+good arguments there as well. I should
+say that like some design
+is not
+like like user research
+is horizontal research like you know
+there are
+not everything can be shipped you know
+by
+like after 7:00 p.m. you know with with
+two people and
+some
+white claw or something
+but
+boy all the surprising amount of the
+day-to-day design work absolutely will
+be replaced by
+by that and should be
+that's my that's my hot take and how do
+you think startups will be able to
+differentiate in this new world because
+one thing I have appreciated about teal
+draw and the way that you've approached
+it is you just let your personality
+shine through the entire product and how
+it markets itself how it talks about
+itself
+in in some ways it's like it is like a
+manifestation of you like one to one
+somebody it's it's a creative vehicle
+and I think that part of the appeal of
+teal draw is not simply its
+functionality part of it's like the
+affiliation with like yeah I like like
+this person that's like being kind of
+unapologetically whimsical and him and
+sort of the there's tons of personality
+and authenticity behind all the
+incredible Twitter content he like shows
+us his you know old
+&gt;&gt; [laughter]
+&gt;&gt; beautifully drawn notebooks alongside
+like feature launches
+but [laughter] but but but but in all
+seriousness like what is that kind of
+taught you in terms of like how founders
+need to think about differentiation and
+standing out from from the pack
+so when I I I ended up working for
+Framer as a
+&gt;&gt; [snorts]
+&gt;&gt; design educator so kind of like a
+content creator maybe like a devrel but
+for technical designers
+who who there weren't many and so they
+they pivoted away from that pretty
+pretty quickly
+but I
+at that job I I tried really hard to try
+and figure out okay what actually like
+how do you connect to people like about
+a product especially technical product
+and you know is it is it video content
+is it is it blog posts and you know like
+how do you how do you make stuff that
+people care about and notice and
+like like they they let me go from that
+their investors now so it's it's all
+fine but they let me go from that job
+because I wasn't good at like I couldn't
+I didn't figure it out
+and I think
+there were there were a couple of
+reasons for that I just had a kid
+whatever
+but
+&gt;&gt; [laughter]
+&gt;&gt; Yorn
+but the
+and and and the brand was like really
+advanced or the brand was you know
+Framer didn't have had a beautiful still
+does have a beautiful brand and a very
+kind of like cohesive high
+like a kind of a luxury software brand
+right
+and that was that was really hard to hit
+fast enough
+and so the the thing that I walked away
+from from that was that
+number one
+backlog like normal content creation you
+can create a backlog of content and then
+like that cruise views over time and and
+reputation all that but does not matter
+if you're a small startup especially
+like you own the now
+and then you you own the now again and
+then you continue to to go after the now
+like you're you're you're should be
+looking at the part of the fuse that is
+burning because there's nothing behind
+it like that's no one
+no one
+no one goes to blog posts
+the archive of a startup's blog posts
+and then I don't you know like
+so if you can if you can
+and the only way to to to do that to
+constantly be kind of telling that story
+is to to have a
+a story that is like essentially the
+story of you building the product
+because that your your actual building
+is giving you the material from which to
+tell the story I I post a lot of like
+like gifts and stuff because I I needed
+to I was taking them for debugging I was
+taking them for PR's I was they were
+like the chaff of my development process
+as a visual tool
+and so those just went on to Twitter
+like it was I like I wasn't spending
+time making content I was just kind of
+posting the stuff or or hitting a
+problem or trying to design an API and I
+would start posting about it writing
+about it and then halfway through I'm
+just like I cannot I
+like I can't I'm embarrassed to post
+this because the API is bad like I'm
+going to go fix the API so that I can
+make a better post but I love that
+[laughter] it it illuminated a lot of
+like non-obvious design challenges that
+you were grappling with almost like in
+real time that like there's more to
+designing for the infinite canvas and
+reconciling how does this arrow move
+around this corner like look look at how
+goofy it is in this tool look at how
+goofy it is my tool like how how can I
+actually like solve for this in real
+time and I feel like it was just great
+fodder for people who cared about the
+product and realized like how much
+attention was going into these kinds of
+details and then too for I imagine for
+for future customers and and and
+recruits like this is a place where I
+get to tackle this sort of problem right
+and at the time I I had no I mean it was
+the still the plan was to
+open source it and then go like work for
+Adobe or something like that
+but it turned out to be really good
+product marketing for an infrastructure
+companies just to be like
+like I
+developed a reputation as like the
+person who
+for whatever whatever reason like cared
+way more than anyone else about the way
+that arrows looked in the interactions
+around arrows or something like that
+right or or digital pressure sensitive
+ink was another one that I worked on
+and that like
+if you're if you're in a position to be
+like yeah like
+build on this thing things that I've
+built right like
+that's a that's a very good reputation
+to have
+and I'd love
+I'd love whenever
+I I find someone on Twitter that is like
+obsessed with a particular domains like
+problem space and just won't shut up
+about it
+and I'm just like and when and when it
+when they make it legible where all of a
+sudden like I care about it
+like the
+there's
+has anyone has anyone worked in like a
+high-end restaurant before
+okay
+yeah right on okay
+like I have not
+and I and I've barely ever gone to a
+high-end restaurant [laughter] but I
+there are decisions that are being made
+all around you at any restaurant but
+more noticeable at the high-end
+restaurants that are highly intentional
+highly opinionated and that you might
+not notice but that kind of add up to
+the luxury experience of being at a
+high-end restaurant right
+what does the table look like what does
+the lighting look like you know
+how how are things presented to you
+right like is the hostess walking
+backwards you know as as they're
+bringing you to the table all those
+types of things
+and
+there are
+people like I don't know maybe you
+noticed this when you go to restaurants
+or something like that you'd be like I
+see what you're doing you know like this
+is not like a
+default choice right this is an
+opinionated choice this is like a
+detailed thing and
+any any hard problem space has that same
+same thing whatever maybe this is like
+taste or whatever but taste isn't like
+something you're born with it's like
+opinionated choices within a certain
+space right that are informed and
+they're they're are are moves they're
+kind of the
+the
+what in the field of culture as it
+relates to
+restaurants or in this case
+software
+and then and canvas apps and stuff like
+that and you know at the end of the day
+you got to make a choice do the
+corners of your dashed line stay in the
+corner like the you know or or not you
+know do you do you make the dashes wider
+do you make the space wider do you make
+them both wider so that they
+lock the corners lock I don't know if
+you guys can imagine this but that's
+that's the type of stuff I think anybody
+who's used teal draw and is building on
+it appreciates these details and how
+they really do accumulate into what I
+think is just like
+the state of the art so thank you for
+for building it
+good and it's really good
+&gt;&gt; [snorts]
+&gt;&gt; we're a little bit over time but I
+wanted to just extend a warm round of
+applause to Steve
+thank you for coming and sharing your
+wisdom with us
+&gt;&gt; [applause]

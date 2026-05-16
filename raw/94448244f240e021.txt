@@ -1,0 +1,386 @@
+原文： https://www.youtube.com/watch?v=-4-sumlzoJs
+
+Hey guys, uh my name is Lucas Crespon,
+the creative director here at Eb. And
+this is Daniel, our super talented
+design star here at Ebri as well. We
+want to talk to you so much about how we
+made the landing page for Monologue in
+Framer. Monologue is one of our uh
+products here at every. It's an AI
+detection tool, basically a competitor
+to Whisperflow and other uh AI dictation
+tools that will remain nameless. From
+the very beginning, we really leaned
+into visual impact when [music] creating
+this brand and and product. Everything
+we have done has come uh with the idea
+that we really wanted it to [music]
+differentiate itself as much as
+possible. And so that kind of like
+translates itself to the brand and the
+choices we made and the web design and
+the product and and [music] everything
+really. And uh we'll take you guys
+through the entire project. Uh so you
+can see how it looks like when a
+creative director and designer work
+together to create something that we get
+really really excited about. Um we hope
+you like it. Just want to kind of like
+show you how we built this entire site
+in Framer. And first first of all like
+as you can see we're greeted by this
+awesome very dynamic hero section that
+has embedded in the middle of it our
+monophone which is basically the our
+star. It's basically the the very uh
+main character of the entire monologue
+app uh at least on Mac OS. And we
+basically wanted to create something
+like extremely extremely skeworphic and
+kind of like showcasing it at the very
+very top of the page makes it really
+clear like who we are designing this for
+more than anything. So when we really
+wanted to create this page, we really
+really really wanted to accomplish two
+things. Number one, and the most obvious
+one is be able to tell the hell out of
+the story of monologue and who is it for
+and all that sort of stuff. But the
+second goal and the main reason why we
+made it the way that it looks is because
+we really wanted to do differentiate it
+from the rest of the minimalist
+approaches that other people take when
+they make uh landing pages. So um we
+really wanted to go uh dark mode when
+the rest of our competitors are going
+light mode. We really wanted to go more
+skumorphic when they're going more
+minimalist. We wanted to be more loud
+when they're going like quieter. I think
+all of that kind of like goes to show
+the type of page that we have here in
+front of us right now. Framer really
+allowed us to iterate extremely quickly
+and have the team kind of like reacting
+quickly and giving feedback quickly and
+all that sort of stuff. So I think maybe
+what we can do now Daniel is just maybe
+we can go uh part by part of the site
+and maybe we can talk briefly really
+quick about the about the hero section
+and why it looks the way it looks right
+now.
+Yeah, definitely for the hero section
+especially we wanted to make an impact
+knowing this was the like a launch uh
+for this app. So Malo didn't exist
+before and we wanted to make a great
+first impression. So basically that was
+the intention here. Um, initially I did
+it on Figma, but the good thing about
+framer is that I it I I translate it
+pixel by pixel just as it is and even
+better because I can add animations and
+on top of it. The intention here uh
+Lucas was actually meant for create a
+great a first impression here. So using
+the assets that we already built on the
+product uh we incorporated here and
+frame it really easily. We actually have
+the wave. Uh we even have some light
+light rates effects on the top. If you
+zoom out, you can you guys can see
+basically like the the madness behind
+the method and all the the layers and
+everything that goes into making
+something like this as well as all the
+the animations, etc., etc. And you can
+see like all the connectors. And it can
+look like a spiderweb to to some, but it
+really kind of like goes to show that
+like the the canvas kind of like really
+lets us, you know, uh move away from
+Figma the closer we are to launching and
+just kind of like start uh you know, uh
+moving faster through through the
+designing the page. Another interesting
+thing that I want to kind of like point
+out, this is one of those things that um
+we've been trying to start doing in a
+lot of our different apps. So, if you go
+to our Spiral app or if you go to like
+our Sparkle app or Kora even, you're
+going to notice this little stamp in the
+landing page, right? And and that's
+basically one of the main recurring
+things that we use uh through all of our
+framework sites for all the the landing
+pages of all of our products. It's like
+one of those components that we reuse
+over and over again. And it's kind of
+like our little signature that that we
+use as a company uh to let our users
+know who's behind each one of our
+products. I think something really
+interesting to hear that I think it's
+super worth talking about is our paper
+shader animation. Like how how did we
+even make that?
+&gt;&gt; Yeah. Uh this paper shader animation was
+made on using one of the shaders that we
+have uh built on paper. This app that we
+have over here, you can actually export
+this and translate it really easily
+using the workshop of framework. So the
+good thing is that you don't you're not
+using a ton of bandwidth
+uh on your account and it will translate
+it really easily on the actual website.
+We originally created this in paper but
+then like we recorded them exported them
+as videos and then like the more traffic
+that the page got like basically the
+more expensive our website got because
+we started getting like a lot of
+traffic. So we started like thinking you
+know like how maybe a lot of engineers
+think which is like how can we optimize
+this? How can we make this run better
+and be less expensive etc. So just using
+the actual paper shaders uh which I
+think it's just like react code
+basically I think um it it's just like
+video is no longer a thing. There's no
+media consumption and the bandwidth just
+kind of like um disappears really there
+and makes it really easier for us to
+kind of like continue working here. This
+section was really interesting because
+we had to work with uh Valerio which is
+one of the best animators in the game
+right now for anybody looking for sick
+motion design. Uh Valerio basically made
+this uh Rive animation here um that
+helps tell a little bit more of the
+story around monologue. We have this
+animation that basically explains
+all the three features that are included
+on the dictionary thing in the mark. And
+basically the best way to do it is just
+create a RI animation.
+&gt;&gt; Yeah, I think it's basically we wanted
+to use RI because we needed the
+animation to be interactive, right? So
+we couldn't uh do that with an MP4 or
+with a LOI file in and it of itself. So
+um Valeria really helped us do it this
+way. And then I wanted to uh I think
+it'd be a good idea to showcase how how
+it how responsive this is, right? Yeah.
+Different break points and the idea is
+that you have it
+change it depending of the break point
+you're in and on
+I think
+right now mobile should look like
+&gt;&gt; like this.
+we are able to just kind of like have
+the same animation but completely
+constructed for different break points
+and just kind of like have it adapted
+that way in a way that like looks a
+little bit uh more specific to the
+actual intention of of the screen size
+in it of itself and it has like a nice
+[clears throat] little loading indicator
+that auto rotates between each section
+and and each other which I think it's
+pretty sick. Um, I think something uh
+really cool also about this page in
+general are all the textures and all the
+shadows and all the depth that we kind
+of like if you keep scrolling down for
+example. Yeah. Like let maybe let's talk
+a little bit about like how do we get
+the feeling of the app into the website?
+Because the app obviously it's like this
+very skumorphic thing that feels very
+physical that feels like you can touch
+it that has like depth and volume to it
+and obviously like we wanted the website
+to feel very connected to it cuz we
+really think uh product and brand are
+sort of like extremely linked and almost
+like one in the same. The way we did it
+is uh we know we know that Mo has like
+physical devices on a digital world. So
+the way we make this to look like a
+little more real is just by adding
+textures and make it more escamorphic.
+The uh the more we can the better. So
+basically um what we did here I have
+like a like a texture all over the whole
+page and basically add some noise
+through the whole page. I have like this
+noise on top of all the website. So
+basically this is all over the place and
+this gives this I don't know like you
+can even you can touch it you know that
+that's the feeling that we we're looking
+for and because we have like this
+recorders voice recorders and it makes
+sense in the whole branding to have uh
+this type of you know texture and depth
+on everything we do. I'm also super
+excited about how the footer looks like
+just because I think like um a lot of
+people usually use the footer maybe just
+as a like a like a site map type of
+thing, right? Like a lot of people like
+frontload their their footer with a
+bunch of links, a bunch of stuff to kind
+of like help you navigate. But for us,
+it was more like a like a final CTA,
+right? Like for us, we wanted to kind of
+like really really make it clear that
+like monologue isn't a completely
+different animal. It's a completely
+different beast. And with having just
+like a really big uh the really big
+typography, the really big device in the
+middle with the with the wave and just
+like the really really bright download
+for Mac uh button right there. I think
+like it just kind of like connects it
+and brings it full circle from the very
+top at the beginning of the site. So it
+has like a very type of uh continual
+type of experience I would say and uh
+and I think like even the coolest part
+to me and maybe we can Oh yeah yeah yeah
+like the page is just full of like tiny
+Easter eggs right that's a good thing
+about framework that you can add hover
+effects light effects on you know little
+things and even adding just animations
+on all over the the whole site is really
+really easy
+&gt;&gt; you just have to watch like 2 made a
+video on on on YouTube and that'll be
+&gt;&gt; nice. Nice. I think I think also uh
+what's really different and and
+interesting is that our main CTAs for
+download for Mac are not like a normal
+button, but it's like a button in the
+device. It's like it's actually as if
+you were pressing the actual product
+that you're going to be able to use. So,
+it's kind of like giving users like a
+little bit of a sneak peek or a little
+bit of a taste of like what they're
+going to what they're going to get, you
+know, and that's like the actual
+product. I think my per my favorite part
+is actually the above the fold and this
+section about the notes which is
+actually the the new feature we launch
+uh and I don't know basically I love
+this speaker that I did here and you
+know it's so simple just to add like
+shadows and and a light effect so it
+actually feels like this is part of the
+product so somehow I like this I don't
+know because I'm biased because I just
+did it. That was the last section I I I
+built. But I actually love the the hero
+section a lot because it creates the
+good impression as I said before and you
+know it was even promoted in the sites
+like Moin and even Landbook and these
+other websites. I think also the other
+cool thing to to mention obviously is
+that like this whole site was made for
+uh when we launched the Mac OS app but
+then obviously very rapidly our team uh
+shipped the iOS app. So we wanted to be
+able to kind of like create its own
+section it its own like little banner to
+kind of like connect it. Initially we
+had only the Mac OS app as Lucas said
+and
+uh we found into a problem where the
+good thing is that we were doing this
+all in framer. So it was really easy
+just to add this little Easter eggs just
+to promote real quick uh the iOS app on
+top of it. Quick question about this uh
+this section of the the iOS section. the
+little holes or circles that are um that
+are part of the like the speakers, let's
+say. Um are those currently PGs or are
+those actual vectors?
+&gt;&gt; Actual vectors. The good thing is this I
+built it on the product. So it was just
+so simple just to copy what I did. So I
+added some inner shadows and actually
+even in make it even more realistic with
+adding another shadow up to it. And you
+know,
+&gt;&gt; hey, you can always make it more
+realistic, right?
+&gt;&gt; Yeah. Yeah. Always. There's always a way
+to make it even better. So, yeah. Uh, I
+was just following that and that's the
+same way I did the ones on the product.
+So,
+&gt;&gt; yeah, exactly. Like the product, the
+site, everything is sort of like one in
+the same. And I think like that's kind
+of like the coolest part of it that you
+don't really have to make let's say like
+a super traditional website that it's
+easy you know you can like really do
+something hard which I think it's like
+the the cool thing about framer that you
+can like try to be a little bit more
+ambitious and and you know play have a
+little bit more fun with how things look
+etc. you know,
+&gt;&gt; combining components, shaders, and uh
+and animations in Frame, anything is
+possible in my opinion. And I'm super
+fast at Framer. I think like to to be
+honest I think like this is probably one
+of the most polished sites that we have
+ever launched like from every obviously
+like we're always trying to to to beat
+our own bar that we set for ourselves
+but um the fact that like this site has
+appeared in in mobin as like a like a
+design reference and the website starts
+appearing in like different uh like
+taste or design publications or whatever
+just really goes to show how like
+designing
+with difference as being like the main
+main main thing that we want to achieve
+like really goes to show how like you
+can just get traffic from having like a
+beautiful experience you know.
+&gt;&gt; Yeah. Yeah. Yeah. That that was uh even
+the intention I remember like hey we
+want to make this look super cool. I
+remember speaking to you
+&gt;&gt; and that was like one of the goals like
+hey how do we make this cool? So, I
+think Framer was like u our go to a
+go-to for this. So, yeah. I
+&gt;&gt; awesome. Well, Daniel, thank you so much
+for sharing for a second. I really
+appreciate you and I'll see you later in
+Slack.
+&gt;&gt; See you, man.
