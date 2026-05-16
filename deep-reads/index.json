@@ -197,240 +197,240 @@
       "title": "Monologue 的落地页，为什么要先做强视觉冲击",
       "source_url": "https://www.youtube.com/watch?v=-4-sumlzoJs",
       "raw_file": "94448244f240e021.txt",
-      "deep_read_file": null,
+      "deep_read_file": "94448244f240e021.md",
       "published_at": "2026-05-05",
       "read_at": null,
       "queued_at": "2026-05-07T10:38:01+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:38:01+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "985306f8ee8ed19c": {
       "id": "985306f8ee8ed19c",
       "title": "大家为什么都把 AI 能力曲线看错了",
       "source_url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
       "raw_file": "985306f8ee8ed19c.txt",
-      "deep_read_file": null,
+      "deep_read_file": "985306f8ee8ed19c.md",
       "published_at": "2026-05-04",
       "read_at": null,
       "queued_at": "2026-05-07T10:44:12+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:44:12+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "f415501e006b13bb": {
       "id": "f415501e006b13bb",
       "title": "Ravi Mehta 讲清楚 Context Engineering 的三层系统",
       "source_url": "https://www.youtube.com/watch?v=wUWljYoQN8g",
       "raw_file": "f415501e006b13bb.txt",
-      "deep_read_file": null,
+      "deep_read_file": "f415501e006b13bb.md",
       "published_at": "2026-05-03",
       "read_at": null,
       "queued_at": "2026-05-07T10:44:43+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:44:43+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "442fbfc0903a1b76": {
       "id": "442fbfc0903a1b76",
       "title": "AI 时代真正稀缺的，不是头衔，而是品味和主动性",
       "source_url": "https://www.youtube.com/watch?v=mCO-D3pkviM",
       "raw_file": "442fbfc0903a1b76.txt",
-      "deep_read_file": null,
+      "deep_read_file": "442fbfc0903a1b76.md",
       "published_at": "2026-05-02",
       "read_at": null,
       "queued_at": "2026-05-07T10:45:00+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:45:00+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "7fbf1430b0695ed2": {
       "id": "7fbf1430b0695ed2",
       "title": "当AI开始代写代码，工程师真正要盯住的只剩这一件事",
       "source_url": "https://www.youtube.com/watch?v=owmJyKVu5f8",
       "raw_file": "7fbf1430b0695ed2.txt",
-      "deep_read_file": null,
+      "deep_read_file": "7fbf1430b0695ed2.md",
       "published_at": "2026-03-19",
       "read_at": null,
       "queued_at": "2026-05-07T10:51:08+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:51:08+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "c6e82f4e6f379245": {
       "id": "c6e82f4e6f379245",
       "title": "AI 时代真正稀缺的，已经不是写代码的人",
       "source_url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
       "raw_file": "c6e82f4e6f379245.txt",
-      "deep_read_file": null,
+      "deep_read_file": "c6e82f4e6f379245.md",
       "published_at": "2026-03-20",
       "read_at": null,
       "queued_at": "2026-05-07T10:52:04+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T10:52:04+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "69112bc2d5114dfd": {
       "id": "69112bc2d5114dfd",
       "title": "非工程师也开始把 Codex 当作工作操作系统",
       "source_url": "https://www.youtube.com/watch?v=x9BNBcP_C7Q",
       "raw_file": "69112bc2d5114dfd.txt",
-      "deep_read_file": null,
+      "deep_read_file": "69112bc2d5114dfd.md",
       "published_at": "2026-05-06",
       "read_at": null,
       "queued_at": "2026-05-07T21:21:13+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-07T21:21:13+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "9fc555d09bc860fb": {
       "id": "9fc555d09bc860fb",
       "title": "Anthropic 怎么决定 Claude 平台往哪走：从 API 走向可托管 agent",
       "source_url": "https://www.youtube.com/watch?v=lLypHkIVLqc",
       "raw_file": "9fc555d09bc860fb.txt",
-      "deep_read_file": null,
+      "deep_read_file": "9fc555d09bc860fb.md",
       "published_at": "2026-05-08",
       "read_at": null,
       "queued_at": "2026-05-09T16:12:53+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-09T16:12:53+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "7a57106ea4238d94": {
       "id": "7a57106ea4238d94",
       "title": "把 Claude Code 接进 Obsidian，个人第二大脑开始能动手了",
       "source_url": "https://www.youtube.com/watch?v=in7i-EVDDlk",
       "raw_file": "7a57106ea4238d94.txt",
-      "deep_read_file": null,
+      "deep_read_file": "7a57106ea4238d94.md",
       "published_at": "2026-05-13",
       "read_at": null,
       "queued_at": "2026-05-15T12:23:08+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-15T12:23:08+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "4e6921af29696aff": {
       "id": "4e6921af29696aff",
       "title": "Codex 怎么变成一个即时音乐理论老师",
       "source_url": "https://www.youtube.com/watch?v=JQLzSzDs3EY",
       "raw_file": "4e6921af29696aff.txt",
-      "deep_read_file": null,
+      "deep_read_file": "4e6921af29696aff.md",
       "published_at": "2026-05-15",
       "read_at": null,
       "queued_at": "2026-05-16T11:08:27+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:08:27+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "ea74b6efba242c16": {
       "id": "ea74b6efba242c16",
       "title": "Anders Hejlsberg：从 Turbo Pascal 到 TypeScript，语言设计为什么总绕不开工具",
       "source_url": "https://www.youtube.com/watch?v=K-Xv8D8NjTk",
       "raw_file": "ea74b6efba242c16.txt",
-      "deep_read_file": null,
+      "deep_read_file": "ea74b6efba242c16.md",
       "published_at": "2026-05-13",
       "read_at": null,
       "queued_at": "2026-05-16T11:10:40+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:10:40+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "1c1a125322e15be8": {
       "id": "1c1a125322e15be8",
       "title": "David Malan：AI 时代，CS50 为什么仍然要教计算机底层",
       "source_url": "https://www.youtube.com/watch?v=bB2o81DnKHk",
       "raw_file": "1c1a125322e15be8.txt",
-      "deep_read_file": null,
+      "deep_read_file": "1c1a125322e15be8.md",
       "published_at": "2026-05-11",
       "read_at": null,
       "queued_at": "2026-05-16T11:12:52+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:12:52+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "1c65d477b17ea7ca": {
       "id": "1c65d477b17ea7ca",
       "title": "把 Claude Code 搭成个人操作系统，关键是先建记忆和自动化骨架",
       "source_url": "https://www.youtube.com/watch?v=ACRd0Ikg_KI",
       "raw_file": "1c65d477b17ea7ca.txt",
-      "deep_read_file": null,
+      "deep_read_file": "1c65d477b17ea7ca.md",
       "published_at": "2026-05-10",
       "read_at": null,
       "queued_at": "2026-05-16T11:14:03+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:14:03+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "675d87b7bbc7fec4": {
       "id": "675d87b7bbc7fec4",
       "title": "Eric Ries 的新问题：公司做成以后，怎样不被成功本身拖垮",
       "source_url": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
       "raw_file": "675d87b7bbc7fec4.txt",
-      "deep_read_file": null,
+      "deep_read_file": "675d87b7bbc7fec4.md",
       "published_at": "2026-05-10",
       "read_at": null,
       "queued_at": "2026-05-16T11:16:22+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:16:22+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "963c8f14d61a0143": {
       "id": "963c8f14d61a0143",
       "title": "Garry Tan 重新开始写代码后，AI 把创业成本压到了另一条曲线",
       "source_url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
       "raw_file": "963c8f14d61a0143.txt",
-      "deep_read_file": null,
+      "deep_read_file": "963c8f14d61a0143.md",
       "published_at": "2026-05-08",
       "read_at": null,
       "queued_at": "2026-05-16T11:18:42+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:18:42+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "baed961694a1527c": {
       "id": "baed961694a1527c",
       "title": "tldraw 看到的未来画布，不只是白板，而是 agent 的协作空间",
       "source_url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
       "raw_file": "baed961694a1527c.txt",
-      "deep_read_file": null,
+      "deep_read_file": "baed961694a1527c.md",
       "published_at": "2026-05-07",
       "read_at": null,
       "queued_at": "2026-05-16T11:19:24+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:19:24+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "d4cc1f3b0f8b147f": {
       "id": "d4cc1f3b0f8b147f",
       "title": "Anthropic 新战线浮出水面：从 Claude Code 走向云端托管 agent",
       "source_url": "https://www.youtube.com/watch?v=4YNHb0XNV1A",
       "raw_file": "d4cc1f3b0f8b147f.txt",
-      "deep_read_file": null,
+      "deep_read_file": "d4cc1f3b0f8b147f.md",
       "published_at": "2026-05-07",
       "read_at": null,
       "queued_at": "2026-05-16T11:20:47+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:20:47+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "fd868db0033d5186": {
       "id": "fd868db0033d5186",
       "title": "AI 把做一款像样的移动应用，压缩成了一个晚上的流程",
       "source_url": "https://www.youtube.com/watch?v=oS53by4Hwvo",
       "raw_file": "fd868db0033d5186.txt",
-      "deep_read_file": null,
+      "deep_read_file": "fd868db0033d5186.md",
       "published_at": "2026-04-01",
       "read_at": null,
       "queued_at": "2026-05-16T11:23:02+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:23:02+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     },
     "40610b9e063a3fbe": {
       "id": "40610b9e063a3fbe",
       "title": "OpenClaw 真正难的不是能力，而是你愿不愿意熬过那段折腾期",
       "source_url": "https://www.youtube.com/watch?v=DIa0MYJzM5I",
       "raw_file": "40610b9e063a3fbe.txt",
-      "deep_read_file": null,
+      "deep_read_file": "40610b9e063a3fbe.md",
       "published_at": "2026-03-29",
       "read_at": null,
       "queued_at": "2026-05-16T11:35:05+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:35:05+08:00"
+      "generated_at": "2026-05-16T14:42:42+08:00",
+      "updated_at": "2026-05-16T14:42:42+08:00"
     },
     "99dd5851f4ab9fdd": {
       "id": "99dd5851f4ab9fdd",
       "title": "AI 把复制软件这件事变得太容易之后，我们为什么还要继续做产品",
       "source_url": "https://www.youtube.com/watch?v=5nMa3p3qw1w",
       "raw_file": "99dd5851f4ab9fdd.txt",
-      "deep_read_file": null,
+      "deep_read_file": "99dd5851f4ab9fdd.md",
       "published_at": "2026-03-29",
       "read_at": null,
       "queued_at": "2026-05-16T11:35:58+08:00",
-      "generated_at": null,
-      "updated_at": "2026-05-16T11:35:58+08:00"
+      "generated_at": "2026-05-16T11:48:07+08:00",
+      "updated_at": "2026-05-16T11:48:07+08:00"
     }
   }
 }
